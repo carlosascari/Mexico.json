@@ -1,0 +1,862 @@
+[
+    {
+        "clave": "120230004",
+        "nombre": "La Bocana"
+    },
+    {
+        "clave": "120230006",
+        "nombre": "El Cacalote"
+    },
+    {
+        "clave": "120230014",
+        "nombre": "Gloria Escondida"
+    },
+    {
+        "clave": "120230017",
+        "nombre": "Jícaro Abajo"
+    },
+    {
+        "clave": "120230035",
+        "nombre": "La Petaca (Hacienda la Petaca)"
+    },
+    {
+        "clave": "120230062",
+        "nombre": "Calzada (La Calzada)"
+    },
+    {
+        "clave": "120230080",
+        "nombre": "Rancho el Rodeo"
+    },
+    {
+        "clave": "120230119",
+        "nombre": "Rancho el Mirador (Rancho de Martín Añorve)"
+    },
+    {
+        "clave": "120230155",
+        "nombre": "El Cerro del Chivo (El Chivo)"
+    },
+    {
+        "clave": "120230001",
+        "nombre": "Cuajinicuilapa"
+    },
+    {
+        "clave": "120230002",
+        "nombre": "Altos de Baraña"
+    },
+    {
+        "clave": "120230003",
+        "nombre": "Barajillas (Barajilla)"
+    },
+    {
+        "clave": "120230005",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "120230008",
+        "nombre": "Cerro de las Tablas"
+    },
+    {
+        "clave": "120230009",
+        "nombre": "Cerro del Indio (El Indio)"
+    },
+    {
+        "clave": "120230011",
+        "nombre": "Comaltepec (Comal)"
+    },
+    {
+        "clave": "120230012",
+        "nombre": "El Cuiji (El Cuije)"
+    },
+    {
+        "clave": "120230018",
+        "nombre": "Maldonado"
+    },
+    {
+        "clave": "120230019",
+        "nombre": "Colonia Miguel Alemán Valdez"
+    },
+    {
+        "clave": "120230020",
+        "nombre": "Montecillos"
+    },
+    {
+        "clave": "120230022",
+        "nombre": "Punta Maldonado (El Faro)"
+    },
+    {
+        "clave": "120230023",
+        "nombre": "El Quizá"
+    },
+    {
+        "clave": "120230025",
+        "nombre": "Colonia San José (San José)"
+    },
+    {
+        "clave": "120230026",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "120230027",
+        "nombre": "Rancho de Santiago (Rancho Santiago)"
+    },
+    {
+        "clave": "120230028",
+        "nombre": "El Tamale"
+    },
+    {
+        "clave": "120230029",
+        "nombre": "Tejas Crudas"
+    },
+    {
+        "clave": "120230030",
+        "nombre": "El Terrero"
+    },
+    {
+        "clave": "120230031",
+        "nombre": "Tierra Colorada"
+    },
+    {
+        "clave": "120230036",
+        "nombre": "El Pitahayo"
+    },
+    {
+        "clave": "120230065",
+        "nombre": "El Vaivén"
+    },
+    {
+        "clave": "120230097",
+        "nombre": "El Carrizo (Rancho de Fausto Mendoza)"
+    },
+    {
+        "clave": "120230007",
+        "nombre": "La Ceniza (Loma de Romero)"
+    },
+    {
+        "clave": "120230010",
+        "nombre": "Cerro Bajo"
+    },
+    {
+        "clave": "120230015",
+        "nombre": "Colonia Agrícola Ganadera Tierra Colorada"
+    },
+    {
+        "clave": "120230024",
+        "nombre": "Rancho Blanco (Rancho los Límites)"
+    },
+    {
+        "clave": "120230042",
+        "nombre": "Huerta Amador Mendoza"
+    },
+    {
+        "clave": "120230046",
+        "nombre": "Mata de Plátano (Rancho Joel Guinto)"
+    },
+    {
+        "clave": "120230048",
+        "nombre": "El Manglar"
+    },
+    {
+        "clave": "120230055",
+        "nombre": "Rancho de Fausto Mendoza (Faustino Mendoza)"
+    },
+    {
+        "clave": "120230058",
+        "nombre": "Rancho Agua Fría"
+    },
+    {
+        "clave": "120230059",
+        "nombre": "Rancho las Golondrinas"
+    },
+    {
+        "clave": "120230063",
+        "nombre": "Pozos de Agua (Pozas de Agua)"
+    },
+    {
+        "clave": "120230066",
+        "nombre": "Rancho el Cerrito"
+    },
+    {
+        "clave": "120230067",
+        "nombre": "Rancho el Paraíso de los Sotelos (El Paraíso)"
+    },
+    {
+        "clave": "120230076",
+        "nombre": "Rancho la Soledad (Rancho de Elpidio Reyna)"
+    },
+    {
+        "clave": "120230077",
+        "nombre": "Rancho de Roberto Clavel"
+    },
+    {
+        "clave": "120230082",
+        "nombre": "Los Hules (Rancho los Hules)"
+    },
+    {
+        "clave": "120230085",
+        "nombre": "Piedra de Cal"
+    },
+    {
+        "clave": "120230086",
+        "nombre": "Rancho los Almendros"
+    },
+    {
+        "clave": "120230088",
+        "nombre": "Rancho Antonio Orduño"
+    },
+    {
+        "clave": "120230091",
+        "nombre": "Barrita del Río (Barrita de Pío)"
+    },
+    {
+        "clave": "120230093",
+        "nombre": "Rancho la Bonita (La Bonita)"
+    },
+    {
+        "clave": "120230094",
+        "nombre": "Bordo del Río Viejo"
+    },
+    {
+        "clave": "120230095",
+        "nombre": "Rancho Camero"
+    },
+    {
+        "clave": "120230096",
+        "nombre": "Óscar Sotelo"
+    },
+    {
+        "clave": "120230098",
+        "nombre": "Rancho Casa Blanca"
+    },
+    {
+        "clave": "120230101",
+        "nombre": "Rancho la Providencia"
+    },
+    {
+        "clave": "120230102",
+        "nombre": "Rancho el Delfín Uno (El Delfín)"
+    },
+    {
+        "clave": "120230103",
+        "nombre": "Rancho el Delfín Dos"
+    },
+    {
+        "clave": "120230104",
+        "nombre": "Rancho Domingo Añorve (Conrado Hernández)"
+    },
+    {
+        "clave": "120230105",
+        "nombre": "Rancho Delfino Aguirre Rivero"
+    },
+    {
+        "clave": "120230106",
+        "nombre": "Efraín Santos"
+    },
+    {
+        "clave": "120230107",
+        "nombre": "Rancho Andrés García Serrano"
+    },
+    {
+        "clave": "120230108",
+        "nombre": "La Granja del Tesoro"
+    },
+    {
+        "clave": "120230110",
+        "nombre": "Rancho Hermanos Herrera"
+    },
+    {
+        "clave": "120230112",
+        "nombre": "Rancho Joaquín López Añorve"
+    },
+    {
+        "clave": "120230113",
+        "nombre": "Rancho Santa Dolores (Rancho C. Mateo Aguirre)"
+    },
+    {
+        "clave": "120230114",
+        "nombre": "Rancho Hermanos Álvarez Guzmán (Lote Número 38)"
+    },
+    {
+        "clave": "120230115",
+        "nombre": "Rancho de Javier Flores Bailón"
+    },
+    {
+        "clave": "120230116",
+        "nombre": "Rancho Hilario Aguirre (El Monte de Jícara)"
+    },
+    {
+        "clave": "120230117",
+        "nombre": "Rancho Delfino Aguirre Rivero"
+    },
+    {
+        "clave": "120230123",
+        "nombre": "Rancho Aguirre"
+    },
+    {
+        "clave": "120230124",
+        "nombre": "Rancho de Colores"
+    },
+    {
+        "clave": "120230126",
+        "nombre": "Rancho la Petaca (Rancho Cerro de las Tablas)"
+    },
+    {
+        "clave": "120230127",
+        "nombre": "Rancho Piedras Blancas"
+    },
+    {
+        "clave": "120230129",
+        "nombre": "Rancho San Antonio"
+    },
+    {
+        "clave": "120230131",
+        "nombre": "Rancho Sinecio Mendoza"
+    },
+    {
+        "clave": "120230132",
+        "nombre": "Poza del Macho"
+    },
+    {
+        "clave": "120230133",
+        "nombre": "Rancho los Tamarindos"
+    },
+    {
+        "clave": "120230134",
+        "nombre": "Rancho San Carlos"
+    },
+    {
+        "clave": "120230143",
+        "nombre": "Rancho Melitón Cisneros"
+    },
+    {
+        "clave": "120230145",
+        "nombre": "La Borrega (Huerta Luis Jaime de la Serda)"
+    },
+    {
+        "clave": "120230146",
+        "nombre": "Lote de Próculo Aguirre"
+    },
+    {
+        "clave": "120230147",
+        "nombre": "Rancho Dagoberto Pelaez Uno"
+    },
+    {
+        "clave": "120230149",
+        "nombre": "La Bocana del Pitahayo"
+    },
+    {
+        "clave": "120230150",
+        "nombre": "Campamento Tortuguero el Olvido"
+    },
+    {
+        "clave": "120230151",
+        "nombre": "La Casa de los Cuates"
+    },
+    {
+        "clave": "120230156",
+        "nombre": "El Charco de Ometepec"
+    },
+    {
+        "clave": "120230157",
+        "nombre": "El Cusuco (El Bajo)"
+    },
+    {
+        "clave": "120230158",
+        "nombre": "Huerta Amador Mendoza Dos"
+    },
+    {
+        "clave": "120230159",
+        "nombre": "Huerta Anastacio Domínguez"
+    },
+    {
+        "clave": "120230160",
+        "nombre": "Huerta de San Miguel"
+    },
+    {
+        "clave": "120230161",
+        "nombre": "Huerta Eugenio Sánchez C. (La Vuelta del Río)"
+    },
+    {
+        "clave": "120230162",
+        "nombre": "Huerta Felipe Olmedo"
+    },
+    {
+        "clave": "120230163",
+        "nombre": "Huerta Francisco Romualdo Factor"
+    },
+    {
+        "clave": "120230165",
+        "nombre": "Huerta Marcos Colón"
+    },
+    {
+        "clave": "120230166",
+        "nombre": "Huerta Maurilio Torres Barroso (Lote Veintinueve)"
+    },
+    {
+        "clave": "120230167",
+        "nombre": "Huertas Mendoza"
+    },
+    {
+        "clave": "120230168",
+        "nombre": "Las Juntas (El Terreno de los Guerrero)"
+    },
+    {
+        "clave": "120230169",
+        "nombre": "Las Lomitas"
+    },
+    {
+        "clave": "120230170",
+        "nombre": "Lote Enrique Gaspar"
+    },
+    {
+        "clave": "120230171",
+        "nombre": "Lote Joel Guinto"
+    },
+    {
+        "clave": "120230173",
+        "nombre": "El Paso Viejo del Pitahayo"
+    },
+    {
+        "clave": "120230174",
+        "nombre": "La Poza de La Piedra"
+    },
+    {
+        "clave": "120230175",
+        "nombre": "Potrero Jesús Altamirano Montalván"
+    },
+    {
+        "clave": "120230176",
+        "nombre": "El Puente de Vica"
+    },
+    {
+        "clave": "120230179",
+        "nombre": "Rancho Aldegundo Melo Anica"
+    },
+    {
+        "clave": "120230180",
+        "nombre": "Rancho Alejandro Marín"
+    },
+    {
+        "clave": "120230181",
+        "nombre": "Rancho Andrés Herrrera"
+    },
+    {
+        "clave": "120230182",
+        "nombre": "Rancho Antonio Vaca Ibarra"
+    },
+    {
+        "clave": "120230183",
+        "nombre": "Rancho Bernardino Sandoval"
+    },
+    {
+        "clave": "120230184",
+        "nombre": "Rancho Blanco"
+    },
+    {
+        "clave": "120230185",
+        "nombre": "Rancho el Pantanal (Rancho de Mateo Aguirre)"
+    },
+    {
+        "clave": "120230186",
+        "nombre": "Rancho Óscar Sotelo"
+    },
+    {
+        "clave": "120230189",
+        "nombre": "Rancho Dámaso Lanche Guillén Dos"
+    },
+    {
+        "clave": "120230190",
+        "nombre": "Rancho Delfino Montalván (Lote Número 16)"
+    },
+    {
+        "clave": "120230191",
+        "nombre": "Rancho de Nicolás Moreno"
+    },
+    {
+        "clave": "120230192",
+        "nombre": "Rancho de Santiago Pineda"
+    },
+    {
+        "clave": "120230193",
+        "nombre": "Rancho Dos Montes"
+    },
+    {
+        "clave": "120230194",
+        "nombre": "Rancho Efrén Domínguez"
+    },
+    {
+        "clave": "120230195",
+        "nombre": "Rancho el Carrizo (El Carrizo)"
+    },
+    {
+        "clave": "120230196",
+        "nombre": "Rancho Eloy Herrera (Lote Número 36)"
+    },
+    {
+        "clave": "120230197",
+        "nombre": "Rancho el Pitique"
+    },
+    {
+        "clave": "120230198",
+        "nombre": "Rancho el Ticui"
+    },
+    {
+        "clave": "120230199",
+        "nombre": "Rancho Ernesto Vargas"
+    },
+    {
+        "clave": "120230200",
+        "nombre": "Rancho Donaciano Mendoza Marín"
+    },
+    {
+        "clave": "120230201",
+        "nombre": "Rancho Félix Alvarado García"
+    },
+    {
+        "clave": "120230202",
+        "nombre": "Rancho Gila (Rancho Pablo Gil)"
+    },
+    {
+        "clave": "120230203",
+        "nombre": "Rancho Gonzalo Coronado"
+    },
+    {
+        "clave": "120230204",
+        "nombre": "Rancho Ismael Mejía"
+    },
+    {
+        "clave": "120230205",
+        "nombre": "Rancho Javier Mendoza Añorve"
+    },
+    {
+        "clave": "120230206",
+        "nombre": "Rancho Juana Hernández"
+    },
+    {
+        "clave": "120230207",
+        "nombre": "Rancho la Candelaria"
+    },
+    {
+        "clave": "120230208",
+        "nombre": "Rancho Abel Baños Cruz (Rancho la Cascada)"
+    },
+    {
+        "clave": "120230209",
+        "nombre": "Rancho la Loma de los Vaqueros (Rancho Añorve)"
+    },
+    {
+        "clave": "120230211",
+        "nombre": "Rancho la Parota"
+    },
+    {
+        "clave": "120230212",
+        "nombre": "Rancho las Ases"
+    },
+    {
+        "clave": "120230213",
+        "nombre": "Rancho las Niñas"
+    },
+    {
+        "clave": "120230214",
+        "nombre": "Rancho los Laureles"
+    },
+    {
+        "clave": "120230215",
+        "nombre": "Rancho los Mangos"
+    },
+    {
+        "clave": "120230216",
+        "nombre": "Rancho los Montaño"
+    },
+    {
+        "clave": "120230217",
+        "nombre": "Rancho los Robles"
+    },
+    {
+        "clave": "120230218",
+        "nombre": "Rancho Manuel Díaz"
+    },
+    {
+        "clave": "120230219",
+        "nombre": "Rancho Margarito Guerrero Bravo"
+    },
+    {
+        "clave": "120230220",
+        "nombre": "Rancho Mario Navarrete"
+    },
+    {
+        "clave": "120230221",
+        "nombre": "Rancho Maurilio Torres B. (Lote Veinticuatro)"
+    },
+    {
+        "clave": "120230222",
+        "nombre": "Rancho Barajillas (Rancho Mateo Aguirre)"
+    },
+    {
+        "clave": "120230223",
+        "nombre": "Rancho Melitón Cisneros Dos"
+    },
+    {
+        "clave": "120230225",
+        "nombre": "Rancho Pedro Lorenzo Bustos"
+    },
+    {
+        "clave": "120230226",
+        "nombre": "Rancho Punto y Coma (Rancho Viviano Coronado)"
+    },
+    {
+        "clave": "120230227",
+        "nombre": "Rancho Roberto Álvarez"
+    },
+    {
+        "clave": "120230228",
+        "nombre": "Rancho Salvador Cruz (La Inar)"
+    },
+    {
+        "clave": "120230229",
+        "nombre": "Rancho San Andrés"
+    },
+    {
+        "clave": "120230230",
+        "nombre": "Rancho Santa Herma (Rancho Diógenes Justo H.)"
+    },
+    {
+        "clave": "120230231",
+        "nombre": "Rancho Santiago Pineda Uno (La Casita)"
+    },
+    {
+        "clave": "120230232",
+        "nombre": "Rancho Santiago Pineda Dos (La Casita)"
+    },
+    {
+        "clave": "120230233",
+        "nombre": "Río Seco"
+    },
+    {
+        "clave": "120230234",
+        "nombre": "Terreno Filemón Silva Noyola"
+    },
+    {
+        "clave": "120230235",
+        "nombre": "Terreno Pedro Ramírez"
+    },
+    {
+        "clave": "120230236",
+        "nombre": "Vuelta del Río (Huerta Agustín Vázquez)"
+    },
+    {
+        "clave": "120230239",
+        "nombre": "Las Brisas (Terreno de Luis Flores)"
+    },
+    {
+        "clave": "120230241",
+        "nombre": "Fábrica de Alimento Balanceado Para Ganado"
+    },
+    {
+        "clave": "120230245",
+        "nombre": "Rancho Joel Guinto"
+    },
+    {
+        "clave": "120230247",
+        "nombre": "Ninguno [Centro de Acopio de la Empresa Ganadera Ejidal]"
+    },
+    {
+        "clave": "120230248",
+        "nombre": "Rancho Aquileo Aguirre"
+    },
+    {
+        "clave": "120230249",
+        "nombre": "Domingo Vázquez"
+    },
+    {
+        "clave": "120230250",
+        "nombre": "Dos Montes (Cutberto Morales)"
+    },
+    {
+        "clave": "120230251",
+        "nombre": "Gas Costa Chica"
+    },
+    {
+        "clave": "120230252",
+        "nombre": "Huerta Ernestino Román González"
+    },
+    {
+        "clave": "120230253",
+        "nombre": "Huerta de José Segura"
+    },
+    {
+        "clave": "120230254",
+        "nombre": "Huerta de Raquel Mendoza"
+    },
+    {
+        "clave": "120230255",
+        "nombre": "Huerta de Saúl Mendoza Pérez"
+    },
+    {
+        "clave": "120230257",
+        "nombre": "Rancho de Manuel Guzmán"
+    },
+    {
+        "clave": "120230258",
+        "nombre": "Rancho de Nicolás Moreno Dos"
+    },
+    {
+        "clave": "120230259",
+        "nombre": "Rancho de Rosa Eziquio Maldonado"
+    },
+    {
+        "clave": "120230260",
+        "nombre": "Rancho los Limones"
+    },
+    {
+        "clave": "120230261",
+        "nombre": "Rancho Obdulia Robles"
+    },
+    {
+        "clave": "120230262",
+        "nombre": "Rancho San Miguel"
+    },
+    {
+        "clave": "120230263",
+        "nombre": "Huerta Francisco Herrera Ventura"
+    },
+    {
+        "clave": "120230264",
+        "nombre": "Rancho el Trébol"
+    },
+    {
+        "clave": "120230265",
+        "nombre": "Rancho Julio Álvarez Guzmán"
+    },
+    {
+        "clave": "120230266",
+        "nombre": "Rancho de Sadot Álvarez Guzmán"
+    },
+    {
+        "clave": "120230267",
+        "nombre": "Rancho el Pocarín"
+    },
+    {
+        "clave": "120230268",
+        "nombre": "Rancho de Benito Pita"
+    },
+    {
+        "clave": "120230269",
+        "nombre": "Rancho Guadalupe Millán Piedra"
+    },
+    {
+        "clave": "120230270",
+        "nombre": "Rancho Bulmaro García"
+    },
+    {
+        "clave": "120230271",
+        "nombre": "Rancho Ingeniero Rodríguez"
+    },
+    {
+        "clave": "120230272",
+        "nombre": "Rancho el Edén"
+    },
+    {
+        "clave": "120230273",
+        "nombre": "El Remance"
+    },
+    {
+        "clave": "120230274",
+        "nombre": "Tomás Marín Sáligan"
+    },
+    {
+        "clave": "120230275",
+        "nombre": "La Haciendita"
+    },
+    {
+        "clave": "120230276",
+        "nombre": "Rancho Miguel Marín"
+    },
+    {
+        "clave": "120230277",
+        "nombre": "Rancho Eurípides Navarrete"
+    },
+    {
+        "clave": "120230278",
+        "nombre": "Rancho Julián Medina Calleja"
+    },
+    {
+        "clave": "120230279",
+        "nombre": "La Poza de Lozillo"
+    },
+    {
+        "clave": "120230280",
+        "nombre": "La Secadora"
+    },
+    {
+        "clave": "120230281",
+        "nombre": "La Y Griega"
+    },
+    {
+        "clave": "120230282",
+        "nombre": "Rancho Germán Morales"
+    },
+    {
+        "clave": "120230283",
+        "nombre": "Rancho Juan de Dios Flores"
+    },
+    {
+        "clave": "120230284",
+        "nombre": "Rancho Nicolás Mendoza"
+    },
+    {
+        "clave": "120230285",
+        "nombre": "Rancho Ubaldo Paz"
+    },
+    {
+        "clave": "120230286",
+        "nombre": "Huerta de José Segura Dos"
+    },
+    {
+        "clave": "120230287",
+        "nombre": "Huerta Raúl Márquez"
+    },
+    {
+        "clave": "120230288",
+        "nombre": "Rancho Marino Leal"
+    },
+    {
+        "clave": "120230289",
+        "nombre": "Rancho Óscar Sotelo Dos"
+    },
+    {
+        "clave": "120230290",
+        "nombre": "Rancho Vicente Cortez"
+    },
+    {
+        "clave": "120230291",
+        "nombre": "Rancho Alberto López"
+    },
+    {
+        "clave": "120230292",
+        "nombre": "Rancho Andrés Chegue"
+    },
+    {
+        "clave": "120230293",
+        "nombre": "Rancho Luis Salinas Rodríguez"
+    },
+    {
+        "clave": "120230294",
+        "nombre": "Rancho Margarito Galicia Roque"
+    },
+    {
+        "clave": "120230295",
+        "nombre": "Rancho Ramiro Herrera"
+    },
+    {
+        "clave": "120230296",
+        "nombre": "Rancho Luis Lorenzo"
+    },
+    {
+        "clave": "120230297",
+        "nombre": "Vicente Cortez Dos [Rancho]"
+    },
+    {
+        "clave": "120230298",
+        "nombre": "Tres Hermanos [Rancho]"
+    }
+]

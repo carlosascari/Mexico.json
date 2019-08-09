@@ -1,0 +1,694 @@
+[
+    {
+        "clave": "220120146",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "220120155",
+        "nombre": "20 de Enero"
+    },
+    {
+        "clave": "220120008",
+        "nombre": "La Ceja"
+    },
+    {
+        "clave": "220120010",
+        "nombre": "Chintepec"
+    },
+    {
+        "clave": "220120011",
+        "nombre": "La D"
+    },
+    {
+        "clave": "220120012",
+        "nombre": "Dolores de Ajuchitlancito"
+    },
+    {
+        "clave": "220120019",
+        "nombre": "La Purísima"
+    },
+    {
+        "clave": "220120020",
+        "nombre": "La Lira"
+    },
+    {
+        "clave": "220120022",
+        "nombre": "Noria Nueva"
+    },
+    {
+        "clave": "220120024",
+        "nombre": "Las Postas"
+    },
+    {
+        "clave": "220120028",
+        "nombre": "San Clemente"
+    },
+    {
+        "clave": "220120078",
+        "nombre": "Ejido la Palma"
+    },
+    {
+        "clave": "220120079",
+        "nombre": "Pozo Uno"
+    },
+    {
+        "clave": "220120084",
+        "nombre": "Sección Norte de San Clemente"
+    },
+    {
+        "clave": "220120095",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "220120099",
+        "nombre": "Vicente Guerrero"
+    },
+    {
+        "clave": "220120106",
+        "nombre": "Moctezuma"
+    },
+    {
+        "clave": "220120137",
+        "nombre": "Villas de Escobedo"
+    },
+    {
+        "clave": "220120139",
+        "nombre": "Sección Noroeste del Sauz"
+    },
+    {
+        "clave": "220120140",
+        "nombre": "Sección Sureste del Chamizal"
+    },
+    {
+        "clave": "220120141",
+        "nombre": "El Chamizal"
+    },
+    {
+        "clave": "220120142",
+        "nombre": "Sección Suroeste del Sauz"
+    },
+    {
+        "clave": "220120143",
+        "nombre": "Sección Este de Epigmenio González"
+    },
+    {
+        "clave": "220120148",
+        "nombre": "Sección Este de Pedro Escobedo"
+    },
+    {
+        "clave": "220120151",
+        "nombre": "La Media Luna [Colonia]"
+    },
+    {
+        "clave": "220120152",
+        "nombre": "La Quinta Diana"
+    },
+    {
+        "clave": "220120162",
+        "nombre": "Familia Rivera González (Hacienda San Clemente)"
+    },
+    {
+        "clave": "220120163",
+        "nombre": "La Lira [Fraccionamiento]"
+    },
+    {
+        "clave": "220120165",
+        "nombre": "Valle Dorado"
+    },
+    {
+        "clave": "220120177",
+        "nombre": "La Cantera [Fraccionamiento]"
+    },
+    {
+        "clave": "220120181",
+        "nombre": "La Presa"
+    },
+    {
+        "clave": "220120182",
+        "nombre": "La Araña de la Venta (El Crucero)"
+    },
+    {
+        "clave": "220120185",
+        "nombre": "Sección Oeste de Epigmenio González"
+    },
+    {
+        "clave": "220120001",
+        "nombre": "Pedro Escobedo"
+    },
+    {
+        "clave": "220120002",
+        "nombre": "Epigmenio González (El Ahorcado)"
+    },
+    {
+        "clave": "220120003",
+        "nombre": "Ajuchitlancito"
+    },
+    {
+        "clave": "220120004",
+        "nombre": "Los Álvarez"
+    },
+    {
+        "clave": "220120005",
+        "nombre": "Rancho la Asturiana"
+    },
+    {
+        "clave": "220120006",
+        "nombre": "Los Benitos (El Revolcadero)"
+    },
+    {
+        "clave": "220120009",
+        "nombre": "Rancho las Coronelas"
+    },
+    {
+        "clave": "220120013",
+        "nombre": "Escolásticas"
+    },
+    {
+        "clave": "220120014",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "220120017",
+        "nombre": "Guadalupe Septién"
+    },
+    {
+        "clave": "220120018",
+        "nombre": "Ignacio Pérez (El Muerto)"
+    },
+    {
+        "clave": "220120021",
+        "nombre": "Rancho Montecristo (La Cotera)"
+    },
+    {
+        "clave": "220120023",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "220120025",
+        "nombre": "Quintanares"
+    },
+    {
+        "clave": "220120026",
+        "nombre": "San Antonio la D"
+    },
+    {
+        "clave": "220120027",
+        "nombre": "San Cirilo"
+    },
+    {
+        "clave": "220120029",
+        "nombre": "San Fandila"
+    },
+    {
+        "clave": "220120030",
+        "nombre": "Rancho San Roque"
+    },
+    {
+        "clave": "220120031",
+        "nombre": "El Sauz (Sauz Alto, Sauz Bajo)"
+    },
+    {
+        "clave": "220120033",
+        "nombre": "El Tesoro del Campo"
+    },
+    {
+        "clave": "220120034",
+        "nombre": "La Venta de Ajuchitlancito"
+    },
+    {
+        "clave": "220120039",
+        "nombre": "Rancho el Diamante"
+    },
+    {
+        "clave": "220120040",
+        "nombre": "El Chaparral"
+    },
+    {
+        "clave": "220120041",
+        "nombre": "Rancho San Guillermo"
+    },
+    {
+        "clave": "220120042",
+        "nombre": "Rancho Agua Caliente"
+    },
+    {
+        "clave": "220120043",
+        "nombre": "Estación el Ahorcado"
+    },
+    {
+        "clave": "220120044",
+        "nombre": "Narconón México [Industria]"
+    },
+    {
+        "clave": "220120045",
+        "nombre": "Rancho el Venado"
+    },
+    {
+        "clave": "220120046",
+        "nombre": "Rancho el Profeta"
+    },
+    {
+        "clave": "220120047",
+        "nombre": "Rancho Casa Blanca"
+    },
+    {
+        "clave": "220120050",
+        "nombre": "Rancho las Hormigas"
+    },
+    {
+        "clave": "220120051",
+        "nombre": "Rancho los Landeros (El Nopal)"
+    },
+    {
+        "clave": "220120052",
+        "nombre": "Rancho la Teresita"
+    },
+    {
+        "clave": "220120053",
+        "nombre": "Maya Destetes Porcino"
+    },
+    {
+        "clave": "220120054",
+        "nombre": "Ninguno [Lechera Calamanda]"
+    },
+    {
+        "clave": "220120055",
+        "nombre": "Ninguno [Instituto]"
+    },
+    {
+        "clave": "220120056",
+        "nombre": "Rancho San Fandila"
+    },
+    {
+        "clave": "220120057",
+        "nombre": "Rancho las Gladiolas"
+    },
+    {
+        "clave": "220120058",
+        "nombre": "El Mezquital"
+    },
+    {
+        "clave": "220120059",
+        "nombre": "Lomasea [Granja]"
+    },
+    {
+        "clave": "220120060",
+        "nombre": "Rancho la Alberca"
+    },
+    {
+        "clave": "220120061",
+        "nombre": "La Cantera"
+    },
+    {
+        "clave": "220120062",
+        "nombre": "Potrero Grande"
+    },
+    {
+        "clave": "220120063",
+        "nombre": "Bordo de la Campana"
+    },
+    {
+        "clave": "220120064",
+        "nombre": "FIDEQRO"
+    },
+    {
+        "clave": "220120065",
+        "nombre": "Central Termoeléctrica el Sauz"
+    },
+    {
+        "clave": "220120066",
+        "nombre": "Hacienda Huertas Viejas"
+    },
+    {
+        "clave": "220120067",
+        "nombre": "Rancho los Olivares"
+    },
+    {
+        "clave": "220120068",
+        "nombre": "OVO ADRO [Granja]"
+    },
+    {
+        "clave": "220120069",
+        "nombre": "Rancho el Gavillero"
+    },
+    {
+        "clave": "220120070",
+        "nombre": "Rancho la Laguna"
+    },
+    {
+        "clave": "220120071",
+        "nombre": "Ninguno [Agroindustrias Siglo Veintiuno]"
+    },
+    {
+        "clave": "220120073",
+        "nombre": "Rancho del Carmen"
+    },
+    {
+        "clave": "220120074",
+        "nombre": "Rancho Bordo Chico"
+    },
+    {
+        "clave": "220120075",
+        "nombre": "Bordo Don Blas"
+    },
+    {
+        "clave": "220120076",
+        "nombre": "La Casita"
+    },
+    {
+        "clave": "220120077",
+        "nombre": "Ejido Ajuchitlancito"
+    },
+    {
+        "clave": "220120080",
+        "nombre": "Ex-hacienda San Clemente (Fracción Tercera)"
+    },
+    {
+        "clave": "220120081",
+        "nombre": "Bachoco Planta 3770 [Granja]"
+    },
+    {
+        "clave": "220120082",
+        "nombre": "Ejido Quintanares"
+    },
+    {
+        "clave": "220120083",
+        "nombre": "El Chamizal"
+    },
+    {
+        "clave": "220120085",
+        "nombre": "Parada los Terraza"
+    },
+    {
+        "clave": "220120087",
+        "nombre": "El Pozo"
+    },
+    {
+        "clave": "220120088",
+        "nombre": "Rancho la Mora (La Joya)"
+    },
+    {
+        "clave": "220120090",
+        "nombre": "Familia Pacheco"
+    },
+    {
+        "clave": "220120092",
+        "nombre": "El Chivatito"
+    },
+    {
+        "clave": "220120093",
+        "nombre": "Montecarlo [Club Hípico]"
+    },
+    {
+        "clave": "220120094",
+        "nombre": "Ejido Santiago Atepetlac"
+    },
+    {
+        "clave": "220120096",
+        "nombre": "Liratongo"
+    },
+    {
+        "clave": "220120097",
+        "nombre": "Rancho Chico el Carmen"
+    },
+    {
+        "clave": "220120098",
+        "nombre": "Familia Botello Uribe"
+    },
+    {
+        "clave": "220120100",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "220120101",
+        "nombre": "Familia Botello"
+    },
+    {
+        "clave": "220120102",
+        "nombre": "Las Torres"
+    },
+    {
+        "clave": "220120103",
+        "nombre": "Hacienda Calamanda"
+    },
+    {
+        "clave": "220120104",
+        "nombre": "Base la Curva"
+    },
+    {
+        "clave": "220120105",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "220120107",
+        "nombre": "Familia García"
+    },
+    {
+        "clave": "220120108",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "220120109",
+        "nombre": "Familia Guevara"
+    },
+    {
+        "clave": "220120110",
+        "nombre": "Localidad Sin Nombre (Familia Juárez)"
+    },
+    {
+        "clave": "220120111",
+        "nombre": "Familia Nieves"
+    },
+    {
+        "clave": "220120112",
+        "nombre": "Familia Piña"
+    },
+    {
+        "clave": "220120113",
+        "nombre": "Familia Solís"
+    },
+    {
+        "clave": "220120114",
+        "nombre": "El Pozo de Don Fidencio"
+    },
+    {
+        "clave": "220120115",
+        "nombre": "Finca Jomai"
+    },
+    {
+        "clave": "220120117",
+        "nombre": "La Nauyaca [Granja]"
+    },
+    {
+        "clave": "220120118",
+        "nombre": "Hacienda San Clemente"
+    },
+    {
+        "clave": "220120119",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "220120120",
+        "nombre": "Mega Rancho (Viñedos Hidalgo)"
+    },
+    {
+        "clave": "220120121",
+        "nombre": "El Original"
+    },
+    {
+        "clave": "220120122",
+        "nombre": "La Pinturita"
+    },
+    {
+        "clave": "220120123",
+        "nombre": "El Puente"
+    },
+    {
+        "clave": "220120124",
+        "nombre": "ALPECSA"
+    },
+    {
+        "clave": "220120125",
+        "nombre": "Rancho la Escondida"
+    },
+    {
+        "clave": "220120126",
+        "nombre": "Rancho Noria Nueva"
+    },
+    {
+        "clave": "220120127",
+        "nombre": "Sauz Alto"
+    },
+    {
+        "clave": "220120128",
+        "nombre": "Localidad Sin Nombre"
+    },
+    {
+        "clave": "220120129",
+        "nombre": "Cerrito Blanco"
+    },
+    {
+        "clave": "220120130",
+        "nombre": "La Colmena"
+    },
+    {
+        "clave": "220120131",
+        "nombre": "Familia Gómez"
+    },
+    {
+        "clave": "220120132",
+        "nombre": "El Horno"
+    },
+    {
+        "clave": "220120133",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "220120135",
+        "nombre": "Pozo Cuatro Emiliano Zapata"
+    },
+    {
+        "clave": "220120136",
+        "nombre": "Rancho la Alondra"
+    },
+    {
+        "clave": "220120138",
+        "nombre": "Sección Este de San Clemente"
+    },
+    {
+        "clave": "220120144",
+        "nombre": "Epigmenio González Sección Norte"
+    },
+    {
+        "clave": "220120145",
+        "nombre": "La Bolsa"
+    },
+    {
+        "clave": "220120147",
+        "nombre": "La Pradera [Granja]"
+    },
+    {
+        "clave": "220120149",
+        "nombre": "Rancho el Carmen"
+    },
+    {
+        "clave": "220120150",
+        "nombre": "Familia Araujo Sánchez"
+    },
+    {
+        "clave": "220120153",
+        "nombre": "Sección Noroeste de la D"
+    },
+    {
+        "clave": "220120154",
+        "nombre": "Rancho Alejandro Mendoza"
+    },
+    {
+        "clave": "220120156",
+        "nombre": "Ampliación Chamizal"
+    },
+    {
+        "clave": "220120157",
+        "nombre": "Presidentes"
+    },
+    {
+        "clave": "220120158",
+        "nombre": "Sección Suroeste Pedro Escobedo"
+    },
+    {
+        "clave": "220120159",
+        "nombre": "Ampliación Sanfandila"
+    },
+    {
+        "clave": "220120160",
+        "nombre": "Familia Eligio Morales"
+    },
+    {
+        "clave": "220120161",
+        "nombre": "Familia Herrera Martínez"
+    },
+    {
+        "clave": "220120164",
+        "nombre": "Pozo No. 2 de los 11"
+    },
+    {
+        "clave": "220120166",
+        "nombre": "Ampliación Ajuchitlancito"
+    },
+    {
+        "clave": "220120167",
+        "nombre": "El Encanto II [Fraccionamiento]"
+    },
+    {
+        "clave": "220120168",
+        "nombre": "Rancho Buenaventura"
+    },
+    {
+        "clave": "220120169",
+        "nombre": "Familia Álvarez Moreno"
+    },
+    {
+        "clave": "220120170",
+        "nombre": "Familia Araujo Mejía"
+    },
+    {
+        "clave": "220120171",
+        "nombre": "Familia Araujo Ramírez"
+    },
+    {
+        "clave": "220120172",
+        "nombre": "Familia Barroso Barrios"
+    },
+    {
+        "clave": "220120173",
+        "nombre": "Familia Mata Gómez"
+    },
+    {
+        "clave": "220120174",
+        "nombre": "Familia Moreno Quintanar"
+    },
+    {
+        "clave": "220120175",
+        "nombre": "Familia Romero Hernández"
+    },
+    {
+        "clave": "220120176",
+        "nombre": "Familia Valencia de la Cruz"
+    },
+    {
+        "clave": "220120178",
+        "nombre": "Real de San Pedro [Fraccionamiento]"
+    },
+    {
+        "clave": "220120179",
+        "nombre": "Valle Anáhuac"
+    },
+    {
+        "clave": "220120180",
+        "nombre": "Las Peñitas"
+    },
+    {
+        "clave": "220120183",
+        "nombre": "Sección Este de la Venta"
+    },
+    {
+        "clave": "220120184",
+        "nombre": "Las Peñitas (La Venta)"
+    },
+    {
+        "clave": "220120186",
+        "nombre": "Sección Este de Epigmenio González"
+    },
+    {
+        "clave": "220120187",
+        "nombre": "La Santa Cruz"
+    },
+    {
+        "clave": "220120188",
+        "nombre": "Ejido San Clemente"
+    },
+    {
+        "clave": "220120189",
+        "nombre": "Bicentenario"
+    }
+]

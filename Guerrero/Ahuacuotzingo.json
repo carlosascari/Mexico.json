@@ -1,0 +1,686 @@
+[
+    {
+        "clave": "120020006",
+        "nombre": "Chachayaco"
+    },
+    {
+        "clave": "120020008",
+        "nombre": "Lagunillas"
+    },
+    {
+        "clave": "120020010",
+        "nombre": "Mitlancingo"
+    },
+    {
+        "clave": "120020014",
+        "nombre": "Rincón de Cozahuapa"
+    },
+    {
+        "clave": "120020017",
+        "nombre": "San Miguel Ahuelican"
+    },
+    {
+        "clave": "120020018",
+        "nombre": "Santa Catarina (Santa Catarina las Joyas)"
+    },
+    {
+        "clave": "120020019",
+        "nombre": "Tecaxitla"
+    },
+    {
+        "clave": "120020022",
+        "nombre": "Tecozajca (Tepehuaje)"
+    },
+    {
+        "clave": "120020026",
+        "nombre": "Tlalcomulco"
+    },
+    {
+        "clave": "120020027",
+        "nombre": "Tlaquilcingo"
+    },
+    {
+        "clave": "120020030",
+        "nombre": "Xitopontla"
+    },
+    {
+        "clave": "120020034",
+        "nombre": "Zompazolco"
+    },
+    {
+        "clave": "120020038",
+        "nombre": "El Huamúchil"
+    },
+    {
+        "clave": "120020041",
+        "nombre": "Yerbabuena"
+    },
+    {
+        "clave": "120020050",
+        "nombre": "El Carrizo"
+    },
+    {
+        "clave": "120020056",
+        "nombre": "Las Jícaras (El Mirador)"
+    },
+    {
+        "clave": "120020058",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "120020062",
+        "nombre": "El Planchado"
+    },
+    {
+        "clave": "120020069",
+        "nombre": "Piteczintla"
+    },
+    {
+        "clave": "120020070",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "120020072",
+        "nombre": "Tlalistaquilla"
+    },
+    {
+        "clave": "120020075",
+        "nombre": "Zacualpa"
+    },
+    {
+        "clave": "120020076",
+        "nombre": "Xumiltepec"
+    },
+    {
+        "clave": "120020079",
+        "nombre": "Lambedero"
+    },
+    {
+        "clave": "120020080",
+        "nombre": "Mazatlán (San José)"
+    },
+    {
+        "clave": "120020082",
+        "nombre": "Los Sauces"
+    },
+    {
+        "clave": "120020083",
+        "nombre": "Tlalchichilco"
+    },
+    {
+        "clave": "120020085",
+        "nombre": "Zapotitlán"
+    },
+    {
+        "clave": "120020086",
+        "nombre": "Zonteconcuicuilco"
+    },
+    {
+        "clave": "120020094",
+        "nombre": "Los Paredones"
+    },
+    {
+        "clave": "120020096",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "120020100",
+        "nombre": "Azaucla"
+    },
+    {
+        "clave": "120020107",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "120020115",
+        "nombre": "Tezoquite (Tierra Prieta)"
+    },
+    {
+        "clave": "120020122",
+        "nombre": "Castocapa"
+    },
+    {
+        "clave": "120020130",
+        "nombre": "Tlalxocotitlán"
+    },
+    {
+        "clave": "120020147",
+        "nombre": "Ocotepec"
+    },
+    {
+        "clave": "120020148",
+        "nombre": "San Andrés"
+    },
+    {
+        "clave": "120020149",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "120020176",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "120020182",
+        "nombre": "Naranjastitlán"
+    },
+    {
+        "clave": "120020183",
+        "nombre": "El Organal"
+    },
+    {
+        "clave": "120020185",
+        "nombre": "Rancho Escondido"
+    },
+    {
+        "clave": "120020001",
+        "nombre": "Ahuacuotzingo"
+    },
+    {
+        "clave": "120020002",
+        "nombre": "Acateyahualco"
+    },
+    {
+        "clave": "120020003",
+        "nombre": "Agua Zarca"
+    },
+    {
+        "clave": "120020004",
+        "nombre": "Ajuatetla"
+    },
+    {
+        "clave": "120020005",
+        "nombre": "Alpuyecancingo de las Montañas"
+    },
+    {
+        "clave": "120020009",
+        "nombre": "Mazapa"
+    },
+    {
+        "clave": "120020011",
+        "nombre": "Oxtotitlán"
+    },
+    {
+        "clave": "120020012",
+        "nombre": "Oxtoyahualco"
+    },
+    {
+        "clave": "120020013",
+        "nombre": "Pochutla"
+    },
+    {
+        "clave": "120020015",
+        "nombre": "Rincón Peñitas"
+    },
+    {
+        "clave": "120020016",
+        "nombre": "San Juan (Las Joyas)"
+    },
+    {
+        "clave": "120020020",
+        "nombre": "Tecoanapa"
+    },
+    {
+        "clave": "120020021",
+        "nombre": "Tecolcuautla"
+    },
+    {
+        "clave": "120020023",
+        "nombre": "Tenanzintitlán (La Hacienda)"
+    },
+    {
+        "clave": "120020024",
+        "nombre": "Tepetlatipa"
+    },
+    {
+        "clave": "120020025",
+        "nombre": "Tepoxtlán"
+    },
+    {
+        "clave": "120020028",
+        "nombre": "Totolzintla"
+    },
+    {
+        "clave": "120020029",
+        "nombre": "Trapiche Viejo"
+    },
+    {
+        "clave": "120020031",
+        "nombre": "Xocoyolzintla"
+    },
+    {
+        "clave": "120020033",
+        "nombre": "Yupitepec"
+    },
+    {
+        "clave": "120020077",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "120020081",
+        "nombre": "Motuapa"
+    },
+    {
+        "clave": "120020151",
+        "nombre": "Vista Hermosa Tlaquilcingo"
+    },
+    {
+        "clave": "120020036",
+        "nombre": "Chinantla"
+    },
+    {
+        "clave": "120020039",
+        "nombre": "Cuapixca"
+    },
+    {
+        "clave": "120020040",
+        "nombre": "Tenextepantla"
+    },
+    {
+        "clave": "120020045",
+        "nombre": "Atliaca"
+    },
+    {
+        "clave": "120020046",
+        "nombre": "Ayoquilapa"
+    },
+    {
+        "clave": "120020051",
+        "nombre": "Chautipa"
+    },
+    {
+        "clave": "120020055",
+        "nombre": "Loma Alta"
+    },
+    {
+        "clave": "120020057",
+        "nombre": "La Muralla"
+    },
+    {
+        "clave": "120020063",
+        "nombre": "El Puente"
+    },
+    {
+        "clave": "120020064",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "120020066",
+        "nombre": "Teonoxtla"
+    },
+    {
+        "clave": "120020071",
+        "nombre": "Tlalacontitlán"
+    },
+    {
+        "clave": "120020073",
+        "nombre": "Tonalitlán Dos"
+    },
+    {
+        "clave": "120020078",
+        "nombre": "Tlaxintle Morado"
+    },
+    {
+        "clave": "120020084",
+        "nombre": "Tlalistac"
+    },
+    {
+        "clave": "120020087",
+        "nombre": "Ahuehuete Agujerado"
+    },
+    {
+        "clave": "120020088",
+        "nombre": "Tlalquilzalapa"
+    },
+    {
+        "clave": "120020089",
+        "nombre": "Coahuixtláhuac"
+    },
+    {
+        "clave": "120020090",
+        "nombre": "Costliapa"
+    },
+    {
+        "clave": "120020091",
+        "nombre": "Las Trincheras"
+    },
+    {
+        "clave": "120020092",
+        "nombre": "Totoatlajco"
+    },
+    {
+        "clave": "120020093",
+        "nombre": "La Tabernita"
+    },
+    {
+        "clave": "120020095",
+        "nombre": "Polaica"
+    },
+    {
+        "clave": "120020098",
+        "nombre": "Xaxocoite"
+    },
+    {
+        "clave": "120020099",
+        "nombre": "Ahuehuetla"
+    },
+    {
+        "clave": "120020101",
+        "nombre": "La Cañada"
+    },
+    {
+        "clave": "120020102",
+        "nombre": "Cerrito del Cristo"
+    },
+    {
+        "clave": "120020103",
+        "nombre": "Comontla"
+    },
+    {
+        "clave": "120020104",
+        "nombre": "El Terrero"
+    },
+    {
+        "clave": "120020105",
+        "nombre": "El Limoncito"
+    },
+    {
+        "clave": "120020106",
+        "nombre": "La Lobera"
+    },
+    {
+        "clave": "120020108",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "120020109",
+        "nombre": "Las Minas"
+    },
+    {
+        "clave": "120020110",
+        "nombre": "Pangomolijca"
+    },
+    {
+        "clave": "120020111",
+        "nombre": "El Plan (El Plan de los Huajes)"
+    },
+    {
+        "clave": "120020112",
+        "nombre": "El Querendón"
+    },
+    {
+        "clave": "120020113",
+        "nombre": "La Quina"
+    },
+    {
+        "clave": "120020114",
+        "nombre": "San Antonio (Tecomatlán)"
+    },
+    {
+        "clave": "120020116",
+        "nombre": "Tonalitlán"
+    },
+    {
+        "clave": "120020117",
+        "nombre": "Xoxocutla"
+    },
+    {
+        "clave": "120020118",
+        "nombre": "Zacatepec"
+    },
+    {
+        "clave": "120020119",
+        "nombre": "Zumatzin"
+    },
+    {
+        "clave": "120020120",
+        "nombre": "Atenxolapa"
+    },
+    {
+        "clave": "120020121",
+        "nombre": "Azizintla (Las Juntas)"
+    },
+    {
+        "clave": "120020123",
+        "nombre": "Coazintla"
+    },
+    {
+        "clave": "120020124",
+        "nombre": "El Cozahuate"
+    },
+    {
+        "clave": "120020125",
+        "nombre": "Los Huamúchiles"
+    },
+    {
+        "clave": "120020126",
+        "nombre": "La Loma de Rancho Viejo (Loma Tamalajayo)"
+    },
+    {
+        "clave": "120020127",
+        "nombre": "La Parota (La Laguna)"
+    },
+    {
+        "clave": "120020128",
+        "nombre": "Quimixtepec"
+    },
+    {
+        "clave": "120020129",
+        "nombre": "Tetoro"
+    },
+    {
+        "clave": "120020131",
+        "nombre": "Xumiltzín"
+    },
+    {
+        "clave": "120020132",
+        "nombre": "Yepaquilitlajco"
+    },
+    {
+        "clave": "120020133",
+        "nombre": "Zacayautla"
+    },
+    {
+        "clave": "120020134",
+        "nombre": "Zompie"
+    },
+    {
+        "clave": "120020135",
+        "nombre": "Zoyatla"
+    },
+    {
+        "clave": "120020136",
+        "nombre": "El Amate Seco"
+    },
+    {
+        "clave": "120020137",
+        "nombre": "El Amate (El Amate Amarillo)"
+    },
+    {
+        "clave": "120020138",
+        "nombre": "Apancingo"
+    },
+    {
+        "clave": "120020139",
+        "nombre": "La Bugambilia"
+    },
+    {
+        "clave": "120020140",
+        "nombre": "Cueva de León"
+    },
+    {
+        "clave": "120020141",
+        "nombre": "La Loma de Xaltianguis"
+    },
+    {
+        "clave": "120020142",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "120020143",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "120020144",
+        "nombre": "El Terrero"
+    },
+    {
+        "clave": "120020145",
+        "nombre": "Zacapezingo"
+    },
+    {
+        "clave": "120020146",
+        "nombre": "El Zapote (El Cerro del Bule)"
+    },
+    {
+        "clave": "120020150",
+        "nombre": "El Terrero"
+    },
+    {
+        "clave": "120020152",
+        "nombre": "La Parada de Tlalcomulco"
+    },
+    {
+        "clave": "120020153",
+        "nombre": "Cerro de San Lucas"
+    },
+    {
+        "clave": "120020154",
+        "nombre": "Los Amates (La Pochotera)"
+    },
+    {
+        "clave": "120020155",
+        "nombre": "Las Cruces"
+    },
+    {
+        "clave": "120020156",
+        "nombre": "Los Encinitos"
+    },
+    {
+        "clave": "120020157",
+        "nombre": "La Lobera"
+    },
+    {
+        "clave": "120020158",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "120020159",
+        "nombre": "Las Pozas"
+    },
+    {
+        "clave": "120020160",
+        "nombre": "El Papayo (Rancho Francisca Nava)"
+    },
+    {
+        "clave": "120020161",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "120020162",
+        "nombre": "Yetlán"
+    },
+    {
+        "clave": "120020163",
+        "nombre": "El Dátil (Ahuehuete Agujerado)"
+    },
+    {
+        "clave": "120020164",
+        "nombre": "Almolonga"
+    },
+    {
+        "clave": "120020165",
+        "nombre": "Los Berros"
+    },
+    {
+        "clave": "120020166",
+        "nombre": "Camino Real"
+    },
+    {
+        "clave": "120020167",
+        "nombre": "Coaxtepel"
+    },
+    {
+        "clave": "120020168",
+        "nombre": "Contlapalchoco (El Cuatecomate)"
+    },
+    {
+        "clave": "120020169",
+        "nombre": "Cuajilotitlán (Martina García Godínes)"
+    },
+    {
+        "clave": "120020170",
+        "nombre": "El Espinazo del Diablo"
+    },
+    {
+        "clave": "120020171",
+        "nombre": "Los Guajes"
+    },
+    {
+        "clave": "120020172",
+        "nombre": "Isidoro Abundis"
+    },
+    {
+        "clave": "120020173",
+        "nombre": "El Lindero"
+    },
+    {
+        "clave": "120020174",
+        "nombre": "Huiztepec"
+    },
+    {
+        "clave": "120020175",
+        "nombre": "Martina García Godínez"
+    },
+    {
+        "clave": "120020177",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "120020178",
+        "nombre": "La Yerbabuena"
+    },
+    {
+        "clave": "120020179",
+        "nombre": "Zompie"
+    },
+    {
+        "clave": "120020180",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "120020181",
+        "nombre": "Parada de Tecoanapa"
+    },
+    {
+        "clave": "120020184",
+        "nombre": "Ojo de Agua del Rincón"
+    },
+    {
+        "clave": "120020186",
+        "nombre": "Rancho de Santiago"
+    },
+    {
+        "clave": "120020187",
+        "nombre": "El Tamborillo"
+    },
+    {
+        "clave": "120020188",
+        "nombre": "El Huamuchilito"
+    },
+    {
+        "clave": "120020189",
+        "nombre": "Loma Hermosa"
+    },
+    {
+        "clave": "120020190",
+        "nombre": "La Joya de Yolocingo"
+    },
+    {
+        "clave": "120020191",
+        "nombre": "Las Parotas"
+    },
+    {
+        "clave": "120020192",
+        "nombre": "La Estaquera"
+    }
+]

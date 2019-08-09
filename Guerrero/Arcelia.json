@@ -1,0 +1,654 @@
+[
+    {
+        "clave": "120070003",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "120070004",
+        "nombre": "Ahuatepec (Potrero)"
+    },
+    {
+        "clave": "120070006",
+        "nombre": "El Aviluz"
+    },
+    {
+        "clave": "120070007",
+        "nombre": "Azizintla"
+    },
+    {
+        "clave": "120070009",
+        "nombre": "Los Bices"
+    },
+    {
+        "clave": "120070011",
+        "nombre": "Cacahuananche"
+    },
+    {
+        "clave": "120070013",
+        "nombre": "Campo Morado"
+    },
+    {
+        "clave": "120070017",
+        "nombre": "Cerro Gordo"
+    },
+    {
+        "clave": "120070019",
+        "nombre": "Caloxtitlán"
+    },
+    {
+        "clave": "120070031",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "120070038",
+        "nombre": "Nicolás Bravo"
+    },
+    {
+        "clave": "120070047",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "120070049",
+        "nombre": "El Salitre"
+    },
+    {
+        "clave": "120070056",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "120070059",
+        "nombre": "El Terrerito"
+    },
+    {
+        "clave": "120070061",
+        "nombre": "Texcaltitlán (El Capire)"
+    },
+    {
+        "clave": "120070068",
+        "nombre": "El Ushe"
+    },
+    {
+        "clave": "120070086",
+        "nombre": "Los Cajones"
+    },
+    {
+        "clave": "120070088",
+        "nombre": "Las Piñas"
+    },
+    {
+        "clave": "120070093",
+        "nombre": "La Cofradía"
+    },
+    {
+        "clave": "120070113",
+        "nombre": "San Andrés"
+    },
+    {
+        "clave": "120070125",
+        "nombre": "La Parotita"
+    },
+    {
+        "clave": "120070131",
+        "nombre": "El Cirián"
+    },
+    {
+        "clave": "120070132",
+        "nombre": "Zumpango"
+    },
+    {
+        "clave": "120070134",
+        "nombre": "El Amate"
+    },
+    {
+        "clave": "120070140",
+        "nombre": "Piedra Grande"
+    },
+    {
+        "clave": "120070142",
+        "nombre": "Guerrero (Guerrerito)"
+    },
+    {
+        "clave": "120070147",
+        "nombre": "El Cajete"
+    },
+    {
+        "clave": "120070154",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "120070156",
+        "nombre": "La Parota Campo Morado"
+    },
+    {
+        "clave": "120070162",
+        "nombre": "Colonia Terrero Blanco"
+    },
+    {
+        "clave": "120070179",
+        "nombre": "Las Cañitas"
+    },
+    {
+        "clave": "120070182",
+        "nombre": "Cuadrilla Ascencio"
+    },
+    {
+        "clave": "120070183",
+        "nombre": "El Manguito"
+    },
+    {
+        "clave": "120070188",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "120070190",
+        "nombre": "Las Chivas"
+    },
+    {
+        "clave": "120070197",
+        "nombre": "Nueva Senda"
+    },
+    {
+        "clave": "120070204",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "120070206",
+        "nombre": "Tlanilpa el Nuevo"
+    },
+    {
+        "clave": "120070222",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "120070230",
+        "nombre": "El Mal Paso"
+    },
+    {
+        "clave": "120070232",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "120070235",
+        "nombre": "Colonia Guadalupe Victoria (Tierra Blanca)"
+    },
+    {
+        "clave": "120070001",
+        "nombre": "Arcelia"
+    },
+    {
+        "clave": "120070002",
+        "nombre": "Achotla"
+    },
+    {
+        "clave": "120070005",
+        "nombre": "El Amacuáhuitl"
+    },
+    {
+        "clave": "120070010",
+        "nombre": "Los Brasiles"
+    },
+    {
+        "clave": "120070012",
+        "nombre": "Colonia Filiberto Gómez (La Ceiba)"
+    },
+    {
+        "clave": "120070016",
+        "nombre": "El Cazahuate"
+    },
+    {
+        "clave": "120070018",
+        "nombre": "Cerro Verde"
+    },
+    {
+        "clave": "120070022",
+        "nombre": "Colonia Vicente Guerrero (Comol)"
+    },
+    {
+        "clave": "120070023",
+        "nombre": "Xochitla"
+    },
+    {
+        "clave": "120070024",
+        "nombre": "Copaltepec"
+    },
+    {
+        "clave": "120070025",
+        "nombre": "El Corindón (El Reparo)"
+    },
+    {
+        "clave": "120070028",
+        "nombre": "El Escondido (Valle el Escondido)"
+    },
+    {
+        "clave": "120070030",
+        "nombre": "Ixcatepec"
+    },
+    {
+        "clave": "120070033",
+        "nombre": "Los Limos"
+    },
+    {
+        "clave": "120070036",
+        "nombre": "Mumuxtitlán"
+    },
+    {
+        "clave": "120070037",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "120070039",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "120070040",
+        "nombre": "Palapa"
+    },
+    {
+        "clave": "120070041",
+        "nombre": "Palos Altos"
+    },
+    {
+        "clave": "120070045",
+        "nombre": "El Potrerillo"
+    },
+    {
+        "clave": "120070046",
+        "nombre": "Pozo Zarco"
+    },
+    {
+        "clave": "120070052",
+        "nombre": "San Miguelito"
+    },
+    {
+        "clave": "120070055",
+        "nombre": "Santo Tomás"
+    },
+    {
+        "clave": "120070058",
+        "nombre": "Temixco"
+    },
+    {
+        "clave": "120070062",
+        "nombre": "Tlalchichilpa"
+    },
+    {
+        "clave": "120070065",
+        "nombre": "Las Trincheras"
+    },
+    {
+        "clave": "120070067",
+        "nombre": "Tulatengo"
+    },
+    {
+        "clave": "120070069",
+        "nombre": "Valle Galeana (El Tamarindo)"
+    },
+    {
+        "clave": "120070071",
+        "nombre": "El Veladero"
+    },
+    {
+        "clave": "120070072",
+        "nombre": "Xochicalco"
+    },
+    {
+        "clave": "120070074",
+        "nombre": "Almoloya (Almoloya el Grande)"
+    },
+    {
+        "clave": "120070076",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "120070079",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "120070087",
+        "nombre": "Nuevo León"
+    },
+    {
+        "clave": "120070099",
+        "nombre": "Zitlaltengo"
+    },
+    {
+        "clave": "120070104",
+        "nombre": "El Varal (El Brinco)"
+    },
+    {
+        "clave": "120070109",
+        "nombre": "El Ocotito"
+    },
+    {
+        "clave": "120070111",
+        "nombre": "La Concordia"
+    },
+    {
+        "clave": "120070119",
+        "nombre": "Rincón del Cerro"
+    },
+    {
+        "clave": "120070133",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "120070139",
+        "nombre": "La Solana (La Huerta)"
+    },
+    {
+        "clave": "120070143",
+        "nombre": "Paraje Suriano"
+    },
+    {
+        "clave": "120070144",
+        "nombre": "El Progreso (Zapotitlán)"
+    },
+    {
+        "clave": "120070155",
+        "nombre": "Paraje Nuevo"
+    },
+    {
+        "clave": "120070158",
+        "nombre": "Villa Guadalupe Victoria (Parota Guadalupe)"
+    },
+    {
+        "clave": "120070163",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "120070168",
+        "nombre": "Colonia Emperador Cuauhtémoc"
+    },
+    {
+        "clave": "120070205",
+        "nombre": "Reforma de Lázaro Cárdenas (El Aterrizaje)"
+    },
+    {
+        "clave": "120070213",
+        "nombre": "Crucero Hacienda Nueva"
+    },
+    {
+        "clave": "120070215",
+        "nombre": "Tercer Milenio [Restaurante]"
+    },
+    {
+        "clave": "120070227",
+        "nombre": "Fraccionamiento Flores Magón"
+    },
+    {
+        "clave": "120070229",
+        "nombre": "Las Granjas"
+    },
+    {
+        "clave": "120070236",
+        "nombre": "Rancho el Limón"
+    },
+    {
+        "clave": "120070237",
+        "nombre": "Fraccionamiento Arcelia I"
+    },
+    {
+        "clave": "120070032",
+        "nombre": "Los Ladrillos"
+    },
+    {
+        "clave": "120070044",
+        "nombre": "Las Parotas"
+    },
+    {
+        "clave": "120070048",
+        "nombre": "Rincón Ojo de Agua (Río Ojo de Agua)"
+    },
+    {
+        "clave": "120070050",
+        "nombre": "San Bartolo"
+    },
+    {
+        "clave": "120070051",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "120070053",
+        "nombre": "San Miguel Lindavista"
+    },
+    {
+        "clave": "120070054",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "120070057",
+        "nombre": "Los Tamarindos"
+    },
+    {
+        "clave": "120070063",
+        "nombre": "Tlanilpa"
+    },
+    {
+        "clave": "120070066",
+        "nombre": "La Trinidad (Ejido Colonia Xochitla)"
+    },
+    {
+        "clave": "120070081",
+        "nombre": "Las Carpas"
+    },
+    {
+        "clave": "120070082",
+        "nombre": "La Sidra (Puente Arroyo Seco)"
+    },
+    {
+        "clave": "120070089",
+        "nombre": "El Mango"
+    },
+    {
+        "clave": "120070091",
+        "nombre": "Piedra China"
+    },
+    {
+        "clave": "120070098",
+        "nombre": "La Parota del Ocote"
+    },
+    {
+        "clave": "120070100",
+        "nombre": "Micatepec"
+    },
+    {
+        "clave": "120070105",
+        "nombre": "Las Palmitas"
+    },
+    {
+        "clave": "120070112",
+        "nombre": "Huayatengo"
+    },
+    {
+        "clave": "120070115",
+        "nombre": "Zopilotepec"
+    },
+    {
+        "clave": "120070118",
+        "nombre": "El Sueño"
+    },
+    {
+        "clave": "120070121",
+        "nombre": "El Mango"
+    },
+    {
+        "clave": "120070122",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "120070127",
+        "nombre": "Cruz Verde"
+    },
+    {
+        "clave": "120070128",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "120070130",
+        "nombre": "Cuadrilla del Limón (El Paso del Limón)"
+    },
+    {
+        "clave": "120070135",
+        "nombre": "El Puerto del Tepehuaje"
+    },
+    {
+        "clave": "120070136",
+        "nombre": "El Varillo"
+    },
+    {
+        "clave": "120070137",
+        "nombre": "Agua Zarca"
+    },
+    {
+        "clave": "120070146",
+        "nombre": "Puerto de Palapa"
+    },
+    {
+        "clave": "120070149",
+        "nombre": "El Barro de la Parota"
+    },
+    {
+        "clave": "120070150",
+        "nombre": "Ixtepec"
+    },
+    {
+        "clave": "120070153",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "120070160",
+        "nombre": "San Francisco de Asís"
+    },
+    {
+        "clave": "120070173",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "120070178",
+        "nombre": "Bejuco Caído"
+    },
+    {
+        "clave": "120070184",
+        "nombre": "Esperanza Buenavista"
+    },
+    {
+        "clave": "120070185",
+        "nombre": "Cerro del Gallo (Las Mesas)"
+    },
+    {
+        "clave": "120070189",
+        "nombre": "Ninguno [Centro de Bachillerato Técnico Agrícola]"
+    },
+    {
+        "clave": "120070191",
+        "nombre": "Huerta Piedras Negras"
+    },
+    {
+        "clave": "120070192",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "120070193",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "120070195",
+        "nombre": "Los Martínez"
+    },
+    {
+        "clave": "120070196",
+        "nombre": "Nueva Reforma"
+    },
+    {
+        "clave": "120070198",
+        "nombre": "Las Palmas (La Pinzanera)"
+    },
+    {
+        "clave": "120070200",
+        "nombre": "Presa Palos Altos"
+    },
+    {
+        "clave": "120070201",
+        "nombre": "Rancho las Ceibitas"
+    },
+    {
+        "clave": "120070202",
+        "nombre": "Rancho Majadahuixcle (El Mango)"
+    },
+    {
+        "clave": "120070203",
+        "nombre": "Rancho Siete Veredas"
+    },
+    {
+        "clave": "120070207",
+        "nombre": "Colonia Progreso"
+    },
+    {
+        "clave": "120070208",
+        "nombre": "Colonia los Huijules"
+    },
+    {
+        "clave": "120070209",
+        "nombre": "Colonia la Minita"
+    },
+    {
+        "clave": "120070217",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "120070218",
+        "nombre": "La Pedrera"
+    },
+    {
+        "clave": "120070219",
+        "nombre": "Rancho los Gemelos"
+    },
+    {
+        "clave": "120070220",
+        "nombre": "El Charco"
+    },
+    {
+        "clave": "120070221",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "120070223",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "120070224",
+        "nombre": "Colonia Ejidal"
+    },
+    {
+        "clave": "120070225",
+        "nombre": "Compañía Productos del Monte"
+    },
+    {
+        "clave": "120070226",
+        "nombre": "Farallón Mexicana"
+    },
+    {
+        "clave": "120070228",
+        "nombre": "Fraccionamiento un Nuevo Horizonte para Guerrero"
+    },
+    {
+        "clave": "120070231",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "120070233",
+        "nombre": "El Trapichal"
+    },
+    {
+        "clave": "120070234",
+        "nombre": "Los Tréboles"
+    },
+    {
+        "clave": "120070238",
+        "nombre": "Fraccionamiento Lomas Taurinas"
+    },
+    {
+        "clave": "120070239",
+        "nombre": "Ojo de Agua"
+    }
+]

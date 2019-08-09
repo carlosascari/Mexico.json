@@ -1,0 +1,982 @@
+[
+    {
+        "clave": "110350002",
+        "nombre": "Agua Zarca"
+    },
+    {
+        "clave": "110350010",
+        "nombre": "Cerrito de los Arellano"
+    },
+    {
+        "clave": "110350029",
+        "nombre": "La Laguna de Guadalupe"
+    },
+    {
+        "clave": "110350076",
+        "nombre": "El Saucillo"
+    },
+    {
+        "clave": "110350104",
+        "nombre": "Los Patolitos"
+    },
+    {
+        "clave": "110350171",
+        "nombre": "Familia Vázquez Rodríguez"
+    },
+    {
+        "clave": "110350209",
+        "nombre": "Cirino Vázquez Guzmán"
+    },
+    {
+        "clave": "110350006",
+        "nombre": "El Bordito"
+    },
+    {
+        "clave": "110350008",
+        "nombre": "El Carmen de Arriba"
+    },
+    {
+        "clave": "110350009",
+        "nombre": "Cerrito de Gasca"
+    },
+    {
+        "clave": "110350018",
+        "nombre": "Franco"
+    },
+    {
+        "clave": "110350019",
+        "nombre": "Las Fuentes"
+    },
+    {
+        "clave": "110350021",
+        "nombre": "Galera Prieta"
+    },
+    {
+        "clave": "110350025",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "110350026",
+        "nombre": "El Jagüey"
+    },
+    {
+        "clave": "110350027",
+        "nombre": "Jaralillo"
+    },
+    {
+        "clave": "110350030",
+        "nombre": "San José de los Llanos"
+    },
+    {
+        "clave": "110350033",
+        "nombre": "Mesas de Acosta"
+    },
+    {
+        "clave": "110350034",
+        "nombre": "Mesas de Almanza"
+    },
+    {
+        "clave": "110350036",
+        "nombre": "El Murciélago"
+    },
+    {
+        "clave": "110350037",
+        "nombre": "El Naranjillo"
+    },
+    {
+        "clave": "110350038",
+        "nombre": "San Antonio Nuevo Valencia (La Chiripa)"
+    },
+    {
+        "clave": "110350041",
+        "nombre": "Ojo de Agua de Otates"
+    },
+    {
+        "clave": "110350042",
+        "nombre": "Ojo de Agua del Carrizal"
+    },
+    {
+        "clave": "110350043",
+        "nombre": "La Peña (Peña Colorada)"
+    },
+    {
+        "clave": "110350047",
+        "nombre": "Pozos"
+    },
+    {
+        "clave": "110350048",
+        "nombre": "Proveedora (San Juan de la Proveedora)"
+    },
+    {
+        "clave": "110350050",
+        "nombre": "Los Dulces Nombres"
+    },
+    {
+        "clave": "110350052",
+        "nombre": "El Rinconcillo"
+    },
+    {
+        "clave": "110350053",
+        "nombre": "Rincón de Centeno"
+    },
+    {
+        "clave": "110350054",
+        "nombre": "Romero"
+    },
+    {
+        "clave": "110350055",
+        "nombre": "El Rosillo"
+    },
+    {
+        "clave": "110350058",
+        "nombre": "San Antonio de Romerillo"
+    },
+    {
+        "clave": "110350059",
+        "nombre": "San Diego de los Dolores"
+    },
+    {
+        "clave": "110350060",
+        "nombre": "San Francisco de Cuenda"
+    },
+    {
+        "clave": "110350062",
+        "nombre": "San José de las Pilas"
+    },
+    {
+        "clave": "110350063",
+        "nombre": "San José del Sauz"
+    },
+    {
+        "clave": "110350065",
+        "nombre": "San Juan de la Cruz"
+    },
+    {
+        "clave": "110350069",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "110350071",
+        "nombre": "Santa Ana de Agostadero"
+    },
+    {
+        "clave": "110350075",
+        "nombre": "Santiago de Cuenda"
+    },
+    {
+        "clave": "110350079",
+        "nombre": "El Tecolote"
+    },
+    {
+        "clave": "110350080",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "110350082",
+        "nombre": "Valencia"
+    },
+    {
+        "clave": "110350084",
+        "nombre": "Insurgentes Pípila"
+    },
+    {
+        "clave": "110350086",
+        "nombre": "Laguna Seca de San Isidro"
+    },
+    {
+        "clave": "110350092",
+        "nombre": "El Chupadero"
+    },
+    {
+        "clave": "110350094",
+        "nombre": "Agua Nueva"
+    },
+    {
+        "clave": "110350095",
+        "nombre": "Ojo de Agua de Valadez"
+    },
+    {
+        "clave": "110350098",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "110350103",
+        "nombre": "Mandujano"
+    },
+    {
+        "clave": "110350109",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "110350115",
+        "nombre": "La Estancia"
+    },
+    {
+        "clave": "110350128",
+        "nombre": "Las Palomas"
+    },
+    {
+        "clave": "110350131",
+        "nombre": "Encinal de Canoas"
+    },
+    {
+        "clave": "110350135",
+        "nombre": "El Pato"
+    },
+    {
+        "clave": "110350159",
+        "nombre": "El Carmen de Abajo"
+    },
+    {
+        "clave": "110350163",
+        "nombre": "Esteban Luna Luna"
+    },
+    {
+        "clave": "110350167",
+        "nombre": "Familia Montoya"
+    },
+    {
+        "clave": "110350168",
+        "nombre": "Familia Olvera"
+    },
+    {
+        "clave": "110350174",
+        "nombre": "El Garambullo"
+    },
+    {
+        "clave": "110350184",
+        "nombre": "Juan Mendoza Rangel (Ejidal Zúñiga)"
+    },
+    {
+        "clave": "110350208",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "110350217",
+        "nombre": "El Zúñiga (Los Pinos)"
+    },
+    {
+        "clave": "110350218",
+        "nombre": "El Rocillito"
+    },
+    {
+        "clave": "110350220",
+        "nombre": "Pozo de Rómula Sánchez"
+    },
+    {
+        "clave": "110350227",
+        "nombre": "Los Herrera"
+    },
+    {
+        "clave": "110350257",
+        "nombre": "Los Arellano"
+    },
+    {
+        "clave": "110350268",
+        "nombre": "Colonia Bellavista"
+    },
+    {
+        "clave": "110350278",
+        "nombre": "Manuel Rocha"
+    },
+    {
+        "clave": "110350281",
+        "nombre": "Rancho San Rafael (Hermanos Armenta)"
+    },
+    {
+        "clave": "110350001",
+        "nombre": "Juventino Rosas"
+    },
+    {
+        "clave": "110350003",
+        "nombre": "Alvarado"
+    },
+    {
+        "clave": "110350004",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "110350005",
+        "nombre": "Las Ardillas"
+    },
+    {
+        "clave": "110350012",
+        "nombre": "El Crucero [Deshidratadora Agrícola]"
+    },
+    {
+        "clave": "110350014",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "110350015",
+        "nombre": "Encinillas Segunda Fracción"
+    },
+    {
+        "clave": "110350020",
+        "nombre": "Galera de la Esperanza"
+    },
+    {
+        "clave": "110350022",
+        "nombre": "Hacienda el Garambullo"
+    },
+    {
+        "clave": "110350023",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "110350032",
+        "nombre": "San José de Merino"
+    },
+    {
+        "clave": "110350035",
+        "nombre": "San Antonio de Morales"
+    },
+    {
+        "clave": "110350045",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "110350046",
+        "nombre": "San Andrés Pozo Blanco"
+    },
+    {
+        "clave": "110350049",
+        "nombre": "La Purísima"
+    },
+    {
+        "clave": "110350056",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "110350057",
+        "nombre": "San Antonio del Salitre (La Providencia)"
+    },
+    {
+        "clave": "110350061",
+        "nombre": "San Isidro de Tavera"
+    },
+    {
+        "clave": "110350064",
+        "nombre": "San José de Manantiales"
+    },
+    {
+        "clave": "110350066",
+        "nombre": "San Julián Tierra Blanca"
+    },
+    {
+        "clave": "110350067",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "110350073",
+        "nombre": "Santa Inés"
+    },
+    {
+        "clave": "110350074",
+        "nombre": "Santa María de Guadalupe (El Ranchito)"
+    },
+    {
+        "clave": "110350078",
+        "nombre": "Franco Tavera"
+    },
+    {
+        "clave": "110350081",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "110350083",
+        "nombre": "El Venado"
+    },
+    {
+        "clave": "110350085",
+        "nombre": "Pastores"
+    },
+    {
+        "clave": "110350096",
+        "nombre": "El Bajío"
+    },
+    {
+        "clave": "110350097",
+        "nombre": "San Antonio de las Maravillas"
+    },
+    {
+        "clave": "110350102",
+        "nombre": "Tejada"
+    },
+    {
+        "clave": "110350106",
+        "nombre": "Luz Eugenia"
+    },
+    {
+        "clave": "110350110",
+        "nombre": "San Román"
+    },
+    {
+        "clave": "110350114",
+        "nombre": "Granja América"
+    },
+    {
+        "clave": "110350116",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "110350117",
+        "nombre": "Granja Mary"
+    },
+    {
+        "clave": "110350118",
+        "nombre": "Merino (La Esperanza de Merino)"
+    },
+    {
+        "clave": "110350120",
+        "nombre": "El Venadito"
+    },
+    {
+        "clave": "110350121",
+        "nombre": "El Zapote (La Nopalera)"
+    },
+    {
+        "clave": "110350122",
+        "nombre": "Número 19 [Granja Avícola]"
+    },
+    {
+        "clave": "110350123",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "110350124",
+        "nombre": "Los Nogales"
+    },
+    {
+        "clave": "110350125",
+        "nombre": "Blanca Lucero (Fracción Casa Blanca)"
+    },
+    {
+        "clave": "110350129",
+        "nombre": "San Miguelito"
+    },
+    {
+        "clave": "110350132",
+        "nombre": "Caridad Domínguez [Empacadora de Hortalizas]"
+    },
+    {
+        "clave": "110350136",
+        "nombre": "Hacienda Comontuoso"
+    },
+    {
+        "clave": "110350139",
+        "nombre": "Los Ramos (La Reserva)"
+    },
+    {
+        "clave": "110350143",
+        "nombre": "Galeras (La Estrella)"
+    },
+    {
+        "clave": "110350145",
+        "nombre": "San Cristóbal"
+    },
+    {
+        "clave": "110350146",
+        "nombre": "Granja Gurza"
+    },
+    {
+        "clave": "110350147",
+        "nombre": "Número 10 [Granja Avícola]"
+    },
+    {
+        "clave": "110350149",
+        "nombre": "Los Álamos"
+    },
+    {
+        "clave": "110350151",
+        "nombre": "Andrés Celedón"
+    },
+    {
+        "clave": "110350152",
+        "nombre": "Número Tres [Granja Avícola]"
+    },
+    {
+        "clave": "110350153",
+        "nombre": "Número 18 [Granja Avícola]"
+    },
+    {
+        "clave": "110350154",
+        "nombre": "Número Cinco [Granja Avícola]"
+    },
+    {
+        "clave": "110350155",
+        "nombre": "Número 53 [Granja Avícola]"
+    },
+    {
+        "clave": "110350156",
+        "nombre": "Número Ocho [Granja Avícola]"
+    },
+    {
+        "clave": "110350157",
+        "nombre": "Número Seis [Granja Avícola]"
+    },
+    {
+        "clave": "110350158",
+        "nombre": "Las Cajitas"
+    },
+    {
+        "clave": "110350160",
+        "nombre": "La Casita"
+    },
+    {
+        "clave": "110350161",
+        "nombre": "Encinillas Primera Fracción"
+    },
+    {
+        "clave": "110350162",
+        "nombre": "El Establo"
+    },
+    {
+        "clave": "110350164",
+        "nombre": "Epifanio Moreno Macera"
+    },
+    {
+        "clave": "110350165",
+        "nombre": "Familia Almaraz Vargas (Pozo del Monte)"
+    },
+    {
+        "clave": "110350166",
+        "nombre": "Familia García Ramírez"
+    },
+    {
+        "clave": "110350169",
+        "nombre": "Familia Pérez Rubí"
+    },
+    {
+        "clave": "110350170",
+        "nombre": "Familia Sierra Valencia"
+    },
+    {
+        "clave": "110350172",
+        "nombre": "Finca María Elena"
+    },
+    {
+        "clave": "110350173",
+        "nombre": "El Doctor"
+    },
+    {
+        "clave": "110350175",
+        "nombre": "Granja Efraín Rodríguez"
+    },
+    {
+        "clave": "110350176",
+        "nombre": "Granja Guadalupe"
+    },
+    {
+        "clave": "110350177",
+        "nombre": "Granja la Bugambilia (Familia Reyes Alberto)"
+    },
+    {
+        "clave": "110350178",
+        "nombre": "Granja Olvera"
+    },
+    {
+        "clave": "110350179",
+        "nombre": "Granja San Luis (El Árbol)"
+    },
+    {
+        "clave": "110350180",
+        "nombre": "Hacienda del Llanito"
+    },
+    {
+        "clave": "110350181",
+        "nombre": "Honorio Mendoza Rodríguez"
+    },
+    {
+        "clave": "110350182",
+        "nombre": "Jorge Durán"
+    },
+    {
+        "clave": "110350183",
+        "nombre": "Juan Álvarez Palo Alto"
+    },
+    {
+        "clave": "110350185",
+        "nombre": "Juan Ramos Torres"
+    },
+    {
+        "clave": "110350186",
+        "nombre": "Riaño (La Lagunita)"
+    },
+    {
+        "clave": "110350187",
+        "nombre": "El Mezquital (Maggie Aboytes)"
+    },
+    {
+        "clave": "110350188",
+        "nombre": "San Javier"
+    },
+    {
+        "clave": "110350189",
+        "nombre": "El Oasis"
+    },
+    {
+        "clave": "110350190",
+        "nombre": "Las Palomas"
+    },
+    {
+        "clave": "110350191",
+        "nombre": "La Paloma"
+    },
+    {
+        "clave": "110350192",
+        "nombre": "Pozo Cuatro"
+    },
+    {
+        "clave": "110350193",
+        "nombre": "Salvador Martínez Herrera"
+    },
+    {
+        "clave": "110350194",
+        "nombre": "Pozo de Cándido Banda"
+    },
+    {
+        "clave": "110350195",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "110350197",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "110350198",
+        "nombre": "Pozo de Narciso Hortelano"
+    },
+    {
+        "clave": "110350199",
+        "nombre": "Pozo de Pablo Mendoza"
+    },
+    {
+        "clave": "110350200",
+        "nombre": "Pozo el Romerillo (Ramón Martínez)"
+    },
+    {
+        "clave": "110350201",
+        "nombre": "Pozo de Gilberto García"
+    },
+    {
+        "clave": "110350202",
+        "nombre": "Pozo Javier Usabiaga (El Garambullo)"
+    },
+    {
+        "clave": "110350203",
+        "nombre": "Ninguno [Productora de Semillas]"
+    },
+    {
+        "clave": "110350204",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "110350205",
+        "nombre": "La Purísima"
+    },
+    {
+        "clave": "110350206",
+        "nombre": "Rancho Bugambilias"
+    },
+    {
+        "clave": "110350207",
+        "nombre": "Machi [Rancho]"
+    },
+    {
+        "clave": "110350210",
+        "nombre": "San Antonio (El Coyote Blanco)"
+    },
+    {
+        "clave": "110350212",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "110350213",
+        "nombre": "Los Sauces"
+    },
+    {
+        "clave": "110350214",
+        "nombre": "Severiano Arellano (San Felipe de Jesús)"
+    },
+    {
+        "clave": "110350215",
+        "nombre": "Tomás González Zárate"
+    },
+    {
+        "clave": "110350216",
+        "nombre": "La Torna (El Pasamanos)"
+    },
+    {
+        "clave": "110350219",
+        "nombre": "Quinta Dany"
+    },
+    {
+        "clave": "110350221",
+        "nombre": "Timoteo Bravo Mendoza"
+    },
+    {
+        "clave": "110350222",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "110350223",
+        "nombre": "La Presita de los Figueroa"
+    },
+    {
+        "clave": "110350225",
+        "nombre": "El Gigante"
+    },
+    {
+        "clave": "110350226",
+        "nombre": "Ramón Cruz Velázquez (Pozos)"
+    },
+    {
+        "clave": "110350228",
+        "nombre": "Los Aros (Agustín González)"
+    },
+    {
+        "clave": "110350229",
+        "nombre": "El Cerrito de Lole"
+    },
+    {
+        "clave": "110350230",
+        "nombre": "Balneario"
+    },
+    {
+        "clave": "110350231",
+        "nombre": "El Vergel (Agua Caliente)"
+    },
+    {
+        "clave": "110350232",
+        "nombre": "El Capulín"
+    },
+    {
+        "clave": "110350233",
+        "nombre": "Colonia San José (Trinidad Tapia)"
+    },
+    {
+        "clave": "110350234",
+        "nombre": "Fraccionamiento Valencia"
+    },
+    {
+        "clave": "110350235",
+        "nombre": "Loma Alta del Santo Niño"
+    },
+    {
+        "clave": "110350236",
+        "nombre": "Pozo el Profe"
+    },
+    {
+        "clave": "110350237",
+        "nombre": "José María Calderón Llanos"
+    },
+    {
+        "clave": "110350238",
+        "nombre": "Presa de Guadalupe"
+    },
+    {
+        "clave": "110350239",
+        "nombre": "Víctor Sierra González"
+    },
+    {
+        "clave": "110350240",
+        "nombre": "Familia Ariza Zavala"
+    },
+    {
+        "clave": "110350241",
+        "nombre": "Leopoldo Zúñiga Godínez (Los Ócalos)"
+    },
+    {
+        "clave": "110350242",
+        "nombre": "Segunda Fracción de Linda Vista"
+    },
+    {
+        "clave": "110350243",
+        "nombre": "Serafín Robles Castillo (Robles)"
+    },
+    {
+        "clave": "110350244",
+        "nombre": "Vicente González Franco (La Haciendita)"
+    },
+    {
+        "clave": "110350245",
+        "nombre": "Tereso Cerritos Arellano"
+    },
+    {
+        "clave": "110350246",
+        "nombre": "Valentín Conejo Hernández"
+    },
+    {
+        "clave": "110350247",
+        "nombre": "Santa Bárbara (Valerio)"
+    },
+    {
+        "clave": "110350248",
+        "nombre": "Erasmo Calero Vargas"
+    },
+    {
+        "clave": "110350249",
+        "nombre": "María Guadalupe Cerrito Cerrito"
+    },
+    {
+        "clave": "110350250",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "110350251",
+        "nombre": "La Lupita"
+    },
+    {
+        "clave": "110350252",
+        "nombre": "Granja Don Gato"
+    },
+    {
+        "clave": "110350253",
+        "nombre": "Pozo Azul"
+    },
+    {
+        "clave": "110350254",
+        "nombre": "Rancho San Isidro"
+    },
+    {
+        "clave": "110350256",
+        "nombre": "López Zúñiga"
+    },
+    {
+        "clave": "110350258",
+        "nombre": "Colonia San Carlos"
+    },
+    {
+        "clave": "110350259",
+        "nombre": "Rancho Cañada"
+    },
+    {
+        "clave": "110350260",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "110350261",
+        "nombre": "Colonia la Gloria"
+    },
+    {
+        "clave": "110350262",
+        "nombre": "Isidro López Galindo"
+    },
+    {
+        "clave": "110350263",
+        "nombre": "Don Esteban"
+    },
+    {
+        "clave": "110350264",
+        "nombre": "Salvador Maldonado Rangel"
+    },
+    {
+        "clave": "110350265",
+        "nombre": "Noemí Aguilar García"
+    },
+    {
+        "clave": "110350266",
+        "nombre": "El Tejas (El Pozo)"
+    },
+    {
+        "clave": "110350267",
+        "nombre": "UNIDEG"
+    },
+    {
+        "clave": "110350269",
+        "nombre": "Los Razo"
+    },
+    {
+        "clave": "110350270",
+        "nombre": "Ex-hacienda la Galera"
+    },
+    {
+        "clave": "110350271",
+        "nombre": "Caja de Guadalupe"
+    },
+    {
+        "clave": "110350272",
+        "nombre": "Colonia Ganadera"
+    },
+    {
+        "clave": "110350273",
+        "nombre": "El Alto"
+    },
+    {
+        "clave": "110350274",
+        "nombre": "Zeferino Lerma González"
+    },
+    {
+        "clave": "110350275",
+        "nombre": "Rancho la Herradura"
+    },
+    {
+        "clave": "110350276",
+        "nombre": "Miguel Conejo"
+    },
+    {
+        "clave": "110350277",
+        "nombre": "Ricardo Cuevas"
+    },
+    {
+        "clave": "110350279",
+        "nombre": "Fraccionamiento las Maravillas"
+    },
+    {
+        "clave": "110350280",
+        "nombre": "El Santuario [Comercializadora]"
+    },
+    {
+        "clave": "110350282",
+        "nombre": "Cerrito Blanco"
+    },
+    {
+        "clave": "110350283",
+        "nombre": "El Progreso [Rancho]"
+    },
+    {
+        "clave": "110350284",
+        "nombre": "Juventino Rico"
+    },
+    {
+        "clave": "110350285",
+        "nombre": "Rosalío Ramos [Rancho del Doctor]"
+    },
+    {
+        "clave": "110350286",
+        "nombre": "San Rafael [Caja]"
+    },
+    {
+        "clave": "110350287",
+        "nombre": "Jesús Aboytes [Pozo]"
+    },
+    {
+        "clave": "110350288",
+        "nombre": "El Fresno"
+    },
+    {
+        "clave": "110350289",
+        "nombre": "San Jorge (El Ranchito)"
+    },
+    {
+        "clave": "110350290",
+        "nombre": "Ninguno [Pozo Cinco]"
+    },
+    {
+        "clave": "110350291",
+        "nombre": "Ninguno [Pozo de Rodolfo Mendoza]"
+    },
+    {
+        "clave": "110350292",
+        "nombre": "Gómez Mendoza"
+    },
+    {
+        "clave": "110350293",
+        "nombre": "El Torreón (Fam. Alemán) [Predio]"
+    },
+    {
+        "clave": "110350294",
+        "nombre": "La Hacienda [Fraccionamiento]"
+    }
+]

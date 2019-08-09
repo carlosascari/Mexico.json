@@ -1,0 +1,790 @@
+[
+    {
+        "clave": "151050266",
+        "nombre": "Cuadrilla de las Flores"
+    },
+    {
+        "clave": "151050280",
+        "nombre": "El Manguito"
+    },
+    {
+        "clave": "151050003",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "151050005",
+        "nombre": "La Alcantarilla"
+    },
+    {
+        "clave": "151050006",
+        "nombre": "Amacuatitla"
+    },
+    {
+        "clave": "151050007",
+        "nombre": "Ancón de los Curieles"
+    },
+    {
+        "clave": "151050009",
+        "nombre": "Dieciocho de Marzo"
+    },
+    {
+        "clave": "151050010",
+        "nombre": "Cacahuananche"
+    },
+    {
+        "clave": "151050013",
+        "nombre": "Cuadrilla del Cirián (Cirián Grande)"
+    },
+    {
+        "clave": "151050015",
+        "nombre": "Coatepec (Coatepequito)"
+    },
+    {
+        "clave": "151050016",
+        "nombre": "La Cofradía"
+    },
+    {
+        "clave": "151050017",
+        "nombre": "Corral de Piedra"
+    },
+    {
+        "clave": "151050018",
+        "nombre": "Cruz del Norte"
+    },
+    {
+        "clave": "151050020",
+        "nombre": "Coahuilotes (Pueblo Nuevo)"
+    },
+    {
+        "clave": "151050021",
+        "nombre": "La Cueva"
+    },
+    {
+        "clave": "151050022",
+        "nombre": "Chachalacatenco"
+    },
+    {
+        "clave": "151050023",
+        "nombre": "Las Esmeraldas"
+    },
+    {
+        "clave": "151050025",
+        "nombre": "El Gavilán"
+    },
+    {
+        "clave": "151050026",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "151050028",
+        "nombre": "El Higo Prieto"
+    },
+    {
+        "clave": "151050029",
+        "nombre": "Huixtitla"
+    },
+    {
+        "clave": "151050030",
+        "nombre": "Juntas del Río Limón"
+    },
+    {
+        "clave": "151050031",
+        "nombre": "Las Juntas (Las Juntas del Paso)"
+    },
+    {
+        "clave": "151050032",
+        "nombre": "La Lagunilla"
+    },
+    {
+        "clave": "151050033",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "151050034",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "151050036",
+        "nombre": "El Mango"
+    },
+    {
+        "clave": "151050038",
+        "nombre": "Mayaltepec"
+    },
+    {
+        "clave": "151050039",
+        "nombre": "Moctezuma (Colonia Moctezuma)"
+    },
+    {
+        "clave": "151050040",
+        "nombre": "El Montón"
+    },
+    {
+        "clave": "151050041",
+        "nombre": "El Naranjito"
+    },
+    {
+        "clave": "151050042",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "151050043",
+        "nombre": "El Naranjo Palmar Grande"
+    },
+    {
+        "clave": "151050045",
+        "nombre": "Nuevo Copaltepec"
+    },
+    {
+        "clave": "151050047",
+        "nombre": "Palmar Grande"
+    },
+    {
+        "clave": "151050048",
+        "nombre": "Palma Torcida"
+    },
+    {
+        "clave": "151050049",
+        "nombre": "Palos Verdes"
+    },
+    {
+        "clave": "151050050",
+        "nombre": "El Panal"
+    },
+    {
+        "clave": "151050052",
+        "nombre": "La Parota"
+    },
+    {
+        "clave": "151050053",
+        "nombre": "Paso de Jaquinicuil"
+    },
+    {
+        "clave": "151050056",
+        "nombre": "Peña del Órgano"
+    },
+    {
+        "clave": "151050058",
+        "nombre": "Pie del Cerro"
+    },
+    {
+        "clave": "151050059",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "151050061",
+        "nombre": "Puerto de la Arena"
+    },
+    {
+        "clave": "151050064",
+        "nombre": "Puerto Seco"
+    },
+    {
+        "clave": "151050065",
+        "nombre": "Rancho Cuá"
+    },
+    {
+        "clave": "151050066",
+        "nombre": "Ranchos Nuevos (Rancho Nuevo)"
+    },
+    {
+        "clave": "151050067",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "151050068",
+        "nombre": "El Revelado"
+    },
+    {
+        "clave": "151050069",
+        "nombre": "Rincón del Aguacate"
+    },
+    {
+        "clave": "151050070",
+        "nombre": "Rincón Grande"
+    },
+    {
+        "clave": "151050071",
+        "nombre": "El Salitre Ojo de Agua"
+    },
+    {
+        "clave": "151050072",
+        "nombre": "Salitre Grande"
+    },
+    {
+        "clave": "151050073",
+        "nombre": "Salitrillo"
+    },
+    {
+        "clave": "151050074",
+        "nombre": "San Antonio del Rosario"
+    },
+    {
+        "clave": "151050075",
+        "nombre": "San Felipe Tepehuastitlán"
+    },
+    {
+        "clave": "151050076",
+        "nombre": "San Francisco de Asís (San Francisco)"
+    },
+    {
+        "clave": "151050077",
+        "nombre": "San Juan Tetitlán"
+    },
+    {
+        "clave": "151050078",
+        "nombre": "San Juan Corral"
+    },
+    {
+        "clave": "151050079",
+        "nombre": "San Mateo (San Mateo Guayatenco)"
+    },
+    {
+        "clave": "151050080",
+        "nombre": "San Pedro Limón"
+    },
+    {
+        "clave": "151050081",
+        "nombre": "Santa Ana Zicatecoyan"
+    },
+    {
+        "clave": "151050082",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "151050083",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "151050085",
+        "nombre": "Tejupilquito"
+    },
+    {
+        "clave": "151050086",
+        "nombre": "El Temblor"
+    },
+    {
+        "clave": "151050087",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "151050089",
+        "nombre": "Tlacocuspan (Tlacocuspan Santa Cruz)"
+    },
+    {
+        "clave": "151050090",
+        "nombre": "Río Topilar (Topilar)"
+    },
+    {
+        "clave": "151050091",
+        "nombre": "El Toroal"
+    },
+    {
+        "clave": "151050093",
+        "nombre": "El Zapote (El Zapote San Antonio del Rosario)"
+    },
+    {
+        "clave": "151050094",
+        "nombre": "El Zopilote"
+    },
+    {
+        "clave": "151050102",
+        "nombre": "Pinzán Morado (Cerro Blanco)"
+    },
+    {
+        "clave": "151050103",
+        "nombre": "Cerro de Aguacatepec"
+    },
+    {
+        "clave": "151050108",
+        "nombre": "Corral de Piedra Dos (Corral de Piedra)"
+    },
+    {
+        "clave": "151050114",
+        "nombre": "El Devanador"
+    },
+    {
+        "clave": "151050117",
+        "nombre": "La Guacamaya"
+    },
+    {
+        "clave": "151050118",
+        "nombre": "El Limo"
+    },
+    {
+        "clave": "151050121",
+        "nombre": "Limón Terrero"
+    },
+    {
+        "clave": "151050124",
+        "nombre": "Macuatitla"
+    },
+    {
+        "clave": "151050129",
+        "nombre": "Las Parotas"
+    },
+    {
+        "clave": "151050132",
+        "nombre": "Piedra Ancha"
+    },
+    {
+        "clave": "151050133",
+        "nombre": "Pinzán Morado"
+    },
+    {
+        "clave": "151050134",
+        "nombre": "El Poroche"
+    },
+    {
+        "clave": "151050136",
+        "nombre": "El Reparo"
+    },
+    {
+        "clave": "151050138",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "151050139",
+        "nombre": "El Suchual de Santa Ana (El Suchual)"
+    },
+    {
+        "clave": "151050141",
+        "nombre": "Tecomatlán"
+    },
+    {
+        "clave": "151050143",
+        "nombre": "El Terroncillo"
+    },
+    {
+        "clave": "151050146",
+        "nombre": "Cuadrilla de Flores"
+    },
+    {
+        "clave": "151050147",
+        "nombre": "Peña Blanca"
+    },
+    {
+        "clave": "151050148",
+        "nombre": "Cirián Grande"
+    },
+    {
+        "clave": "151050150",
+        "nombre": "Los Bautistas (Cerro de los Bautistas)"
+    },
+    {
+        "clave": "151050153",
+        "nombre": "Las Juntas de Azúchil"
+    },
+    {
+        "clave": "151050154",
+        "nombre": "El Tiquimil"
+    },
+    {
+        "clave": "151050156",
+        "nombre": "Plan del Conejo"
+    },
+    {
+        "clave": "151050160",
+        "nombre": "Peña del Agua"
+    },
+    {
+        "clave": "151050164",
+        "nombre": "Barranca de las Flores"
+    },
+    {
+        "clave": "151050165",
+        "nombre": "Plan del Alambique"
+    },
+    {
+        "clave": "151050169",
+        "nombre": "Ancón de la Presa"
+    },
+    {
+        "clave": "151050171",
+        "nombre": "Charco del Lagarto"
+    },
+    {
+        "clave": "151050172",
+        "nombre": "Cerro del Morado"
+    },
+    {
+        "clave": "151050176",
+        "nombre": "Arenal"
+    },
+    {
+        "clave": "151050178",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "151050179",
+        "nombre": "Corral Parota (Tepehuastitlán)"
+    },
+    {
+        "clave": "151050181",
+        "nombre": "La Víbora"
+    },
+    {
+        "clave": "151050185",
+        "nombre": "Chano Mucio (Chanumucio)"
+    },
+    {
+        "clave": "151050186",
+        "nombre": "Vuelta del Río"
+    },
+    {
+        "clave": "151050194",
+        "nombre": "El Mango"
+    },
+    {
+        "clave": "151050195",
+        "nombre": "Juntas de Santa Ana Zicatecoyan"
+    },
+    {
+        "clave": "151050200",
+        "nombre": "El Coyol"
+    },
+    {
+        "clave": "151050202",
+        "nombre": "Cuadrilla Nueva"
+    },
+    {
+        "clave": "151050208",
+        "nombre": "El Naranjito (Naranjito del Paso)"
+    },
+    {
+        "clave": "151050209",
+        "nombre": "Azúchil"
+    },
+    {
+        "clave": "151050217",
+        "nombre": "El Cascalote"
+    },
+    {
+        "clave": "151050224",
+        "nombre": "La Cofradía"
+    },
+    {
+        "clave": "151050228",
+        "nombre": "La Cubata"
+    },
+    {
+        "clave": "151050229",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "151050231",
+        "nombre": "El Guitarratel"
+    },
+    {
+        "clave": "151050232",
+        "nombre": "Juntas del Paso Topilar"
+    },
+    {
+        "clave": "151050235",
+        "nombre": "Loma Larga"
+    },
+    {
+        "clave": "151050237",
+        "nombre": "Mazatitla"
+    },
+    {
+        "clave": "151050239",
+        "nombre": "Miraveles"
+    },
+    {
+        "clave": "151050243",
+        "nombre": "Peña Colorada"
+    },
+    {
+        "clave": "151050247",
+        "nombre": "Plan de la Cuadrilla"
+    },
+    {
+        "clave": "151050255",
+        "nombre": "Barriales"
+    },
+    {
+        "clave": "151050258",
+        "nombre": "Cuadrilla de los Sotero"
+    },
+    {
+        "clave": "151050259",
+        "nombre": "Cuadrilla Nueva"
+    },
+    {
+        "clave": "151050260",
+        "nombre": "Los Ilamos"
+    },
+    {
+        "clave": "151050261",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "151050263",
+        "nombre": "Los Limones"
+    },
+    {
+        "clave": "151050265",
+        "nombre": "La Parota"
+    },
+    {
+        "clave": "151050269",
+        "nombre": "La Sarna (El Obrador)"
+    },
+    {
+        "clave": "151050270",
+        "nombre": "Puerto Minatitlán"
+    },
+    {
+        "clave": "151050272",
+        "nombre": "Puerto de los Martínez"
+    },
+    {
+        "clave": "151050274",
+        "nombre": "Las Esmeraldas [Puerto del Órgano]"
+    },
+    {
+        "clave": "151050275",
+        "nombre": "El Anono"
+    },
+    {
+        "clave": "151050276",
+        "nombre": "Colonia Benito Juárez"
+    },
+    {
+        "clave": "151050277",
+        "nombre": "Los Hornos"
+    },
+    {
+        "clave": "151050278",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "151050282",
+        "nombre": "Cuadrilla de Gutiérrez"
+    },
+    {
+        "clave": "151050283",
+        "nombre": "El Nanche"
+    },
+    {
+        "clave": "151050284",
+        "nombre": "Palos Altos"
+    },
+    {
+        "clave": "151050285",
+        "nombre": "San Lucas"
+    },
+    {
+        "clave": "151050289",
+        "nombre": "Cerro del Mango"
+    },
+    {
+        "clave": "151050294",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "151050295",
+        "nombre": "La Laguna Puerto de la Arena"
+    },
+    {
+        "clave": "151050296",
+        "nombre": "Piedra Ancha II"
+    },
+    {
+        "clave": "151050297",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "151050001",
+        "nombre": "Tlatlaya"
+    },
+    {
+        "clave": "151050002",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "151050004",
+        "nombre": "El Alambique"
+    },
+    {
+        "clave": "151050008",
+        "nombre": "El Bonete"
+    },
+    {
+        "clave": "151050011",
+        "nombre": "La Capilla"
+    },
+    {
+        "clave": "151050012",
+        "nombre": "Casas Viejas"
+    },
+    {
+        "clave": "151050014",
+        "nombre": "El Ciruelo"
+    },
+    {
+        "clave": "151050019",
+        "nombre": "Coahuayana"
+    },
+    {
+        "clave": "151050027",
+        "nombre": "Hacienda Vieja"
+    },
+    {
+        "clave": "151050037",
+        "nombre": "Malacua"
+    },
+    {
+        "clave": "151050057",
+        "nombre": "Pie del Cerro San Vicente"
+    },
+    {
+        "clave": "151050084",
+        "nombre": "El Solís"
+    },
+    {
+        "clave": "151050088",
+        "nombre": "Teopazul (Teopazul el Encinal)"
+    },
+    {
+        "clave": "151050104",
+        "nombre": "El Mango (Cerro de los Olotes)"
+    },
+    {
+        "clave": "151050105",
+        "nombre": "Cerro Verde"
+    },
+    {
+        "clave": "151050109",
+        "nombre": "Corral de Vigas"
+    },
+    {
+        "clave": "151050110",
+        "nombre": "El Coyol"
+    },
+    {
+        "clave": "151050128",
+        "nombre": "Los Ocotes"
+    },
+    {
+        "clave": "151050142",
+        "nombre": "El Terrero"
+    },
+    {
+        "clave": "151050144",
+        "nombre": "Tierra Temblosa"
+    },
+    {
+        "clave": "151050145",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "151050149",
+        "nombre": "El Revolio"
+    },
+    {
+        "clave": "151050155",
+        "nombre": "Puerto Frío"
+    },
+    {
+        "clave": "151050161",
+        "nombre": "El Encinal"
+    },
+    {
+        "clave": "151050167",
+        "nombre": "Cacahuananche (La Palmita)"
+    },
+    {
+        "clave": "151050168",
+        "nombre": "La Ventana"
+    },
+    {
+        "clave": "151050183",
+        "nombre": "La Pólvora"
+    },
+    {
+        "clave": "151050188",
+        "nombre": "Ancón de la Ceiba"
+    },
+    {
+        "clave": "151050193",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "151050197",
+        "nombre": "La Yerbabuena"
+    },
+    {
+        "clave": "151050207",
+        "nombre": "La Cofradía"
+    },
+    {
+        "clave": "151050213",
+        "nombre": "Cazahuatitla"
+    },
+    {
+        "clave": "151050215",
+        "nombre": "El Cajete"
+    },
+    {
+        "clave": "151050220",
+        "nombre": "Cofradía Chica"
+    },
+    {
+        "clave": "151050221",
+        "nombre": "Cofradía Grande"
+    },
+    {
+        "clave": "151050223",
+        "nombre": "La Cofradía"
+    },
+    {
+        "clave": "151050225",
+        "nombre": "La Cofradía"
+    },
+    {
+        "clave": "151050264",
+        "nombre": "El Mogote (Plan Grande)"
+    },
+    {
+        "clave": "151050267",
+        "nombre": "Rincón del Coyol"
+    },
+    {
+        "clave": "151050268",
+        "nombre": "El Salitre (Salitre Tlatlaya)"
+    },
+    {
+        "clave": "151050273",
+        "nombre": "El Camalote"
+    },
+    {
+        "clave": "151050281",
+        "nombre": "Coatistapán"
+    },
+    {
+        "clave": "151050286",
+        "nombre": "Los Encinos de los Timbres"
+    },
+    {
+        "clave": "151050288",
+        "nombre": "Los Aguacates"
+    },
+    {
+        "clave": "151050290",
+        "nombre": "Tierra Colorada"
+    },
+    {
+        "clave": "151050291",
+        "nombre": "La Cueva del Venado"
+    },
+    {
+        "clave": "151050292",
+        "nombre": "El Mango (Puerto el Encinal)"
+    },
+    {
+        "clave": "151050293",
+        "nombre": "El Tamarindo (Ciruelo Gordo)"
+    }
+]

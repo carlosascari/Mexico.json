@@ -1,0 +1,810 @@
+[
+    {
+        "clave": "70080043",
+        "nombre": "Tierra Blanca (Pequeñeces)"
+    },
+    {
+        "clave": "70080047",
+        "nombre": "La Tarraya"
+    },
+    {
+        "clave": "70080058",
+        "nombre": "La Mesita"
+    },
+    {
+        "clave": "70080080",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "70080098",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "70080129",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "70080140",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "70080156",
+        "nombre": "Las Brisas"
+    },
+    {
+        "clave": "70080157",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "70080578",
+        "nombre": "El Progreso"
+    },
+    {
+        "clave": "70080595",
+        "nombre": "Las Maravillas"
+    },
+    {
+        "clave": "70080632",
+        "nombre": "Barrio el 9"
+    },
+    {
+        "clave": "70080633",
+        "nombre": "San Joseito"
+    },
+    {
+        "clave": "70080655",
+        "nombre": "Argelia"
+    },
+    {
+        "clave": "70080671",
+        "nombre": "Los Guzmanes"
+    },
+    {
+        "clave": "70080730",
+        "nombre": "El Pacayal"
+    },
+    {
+        "clave": "70080731",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "70080001",
+        "nombre": "Jaltenango de la Paz (Angel Albino Corzo)"
+    },
+    {
+        "clave": "70080007",
+        "nombre": "Francisco I. Madero"
+    },
+    {
+        "clave": "70080008",
+        "nombre": "Guadalupe Victoria (Yerbasanta)"
+    },
+    {
+        "clave": "70080010",
+        "nombre": "Libertad del Pajal"
+    },
+    {
+        "clave": "70080011",
+        "nombre": "Liquidámbar"
+    },
+    {
+        "clave": "70080013",
+        "nombre": "Monte Grande"
+    },
+    {
+        "clave": "70080014",
+        "nombre": "Nueva Colombia"
+    },
+    {
+        "clave": "70080015",
+        "nombre": "Nueva Independencia"
+    },
+    {
+        "clave": "70080016",
+        "nombre": "Nueva Palestina"
+    },
+    {
+        "clave": "70080020",
+        "nombre": "Plan de Ayutla"
+    },
+    {
+        "clave": "70080023",
+        "nombre": "Querétaro"
+    },
+    {
+        "clave": "70080025",
+        "nombre": "Salvador Urbina"
+    },
+    {
+        "clave": "70080026",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "70080051",
+        "nombre": "España"
+    },
+    {
+        "clave": "70080077",
+        "nombre": "Montebello Altamira"
+    },
+    {
+        "clave": "70080081",
+        "nombre": "Prusia"
+    },
+    {
+        "clave": "70080092",
+        "nombre": "Argentina"
+    },
+    {
+        "clave": "70080134",
+        "nombre": "Chiquinillal"
+    },
+    {
+        "clave": "70080141",
+        "nombre": "La Paz"
+    },
+    {
+        "clave": "70080158",
+        "nombre": "Siete de Octubre"
+    },
+    {
+        "clave": "70080160",
+        "nombre": "El Potrero (El Arroyón)"
+    },
+    {
+        "clave": "70080186",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "70080597",
+        "nombre": "Nuevo Progreso"
+    },
+    {
+        "clave": "70080619",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "70080621",
+        "nombre": "Jericó"
+    },
+    {
+        "clave": "70080641",
+        "nombre": "Jerusalén"
+    },
+    {
+        "clave": "70080643",
+        "nombre": "San Ramón"
+    },
+    {
+        "clave": "70080646",
+        "nombre": "La Estrella"
+    },
+    {
+        "clave": "70080711",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "70080712",
+        "nombre": "Nuevo Milenio Quince de Septiembre"
+    },
+    {
+        "clave": "70080719",
+        "nombre": "Nuevo Milenio Loma Bonita"
+    },
+    {
+        "clave": "70080005",
+        "nombre": "Las Chicharras"
+    },
+    {
+        "clave": "70080017",
+        "nombre": "San Marcos Ojo de Agua"
+    },
+    {
+        "clave": "70080034",
+        "nombre": "La Victoria"
+    },
+    {
+        "clave": "70080037",
+        "nombre": "Flor de Mayo"
+    },
+    {
+        "clave": "70080052",
+        "nombre": "Los Jazmines"
+    },
+    {
+        "clave": "70080063",
+        "nombre": "La Guardianía"
+    },
+    {
+        "clave": "70080064",
+        "nombre": "Sayula"
+    },
+    {
+        "clave": "70080066",
+        "nombre": "Las Perlas"
+    },
+    {
+        "clave": "70080094",
+        "nombre": "El Puerto (El Ceñido)"
+    },
+    {
+        "clave": "70080095",
+        "nombre": "Santiago"
+    },
+    {
+        "clave": "70080099",
+        "nombre": "Los Patios"
+    },
+    {
+        "clave": "70080100",
+        "nombre": "Magnolia"
+    },
+    {
+        "clave": "70080101",
+        "nombre": "Tres Estrellas"
+    },
+    {
+        "clave": "70080102",
+        "nombre": "Solo Dios"
+    },
+    {
+        "clave": "70080104",
+        "nombre": "La Lagunilla"
+    },
+    {
+        "clave": "70080105",
+        "nombre": "El Suspiro"
+    },
+    {
+        "clave": "70080106",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "70080135",
+        "nombre": "El Achotal"
+    },
+    {
+        "clave": "70080136",
+        "nombre": "Las Delicias"
+    },
+    {
+        "clave": "70080137",
+        "nombre": "El Perú"
+    },
+    {
+        "clave": "70080138",
+        "nombre": "Monterrey las Mercedes"
+    },
+    {
+        "clave": "70080142",
+        "nombre": "Medio Día"
+    },
+    {
+        "clave": "70080143",
+        "nombre": "El Progreso"
+    },
+    {
+        "clave": "70080144",
+        "nombre": "Rancho Bonito"
+    },
+    {
+        "clave": "70080145",
+        "nombre": "El Mirasol"
+    },
+    {
+        "clave": "70080146",
+        "nombre": "Las Brisas"
+    },
+    {
+        "clave": "70080147",
+        "nombre": "Berlín"
+    },
+    {
+        "clave": "70080149",
+        "nombre": "Rancho Bonito"
+    },
+    {
+        "clave": "70080150",
+        "nombre": "Arroyo Dulce"
+    },
+    {
+        "clave": "70080151",
+        "nombre": "Monte Verde"
+    },
+    {
+        "clave": "70080152",
+        "nombre": "Ciro Jovel Chávez"
+    },
+    {
+        "clave": "70080153",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "70080154",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "70080155",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "70080159",
+        "nombre": "Los Laureles"
+    },
+    {
+        "clave": "70080161",
+        "nombre": "Guadalajara"
+    },
+    {
+        "clave": "70080162",
+        "nombre": "El Corchal"
+    },
+    {
+        "clave": "70080163",
+        "nombre": "Venecia"
+    },
+    {
+        "clave": "70080164",
+        "nombre": "La Cruz"
+    },
+    {
+        "clave": "70080165",
+        "nombre": "El Chorro"
+    },
+    {
+        "clave": "70080167",
+        "nombre": "Mezcalapa"
+    },
+    {
+        "clave": "70080169",
+        "nombre": "Santa Julia"
+    },
+    {
+        "clave": "70080170",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "70080182",
+        "nombre": "Brisas de Campo"
+    },
+    {
+        "clave": "70080187",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "70080188",
+        "nombre": "El Triunfo"
+    },
+    {
+        "clave": "70080190",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "70080191",
+        "nombre": "El Placer"
+    },
+    {
+        "clave": "70080193",
+        "nombre": "El Mangal"
+    },
+    {
+        "clave": "70080195",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "70080561",
+        "nombre": "Elpidio Ramírez"
+    },
+    {
+        "clave": "70080563",
+        "nombre": "David Aguilar"
+    },
+    {
+        "clave": "70080564",
+        "nombre": "Luis G. Hernández A."
+    },
+    {
+        "clave": "70080565",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "70080566",
+        "nombre": "José Jiménez Vázquez"
+    },
+    {
+        "clave": "70080568",
+        "nombre": "Playa Larga"
+    },
+    {
+        "clave": "70080569",
+        "nombre": "Agapito Pérez"
+    },
+    {
+        "clave": "70080572",
+        "nombre": "El Pajarillo"
+    },
+    {
+        "clave": "70080574",
+        "nombre": "Las Nubes"
+    },
+    {
+        "clave": "70080575",
+        "nombre": "Manuel Albores"
+    },
+    {
+        "clave": "70080576",
+        "nombre": "Manuel López"
+    },
+    {
+        "clave": "70080577",
+        "nombre": "El Recuerdo (Segundo Venecia)"
+    },
+    {
+        "clave": "70080579",
+        "nombre": "Agua Escondida"
+    },
+    {
+        "clave": "70080580",
+        "nombre": "Los Capulines"
+    },
+    {
+        "clave": "70080581",
+        "nombre": "Nueva Italia"
+    },
+    {
+        "clave": "70080584",
+        "nombre": "San Antonio Buenavista"
+    },
+    {
+        "clave": "70080586",
+        "nombre": "Villahermosa"
+    },
+    {
+        "clave": "70080587",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "70080588",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "70080589",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "70080590",
+        "nombre": "El Castaño"
+    },
+    {
+        "clave": "70080591",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "70080592",
+        "nombre": "El Talismán"
+    },
+    {
+        "clave": "70080594",
+        "nombre": "Las Vegas"
+    },
+    {
+        "clave": "70080596",
+        "nombre": "Palo Gordo"
+    },
+    {
+        "clave": "70080598",
+        "nombre": "Pacayal"
+    },
+    {
+        "clave": "70080599",
+        "nombre": "Dos Hermanos"
+    },
+    {
+        "clave": "70080600",
+        "nombre": "Rancho Bonito"
+    },
+    {
+        "clave": "70080601",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "70080608",
+        "nombre": "La Florida"
+    },
+    {
+        "clave": "70080609",
+        "nombre": "Santana"
+    },
+    {
+        "clave": "70080610",
+        "nombre": "Las Nubes"
+    },
+    {
+        "clave": "70080611",
+        "nombre": "Las Cabañas"
+    },
+    {
+        "clave": "70080612",
+        "nombre": "La Rinconada"
+    },
+    {
+        "clave": "70080613",
+        "nombre": "Peña Blanca"
+    },
+    {
+        "clave": "70080615",
+        "nombre": "Los Hernández"
+    },
+    {
+        "clave": "70080616",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "70080620",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "70080622",
+        "nombre": "La Rinconada"
+    },
+    {
+        "clave": "70080623",
+        "nombre": "Las Maravillas"
+    },
+    {
+        "clave": "70080630",
+        "nombre": "La Violeta"
+    },
+    {
+        "clave": "70080634",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "70080635",
+        "nombre": "Los Mezcales (El Progreso)"
+    },
+    {
+        "clave": "70080639",
+        "nombre": "La Abegonia"
+    },
+    {
+        "clave": "70080642",
+        "nombre": "Altamira"
+    },
+    {
+        "clave": "70080644",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "70080645",
+        "nombre": "Peña Flor"
+    },
+    {
+        "clave": "70080648",
+        "nombre": "San Sebastián"
+    },
+    {
+        "clave": "70080649",
+        "nombre": "El Chorro (EL Charro)"
+    },
+    {
+        "clave": "70080650",
+        "nombre": "El Pencil"
+    },
+    {
+        "clave": "70080652",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "70080653",
+        "nombre": "Las Tres Garantías"
+    },
+    {
+        "clave": "70080654",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "70080658",
+        "nombre": "El Recreo"
+    },
+    {
+        "clave": "70080659",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "70080660",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "70080661",
+        "nombre": "Las Joyas"
+    },
+    {
+        "clave": "70080662",
+        "nombre": "Las Pimientillas"
+    },
+    {
+        "clave": "70080663",
+        "nombre": "Alejandro Flores G."
+    },
+    {
+        "clave": "70080664",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "70080666",
+        "nombre": "La Curva del Herraje"
+    },
+    {
+        "clave": "70080669",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "70080672",
+        "nombre": "Las Limas"
+    },
+    {
+        "clave": "70080675",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "70080676",
+        "nombre": "Monte Sinaí"
+    },
+    {
+        "clave": "70080678",
+        "nombre": "Las Nubes"
+    },
+    {
+        "clave": "70080680",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "70080681",
+        "nombre": "El Pacayal"
+    },
+    {
+        "clave": "70080682",
+        "nombre": "El Palomar"
+    },
+    {
+        "clave": "70080684",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "70080688",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "70080690",
+        "nombre": "Sayulita"
+    },
+    {
+        "clave": "70080692",
+        "nombre": "Enrique Bermúdez M."
+    },
+    {
+        "clave": "70080693",
+        "nombre": "Joaquín Bermúdez M."
+    },
+    {
+        "clave": "70080694",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "70080695",
+        "nombre": "Jorge Borrayes López"
+    },
+    {
+        "clave": "70080696",
+        "nombre": "Las Vegas"
+    },
+    {
+        "clave": "70080699",
+        "nombre": "El Manguito"
+    },
+    {
+        "clave": "70080700",
+        "nombre": "Mapolitas"
+    },
+    {
+        "clave": "70080701",
+        "nombre": "Sajonia"
+    },
+    {
+        "clave": "70080703",
+        "nombre": "La Hierbabuena"
+    },
+    {
+        "clave": "70080704",
+        "nombre": "El Brillante"
+    },
+    {
+        "clave": "70080705",
+        "nombre": "Jardín del Edén"
+    },
+    {
+        "clave": "70080706",
+        "nombre": "La Lagunita"
+    },
+    {
+        "clave": "70080707",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "70080709",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "70080710",
+        "nombre": "El Zanahorial"
+    },
+    {
+        "clave": "70080713",
+        "nombre": "Magnolia Hernández M."
+    },
+    {
+        "clave": "70080714",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "70080715",
+        "nombre": "Guadalupe Toledo H."
+    },
+    {
+        "clave": "70080716",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "70080717",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "70080718",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "70080724",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "70080726",
+        "nombre": "La Victoria"
+    },
+    {
+        "clave": "70080727",
+        "nombre": "El Brasilito"
+    },
+    {
+        "clave": "70080728",
+        "nombre": "Manuel Gómez"
+    },
+    {
+        "clave": "70080729",
+        "nombre": "Agustín Gómez"
+    },
+    {
+        "clave": "70080732",
+        "nombre": "Marcela Alvarado López"
+    },
+    {
+        "clave": "70080733",
+        "nombre": "María Alvarado López"
+    },
+    {
+        "clave": "70080734",
+        "nombre": "La Primavera"
+    },
+    {
+        "clave": "70080735",
+        "nombre": "Ciudad Rural Angel Albino Corzo"
+    },
+    {
+        "clave": "70080736",
+        "nombre": "Rancho Escondido"
+    },
+    {
+        "clave": "70080737",
+        "nombre": "Tres Hermanos"
+    }
+]

@@ -1,0 +1,418 @@
+[
+    {
+        "clave": "300100004",
+        "nombre": "Coahuixtepec"
+    },
+    {
+        "clave": "300100005",
+        "nombre": "Comales"
+    },
+    {
+        "clave": "300100007",
+        "nombre": "Chichicapa"
+    },
+    {
+        "clave": "300100008",
+        "nombre": "Doctor Daniel Guzmán"
+    },
+    {
+        "clave": "300100020",
+        "nombre": "Pastor Vergara"
+    },
+    {
+        "clave": "300100021",
+        "nombre": "Paxtepec"
+    },
+    {
+        "clave": "300100022",
+        "nombre": "Ricardo Flores Magón"
+    },
+    {
+        "clave": "300100024",
+        "nombre": "San José Buenavista"
+    },
+    {
+        "clave": "300100035",
+        "nombre": "Gutiérrez Zamora"
+    },
+    {
+        "clave": "300100037",
+        "nombre": "Agua Santa"
+    },
+    {
+        "clave": "300100040",
+        "nombre": "La Barranca"
+    },
+    {
+        "clave": "300100046",
+        "nombre": "Cerro Gordo"
+    },
+    {
+        "clave": "300100050",
+        "nombre": "Encinal"
+    },
+    {
+        "clave": "300100051",
+        "nombre": "Equimita"
+    },
+    {
+        "clave": "300100052",
+        "nombre": "Ilite"
+    },
+    {
+        "clave": "300100054",
+        "nombre": "Limoncillo"
+    },
+    {
+        "clave": "300100056",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "300100062",
+        "nombre": "Plan de la Soledad"
+    },
+    {
+        "clave": "300100063",
+        "nombre": "Poza Verde"
+    },
+    {
+        "clave": "300100066",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "300100067",
+        "nombre": "Relicario"
+    },
+    {
+        "clave": "300100070",
+        "nombre": "Río Vasco"
+    },
+    {
+        "clave": "300100071",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "300100077",
+        "nombre": "Tiocuautla"
+    },
+    {
+        "clave": "300100078",
+        "nombre": "Vega de San Pedro"
+    },
+    {
+        "clave": "300100079",
+        "nombre": "Vega Chica"
+    },
+    {
+        "clave": "300100080",
+        "nombre": "La Vega (Úrsulo Galván)"
+    },
+    {
+        "clave": "300100082",
+        "nombre": "La Ventilla"
+    },
+    {
+        "clave": "300100083",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "300100094",
+        "nombre": "El Morro"
+    },
+    {
+        "clave": "300100103",
+        "nombre": "Cruz Verde"
+    },
+    {
+        "clave": "300100110",
+        "nombre": "Colonia 3 de Mayo"
+    },
+    {
+        "clave": "300100112",
+        "nombre": "Sección Plan de Limón"
+    },
+    {
+        "clave": "300100114",
+        "nombre": "Plan de Arenas"
+    },
+    {
+        "clave": "300100002",
+        "nombre": "Adolfo Moreno"
+    },
+    {
+        "clave": "300100003",
+        "nombre": "Ahueyahualco"
+    },
+    {
+        "clave": "300100006",
+        "nombre": "Champilico"
+    },
+    {
+        "clave": "300100009",
+        "nombre": "La Estanzuela"
+    },
+    {
+        "clave": "300100010",
+        "nombre": "Francisco Javier Gómez"
+    },
+    {
+        "clave": "300100011",
+        "nombre": "Guadalupe Victoria"
+    },
+    {
+        "clave": "300100012",
+        "nombre": "Ignacio Zaragoza Segunda Sección"
+    },
+    {
+        "clave": "300100013",
+        "nombre": "Juan Marcos (San José Buenavista)"
+    },
+    {
+        "clave": "300100014",
+        "nombre": "Quilate Antiguo"
+    },
+    {
+        "clave": "300100015",
+        "nombre": "Lerdo de Tejada"
+    },
+    {
+        "clave": "300100016",
+        "nombre": "Magueyitos"
+    },
+    {
+        "clave": "300100017",
+        "nombre": "Malacatepec"
+    },
+    {
+        "clave": "300100018",
+        "nombre": "Mecacalco"
+    },
+    {
+        "clave": "300100019",
+        "nombre": "Mexcalteco"
+    },
+    {
+        "clave": "300100023",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "300100025",
+        "nombre": "Tepiolulco"
+    },
+    {
+        "clave": "300100026",
+        "nombre": "Tatempa"
+    },
+    {
+        "clave": "300100027",
+        "nombre": "Temimilco"
+    },
+    {
+        "clave": "300100028",
+        "nombre": "San Pedro Tepozoteco"
+    },
+    {
+        "clave": "300100029",
+        "nombre": "Texacaxco"
+    },
+    {
+        "clave": "300100030",
+        "nombre": "Tezahuapan de Juárez"
+    },
+    {
+        "clave": "300100031",
+        "nombre": "San Miguel Tlalpoalan"
+    },
+    {
+        "clave": "300100032",
+        "nombre": "Las Truchas"
+    },
+    {
+        "clave": "300100034",
+        "nombre": "Xoampolco"
+    },
+    {
+        "clave": "300100038",
+        "nombre": "Alseseca"
+    },
+    {
+        "clave": "300100039",
+        "nombre": "Arroyo Chico"
+    },
+    {
+        "clave": "300100041",
+        "nombre": "Belisario Domínguez"
+    },
+    {
+        "clave": "300100043",
+        "nombre": "Buen Amigo"
+    },
+    {
+        "clave": "300100047",
+        "nombre": "Colonia Ejidal Guadalupe Victoria"
+    },
+    {
+        "clave": "300100053",
+        "nombre": "Lerdo Chiquito"
+    },
+    {
+        "clave": "300100055",
+        "nombre": "Limontita"
+    },
+    {
+        "clave": "300100058",
+        "nombre": "Loma del Arco"
+    },
+    {
+        "clave": "300100060",
+        "nombre": "Mazapa"
+    },
+    {
+        "clave": "300100064",
+        "nombre": "La Prensa"
+    },
+    {
+        "clave": "300100065",
+        "nombre": "Quilate Nuevo"
+    },
+    {
+        "clave": "300100073",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "300100074",
+        "nombre": "San José Tepozoteco"
+    },
+    {
+        "clave": "300100076",
+        "nombre": "Santa Cruz Tepozoteco"
+    },
+    {
+        "clave": "300100081",
+        "nombre": "Veintiuno de Agosto"
+    },
+    {
+        "clave": "300100085",
+        "nombre": "Zoatzingo"
+    },
+    {
+        "clave": "300100092",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "300100096",
+        "nombre": "Cascajal"
+    },
+    {
+        "clave": "300100099",
+        "nombre": "Lindero de Tepeycan"
+    },
+    {
+        "clave": "300100101",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "300100102",
+        "nombre": "Coxolico"
+    },
+    {
+        "clave": "300100105",
+        "nombre": "Xocotla"
+    },
+    {
+        "clave": "300100107",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "300100108",
+        "nombre": "Xaltepec"
+    },
+    {
+        "clave": "300100109",
+        "nombre": "Kilate Sur"
+    },
+    {
+        "clave": "300100111",
+        "nombre": "El Rincón (Primera Sección)"
+    },
+    {
+        "clave": "300100113",
+        "nombre": "Los Olmos (Sección Doctor Daniel Guzmán)"
+    },
+    {
+        "clave": "300100115",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "300100001",
+        "nombre": "Altotonga"
+    },
+    {
+        "clave": "300100042",
+        "nombre": "El Brujo"
+    },
+    {
+        "clave": "300100044",
+        "nombre": "Cerro de los Muertos"
+    },
+    {
+        "clave": "300100048",
+        "nombre": "La Cuchilla"
+    },
+    {
+        "clave": "300100049",
+        "nombre": "El Charro"
+    },
+    {
+        "clave": "300100072",
+        "nombre": "San Emiliano"
+    },
+    {
+        "clave": "300100084",
+        "nombre": "Higuera Alta"
+    },
+    {
+        "clave": "300100097",
+        "nombre": "Cerro Gacho"
+    },
+    {
+        "clave": "300100098",
+        "nombre": "El Duraznal"
+    },
+    {
+        "clave": "300100100",
+        "nombre": "Loma Tinta"
+    },
+    {
+        "clave": "300100106",
+        "nombre": "El Libramiento"
+    },
+    {
+        "clave": "300100116",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "300100117",
+        "nombre": "Barrio las Bodas"
+    },
+    {
+        "clave": "300100118",
+        "nombre": "Colonia el Establo"
+    },
+    {
+        "clave": "300100119",
+        "nombre": "El Boquerón"
+    },
+    {
+        "clave": "300100120",
+        "nombre": "Ignacio Zaragoza Primera Sección"
+    },
+    {
+        "clave": "300100121",
+        "nombre": "Ignacio Zaragoza Tercera Sección"
+    },
+    {
+        "clave": "300100122",
+        "nombre": "Monte Azul"
+    }
+]

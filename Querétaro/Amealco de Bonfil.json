@@ -1,0 +1,702 @@
+[
+    {
+        "clave": "220010008",
+        "nombre": "El Capulín"
+    },
+    {
+        "clave": "220010029",
+        "nombre": "Santiago Mexquititlán Barrio 5to. (El Pastoreo)"
+    },
+    {
+        "clave": "220010047",
+        "nombre": "Santiago Mexquititlán Barrio 3ro."
+    },
+    {
+        "clave": "220010070",
+        "nombre": "Yosphí"
+    },
+    {
+        "clave": "220010092",
+        "nombre": "Barrio la Esperanza (San Bartolo)"
+    },
+    {
+        "clave": "220010097",
+        "nombre": "El Jaral (Santiago Mexquititlán Barrio 6to.)"
+    },
+    {
+        "clave": "220010112",
+        "nombre": "Barrio la Joya"
+    },
+    {
+        "clave": "220010117",
+        "nombre": "El Colorín"
+    },
+    {
+        "clave": "220010120",
+        "nombre": "La Cañada del Varal"
+    },
+    {
+        "clave": "220010121",
+        "nombre": "Cuisillo (Barrio de San Ildefonso)"
+    },
+    {
+        "clave": "220010135",
+        "nombre": "La Loma del Rosario"
+    },
+    {
+        "clave": "220010143",
+        "nombre": "Tesquedó (Puerto del Chivato)"
+    },
+    {
+        "clave": "220010172",
+        "nombre": "El Río (Santiago Mexquititlán Barrio 6to.)"
+    },
+    {
+        "clave": "220010174",
+        "nombre": "Loma de los Blases"
+    },
+    {
+        "clave": "220010177",
+        "nombre": "Cerro del Gallo"
+    },
+    {
+        "clave": "220010184",
+        "nombre": "La Esperanza (Santiago Mexquititlán Barrio 6to.)"
+    },
+    {
+        "clave": "220010189",
+        "nombre": "San Mateo (Palos Altos)"
+    },
+    {
+        "clave": "220010003",
+        "nombre": "El Apartadero"
+    },
+    {
+        "clave": "220010004",
+        "nombre": "El Aserrín (Ojo de Agua del Hornito)"
+    },
+    {
+        "clave": "220010005",
+        "nombre": "El Atorón"
+    },
+    {
+        "clave": "220010006",
+        "nombre": "El Batán"
+    },
+    {
+        "clave": "220010009",
+        "nombre": "El Carmen (Santiago Mexquititlán Barrio 6to.)"
+    },
+    {
+        "clave": "220010010",
+        "nombre": "La Cofradía"
+    },
+    {
+        "clave": "220010012",
+        "nombre": "El Varal"
+    },
+    {
+        "clave": "220010013",
+        "nombre": "Chitejé de la Cruz"
+    },
+    {
+        "clave": "220010014",
+        "nombre": "Donicá"
+    },
+    {
+        "clave": "220010016",
+        "nombre": "Galindillo"
+    },
+    {
+        "clave": "220010017",
+        "nombre": "Hacienda Blanca"
+    },
+    {
+        "clave": "220010018",
+        "nombre": "La Isla"
+    },
+    {
+        "clave": "220010019",
+        "nombre": "La Concepción (La Concha)"
+    },
+    {
+        "clave": "220010021",
+        "nombre": "Laguna de Servín"
+    },
+    {
+        "clave": "220010022",
+        "nombre": "El Lindero"
+    },
+    {
+        "clave": "220010023",
+        "nombre": "Loma Linda"
+    },
+    {
+        "clave": "220010024",
+        "nombre": "La Manzana"
+    },
+    {
+        "clave": "220010025",
+        "nombre": "Mesillas"
+    },
+    {
+        "clave": "220010028",
+        "nombre": "Palos Altos"
+    },
+    {
+        "clave": "220010030",
+        "nombre": "El Picacho"
+    },
+    {
+        "clave": "220010031",
+        "nombre": "Jacal de la Piedad"
+    },
+    {
+        "clave": "220010032",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "220010033",
+        "nombre": "Quiotillos"
+    },
+    {
+        "clave": "220010034",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "220010035",
+        "nombre": "El Salvador"
+    },
+    {
+        "clave": "220010036",
+        "nombre": "Barrio San Antonio (San Bartolo)"
+    },
+    {
+        "clave": "220010037",
+        "nombre": "San Bartolomé del Pino (San Bartolo)"
+    },
+    {
+        "clave": "220010038",
+        "nombre": "San Felipe (Santiago Mexquititlán Barrio 6to.)"
+    },
+    {
+        "clave": "220010039",
+        "nombre": "San Ildefonso Tultepec (Centro)"
+    },
+    {
+        "clave": "220010040",
+        "nombre": "San José Ithó"
+    },
+    {
+        "clave": "220010041",
+        "nombre": "San Juan Dehedó"
+    },
+    {
+        "clave": "220010042",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "220010044",
+        "nombre": "San Miguel Tlaxcaltepec (Barrio Centro)"
+    },
+    {
+        "clave": "220010045",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "220010046",
+        "nombre": "San Pedro Tenango"
+    },
+    {
+        "clave": "220010048",
+        "nombre": "Santiago Mexquititlán Barrio 4to."
+    },
+    {
+        "clave": "220010049",
+        "nombre": "Santiago Mexquititlán Barrio 2do."
+    },
+    {
+        "clave": "220010050",
+        "nombre": "Santiago Mexquititlán Barrio 1ro."
+    },
+    {
+        "clave": "220010051",
+        "nombre": "El Saucito"
+    },
+    {
+        "clave": "220010052",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "220010053",
+        "nombre": "Tenasdá (Barrio de San Ildefonso)"
+    },
+    {
+        "clave": "220010054",
+        "nombre": "El Tepozán (Barrio de San Ildefonso)"
+    },
+    {
+        "clave": "220010055",
+        "nombre": "Guadalupe el Terrero"
+    },
+    {
+        "clave": "220010057",
+        "nombre": "La Alameda del Rincón"
+    },
+    {
+        "clave": "220010059",
+        "nombre": "El Bothé"
+    },
+    {
+        "clave": "220010060",
+        "nombre": "La Cruz (San Bartolo)"
+    },
+    {
+        "clave": "220010062",
+        "nombre": "Chitejé de Garabato"
+    },
+    {
+        "clave": "220010063",
+        "nombre": "El Granjeno"
+    },
+    {
+        "clave": "220010065",
+        "nombre": "La Piní"
+    },
+    {
+        "clave": "220010066",
+        "nombre": "San Antonio la Labor"
+    },
+    {
+        "clave": "220010072",
+        "nombre": "El Rayo"
+    },
+    {
+        "clave": "220010074",
+        "nombre": "El Rincón de San Ildefonso"
+    },
+    {
+        "clave": "220010075",
+        "nombre": "Los Arcos"
+    },
+    {
+        "clave": "220010077",
+        "nombre": "La Estancia"
+    },
+    {
+        "clave": "220010080",
+        "nombre": "Mal Paso (La Laguna)"
+    },
+    {
+        "clave": "220010084",
+        "nombre": "La Beata"
+    },
+    {
+        "clave": "220010086",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "220010087",
+        "nombre": "Ejido de San Juan Dehedó"
+    },
+    {
+        "clave": "220010088",
+        "nombre": "Rincón de la Florida"
+    },
+    {
+        "clave": "220010089",
+        "nombre": "Los Árboles"
+    },
+    {
+        "clave": "220010090",
+        "nombre": "El Capulín"
+    },
+    {
+        "clave": "220010093",
+        "nombre": "Loma de las Víboras (Santiago Mexquititlán Barrio 6to.)"
+    },
+    {
+        "clave": "220010094",
+        "nombre": "El Cacahuate (Santiago Mexquititlán Barrio 6to.)"
+    },
+    {
+        "clave": "220010095",
+        "nombre": "Barrio de Santa Teresa (Santiago Mexquititlán Barrio 6to.)"
+    },
+    {
+        "clave": "220010096",
+        "nombre": "Tierras Negras (Santiago Mexquititlán Barrio 6to.)"
+    },
+    {
+        "clave": "220010098",
+        "nombre": "Amárcigo (San Luis)"
+    },
+    {
+        "clave": "220010099",
+        "nombre": "Los Arenales (San Juan Dehedó)"
+    },
+    {
+        "clave": "220010100",
+        "nombre": "Arroyo Hondo"
+    },
+    {
+        "clave": "220010101",
+        "nombre": "El Rincón de Agua Buena (San Miguel Tlaxcaltepec)"
+    },
+    {
+        "clave": "220010102",
+        "nombre": "El Pueblito (San Miguel Tlaxcaltepec)"
+    },
+    {
+        "clave": "220010103",
+        "nombre": "Barrio de la Cruz (San Miguel Tlaxcaltepec)"
+    },
+    {
+        "clave": "220010104",
+        "nombre": "Barrio de la Isla (Santiago Mexquititlán Barrio 6to.)"
+    },
+    {
+        "clave": "220010105",
+        "nombre": "Barrio de la Ladera (San Miguel Tlaxcaltepec)"
+    },
+    {
+        "clave": "220010106",
+        "nombre": "La Venta (Santiago Mexquititlán Barrio 6to.)"
+    },
+    {
+        "clave": "220010107",
+        "nombre": "Barrio de San José (San Bartolo)"
+    },
+    {
+        "clave": "220010108",
+        "nombre": "Barrio Ojo de Agua (San Miguel Tlaxcaltepec)"
+    },
+    {
+        "clave": "220010109",
+        "nombre": "Barrio del Barco (San Miguel Tlaxcaltepec)"
+    },
+    {
+        "clave": "220010111",
+        "nombre": "Las Salvas"
+    },
+    {
+        "clave": "220010114",
+        "nombre": "Barrio Presa del Tecolote (El Lindero)"
+    },
+    {
+        "clave": "220010118",
+        "nombre": "El Coyote"
+    },
+    {
+        "clave": "220010124",
+        "nombre": "Las Grullas"
+    },
+    {
+        "clave": "220010125",
+        "nombre": "Llano Largo"
+    },
+    {
+        "clave": "220010127",
+        "nombre": "Loma de las Liebres (Los Árboles)"
+    },
+    {
+        "clave": "220010128",
+        "nombre": "Bordos Cuates"
+    },
+    {
+        "clave": "220010132",
+        "nombre": "Rancho el Sol (Chitejé de la Cruz)"
+    },
+    {
+        "clave": "220010137",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "220010139",
+        "nombre": "Los Argueta"
+    },
+    {
+        "clave": "220010144",
+        "nombre": "Tierra Negra"
+    },
+    {
+        "clave": "220010147",
+        "nombre": "Vista Real"
+    },
+    {
+        "clave": "220010148",
+        "nombre": "Xajay"
+    },
+    {
+        "clave": "220010151",
+        "nombre": "Familia Rojas Narváez (Rancho Miranda)"
+    },
+    {
+        "clave": "220010153",
+        "nombre": "Santa Clara"
+    },
+    {
+        "clave": "220010156",
+        "nombre": "El Baño"
+    },
+    {
+        "clave": "220010164",
+        "nombre": "El Saucito Sección la Muralla"
+    },
+    {
+        "clave": "220010166",
+        "nombre": "Callejón Bosdá"
+    },
+    {
+        "clave": "220010167",
+        "nombre": "Cerro de los Gallos"
+    },
+    {
+        "clave": "220010168",
+        "nombre": "Vera [Granja]"
+    },
+    {
+        "clave": "220010173",
+        "nombre": "El Juvilete"
+    },
+    {
+        "clave": "220010180",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "220010182",
+        "nombre": "Rinconada de Bonfil [Fraccionamiento]"
+    },
+    {
+        "clave": "220010185",
+        "nombre": "La Purísima"
+    },
+    {
+        "clave": "220010186",
+        "nombre": "Llano Largo Maravillas"
+    },
+    {
+        "clave": "220010187",
+        "nombre": "Loma de los Julianes"
+    },
+    {
+        "clave": "220010188",
+        "nombre": "Loma del Chivo"
+    },
+    {
+        "clave": "220010001",
+        "nombre": "Amealco de Bonfil"
+    },
+    {
+        "clave": "220010002",
+        "nombre": "Agua Blanca"
+    },
+    {
+        "clave": "220010020",
+        "nombre": "La Ladera"
+    },
+    {
+        "clave": "220010027",
+        "nombre": "La Muralla"
+    },
+    {
+        "clave": "220010043",
+        "nombre": "San Miguel Dehetí"
+    },
+    {
+        "clave": "220010056",
+        "nombre": "San Nicolás de la Torre"
+    },
+    {
+        "clave": "220010076",
+        "nombre": "Ejido el Rincón (La Botija)"
+    },
+    {
+        "clave": "220010081",
+        "nombre": "Las Lajas"
+    },
+    {
+        "clave": "220010085",
+        "nombre": "Los Reyes"
+    },
+    {
+        "clave": "220010091",
+        "nombre": "San José de los Encinos (Las Cabañas) [Fraccionamiento]"
+    },
+    {
+        "clave": "220010110",
+        "nombre": "Barrio del Coyote (San Bartolo)"
+    },
+    {
+        "clave": "220010113",
+        "nombre": "Barrio la Paloma (San Bartolo)"
+    },
+    {
+        "clave": "220010115",
+        "nombre": "Bosques del Renacimiento"
+    },
+    {
+        "clave": "220010116",
+        "nombre": "Buenos Aires (El Apartadero)"
+    },
+    {
+        "clave": "220010119",
+        "nombre": "La Cruz del Apartadero (La Garita)"
+    },
+    {
+        "clave": "220010122",
+        "nombre": "Rancho Casa Blanca"
+    },
+    {
+        "clave": "220010123",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "220010126",
+        "nombre": "La Loma del Apartadero"
+    },
+    {
+        "clave": "220010129",
+        "nombre": "Rancho San Andrés"
+    },
+    {
+        "clave": "220010130",
+        "nombre": "Rancho el Capiro"
+    },
+    {
+        "clave": "220010131",
+        "nombre": "Rancho el Siete (La Palizada)"
+    },
+    {
+        "clave": "220010133",
+        "nombre": "Rancho General Manuel Soberanes"
+    },
+    {
+        "clave": "220010134",
+        "nombre": "Rancho la Mora"
+    },
+    {
+        "clave": "220010136",
+        "nombre": "Rancho Monte Mercedes"
+    },
+    {
+        "clave": "220010138",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "220010140",
+        "nombre": "Rancho Sin Fortuna"
+    },
+    {
+        "clave": "220010141",
+        "nombre": "Rancho el Fresno"
+    },
+    {
+        "clave": "220010142",
+        "nombre": "Sección Sur de San Juan Dehedó"
+    },
+    {
+        "clave": "220010146",
+        "nombre": "Veinte de Noviembre"
+    },
+    {
+        "clave": "220010149",
+        "nombre": "Las Américas (La Haciendita)"
+    },
+    {
+        "clave": "220010150",
+        "nombre": "La Perita el Sillar"
+    },
+    {
+        "clave": "220010152",
+        "nombre": "Rancho San Antonio"
+    },
+    {
+        "clave": "220010154",
+        "nombre": "Arroyo Colorado"
+    },
+    {
+        "clave": "220010155",
+        "nombre": "La Atarjea"
+    },
+    {
+        "clave": "220010157",
+        "nombre": "Mesa de San Martín"
+    },
+    {
+        "clave": "220010158",
+        "nombre": "Familia Carapia"
+    },
+    {
+        "clave": "220010159",
+        "nombre": "Nuevo Amanecer"
+    },
+    {
+        "clave": "220010160",
+        "nombre": "La Perita [Fraccionamiento]"
+    },
+    {
+        "clave": "220010161",
+        "nombre": "Rancho el Durazno (San Bartolo)"
+    },
+    {
+        "clave": "220010162",
+        "nombre": "Rancho la Guadalupana"
+    },
+    {
+        "clave": "220010163",
+        "nombre": "Rancho los Tres Luises (Chitejé de la Cruz)"
+    },
+    {
+        "clave": "220010165",
+        "nombre": "Familia Anaya"
+    },
+    {
+        "clave": "220010169",
+        "nombre": "Rancho los Altares"
+    },
+    {
+        "clave": "220010170",
+        "nombre": "Rancho los Álvarez"
+    },
+    {
+        "clave": "220010171",
+        "nombre": "Rancho el Durazno (San Miguel Deheti)"
+    },
+    {
+        "clave": "220010175",
+        "nombre": "El Pinar"
+    },
+    {
+        "clave": "220010176",
+        "nombre": "CDI Amealco"
+    },
+    {
+        "clave": "220010178",
+        "nombre": "Colonia México"
+    },
+    {
+        "clave": "220010179",
+        "nombre": "Desviación a la Manzana"
+    },
+    {
+        "clave": "220010181",
+        "nombre": "El Plan (San José Ithó)"
+    },
+    {
+        "clave": "220010183",
+        "nombre": "Rinconada la Perita [Fraccionamiento]"
+    },
+    {
+        "clave": "220010190",
+        "nombre": "Ejido Emiliano Zapata"
+    },
+    {
+        "clave": "220010191",
+        "nombre": "La Noria"
+    },
+    {
+        "clave": "220010192",
+        "nombre": "Quinta la Paz"
+    }
+]

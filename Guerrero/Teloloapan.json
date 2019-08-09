@@ -1,0 +1,998 @@
+[
+    {
+        "clave": "120580016",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "120580018",
+        "nombre": "Buenavista Guadalupe"
+    },
+    {
+        "clave": "120580025",
+        "nombre": "Cantorpa de la Ceiba"
+    },
+    {
+        "clave": "120580027",
+        "nombre": "El Capire"
+    },
+    {
+        "clave": "120580028",
+        "nombre": "Carrizal de León"
+    },
+    {
+        "clave": "120580032",
+        "nombre": "Colonia Vicente Guerrero"
+    },
+    {
+        "clave": "120580033",
+        "nombre": "Colotepec"
+    },
+    {
+        "clave": "120580038",
+        "nombre": "Cruz Grande"
+    },
+    {
+        "clave": "120580043",
+        "nombre": "Chipilatengo"
+    },
+    {
+        "clave": "120580044",
+        "nombre": "Dolores"
+    },
+    {
+        "clave": "120580045",
+        "nombre": "El Duraznal"
+    },
+    {
+        "clave": "120580050",
+        "nombre": "Huerta Grande Norte"
+    },
+    {
+        "clave": "120580051",
+        "nombre": "Huerta Grande Sur"
+    },
+    {
+        "clave": "120580053",
+        "nombre": "Laguna Seca"
+    },
+    {
+        "clave": "120580062",
+        "nombre": "Monte Sauce"
+    },
+    {
+        "clave": "120580063",
+        "nombre": "Las Neblinas"
+    },
+    {
+        "clave": "120580064",
+        "nombre": "Nueva Senda"
+    },
+    {
+        "clave": "120580067",
+        "nombre": "Ozolotepec"
+    },
+    {
+        "clave": "120580072",
+        "nombre": "Puerto del Vigilante (El Filo)"
+    },
+    {
+        "clave": "120580076",
+        "nombre": "Rincón del Vigilante"
+    },
+    {
+        "clave": "120580085",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "120580086",
+        "nombre": "San Salvador"
+    },
+    {
+        "clave": "120580091",
+        "nombre": "Tehuixtla"
+    },
+    {
+        "clave": "120580095",
+        "nombre": "El Terrero Vistahermosa"
+    },
+    {
+        "clave": "120580109",
+        "nombre": "Tultepec de las Parotas"
+    },
+    {
+        "clave": "120580111",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "120580118",
+        "nombre": "Tule y Zacuapa"
+    },
+    {
+        "clave": "120580122",
+        "nombre": "Agua Zarca"
+    },
+    {
+        "clave": "120580126",
+        "nombre": "Corral Zocote"
+    },
+    {
+        "clave": "120580130",
+        "nombre": "Ixtlahualtoxtla (Ixtahuastotla)"
+    },
+    {
+        "clave": "120580131",
+        "nombre": "La Lagunita del Progreso"
+    },
+    {
+        "clave": "120580132",
+        "nombre": "Loma Zocote"
+    },
+    {
+        "clave": "120580133",
+        "nombre": "Los Mangos"
+    },
+    {
+        "clave": "120580134",
+        "nombre": "Las Moneras (Las Mohoneras)"
+    },
+    {
+        "clave": "120580137",
+        "nombre": "Los Pericones"
+    },
+    {
+        "clave": "120580138",
+        "nombre": "Petlahuaxale"
+    },
+    {
+        "clave": "120580139",
+        "nombre": "Los Pinzanes"
+    },
+    {
+        "clave": "120580141",
+        "nombre": "Puctepec Vista Hermosa"
+    },
+    {
+        "clave": "120580145",
+        "nombre": "El Quitzal"
+    },
+    {
+        "clave": "120580147",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "120580149",
+        "nombre": "Xixicastepec"
+    },
+    {
+        "clave": "120580151",
+        "nombre": "Arroyo Grande"
+    },
+    {
+        "clave": "120580152",
+        "nombre": "Chichimecapa"
+    },
+    {
+        "clave": "120580165",
+        "nombre": "Arena Ancha"
+    },
+    {
+        "clave": "120580167",
+        "nombre": "Ocotitlán (Santa María Ocotitlán)"
+    },
+    {
+        "clave": "120580172",
+        "nombre": "El Sabinito"
+    },
+    {
+        "clave": "120580175",
+        "nombre": "Ixtazacatla"
+    },
+    {
+        "clave": "120580206",
+        "nombre": "Rincón Parotas"
+    },
+    {
+        "clave": "120580216",
+        "nombre": "Tonalatl"
+    },
+    {
+        "clave": "120580223",
+        "nombre": "Cerro Cortado"
+    },
+    {
+        "clave": "120580224",
+        "nombre": "Cuadrilla del Encanto (Cerro del Barro)"
+    },
+    {
+        "clave": "120580229",
+        "nombre": "Tepescuahuit (Tepozcuahuilt)"
+    },
+    {
+        "clave": "120580232",
+        "nombre": "La Cañada del Durazno"
+    },
+    {
+        "clave": "120580237",
+        "nombre": "Puerto del Timón"
+    },
+    {
+        "clave": "120580238",
+        "nombre": "Amate Prieto"
+    },
+    {
+        "clave": "120580243",
+        "nombre": "Las Parotitas"
+    },
+    {
+        "clave": "120580249",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "120580251",
+        "nombre": "El Revelado"
+    },
+    {
+        "clave": "120580252",
+        "nombre": "Hacienda de los Fresnos"
+    },
+    {
+        "clave": "120580274",
+        "nombre": "La Cofradía"
+    },
+    {
+        "clave": "120580276",
+        "nombre": "Nuevo Amanecer"
+    },
+    {
+        "clave": "120580298",
+        "nombre": "Rancho Nuevo del Progreso"
+    },
+    {
+        "clave": "120580319",
+        "nombre": "Cuadrilla Nueva"
+    },
+    {
+        "clave": "120580003",
+        "nombre": "Acachautla"
+    },
+    {
+        "clave": "120580004",
+        "nombre": "Acatempan"
+    },
+    {
+        "clave": "120580006",
+        "nombre": "Acatlán de la Cruz"
+    },
+    {
+        "clave": "120580008",
+        "nombre": "El Ahuacate Zimatepec"
+    },
+    {
+        "clave": "120580009",
+        "nombre": "Ahuacatitlán"
+    },
+    {
+        "clave": "120580010",
+        "nombre": "Los Aguajes"
+    },
+    {
+        "clave": "120580011",
+        "nombre": "Ahuehuetla"
+    },
+    {
+        "clave": "120580012",
+        "nombre": "Alahuixtlán"
+    },
+    {
+        "clave": "120580013",
+        "nombre": "Alcholoa"
+    },
+    {
+        "clave": "120580014",
+        "nombre": "Alpixafia"
+    },
+    {
+        "clave": "120580015",
+        "nombre": "Apatzingán"
+    },
+    {
+        "clave": "120580020",
+        "nombre": "Cacahuatlán"
+    },
+    {
+        "clave": "120580024",
+        "nombre": "El Calvario"
+    },
+    {
+        "clave": "120580029",
+        "nombre": "Cerro Alto"
+    },
+    {
+        "clave": "120580031",
+        "nombre": "Coatepec Costales"
+    },
+    {
+        "clave": "120580034",
+        "nombre": "La Concepción Pura (La Purísima Concepción)"
+    },
+    {
+        "clave": "120580035",
+        "nombre": "La Concordia"
+    },
+    {
+        "clave": "120580036",
+        "nombre": "Cruz Blanca"
+    },
+    {
+        "clave": "120580040",
+        "nombre": "Los Cuatlix"
+    },
+    {
+        "clave": "120580041",
+        "nombre": "Chapa"
+    },
+    {
+        "clave": "120580047",
+        "nombre": "Los Espinos"
+    },
+    {
+        "clave": "120580048",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "120580054",
+        "nombre": "Liberal Guerrero"
+    },
+    {
+        "clave": "120580055",
+        "nombre": "Los Limones"
+    },
+    {
+        "clave": "120580056",
+        "nombre": "La Magdalena"
+    },
+    {
+        "clave": "120580058",
+        "nombre": "Mesas Neblinas"
+    },
+    {
+        "clave": "120580061",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "120580065",
+        "nombre": "Hacienda de Ocuilixtlahuacán"
+    },
+    {
+        "clave": "120580066",
+        "nombre": "Oxtotitlán"
+    },
+    {
+        "clave": "120580068",
+        "nombre": "Pezuapilla y Naranjo"
+    },
+    {
+        "clave": "120580069",
+        "nombre": "El Pochote (Pochote)"
+    },
+    {
+        "clave": "120580070",
+        "nombre": "Plan del Sabino"
+    },
+    {
+        "clave": "120580073",
+        "nombre": "Ranchos Nuevos"
+    },
+    {
+        "clave": "120580074",
+        "nombre": "Rincón Chiquito"
+    },
+    {
+        "clave": "120580075",
+        "nombre": "Rincón del Sauce"
+    },
+    {
+        "clave": "120580078",
+        "nombre": "Río de Zayulapa (Sayulapan)"
+    },
+    {
+        "clave": "120580079",
+        "nombre": "Los Sabinos"
+    },
+    {
+        "clave": "120580081",
+        "nombre": "San Antonio Acachautla"
+    },
+    {
+        "clave": "120580082",
+        "nombre": "San Antonio Ahuehuepan"
+    },
+    {
+        "clave": "120580083",
+        "nombre": "San Antonio Guerrero"
+    },
+    {
+        "clave": "120580084",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "120580087",
+        "nombre": "Santa Cruz Unión"
+    },
+    {
+        "clave": "120580089",
+        "nombre": "Los Sauces"
+    },
+    {
+        "clave": "120580090",
+        "nombre": "El Tanque (Tanque Alto)"
+    },
+    {
+        "clave": "120580092",
+        "nombre": "Tenancingo"
+    },
+    {
+        "clave": "120580093",
+        "nombre": "Tenantitlán"
+    },
+    {
+        "clave": "120580094",
+        "nombre": "Tepozonalquillo"
+    },
+    {
+        "clave": "120580096",
+        "nombre": "Tetzilacatlán"
+    },
+    {
+        "clave": "120580097",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "120580098",
+        "nombre": "Tlacuitlapa"
+    },
+    {
+        "clave": "120580099",
+        "nombre": "Tlajocotla (La Hacienda)"
+    },
+    {
+        "clave": "120580100",
+        "nombre": "Tlalpexco"
+    },
+    {
+        "clave": "120580101",
+        "nombre": "Tlanipatlán (De las Limas)"
+    },
+    {
+        "clave": "120580102",
+        "nombre": "Tianquizolco Ixticapan"
+    },
+    {
+        "clave": "120580105",
+        "nombre": "Tonalapa del Río Cuauhtémoc (Barrio de Santa María)"
+    },
+    {
+        "clave": "120580106",
+        "nombre": "Tonalcual"
+    },
+    {
+        "clave": "120580107",
+        "nombre": "Totoltepec"
+    },
+    {
+        "clave": "120580110",
+        "nombre": "Tuxtla Cuevillas"
+    },
+    {
+        "clave": "120580112",
+        "nombre": "Valle de Xóchil"
+    },
+    {
+        "clave": "120580113",
+        "nombre": "El Verdecillo"
+    },
+    {
+        "clave": "120580114",
+        "nombre": "Villa de Ayala"
+    },
+    {
+        "clave": "120580115",
+        "nombre": "Yerbabuena"
+    },
+    {
+        "clave": "120580116",
+        "nombre": "Zacatlán de Guerrero"
+    },
+    {
+        "clave": "120580117",
+        "nombre": "Zacatlancillo"
+    },
+    {
+        "clave": "120580119",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "120580120",
+        "nombre": "Zopiloal"
+    },
+    {
+        "clave": "120580123",
+        "nombre": "El Ahuacatito (El Aguacate)"
+    },
+    {
+        "clave": "120580125",
+        "nombre": "Buenavista de Chapa"
+    },
+    {
+        "clave": "120580127",
+        "nombre": "Cruz Prieta"
+    },
+    {
+        "clave": "120580136",
+        "nombre": "Las Paredes"
+    },
+    {
+        "clave": "120580142",
+        "nombre": "Puerto del Ocote"
+    },
+    {
+        "clave": "120580143",
+        "nombre": "Puerto de las Flores"
+    },
+    {
+        "clave": "120580157",
+        "nombre": "Mextitlán (Tonalapita)"
+    },
+    {
+        "clave": "120580169",
+        "nombre": "Pedernales (Paderones)"
+    },
+    {
+        "clave": "120580179",
+        "nombre": "Buenavista del Aire"
+    },
+    {
+        "clave": "120580181",
+        "nombre": "Las Ceibas"
+    },
+    {
+        "clave": "120580221",
+        "nombre": "Telixtac"
+    },
+    {
+        "clave": "120580222",
+        "nombre": "El Amate"
+    },
+    {
+        "clave": "120580234",
+        "nombre": "Los Coajiotes"
+    },
+    {
+        "clave": "120580236",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "120580260",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "120580261",
+        "nombre": "La Maravilla"
+    },
+    {
+        "clave": "120580264",
+        "nombre": "Primera Cerca"
+    },
+    {
+        "clave": "120580294",
+        "nombre": "Colonia el Pedregal"
+    },
+    {
+        "clave": "120580297",
+        "nombre": "Miahuatepec"
+    },
+    {
+        "clave": "120580324",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "120580001",
+        "nombre": "Teloloapan"
+    },
+    {
+        "clave": "120580019",
+        "nombre": "Buenavista de Guerrero (Filo Seco)"
+    },
+    {
+        "clave": "120580023",
+        "nombre": "Calpantitla"
+    },
+    {
+        "clave": "120580026",
+        "nombre": "La Cañita"
+    },
+    {
+        "clave": "120580030",
+        "nombre": "Cerro Grande"
+    },
+    {
+        "clave": "120580037",
+        "nombre": "Cruz de Piedra"
+    },
+    {
+        "clave": "120580049",
+        "nombre": "El Huamúchil (El Pinzán)"
+    },
+    {
+        "clave": "120580052",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "120580057",
+        "nombre": "Mesas Mirabal"
+    },
+    {
+        "clave": "120580059",
+        "nombre": "Miacatzingo"
+    },
+    {
+        "clave": "120580103",
+        "nombre": "Tlapacoya"
+    },
+    {
+        "clave": "120580104",
+        "nombre": "Tonalapa del Río"
+    },
+    {
+        "clave": "120580144",
+        "nombre": "Puerto de los Fresnos"
+    },
+    {
+        "clave": "120580156",
+        "nombre": "Puerto Rico"
+    },
+    {
+        "clave": "120580160",
+        "nombre": "Atzizintla"
+    },
+    {
+        "clave": "120580168",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "120580173",
+        "nombre": "La Cañada"
+    },
+    {
+        "clave": "120580174",
+        "nombre": "Mesa del Guahuche (El Guahuche)"
+    },
+    {
+        "clave": "120580188",
+        "nombre": "Chila"
+    },
+    {
+        "clave": "120580195",
+        "nombre": "El Izote"
+    },
+    {
+        "clave": "120580198",
+        "nombre": "Palos Altos"
+    },
+    {
+        "clave": "120580199",
+        "nombre": "La Media Luna"
+    },
+    {
+        "clave": "120580202",
+        "nombre": "Las Pascuas"
+    },
+    {
+        "clave": "120580203",
+        "nombre": "Peña Colorada"
+    },
+    {
+        "clave": "120580205",
+        "nombre": "Puerto de la Cruz"
+    },
+    {
+        "clave": "120580208",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "120580214",
+        "nombre": "Texustlal (Rancho Domínguez)"
+    },
+    {
+        "clave": "120580219",
+        "nombre": "Crucero de los Espinos"
+    },
+    {
+        "clave": "120580220",
+        "nombre": "Puente del Río los Sabinos (Xalpatlahuaca)"
+    },
+    {
+        "clave": "120580225",
+        "nombre": "El Puente Guerrero (La Españolita)"
+    },
+    {
+        "clave": "120580226",
+        "nombre": "Los Linderos"
+    },
+    {
+        "clave": "120580230",
+        "nombre": "Tepozotlaco"
+    },
+    {
+        "clave": "120580240",
+        "nombre": "Texcalxintla"
+    },
+    {
+        "clave": "120580242",
+        "nombre": "Los López"
+    },
+    {
+        "clave": "120580244",
+        "nombre": "Tecuantlazala"
+    },
+    {
+        "clave": "120580245",
+        "nombre": "Las Tejas"
+    },
+    {
+        "clave": "120580246",
+        "nombre": "Rancho Viejo de las Flores"
+    },
+    {
+        "clave": "120580247",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "120580248",
+        "nombre": "Rancho la Perla"
+    },
+    {
+        "clave": "120580253",
+        "nombre": "Arnulfo Hernández Rodríguez"
+    },
+    {
+        "clave": "120580254",
+        "nombre": "Agua Zarca"
+    },
+    {
+        "clave": "120580255",
+        "nombre": "Arroyo Zacatlán"
+    },
+    {
+        "clave": "120580256",
+        "nombre": "Cuadrilla el Amate"
+    },
+    {
+        "clave": "120580257",
+        "nombre": "Crucero del Calvario"
+    },
+    {
+        "clave": "120580258",
+        "nombre": "Las Granjas"
+    },
+    {
+        "clave": "120580259",
+        "nombre": "Guarda Ganado"
+    },
+    {
+        "clave": "120580262",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "120580266",
+        "nombre": "Rancho Don Felipe"
+    },
+    {
+        "clave": "120580268",
+        "nombre": "Los Coheteros"
+    },
+    {
+        "clave": "120580269",
+        "nombre": "El Mango"
+    },
+    {
+        "clave": "120580272",
+        "nombre": "Colonia Vicente Guerrero"
+    },
+    {
+        "clave": "120580273",
+        "nombre": "Antonio Estrada"
+    },
+    {
+        "clave": "120580275",
+        "nombre": "El Mirador (Parada de Oxtotitlán)"
+    },
+    {
+        "clave": "120580277",
+        "nombre": "Paraje Cruz de Piedra"
+    },
+    {
+        "clave": "120580278",
+        "nombre": "El Platanar (El Zapote Blanco)"
+    },
+    {
+        "clave": "120580279",
+        "nombre": "La Quebradora"
+    },
+    {
+        "clave": "120580280",
+        "nombre": "Rancho Amate Amarillo"
+    },
+    {
+        "clave": "120580281",
+        "nombre": "Las Saibas"
+    },
+    {
+        "clave": "120580282",
+        "nombre": "Las Trancas"
+    },
+    {
+        "clave": "120580283",
+        "nombre": "Tulatengo"
+    },
+    {
+        "clave": "120580284",
+        "nombre": "Apolonio Bahena"
+    },
+    {
+        "clave": "120580285",
+        "nombre": "Atlala"
+    },
+    {
+        "clave": "120580286",
+        "nombre": "La Bajada del Aguacate (Feliciano Velásquez)"
+    },
+    {
+        "clave": "120580287",
+        "nombre": "Cacaloxtitlán (Los Tepetates)"
+    },
+    {
+        "clave": "120580288",
+        "nombre": "La Casa Blanca"
+    },
+    {
+        "clave": "120580289",
+        "nombre": "Oxtotitlán I"
+    },
+    {
+        "clave": "120580290",
+        "nombre": "El Sompancle (Jorge Román)"
+    },
+    {
+        "clave": "120580291",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "120580292",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "120580293",
+        "nombre": "La Parada del Zapote"
+    },
+    {
+        "clave": "120580295",
+        "nombre": "Loma Larga"
+    },
+    {
+        "clave": "120580296",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "120580299",
+        "nombre": "El Amate"
+    },
+    {
+        "clave": "120580300",
+        "nombre": "Camoxitla"
+    },
+    {
+        "clave": "120580301",
+        "nombre": "Minera Rey de Peñoles [Campamento Minero Peñoles]"
+    },
+    {
+        "clave": "120580302",
+        "nombre": "El Ciruelar"
+    },
+    {
+        "clave": "120580303",
+        "nombre": "Domingo Bravo (Cerrito Domingo Bravo)"
+    },
+    {
+        "clave": "120580304",
+        "nombre": "Las Granjas"
+    },
+    {
+        "clave": "120580305",
+        "nombre": "Llano Grande"
+    },
+    {
+        "clave": "120580306",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "120580307",
+        "nombre": "Parotas del Río"
+    },
+    {
+        "clave": "120580308",
+        "nombre": "Rancho Cahuilahuaca"
+    },
+    {
+        "clave": "120580309",
+        "nombre": "Rancho de Jacinto Álvarez"
+    },
+    {
+        "clave": "120580310",
+        "nombre": "Rancho el Fresno (Rancho de Eufrosino Flores)"
+    },
+    {
+        "clave": "120580311",
+        "nombre": "Rancho el Potrero (Rancho Ranferi Rodríguez)"
+    },
+    {
+        "clave": "120580312",
+        "nombre": "Rancho la Esmeralda"
+    },
+    {
+        "clave": "120580313",
+        "nombre": "Rancho la Mediagua"
+    },
+    {
+        "clave": "120580314",
+        "nombre": "Rancho Tres Caminos"
+    },
+    {
+        "clave": "120580315",
+        "nombre": "Semefo"
+    },
+    {
+        "clave": "120580316",
+        "nombre": "Teolochulco"
+    },
+    {
+        "clave": "120580317",
+        "nombre": "Rancho los Flores"
+    },
+    {
+        "clave": "120580318",
+        "nombre": "Puerto del Encino"
+    },
+    {
+        "clave": "120580320",
+        "nombre": "Petláhual"
+    },
+    {
+        "clave": "120580321",
+        "nombre": "Palo Prieto"
+    },
+    {
+        "clave": "120580322",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "120580323",
+        "nombre": "La Joya del Clavellino"
+    },
+    {
+        "clave": "120580325",
+        "nombre": "Rancho el Diamante"
+    },
+    {
+        "clave": "120580326",
+        "nombre": "Rancho el Cirián"
+    },
+    {
+        "clave": "120580327",
+        "nombre": "Rancho el Ciruelo"
+    },
+    {
+        "clave": "120580328",
+        "nombre": "Atlmolonga"
+    }
+]

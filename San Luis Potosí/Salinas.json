@@ -1,0 +1,558 @@
+[
+    {
+        "clave": "240250016",
+        "nombre": "Salto Matorral"
+    },
+    {
+        "clave": "240250036",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "240250037",
+        "nombre": "Sotol"
+    },
+    {
+        "clave": "240250054",
+        "nombre": "San Juan sin Agua"
+    },
+    {
+        "clave": "240250059",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "240250075",
+        "nombre": "Martínez (Las Timias)"
+    },
+    {
+        "clave": "240250085",
+        "nombre": "Lira"
+    },
+    {
+        "clave": "240250127",
+        "nombre": "Los Cerritos"
+    },
+    {
+        "clave": "240250137",
+        "nombre": "Rancho los Lara (Triana)"
+    },
+    {
+        "clave": "240250146",
+        "nombre": "Rincón de Diego Martín (Charco Colorado)"
+    },
+    {
+        "clave": "240250002",
+        "nombre": "El Alegre"
+    },
+    {
+        "clave": "240250004",
+        "nombre": "Bajío de los Encinos (Los Encinitos)"
+    },
+    {
+        "clave": "240250005",
+        "nombre": "La Mesilla (Colonia Juárez)"
+    },
+    {
+        "clave": "240250006",
+        "nombre": "La Bolsa"
+    },
+    {
+        "clave": "240250007",
+        "nombre": "Las Colonias (Colonia Juárez)"
+    },
+    {
+        "clave": "240250008",
+        "nombre": "Conejillo"
+    },
+    {
+        "clave": "240250009",
+        "nombre": "El Con"
+    },
+    {
+        "clave": "240250010",
+        "nombre": "San Pedro de Alcántar"
+    },
+    {
+        "clave": "240250011",
+        "nombre": "Diego Martín (Charco Colorado)"
+    },
+    {
+        "clave": "240250013",
+        "nombre": "El Estribo"
+    },
+    {
+        "clave": "240250014",
+        "nombre": "Guadalupito"
+    },
+    {
+        "clave": "240250015",
+        "nombre": "Guadalupe Victoria (La Noria del Jacalón)"
+    },
+    {
+        "clave": "240250017",
+        "nombre": "La Mesilla"
+    },
+    {
+        "clave": "240250018",
+        "nombre": "El Mezquite"
+    },
+    {
+        "clave": "240250021",
+        "nombre": "Palma Pegada"
+    },
+    {
+        "clave": "240250022",
+        "nombre": "El Potro"
+    },
+    {
+        "clave": "240250023",
+        "nombre": "Pozo Seco"
+    },
+    {
+        "clave": "240250024",
+        "nombre": "Punteros (San José de Punteros)"
+    },
+    {
+        "clave": "240250025",
+        "nombre": "Puerto del Chino"
+    },
+    {
+        "clave": "240250026",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "240250028",
+        "nombre": "Salitrillo"
+    },
+    {
+        "clave": "240250029",
+        "nombre": "San Antonio de la Paz"
+    },
+    {
+        "clave": "240250030",
+        "nombre": "San Evaristo"
+    },
+    {
+        "clave": "240250031",
+        "nombre": "San Expedito"
+    },
+    {
+        "clave": "240250032",
+        "nombre": "San Isidro Peñón Blanco"
+    },
+    {
+        "clave": "240250034",
+        "nombre": "San Tadeo"
+    },
+    {
+        "clave": "240250035",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "240250038",
+        "nombre": "El Tecolote"
+    },
+    {
+        "clave": "240250040",
+        "nombre": "Triana"
+    },
+    {
+        "clave": "240250041",
+        "nombre": "Colonia Zaragoza (Garabatillo)"
+    },
+    {
+        "clave": "240250046",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "240250047",
+        "nombre": "La Mantenedora"
+    },
+    {
+        "clave": "240250049",
+        "nombre": "El Llano del Conejillo"
+    },
+    {
+        "clave": "240250051",
+        "nombre": "Viborillas"
+    },
+    {
+        "clave": "240250056",
+        "nombre": "Vicente Guerrero (La Cócona)"
+    },
+    {
+        "clave": "240250058",
+        "nombre": "Cuéllar"
+    },
+    {
+        "clave": "240250061",
+        "nombre": "El Charco del Toro"
+    },
+    {
+        "clave": "240250073",
+        "nombre": "El Cuervo"
+    },
+    {
+        "clave": "240250079",
+        "nombre": "Noria de Cañas"
+    },
+    {
+        "clave": "240250080",
+        "nombre": "San José del Olvido"
+    },
+    {
+        "clave": "240250088",
+        "nombre": "El Mezquital"
+    },
+    {
+        "clave": "240250089",
+        "nombre": "El Jabonero"
+    },
+    {
+        "clave": "240250092",
+        "nombre": "El Camarón"
+    },
+    {
+        "clave": "240250093",
+        "nombre": "Laguna el Marrano"
+    },
+    {
+        "clave": "240250094",
+        "nombre": "Piedras Negras"
+    },
+    {
+        "clave": "240250098",
+        "nombre": "Los Montecitos"
+    },
+    {
+        "clave": "240250100",
+        "nombre": "San Pedro Alcántar (La Chinche)"
+    },
+    {
+        "clave": "240250104",
+        "nombre": "El Carajo"
+    },
+    {
+        "clave": "240250124",
+        "nombre": "San Isidro de Triana"
+    },
+    {
+        "clave": "240250131",
+        "nombre": "La Escobilla"
+    },
+    {
+        "clave": "240250133",
+        "nombre": "La Nueva Joya"
+    },
+    {
+        "clave": "240250140",
+        "nombre": "San Tadeo"
+    },
+    {
+        "clave": "240250152",
+        "nombre": "Bajío de los Encinos (Los Pirules)"
+    },
+    {
+        "clave": "240250164",
+        "nombre": "Los Güeros"
+    },
+    {
+        "clave": "240250001",
+        "nombre": "Salinas de Hidalgo"
+    },
+    {
+        "clave": "240250003",
+        "nombre": "Azogueros"
+    },
+    {
+        "clave": "240250019",
+        "nombre": "El Mosco"
+    },
+    {
+        "clave": "240250020",
+        "nombre": "Noria del Padre"
+    },
+    {
+        "clave": "240250039",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "240250044",
+        "nombre": "Noria del Tajo (Los Tajos)"
+    },
+    {
+        "clave": "240250048",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "240250053",
+        "nombre": "Estación Peñón Blanco"
+    },
+    {
+        "clave": "240250055",
+        "nombre": "Jonuco (Laguna de Cornejo)"
+    },
+    {
+        "clave": "240250057",
+        "nombre": "La Cueva"
+    },
+    {
+        "clave": "240250060",
+        "nombre": "Rancho Estancia del Carmen"
+    },
+    {
+        "clave": "240250062",
+        "nombre": "Los Encinos"
+    },
+    {
+        "clave": "240250063",
+        "nombre": "El Gato"
+    },
+    {
+        "clave": "240250066",
+        "nombre": "Rancho el Dinero"
+    },
+    {
+        "clave": "240250068",
+        "nombre": "San Cayetano"
+    },
+    {
+        "clave": "240250069",
+        "nombre": "Laguna del Carmen"
+    },
+    {
+        "clave": "240250070",
+        "nombre": "San José (El Agujereado)"
+    },
+    {
+        "clave": "240250074",
+        "nombre": "El Lobito"
+    },
+    {
+        "clave": "240250086",
+        "nombre": "Noria de San Juan"
+    },
+    {
+        "clave": "240250095",
+        "nombre": "Nueva Reforma"
+    },
+    {
+        "clave": "240250096",
+        "nombre": "San Ángel del Río"
+    },
+    {
+        "clave": "240250099",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "240250102",
+        "nombre": "El Bajío del Pico"
+    },
+    {
+        "clave": "240250103",
+        "nombre": "Calderas (Fábrica de Sal)"
+    },
+    {
+        "clave": "240250105",
+        "nombre": "Cerrito de los Tapeistes"
+    },
+    {
+        "clave": "240250106",
+        "nombre": "El Charco (Ejido Diego Martín)"
+    },
+    {
+        "clave": "240250107",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "240250108",
+        "nombre": "Las Encinitas"
+    },
+    {
+        "clave": "240250109",
+        "nombre": "La Estrella"
+    },
+    {
+        "clave": "240250110",
+        "nombre": "La Huerta (José López)"
+    },
+    {
+        "clave": "240250111",
+        "nombre": "El Jabonero (Jerónimo Dimas)"
+    },
+    {
+        "clave": "240250112",
+        "nombre": "Santa Bárbara"
+    },
+    {
+        "clave": "240250113",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "240250116",
+        "nombre": "La Mesilla (Félix Martínez Rodríguez)"
+    },
+    {
+        "clave": "240250117",
+        "nombre": "Milpas Viejas"
+    },
+    {
+        "clave": "240250119",
+        "nombre": "Noria del Arenal"
+    },
+    {
+        "clave": "240250120",
+        "nombre": "San Martín (La Botona)"
+    },
+    {
+        "clave": "240250121",
+        "nombre": "La Pasión"
+    },
+    {
+        "clave": "240250122",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "240250123",
+        "nombre": "La Purísima (La Calavera)"
+    },
+    {
+        "clave": "240250125",
+        "nombre": "Huerta los Árboles"
+    },
+    {
+        "clave": "240250126",
+        "nombre": "Colonia la Paz"
+    },
+    {
+        "clave": "240250128",
+        "nombre": "Nuevo Centro de Población la Paz"
+    },
+    {
+        "clave": "240250129",
+        "nombre": "Rancho la Soledad"
+    },
+    {
+        "clave": "240250130",
+        "nombre": "El Tejón"
+    },
+    {
+        "clave": "240250132",
+        "nombre": "Juan Guerrero"
+    },
+    {
+        "clave": "240250134",
+        "nombre": "La Pedrera"
+    },
+    {
+        "clave": "240250135",
+        "nombre": "La Pedrera"
+    },
+    {
+        "clave": "240250136",
+        "nombre": "Rancho los Coronado"
+    },
+    {
+        "clave": "240250139",
+        "nombre": "San José"
+    },
+    {
+        "clave": "240250141",
+        "nombre": "El Tepozán"
+    },
+    {
+        "clave": "240250142",
+        "nombre": "Laguna Grande"
+    },
+    {
+        "clave": "240250143",
+        "nombre": "Rancho la Esperanza"
+    },
+    {
+        "clave": "240250144",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "240250147",
+        "nombre": "Rancho el Papalote (Ezequiel Calzada)"
+    },
+    {
+        "clave": "240250148",
+        "nombre": "Las Coloradas"
+    },
+    {
+        "clave": "240250149",
+        "nombre": "El Mezquite"
+    },
+    {
+        "clave": "240250150",
+        "nombre": "Colonia el Polvorín"
+    },
+    {
+        "clave": "240250151",
+        "nombre": "Fracción la Zanja"
+    },
+    {
+        "clave": "240250153",
+        "nombre": "El Duque"
+    },
+    {
+        "clave": "240250154",
+        "nombre": "El Nogal"
+    },
+    {
+        "clave": "240250155",
+        "nombre": "El Palomar"
+    },
+    {
+        "clave": "240250156",
+        "nombre": "El Peñón (Daniel Chávez)"
+    },
+    {
+        "clave": "240250157",
+        "nombre": "El Venadito"
+    },
+    {
+        "clave": "240250158",
+        "nombre": "Juan Guerrero"
+    },
+    {
+        "clave": "240250159",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "240250160",
+        "nombre": "La Estancia"
+    },
+    {
+        "clave": "240250161",
+        "nombre": "La Jarilla (Aristeo Contreras)"
+    },
+    {
+        "clave": "240250162",
+        "nombre": "La Lupita"
+    },
+    {
+        "clave": "240250163",
+        "nombre": "Las Águilas"
+    },
+    {
+        "clave": "240250165",
+        "nombre": "Los Mirasoles"
+    },
+    {
+        "clave": "240250166",
+        "nombre": "Pedro Torres Delgado"
+    },
+    {
+        "clave": "240250167",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "240250168",
+        "nombre": "San Juan (Acevedo Parra)"
+    },
+    {
+        "clave": "240250169",
+        "nombre": "Santa Cruz"
+    }
+]

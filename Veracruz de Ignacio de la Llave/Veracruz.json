@@ -1,0 +1,578 @@
+[
+    {
+        "clave": "301930092",
+        "nombre": "Punta Gorda"
+    },
+    {
+        "clave": "301930094",
+        "nombre": "San Bernardo"
+    },
+    {
+        "clave": "301930118",
+        "nombre": "Plan de Oro"
+    },
+    {
+        "clave": "301930158",
+        "nombre": "Río Grande"
+    },
+    {
+        "clave": "301930164",
+        "nombre": "Basurero Municipal"
+    },
+    {
+        "clave": "301930191",
+        "nombre": "Entrada a Punta Gorda"
+    },
+    {
+        "clave": "301930059",
+        "nombre": "El Almendro Sonora"
+    },
+    {
+        "clave": "301930064",
+        "nombre": "Cabo Verde"
+    },
+    {
+        "clave": "301930066",
+        "nombre": "Los Caños de Santa Rita"
+    },
+    {
+        "clave": "301930083",
+        "nombre": "San Julián"
+    },
+    {
+        "clave": "301930108",
+        "nombre": "Las Higueras"
+    },
+    {
+        "clave": "301930140",
+        "nombre": "Las Golondrinas"
+    },
+    {
+        "clave": "301930143",
+        "nombre": "Rancho Tembladeras"
+    },
+    {
+        "clave": "301930157",
+        "nombre": "Río Medio [Granja]"
+    },
+    {
+        "clave": "301930167",
+        "nombre": "Laguna de las Conchas"
+    },
+    {
+        "clave": "301930174",
+        "nombre": "Rancho Tamaca"
+    },
+    {
+        "clave": "301930205",
+        "nombre": "Colonia Malibrán"
+    },
+    {
+        "clave": "301930208",
+        "nombre": "Ampliación las Bajadas"
+    },
+    {
+        "clave": "301930209",
+        "nombre": "Colonia Bahia Libre"
+    },
+    {
+        "clave": "301930210",
+        "nombre": "Las Amapolas (Puente Roto) [Gasolinera]"
+    },
+    {
+        "clave": "301930219",
+        "nombre": "Colonia Cardenista Antonio Luna"
+    },
+    {
+        "clave": "301930220",
+        "nombre": "Colonia Desciseis de Septiembre"
+    },
+    {
+        "clave": "301930224",
+        "nombre": "Las Torres"
+    },
+    {
+        "clave": "301930226",
+        "nombre": "Sentimientos de la Nación"
+    },
+    {
+        "clave": "301930227",
+        "nombre": "Unidad Antorchista"
+    },
+    {
+        "clave": "301930237",
+        "nombre": "Colonia Bicentenario 2010"
+    },
+    {
+        "clave": "301930001",
+        "nombre": "Veracruz"
+    },
+    {
+        "clave": "301930047",
+        "nombre": "Paso del Pis"
+    },
+    {
+        "clave": "301930060",
+        "nombre": "Las Amapolas"
+    },
+    {
+        "clave": "301930061",
+        "nombre": "Las Bajadas"
+    },
+    {
+        "clave": "301930065",
+        "nombre": "Campestre las Bajadas"
+    },
+    {
+        "clave": "301930070",
+        "nombre": "Delfino Victoria (Santa Fe)"
+    },
+    {
+        "clave": "301930072",
+        "nombre": "Dos Lomas"
+    },
+    {
+        "clave": "301930073",
+        "nombre": "La Higuera"
+    },
+    {
+        "clave": "301930075",
+        "nombre": "Malibrán de las Brujas"
+    },
+    {
+        "clave": "301930076",
+        "nombre": "Mata Cocuite"
+    },
+    {
+        "clave": "301930077",
+        "nombre": "Mata de Pita"
+    },
+    {
+        "clave": "301930078",
+        "nombre": "Oluta"
+    },
+    {
+        "clave": "301930080",
+        "nombre": "Paso San Juan"
+    },
+    {
+        "clave": "301930084",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "301930085",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "301930087",
+        "nombre": "Valente Díaz"
+    },
+    {
+        "clave": "301930088",
+        "nombre": "Vargas"
+    },
+    {
+        "clave": "301930090",
+        "nombre": "Villarín"
+    },
+    {
+        "clave": "301930093",
+        "nombre": "Nevería"
+    },
+    {
+        "clave": "301930099",
+        "nombre": "El Jobo"
+    },
+    {
+        "clave": "301930101",
+        "nombre": "Eduardo Azar"
+    },
+    {
+        "clave": "301930103",
+        "nombre": "Santa Fe [Gasolinera]"
+    },
+    {
+        "clave": "301930105",
+        "nombre": "La Perla"
+    },
+    {
+        "clave": "301930106",
+        "nombre": "Los Tuxtlas"
+    },
+    {
+        "clave": "301930109",
+        "nombre": "El Zarzal"
+    },
+    {
+        "clave": "301930111",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "301930112",
+        "nombre": "Chelito [Granja]"
+    },
+    {
+        "clave": "301930114",
+        "nombre": "El Jobo"
+    },
+    {
+        "clave": "301930115",
+        "nombre": "La Parroquia"
+    },
+    {
+        "clave": "301930116",
+        "nombre": "Maravillas"
+    },
+    {
+        "clave": "301930117",
+        "nombre": "El Pando"
+    },
+    {
+        "clave": "301930120",
+        "nombre": "Bajos del Jobo (Puente Moreno)"
+    },
+    {
+        "clave": "301930121",
+        "nombre": "Río Medio"
+    },
+    {
+        "clave": "301930122",
+        "nombre": "San José [Seminario Menor]"
+    },
+    {
+        "clave": "301930123",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "301930124",
+        "nombre": "Santa Guillermina (Residencial del Bosque)"
+    },
+    {
+        "clave": "301930125",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "301930127",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "301930133",
+        "nombre": "Hacienda la Capilla de la Parroquia"
+    },
+    {
+        "clave": "301930134",
+        "nombre": "El Infante"
+    },
+    {
+        "clave": "301930135",
+        "nombre": "Rancho Oluta"
+    },
+    {
+        "clave": "301930137",
+        "nombre": "El Cocal"
+    },
+    {
+        "clave": "301930138",
+        "nombre": "Loma de Lila"
+    },
+    {
+        "clave": "301930139",
+        "nombre": "La Parroquia"
+    },
+    {
+        "clave": "301930141",
+        "nombre": "Las Brisas"
+    },
+    {
+        "clave": "301930142",
+        "nombre": "Rancho Roca"
+    },
+    {
+        "clave": "301930145",
+        "nombre": "El Gringo"
+    },
+    {
+        "clave": "301930146",
+        "nombre": "Monserrat"
+    },
+    {
+        "clave": "301930148",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "301930149",
+        "nombre": "Gasolina [Club de Cazadores]"
+    },
+    {
+        "clave": "301930150",
+        "nombre": "Colonia el Renacimiento"
+    },
+    {
+        "clave": "301930151",
+        "nombre": "Colonia Chalchihuecan"
+    },
+    {
+        "clave": "301930153",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "301930154",
+        "nombre": "Rancho Tiburón (El Pescadito)"
+    },
+    {
+        "clave": "301930155",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "301930156",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "301930159",
+        "nombre": "Barranca Honda (Laguna Larga)"
+    },
+    {
+        "clave": "301930160",
+        "nombre": "Las Pailas"
+    },
+    {
+        "clave": "301930163",
+        "nombre": "Hotel Montebello"
+    },
+    {
+        "clave": "301930170",
+        "nombre": "Rancho Aluminio"
+    },
+    {
+        "clave": "301930173",
+        "nombre": "Los Gutiérrez"
+    },
+    {
+        "clave": "301930175",
+        "nombre": "Isla Sacrificios (Isla de Sacrificios)"
+    },
+    {
+        "clave": "301930176",
+        "nombre": "El Cortijo"
+    },
+    {
+        "clave": "301930177",
+        "nombre": "El Chícharo (Pacheco)"
+    },
+    {
+        "clave": "301930178",
+        "nombre": "El Manantial"
+    },
+    {
+        "clave": "301930179",
+        "nombre": "Arroyo de Caña"
+    },
+    {
+        "clave": "301930180",
+        "nombre": "Río Medio"
+    },
+    {
+        "clave": "301930181",
+        "nombre": "Las Amapolas Dos"
+    },
+    {
+        "clave": "301930182",
+        "nombre": "Colonia del Proletariado (Pica Pica)"
+    },
+    {
+        "clave": "301930183",
+        "nombre": "El Estero (Candelaria Barrios)"
+    },
+    {
+        "clave": "301930185",
+        "nombre": "Manolo Díaz"
+    },
+    {
+        "clave": "301930186",
+        "nombre": "Rafael Guízar y Valencia"
+    },
+    {
+        "clave": "301930190",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "301930192",
+        "nombre": "Camino Real"
+    },
+    {
+        "clave": "301930193",
+        "nombre": "Geovillas del Sol"
+    },
+    {
+        "clave": "301930195",
+        "nombre": "Villa de Jesús"
+    },
+    {
+        "clave": "301930197",
+        "nombre": "Colonia Juanita"
+    },
+    {
+        "clave": "301930198",
+        "nombre": "Colonia Patria (Diez Hectáreas)"
+    },
+    {
+        "clave": "301930202",
+        "nombre": "Juan Rodríguez"
+    },
+    {
+        "clave": "301930203",
+        "nombre": "Antonio Exome Nahum"
+    },
+    {
+        "clave": "301930204",
+        "nombre": "Ejido Valente Díaz"
+    },
+    {
+        "clave": "301930206",
+        "nombre": "El Manguito"
+    },
+    {
+        "clave": "301930207",
+        "nombre": "Fraccionamiento Condado de Valle Dorado"
+    },
+    {
+        "clave": "301930211",
+        "nombre": "Posta Zootecnista Torreón del Molino"
+    },
+    {
+        "clave": "301930212",
+        "nombre": "Tarimoya"
+    },
+    {
+        "clave": "301930213",
+        "nombre": "Vía Tierra Blanca (Las Vías)"
+    },
+    {
+        "clave": "301930215",
+        "nombre": "El Moralito"
+    },
+    {
+        "clave": "301930216",
+        "nombre": "Mata de Caña"
+    },
+    {
+        "clave": "301930217",
+        "nombre": "Fraccionamiento Geovillas los Pinos"
+    },
+    {
+        "clave": "301930218",
+        "nombre": "Infonavit Orquideas"
+    },
+    {
+        "clave": "301930221",
+        "nombre": "Condado del Valle Dorado (Segunda Sección)"
+    },
+    {
+        "clave": "301930222",
+        "nombre": "Fraccionamiento Costa Dorada"
+    },
+    {
+        "clave": "301930223",
+        "nombre": "Fraccionamiento el Campanario"
+    },
+    {
+        "clave": "301930225",
+        "nombre": "Parador Santa Fe"
+    },
+    {
+        "clave": "301930228",
+        "nombre": "Colinas de Santa Fe"
+    },
+    {
+        "clave": "301930229",
+        "nombre": "Arboledas"
+    },
+    {
+        "clave": "301930230",
+        "nombre": "Lomas de Río Medio Cuatro"
+    },
+    {
+        "clave": "301930231",
+        "nombre": "Los Torrentes"
+    },
+    {
+        "clave": "301930232",
+        "nombre": "Oasis"
+    },
+    {
+        "clave": "301930233",
+        "nombre": "Fraccionamiento Xana"
+    },
+    {
+        "clave": "301930234",
+        "nombre": "Bonaterra"
+    },
+    {
+        "clave": "301930235",
+        "nombre": "Colina de las Flores"
+    },
+    {
+        "clave": "301930236",
+        "nombre": "Colina de los Pájaros"
+    },
+    {
+        "clave": "301930238",
+        "nombre": "Colonia Libertad"
+    },
+    {
+        "clave": "301930239",
+        "nombre": "Hacienda Paraíso"
+    },
+    {
+        "clave": "301930240",
+        "nombre": "Hacienda Sotavento"
+    },
+    {
+        "clave": "301930241",
+        "nombre": "Nuevo Veracruz"
+    },
+    {
+        "clave": "301930242",
+        "nombre": "Residencial del Bosque"
+    },
+    {
+        "clave": "301930243",
+        "nombre": "Valle Alto"
+    },
+    {
+        "clave": "301930244",
+        "nombre": "Residencial del Bosque Segunda Sección"
+    },
+    {
+        "clave": "301930245",
+        "nombre": "Fraccionamiento Paseo de las Palmas (Casas Ruba)"
+    },
+    {
+        "clave": "301930246",
+        "nombre": "Colina de Mata Cocuite"
+    },
+    {
+        "clave": "301930247",
+        "nombre": "Colonia la Rivera"
+    },
+    {
+        "clave": "301930248",
+        "nombre": "Colonia la Condesa"
+    },
+    {
+        "clave": "301930249",
+        "nombre": "Colonia los Morales"
+    },
+    {
+        "clave": "301930250",
+        "nombre": "Colonia Loma Bonita"
+    },
+    {
+        "clave": "301930251",
+        "nombre": "Los Torrentes Aeropuerto"
+    },
+    {
+        "clave": "301937612",
+        "nombre": "Veracruzana de Gas"
+    }
+]

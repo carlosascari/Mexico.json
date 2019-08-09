@@ -1,0 +1,802 @@
+[
+    {
+        "clave": "160570004",
+        "nombre": "Agua Agria"
+    },
+    {
+        "clave": "160570010",
+        "nombre": "Aparandán (Mesa de Aparandán)"
+    },
+    {
+        "clave": "160570035",
+        "nombre": "El Coyol"
+    },
+    {
+        "clave": "160570040",
+        "nombre": "Cuimbo (Coimbo)"
+    },
+    {
+        "clave": "160570049",
+        "nombre": "La Estancia Chica (La Estancia de Mamey)"
+    },
+    {
+        "clave": "160570051",
+        "nombre": "El Astillero"
+    },
+    {
+        "clave": "160570069",
+        "nombre": "La Loma del Copal"
+    },
+    {
+        "clave": "160570073",
+        "nombre": "El Manguito"
+    },
+    {
+        "clave": "160570075",
+        "nombre": "Ojo de Agua del Cobre"
+    },
+    {
+        "clave": "160570088",
+        "nombre": "El Ojo de Agua de Cuispio"
+    },
+    {
+        "clave": "160570091",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "160570092",
+        "nombre": "El Palmito"
+    },
+    {
+        "clave": "160570095",
+        "nombre": "Las Parotas"
+    },
+    {
+        "clave": "160570101",
+        "nombre": "Los Piñoncillos"
+    },
+    {
+        "clave": "160570110",
+        "nombre": "Los Planes"
+    },
+    {
+        "clave": "160570124",
+        "nombre": "El Rincón Romero de las Palmas"
+    },
+    {
+        "clave": "160570125",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "160570129",
+        "nombre": "La Sanguijuela"
+    },
+    {
+        "clave": "160570134",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "160570149",
+        "nombre": "Las Trojes"
+    },
+    {
+        "clave": "160570158",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "160570163",
+        "nombre": "El Palmar"
+    },
+    {
+        "clave": "160570164",
+        "nombre": "La Chorreada (La Peña Chorreada)"
+    },
+    {
+        "clave": "160570167",
+        "nombre": "El Copalito (Piedra de Alacranes)"
+    },
+    {
+        "clave": "160570177",
+        "nombre": "El Calabozo"
+    },
+    {
+        "clave": "160570183",
+        "nombre": "Guaginiquil (Guajiniquil)"
+    },
+    {
+        "clave": "160570190",
+        "nombre": "Rincón de San Isidro"
+    },
+    {
+        "clave": "160570207",
+        "nombre": "San Juan de la Concepción"
+    },
+    {
+        "clave": "160570209",
+        "nombre": "El Coyolito"
+    },
+    {
+        "clave": "160570211",
+        "nombre": "El Coyol"
+    },
+    {
+        "clave": "160570213",
+        "nombre": "Cuispio"
+    },
+    {
+        "clave": "160570224",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "160570228",
+        "nombre": "Loma Blanca"
+    },
+    {
+        "clave": "160570229",
+        "nombre": "Loma los Pelillos"
+    },
+    {
+        "clave": "160570239",
+        "nombre": "Las Paredes"
+    },
+    {
+        "clave": "160570247",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "160570254",
+        "nombre": "Los Variles"
+    },
+    {
+        "clave": "160570337",
+        "nombre": "Puerto el Mirador"
+    },
+    {
+        "clave": "160570341",
+        "nombre": "Tumbiriche"
+    },
+    {
+        "clave": "160570349",
+        "nombre": "El Cirián"
+    },
+    {
+        "clave": "160570351",
+        "nombre": "Los Cuirindales"
+    },
+    {
+        "clave": "160570357",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "160570360",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "160570001",
+        "nombre": "Nocupétaro de Morelos"
+    },
+    {
+        "clave": "160570006",
+        "nombre": "Agua Santa"
+    },
+    {
+        "clave": "160570014",
+        "nombre": "El Atravesaño"
+    },
+    {
+        "clave": "160570022",
+        "nombre": "Las Calabazas"
+    },
+    {
+        "clave": "160570029",
+        "nombre": "Ceiba Prieta"
+    },
+    {
+        "clave": "160570031",
+        "nombre": "Las Cocinas"
+    },
+    {
+        "clave": "160570050",
+        "nombre": "La Estancia Grande"
+    },
+    {
+        "clave": "160570054",
+        "nombre": "Hacienda de Guadalupe (Tamarindo)"
+    },
+    {
+        "clave": "160570058",
+        "nombre": "Las Huertas"
+    },
+    {
+        "clave": "160570067",
+        "nombre": "La Loma Blanca"
+    },
+    {
+        "clave": "160570076",
+        "nombre": "Mariana"
+    },
+    {
+        "clave": "160570078",
+        "nombre": "La Mocha"
+    },
+    {
+        "clave": "160570105",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "160570120",
+        "nombre": "El Quino"
+    },
+    {
+        "clave": "160570135",
+        "nombre": "Santa Bárbara (El Reparo)"
+    },
+    {
+        "clave": "160570137",
+        "nombre": "Santo Domingo"
+    },
+    {
+        "clave": "160570138",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "160570151",
+        "nombre": "Upácuaro"
+    },
+    {
+        "clave": "160570155",
+        "nombre": "Vista Bella"
+    },
+    {
+        "clave": "160570165",
+        "nombre": "El Zapotito"
+    },
+    {
+        "clave": "160570169",
+        "nombre": "La Angostura (Puerto Hondo)"
+    },
+    {
+        "clave": "160570173",
+        "nombre": "La Cadena"
+    },
+    {
+        "clave": "160570198",
+        "nombre": "Los Brasiles (Puerto los Brasiles)"
+    },
+    {
+        "clave": "160570225",
+        "nombre": "La Limoncilla"
+    },
+    {
+        "clave": "160570248",
+        "nombre": "Santa Inés (La Escondida)"
+    },
+    {
+        "clave": "160570301",
+        "nombre": "Tamarindo (Hacienda de Guadalupe)"
+    },
+    {
+        "clave": "160570354",
+        "nombre": "Los Planes"
+    },
+    {
+        "clave": "160570009",
+        "nombre": "Las Anonas"
+    },
+    {
+        "clave": "160570015",
+        "nombre": "Los Bancos"
+    },
+    {
+        "clave": "160570020",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "160570021",
+        "nombre": "El Cacao"
+    },
+    {
+        "clave": "160570023",
+        "nombre": "La Cantera (San Juan de la Concepción)"
+    },
+    {
+        "clave": "160570027",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "160570028",
+        "nombre": "El Cascalote"
+    },
+    {
+        "clave": "160570033",
+        "nombre": "San Juan de la Concepción"
+    },
+    {
+        "clave": "160570037",
+        "nombre": "El Coyol Grande"
+    },
+    {
+        "clave": "160570038",
+        "nombre": "La Cruz de Otate"
+    },
+    {
+        "clave": "160570042",
+        "nombre": "La Chalana"
+    },
+    {
+        "clave": "160570045",
+        "nombre": "El Encino Colorado"
+    },
+    {
+        "clave": "160570047",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "160570053",
+        "nombre": "El Frijolar"
+    },
+    {
+        "clave": "160570059",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "160570061",
+        "nombre": "La Lagunilla"
+    },
+    {
+        "clave": "160570064",
+        "nombre": "El Limoncito"
+    },
+    {
+        "clave": "160570065",
+        "nombre": "El Limón de las Trojas"
+    },
+    {
+        "clave": "160570070",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "160570074",
+        "nombre": "Manríquez"
+    },
+    {
+        "clave": "160570079",
+        "nombre": "Melchor Ocampo (San Antonio de las Huertas)"
+    },
+    {
+        "clave": "160570080",
+        "nombre": "Mesa de la Zanja"
+    },
+    {
+        "clave": "160570081",
+        "nombre": "La Mesa del Frijolar (La Mesa)"
+    },
+    {
+        "clave": "160570085",
+        "nombre": "Miranda"
+    },
+    {
+        "clave": "160570086",
+        "nombre": "Los Nogales (Rincón de Nogales)"
+    },
+    {
+        "clave": "160570089",
+        "nombre": "El Ortigal"
+    },
+    {
+        "clave": "160570090",
+        "nombre": "El Palacio"
+    },
+    {
+        "clave": "160570093",
+        "nombre": "El Palo Blanco"
+    },
+    {
+        "clave": "160570094",
+        "nombre": "El Papayo"
+    },
+    {
+        "clave": "160570096",
+        "nombre": "La Parotita"
+    },
+    {
+        "clave": "160570097",
+        "nombre": "El Paso del Pinzán"
+    },
+    {
+        "clave": "160570099",
+        "nombre": "Los Pasos"
+    },
+    {
+        "clave": "160570107",
+        "nombre": "El Pinzán Dulce"
+    },
+    {
+        "clave": "160570111",
+        "nombre": "El Platanal (Hacienda del Platanal)"
+    },
+    {
+        "clave": "160570112",
+        "nombre": "La Pólvora"
+    },
+    {
+        "clave": "160570115",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "160570116",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "160570119",
+        "nombre": "Puerto de Romero"
+    },
+    {
+        "clave": "160570122",
+        "nombre": "Rincón de las Sidras"
+    },
+    {
+        "clave": "160570123",
+        "nombre": "Rincón del Zapote"
+    },
+    {
+        "clave": "160570128",
+        "nombre": "El Salitrillo"
+    },
+    {
+        "clave": "160570130",
+        "nombre": "San Isidro (Paso San Isidro)"
+    },
+    {
+        "clave": "160570136",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "160570139",
+        "nombre": "Las Siricuas"
+    },
+    {
+        "clave": "160570140",
+        "nombre": "Tahuejo"
+    },
+    {
+        "clave": "160570145",
+        "nombre": "Los Terreros"
+    },
+    {
+        "clave": "160570146",
+        "nombre": "Timbiriche"
+    },
+    {
+        "clave": "160570150",
+        "nombre": "Los Tules (Puerto de los Tules)"
+    },
+    {
+        "clave": "160570152",
+        "nombre": "Urbano"
+    },
+    {
+        "clave": "160570157",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "160570159",
+        "nombre": "El Mezquite"
+    },
+    {
+        "clave": "160570161",
+        "nombre": "El Molinito"
+    },
+    {
+        "clave": "160570162",
+        "nombre": "La Ordeña"
+    },
+    {
+        "clave": "160570168",
+        "nombre": "Agua Verde"
+    },
+    {
+        "clave": "160570170",
+        "nombre": "Mesa Ancha"
+    },
+    {
+        "clave": "160570171",
+        "nombre": "Las Cuevitas"
+    },
+    {
+        "clave": "160570174",
+        "nombre": "Las Parotas"
+    },
+    {
+        "clave": "160570178",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "160570179",
+        "nombre": "Rincón de las Trojas"
+    },
+    {
+        "clave": "160570180",
+        "nombre": "La Yuca"
+    },
+    {
+        "clave": "160570182",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "160570184",
+        "nombre": "Timbiriche (Timbiriche Platanal)"
+    },
+    {
+        "clave": "160570187",
+        "nombre": "Piedra Pesada (Piedra Pegada)"
+    },
+    {
+        "clave": "160570194",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "160570195",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "160570197",
+        "nombre": "El Banco"
+    },
+    {
+        "clave": "160570200",
+        "nombre": "El Cacahuate"
+    },
+    {
+        "clave": "160570202",
+        "nombre": "La Calera"
+    },
+    {
+        "clave": "160570203",
+        "nombre": "Las Canoas"
+    },
+    {
+        "clave": "160570204",
+        "nombre": "Los Capulines"
+    },
+    {
+        "clave": "160570205",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "160570206",
+        "nombre": "Las Saibas"
+    },
+    {
+        "clave": "160570210",
+        "nombre": "El Coyolito"
+    },
+    {
+        "clave": "160570214",
+        "nombre": "Charco Verde"
+    },
+    {
+        "clave": "160570215",
+        "nombre": "La Estancia"
+    },
+    {
+        "clave": "160570216",
+        "nombre": "La Estancia"
+    },
+    {
+        "clave": "160570217",
+        "nombre": "La Fábrica"
+    },
+    {
+        "clave": "160570222",
+        "nombre": "El Coyol de los Jiménez"
+    },
+    {
+        "clave": "160570227",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "160570230",
+        "nombre": "Los Llanitos"
+    },
+    {
+        "clave": "160570231",
+        "nombre": "Mancornadero"
+    },
+    {
+        "clave": "160570232",
+        "nombre": "Mesa de Tapia"
+    },
+    {
+        "clave": "160570234",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "160570235",
+        "nombre": "Palenque"
+    },
+    {
+        "clave": "160570236",
+        "nombre": "El Palmito"
+    },
+    {
+        "clave": "160570237",
+        "nombre": "El Pantano"
+    },
+    {
+        "clave": "160570240",
+        "nombre": "Paso de la Virgen"
+    },
+    {
+        "clave": "160570242",
+        "nombre": "Patambo"
+    },
+    {
+        "clave": "160570243",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "160570244",
+        "nombre": "Pueblo Viejo"
+    },
+    {
+        "clave": "160570245",
+        "nombre": "El Recodo"
+    },
+    {
+        "clave": "160570249",
+        "nombre": "Tecuaporio"
+    },
+    {
+        "clave": "160570252",
+        "nombre": "El Valle"
+    },
+    {
+        "clave": "160570255",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "160570268",
+        "nombre": "Las Sidras"
+    },
+    {
+        "clave": "160570273",
+        "nombre": "Cuchilla Seca"
+    },
+    {
+        "clave": "160570274",
+        "nombre": "El Zopilote"
+    },
+    {
+        "clave": "160570275",
+        "nombre": "El Encino"
+    },
+    {
+        "clave": "160570280",
+        "nombre": "La Lagunilla"
+    },
+    {
+        "clave": "160570290",
+        "nombre": "Las Arellanas"
+    },
+    {
+        "clave": "160570291",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "160570310",
+        "nombre": "El Pinzanito"
+    },
+    {
+        "clave": "160570316",
+        "nombre": "El Asoleadero"
+    },
+    {
+        "clave": "160570328",
+        "nombre": "Loma de los Pozos"
+    },
+    {
+        "clave": "160570329",
+        "nombre": "Agua Zarca"
+    },
+    {
+        "clave": "160570330",
+        "nombre": "El Calvario"
+    },
+    {
+        "clave": "160570331",
+        "nombre": "El Capiri"
+    },
+    {
+        "clave": "160570333",
+        "nombre": "Loma la Soledad"
+    },
+    {
+        "clave": "160570335",
+        "nombre": "El Palmarcito"
+    },
+    {
+        "clave": "160570336",
+        "nombre": "Paso Real"
+    },
+    {
+        "clave": "160570338",
+        "nombre": "Puerto la Calera"
+    },
+    {
+        "clave": "160570340",
+        "nombre": "Tirincho"
+    },
+    {
+        "clave": "160570342",
+        "nombre": "El Venado"
+    },
+    {
+        "clave": "160570343",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "160570344",
+        "nombre": "El Atascadero"
+    },
+    {
+        "clave": "160570345",
+        "nombre": "Colonia Froylán Vargas"
+    },
+    {
+        "clave": "160570346",
+        "nombre": "El Limoncito"
+    },
+    {
+        "clave": "160570347",
+        "nombre": "El Pinzán Raspado"
+    },
+    {
+        "clave": "160570348",
+        "nombre": "El Rincón del Coyolito"
+    },
+    {
+        "clave": "160570350",
+        "nombre": "Los Cuirindales"
+    },
+    {
+        "clave": "160570352",
+        "nombre": "Filo de Altamirano"
+    },
+    {
+        "clave": "160570353",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "160570355",
+        "nombre": "Mesa del Avión (Puerta de los Fierros)"
+    },
+    {
+        "clave": "160570356",
+        "nombre": "El Salto"
+    },
+    {
+        "clave": "160570358",
+        "nombre": "Santa Gertrudis"
+    },
+    {
+        "clave": "160570359",
+        "nombre": "Puerto del Copal"
+    },
+    {
+        "clave": "160570361",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "160570362",
+        "nombre": "Ninguno [Hospital Regional Carácuaro Nocupétaro]"
+    },
+    {
+        "clave": "160570363",
+        "nombre": "El Coyolito"
+    },
+    {
+        "clave": "160570364",
+        "nombre": "Rincón de los Nogales"
+    }
+]

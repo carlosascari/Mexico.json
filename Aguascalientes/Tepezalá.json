@@ -1,0 +1,582 @@
+[
+    {
+        "clave": "10090167",
+        "nombre": "La Vía"
+    },
+    {
+        "clave": "10090004",
+        "nombre": "Los Alamitos"
+    },
+    {
+        "clave": "10090015",
+        "nombre": "Mesillas"
+    },
+    {
+        "clave": "10090016",
+        "nombre": "Ojo de Agua de los Montes"
+    },
+    {
+        "clave": "10090020",
+        "nombre": "El Progreso (La Tira)"
+    },
+    {
+        "clave": "10090028",
+        "nombre": "El Tepozán"
+    },
+    {
+        "clave": "10090047",
+        "nombre": "El Sufrido (Álvaro Santillán) [Rancho]"
+    },
+    {
+        "clave": "10090055",
+        "nombre": "Los Tres Reyes [Granja]"
+    },
+    {
+        "clave": "10090088",
+        "nombre": "Granja Susy"
+    },
+    {
+        "clave": "10090092",
+        "nombre": "El Realengo"
+    },
+    {
+        "clave": "10090140",
+        "nombre": "Pozo la Providencia"
+    },
+    {
+        "clave": "10090145",
+        "nombre": "Colonia Campestre [Km. 12]"
+    },
+    {
+        "clave": "10090156",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "10090162",
+        "nombre": "La Huerta (Km. 2) [Rancho]"
+    },
+    {
+        "clave": "10090001",
+        "nombre": "Tepezalá"
+    },
+    {
+        "clave": "10090003",
+        "nombre": "El Águila"
+    },
+    {
+        "clave": "10090005",
+        "nombre": "Arroyo Hondo"
+    },
+    {
+        "clave": "10090006",
+        "nombre": "El Barranco"
+    },
+    {
+        "clave": "10090008",
+        "nombre": "Carboneras"
+    },
+    {
+        "clave": "10090009",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "10090010",
+        "nombre": "Rancho Carolina"
+    },
+    {
+        "clave": "10090012",
+        "nombre": "El Chayote"
+    },
+    {
+        "clave": "10090013",
+        "nombre": "El Gigante"
+    },
+    {
+        "clave": "10090014",
+        "nombre": "La Esperanza [Rancho]"
+    },
+    {
+        "clave": "10090019",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "10090022",
+        "nombre": "Puerto de la Concepción"
+    },
+    {
+        "clave": "10090024",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "10090025",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "10090027",
+        "nombre": "San José [Granja]"
+    },
+    {
+        "clave": "10090030",
+        "nombre": "La Victoria"
+    },
+    {
+        "clave": "10090031",
+        "nombre": "Ampliación los Hornos (El Lagunazo) [Colonia]"
+    },
+    {
+        "clave": "10090032",
+        "nombre": "Rancho Colorado"
+    },
+    {
+        "clave": "10090034",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "10090035",
+        "nombre": "Rincón de Oriente [Estación]"
+    },
+    {
+        "clave": "10090039",
+        "nombre": "Luz de San Antonio (La Luz)"
+    },
+    {
+        "clave": "10090042",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "10090043",
+        "nombre": "Makelisa [Granja]"
+    },
+    {
+        "clave": "10090044",
+        "nombre": "La Fortuna [Rancho]"
+    },
+    {
+        "clave": "10090045",
+        "nombre": "El Chaveñal"
+    },
+    {
+        "clave": "10090046",
+        "nombre": "Rancho Alfonso Marmolejo"
+    },
+    {
+        "clave": "10090048",
+        "nombre": "Rancho Andrés Durón"
+    },
+    {
+        "clave": "10090049",
+        "nombre": "Los Pavoreales (Antonio Muñoz Acosta) [Rancho]"
+    },
+    {
+        "clave": "10090050",
+        "nombre": "Bajío de Don Ramón Romo [Rancho]"
+    },
+    {
+        "clave": "10090051",
+        "nombre": "Caldera"
+    },
+    {
+        "clave": "10090052",
+        "nombre": "El Carmen [Granja]"
+    },
+    {
+        "clave": "10090053",
+        "nombre": "Santa Catalina [Rancho]"
+    },
+    {
+        "clave": "10090054",
+        "nombre": "Cayetano Jaime Cervantes"
+    },
+    {
+        "clave": "10090060",
+        "nombre": "Viñedos el Pedregal"
+    },
+    {
+        "clave": "10090061",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "10090062",
+        "nombre": "El Ranchito [Granja]"
+    },
+    {
+        "clave": "10090063",
+        "nombre": "San David [Rancho]"
+    },
+    {
+        "clave": "10090064",
+        "nombre": "Rancho San Gerardo"
+    },
+    {
+        "clave": "10090065",
+        "nombre": "San José del Bajío [Rancho]"
+    },
+    {
+        "clave": "10090066",
+        "nombre": "San Miguel [Rancho]"
+    },
+    {
+        "clave": "10090067",
+        "nombre": "San Pedro [Rancho]"
+    },
+    {
+        "clave": "10090068",
+        "nombre": "San Pedro del Cobre"
+    },
+    {
+        "clave": "10090069",
+        "nombre": "Santa Elena [Rancho]"
+    },
+    {
+        "clave": "10090070",
+        "nombre": "Santa Lucía [Rancho]"
+    },
+    {
+        "clave": "10090071",
+        "nombre": "Rancho el Silbato"
+    },
+    {
+        "clave": "10090072",
+        "nombre": "Las Tapias"
+    },
+    {
+        "clave": "10090073",
+        "nombre": "Los Valdez [Rancho]"
+    },
+    {
+        "clave": "10090074",
+        "nombre": "Cruz Azul [Cementera]"
+    },
+    {
+        "clave": "10090077",
+        "nombre": "La Aurora Dos"
+    },
+    {
+        "clave": "10090078",
+        "nombre": "Granja Lili"
+    },
+    {
+        "clave": "10090079",
+        "nombre": "La Esperanza [Rancho]"
+    },
+    {
+        "clave": "10090080",
+        "nombre": "La Mirinda [Rancho]"
+    },
+    {
+        "clave": "10090081",
+        "nombre": "Opuntia"
+    },
+    {
+        "clave": "10090082",
+        "nombre": "La Cabaña (Rancho Manuel Martínez)"
+    },
+    {
+        "clave": "10090083",
+        "nombre": "La Fortuna [Rancho]"
+    },
+    {
+        "clave": "10090084",
+        "nombre": "Rancho Ignacia Flores"
+    },
+    {
+        "clave": "10090085",
+        "nombre": "El Águila (Refugio Jiménez) [Rancho]"
+    },
+    {
+        "clave": "10090087",
+        "nombre": "Los Ocales"
+    },
+    {
+        "clave": "10090089",
+        "nombre": "Santa Alicia [Rancho]"
+    },
+    {
+        "clave": "10090090",
+        "nombre": "Rancho Leandro Gallegos"
+    },
+    {
+        "clave": "10090091",
+        "nombre": "Pozo el Cuijal"
+    },
+    {
+        "clave": "10090093",
+        "nombre": "Ejido San Rafael"
+    },
+    {
+        "clave": "10090094",
+        "nombre": "La Ermita"
+    },
+    {
+        "clave": "10090095",
+        "nombre": "Casablanca [Granja]"
+    },
+    {
+        "clave": "10090096",
+        "nombre": "Granja Gaby"
+    },
+    {
+        "clave": "10090097",
+        "nombre": "Grupo la Porcina [Granja]"
+    },
+    {
+        "clave": "10090099",
+        "nombre": "Granja Isabel"
+    },
+    {
+        "clave": "10090100",
+        "nombre": "San Pedro [Granja]"
+    },
+    {
+        "clave": "10090101",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "10090102",
+        "nombre": "La Victoria"
+    },
+    {
+        "clave": "10090104",
+        "nombre": "Rancho de Don Ezequiel Delgado"
+    },
+    {
+        "clave": "10090107",
+        "nombre": "Rancho de los Torres"
+    },
+    {
+        "clave": "10090108",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "10090109",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "10090110",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "10090114",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "10090115",
+        "nombre": "Caldera [Ejido]"
+    },
+    {
+        "clave": "10090119",
+        "nombre": "La Campanita"
+    },
+    {
+        "clave": "10090120",
+        "nombre": "Pozo 119"
+    },
+    {
+        "clave": "10090121",
+        "nombre": "Pozo 21"
+    },
+    {
+        "clave": "10090122",
+        "nombre": "Cien Metros [Rancho]"
+    },
+    {
+        "clave": "10090123",
+        "nombre": "El Gato 3ra. Sección (El Socorro)"
+    },
+    {
+        "clave": "10090124",
+        "nombre": "El Llano [Rancho]"
+    },
+    {
+        "clave": "10090125",
+        "nombre": "El Llano [Rancho]"
+    },
+    {
+        "clave": "10090127",
+        "nombre": "La Esperanza [Rancho]"
+    },
+    {
+        "clave": "10090128",
+        "nombre": "La Hierbabuena [Rancho]"
+    },
+    {
+        "clave": "10090129",
+        "nombre": "Las Amazonas [Rancho]"
+    },
+    {
+        "clave": "10090130",
+        "nombre": "Las Cotorras [Rancho]"
+    },
+    {
+        "clave": "10090131",
+        "nombre": "Los Monjes [Rancho]"
+    },
+    {
+        "clave": "10090132",
+        "nombre": "Luz Chica [Rancho]"
+    },
+    {
+        "clave": "10090133",
+        "nombre": "Tepezalá [Ejido]"
+    },
+    {
+        "clave": "10090134",
+        "nombre": "Las Tapias"
+    },
+    {
+        "clave": "10090135",
+        "nombre": "San Rafael [Rancho]"
+    },
+    {
+        "clave": "10090136",
+        "nombre": "Sociedad Ejido de Arroyo Hondo"
+    },
+    {
+        "clave": "10090137",
+        "nombre": "Barrio Cholula"
+    },
+    {
+        "clave": "10090141",
+        "nombre": "Potrero la Esperanza"
+    },
+    {
+        "clave": "10090142",
+        "nombre": "Pozo Emiliano Zapata (Santa Elena)"
+    },
+    {
+        "clave": "10090143",
+        "nombre": "Pozo Remigio Morfin"
+    },
+    {
+        "clave": "10090144",
+        "nombre": "La Puerta de Carboneras"
+    },
+    {
+        "clave": "10090146",
+        "nombre": "Santa Rosa [Rancho]"
+    },
+    {
+        "clave": "10090147",
+        "nombre": "El Mezquite [Granja]"
+    },
+    {
+        "clave": "10090148",
+        "nombre": "Rancho Ecológico el Camiral"
+    },
+    {
+        "clave": "10090149",
+        "nombre": "Los Camacho"
+    },
+    {
+        "clave": "10090150",
+        "nombre": "El Panzón"
+    },
+    {
+        "clave": "10090151",
+        "nombre": "El Pedregal [Rancho]"
+    },
+    {
+        "clave": "10090152",
+        "nombre": "Los Bordos"
+    },
+    {
+        "clave": "10090153",
+        "nombre": "Santa María [Panteón Municipal]"
+    },
+    {
+        "clave": "10090154",
+        "nombre": "Los Alamitos"
+    },
+    {
+        "clave": "10090155",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "10090157",
+        "nombre": "El Arbolito [Rancho]"
+    },
+    {
+        "clave": "10090158",
+        "nombre": "El Sacrificio [Granja]"
+    },
+    {
+        "clave": "10090159",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "10090160",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "10090161",
+        "nombre": "Los Compadres [Rancho]"
+    },
+    {
+        "clave": "10090163",
+        "nombre": "Hermanos Padilla [Granja]"
+    },
+    {
+        "clave": "10090164",
+        "nombre": "La Palapa (Carboneras) [Motel]"
+    },
+    {
+        "clave": "10090165",
+        "nombre": "Sociedad Santa Genoveva"
+    },
+    {
+        "clave": "10090166",
+        "nombre": "Tepezalá"
+    },
+    {
+        "clave": "10090168",
+        "nombre": "El Chayote [Rancho]"
+    },
+    {
+        "clave": "10090169",
+        "nombre": "Berrendos"
+    },
+    {
+        "clave": "10090170",
+        "nombre": "La Dosificadora"
+    },
+    {
+        "clave": "10090171",
+        "nombre": "La Ilusión [Granja]"
+    },
+    {
+        "clave": "10090172",
+        "nombre": "Laguna Honda"
+    },
+    {
+        "clave": "10090173",
+        "nombre": "La Luna"
+    },
+    {
+        "clave": "10090174",
+        "nombre": "Las Margaritas [Rancho]"
+    },
+    {
+        "clave": "10090175",
+        "nombre": "Meche [Granja]"
+    },
+    {
+        "clave": "10090176",
+        "nombre": "La Nopalera"
+    },
+    {
+        "clave": "10090177",
+        "nombre": "Paso Blanco"
+    },
+    {
+        "clave": "10090178",
+        "nombre": "Rancho de Don Jesús Macías Flores"
+    },
+    {
+        "clave": "10090179",
+        "nombre": "Ruby [Granja]"
+    },
+    {
+        "clave": "10090180",
+        "nombre": "Vicky [Rancho]"
+    }
+]

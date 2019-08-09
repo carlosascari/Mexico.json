@@ -1,0 +1,842 @@
+[
+    {
+        "clave": "220170004",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "220170042",
+        "nombre": "El Sabino"
+    },
+    {
+        "clave": "220170090",
+        "nombre": "Rancho largo"
+    },
+    {
+        "clave": "220170111",
+        "nombre": "Presa Centenario (La Palapa)"
+    },
+    {
+        "clave": "220170180",
+        "nombre": "Ninguno [Granja]"
+    },
+    {
+        "clave": "220170188",
+        "nombre": "El Cerrito de las Lozas"
+    },
+    {
+        "clave": "220170189",
+        "nombre": "El Colorado"
+    },
+    {
+        "clave": "220170196",
+        "nombre": "Sección Sur de la Ermita"
+    },
+    {
+        "clave": "220170005",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "220170006",
+        "nombre": "Los Cerritos"
+    },
+    {
+        "clave": "220170007",
+        "nombre": "La Fuente"
+    },
+    {
+        "clave": "220170014",
+        "nombre": "San José de la Laja"
+    },
+    {
+        "clave": "220170019",
+        "nombre": "El Tejocote"
+    },
+    {
+        "clave": "220170032",
+        "nombre": "Estación Bernal"
+    },
+    {
+        "clave": "220170038",
+        "nombre": "Rancho Loma Colorada"
+    },
+    {
+        "clave": "220170054",
+        "nombre": "El Jade"
+    },
+    {
+        "clave": "220170058",
+        "nombre": "Cerrito San José (La Troje)"
+    },
+    {
+        "clave": "220170084",
+        "nombre": "Pozo Número Uno (Ejido el Sauz)"
+    },
+    {
+        "clave": "220170094",
+        "nombre": "Rancho Mancañal"
+    },
+    {
+        "clave": "220170101",
+        "nombre": "Ranchito San José"
+    },
+    {
+        "clave": "220170135",
+        "nombre": "Sección Este de la Fuente"
+    },
+    {
+        "clave": "220170144",
+        "nombre": "Los Arquitos"
+    },
+    {
+        "clave": "220170146",
+        "nombre": "Familia Jiménez (Colonia Santa Fe)"
+    },
+    {
+        "clave": "220170152",
+        "nombre": "Rancho Largo (La Vía)"
+    },
+    {
+        "clave": "220170158",
+        "nombre": "Familia González Vega"
+    },
+    {
+        "clave": "220170160",
+        "nombre": "La Vega"
+    },
+    {
+        "clave": "220170172",
+        "nombre": "Las Corraletas (Familia Castillo)"
+    },
+    {
+        "clave": "220170178",
+        "nombre": "El Bordo"
+    },
+    {
+        "clave": "220170181",
+        "nombre": "La Lagunita"
+    },
+    {
+        "clave": "220170185",
+        "nombre": "Sección Sur de Tequisquiapan"
+    },
+    {
+        "clave": "220170190",
+        "nombre": "El Magueyal"
+    },
+    {
+        "clave": "220170201",
+        "nombre": "Ampliación el Paraíso"
+    },
+    {
+        "clave": "220170202",
+        "nombre": "Ampliación Santa Fe (La Ermita)"
+    },
+    {
+        "clave": "220170206",
+        "nombre": "Los Lora"
+    },
+    {
+        "clave": "220170207",
+        "nombre": "Piedras Negras y San Antonio"
+    },
+    {
+        "clave": "220170001",
+        "nombre": "Tequisquiapan"
+    },
+    {
+        "clave": "220170002",
+        "nombre": "Bordo Blanco"
+    },
+    {
+        "clave": "220170003",
+        "nombre": "Ninguno [Agroindustria Campus Sofimar]"
+    },
+    {
+        "clave": "220170008",
+        "nombre": "Fuentezuelas"
+    },
+    {
+        "clave": "220170010",
+        "nombre": "La Laja"
+    },
+    {
+        "clave": "220170012",
+        "nombre": "Rancho los Naranjos"
+    },
+    {
+        "clave": "220170016",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "220170017",
+        "nombre": "Santillán"
+    },
+    {
+        "clave": "220170020",
+        "nombre": "La Tortuga"
+    },
+    {
+        "clave": "220170021",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "220170023",
+        "nombre": "San Jorge"
+    },
+    {
+        "clave": "220170026",
+        "nombre": "Rancho Guadalupe"
+    },
+    {
+        "clave": "220170027",
+        "nombre": "La Peña"
+    },
+    {
+        "clave": "220170028",
+        "nombre": "Granjas Residenciales de Tequisquiapan"
+    },
+    {
+        "clave": "220170030",
+        "nombre": "Rancho el Salitrillo"
+    },
+    {
+        "clave": "220170034",
+        "nombre": "Rancho la Virgen"
+    },
+    {
+        "clave": "220170036",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "220170037",
+        "nombre": "Haciendas de Tequisquiapan [Residencial]"
+    },
+    {
+        "clave": "220170039",
+        "nombre": "Los Viñedos [Residencial]"
+    },
+    {
+        "clave": "220170040",
+        "nombre": "Rancho Torre Blanca"
+    },
+    {
+        "clave": "220170041",
+        "nombre": "Santa María del Camino"
+    },
+    {
+        "clave": "220170043",
+        "nombre": "Rancho El Rocío"
+    },
+    {
+        "clave": "220170044",
+        "nombre": "El Llano (Pozo Número Dos)"
+    },
+    {
+        "clave": "220170045",
+        "nombre": "Paso de Tablas"
+    },
+    {
+        "clave": "220170046",
+        "nombre": "Rancho Cañada de la Virgen"
+    },
+    {
+        "clave": "220170047",
+        "nombre": "El Gavillero"
+    },
+    {
+        "clave": "220170048",
+        "nombre": "Los Lobos"
+    },
+    {
+        "clave": "220170049",
+        "nombre": "Las Urracas"
+    },
+    {
+        "clave": "220170050",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "220170051",
+        "nombre": "Las Ánimas"
+    },
+    {
+        "clave": "220170052",
+        "nombre": "Valle San Juan"
+    },
+    {
+        "clave": "220170053",
+        "nombre": "Fidel Velázquez [Centro Recreativo]"
+    },
+    {
+        "clave": "220170055",
+        "nombre": "Rancho el Yodio"
+    },
+    {
+        "clave": "220170056",
+        "nombre": "Localidad Sin nombre (Familia Trejo Pérez)"
+    },
+    {
+        "clave": "220170059",
+        "nombre": "Cerro Partido"
+    },
+    {
+        "clave": "220170060",
+        "nombre": "La Ciénega (El Shagid)"
+    },
+    {
+        "clave": "220170061",
+        "nombre": "Las Cuevas [Granja]"
+    },
+    {
+        "clave": "220170062",
+        "nombre": "El Huesito [Establo]"
+    },
+    {
+        "clave": "220170063",
+        "nombre": "La Presita [Establo]"
+    },
+    {
+        "clave": "220170064",
+        "nombre": "San Martín [Ganadería]"
+    },
+    {
+        "clave": "220170065",
+        "nombre": "Ahorcadito [Granja]"
+    },
+    {
+        "clave": "220170066",
+        "nombre": "Tepetates [Granja]"
+    },
+    {
+        "clave": "220170067",
+        "nombre": "Bandolón [Granja]"
+    },
+    {
+        "clave": "220170068",
+        "nombre": "El Arenal [Granja]"
+    },
+    {
+        "clave": "220170069",
+        "nombre": "El Diecinueve [Granja]"
+    },
+    {
+        "clave": "220170070",
+        "nombre": "El Pirul [Granja]"
+    },
+    {
+        "clave": "220170072",
+        "nombre": "El Tecolote [Granja]"
+    },
+    {
+        "clave": "220170073",
+        "nombre": "Las Artonas [Granja]"
+    },
+    {
+        "clave": "220170074",
+        "nombre": "Mesa Uno [Granja]"
+    },
+    {
+        "clave": "220170075",
+        "nombre": "Mesa Dos [Granja]"
+    },
+    {
+        "clave": "220170076",
+        "nombre": "Los Finitos [Granja]"
+    },
+    {
+        "clave": "220170077",
+        "nombre": "Prados [Granja]"
+    },
+    {
+        "clave": "220170078",
+        "nombre": "La Lajita (Lajitas)"
+    },
+    {
+        "clave": "220170079",
+        "nombre": "Los Lobos"
+    },
+    {
+        "clave": "220170080",
+        "nombre": "El Oasis (Rancho San Agustín)"
+    },
+    {
+        "clave": "220170081",
+        "nombre": "Rancho el Paraíso Inn"
+    },
+    {
+        "clave": "220170082",
+        "nombre": "Peña Blanca"
+    },
+    {
+        "clave": "220170083",
+        "nombre": "El Llano (Pozo Número Uno)"
+    },
+    {
+        "clave": "220170085",
+        "nombre": "Quinta Rojas (Las Quintas)"
+    },
+    {
+        "clave": "220170086",
+        "nombre": "Rancho el Refugio"
+    },
+    {
+        "clave": "220170087",
+        "nombre": "Rancho el Zapote"
+    },
+    {
+        "clave": "220170088",
+        "nombre": "Rancho la Carolina"
+    },
+    {
+        "clave": "220170089",
+        "nombre": "Rancho la Laja"
+    },
+    {
+        "clave": "220170091",
+        "nombre": "Rancho la Parada"
+    },
+    {
+        "clave": "220170092",
+        "nombre": "Rancho la Providencia (Saborex de México)"
+    },
+    {
+        "clave": "220170093",
+        "nombre": "Rancho los Juanes"
+    },
+    {
+        "clave": "220170095",
+        "nombre": "Rancho Monserrat"
+    },
+    {
+        "clave": "220170096",
+        "nombre": "Rancho San Gabriel"
+    },
+    {
+        "clave": "220170097",
+        "nombre": "Rancho San Francisco Javier"
+    },
+    {
+        "clave": "220170098",
+        "nombre": "Rancho San José"
+    },
+    {
+        "clave": "220170099",
+        "nombre": "Rancho San Miguel"
+    },
+    {
+        "clave": "220170100",
+        "nombre": "Rancho los Pastores"
+    },
+    {
+        "clave": "220170102",
+        "nombre": "Ejido San Nicolás"
+    },
+    {
+        "clave": "220170103",
+        "nombre": "Rancho Santa Rosa"
+    },
+    {
+        "clave": "220170104",
+        "nombre": "Rancho el Cardonal"
+    },
+    {
+        "clave": "220170105",
+        "nombre": "Familia Ramírez (Ejido de la Fuente)"
+    },
+    {
+        "clave": "220170106",
+        "nombre": "Localidad sin Nombre (El Baldío)"
+    },
+    {
+        "clave": "220170107",
+        "nombre": "Ramas Blancas"
+    },
+    {
+        "clave": "220170108",
+        "nombre": "Rancho del Pablito"
+    },
+    {
+        "clave": "220170109",
+        "nombre": "Familia Ramírez"
+    },
+    {
+        "clave": "220170110",
+        "nombre": "El Potrerito"
+    },
+    {
+        "clave": "220170112",
+        "nombre": "Los Lobos (Pérez Moreno)"
+    },
+    {
+        "clave": "220170113",
+        "nombre": "Los Tovar"
+    },
+    {
+        "clave": "220170114",
+        "nombre": "Rancho Vista Hermosa"
+    },
+    {
+        "clave": "220170115",
+        "nombre": "Rancho los Rosales"
+    },
+    {
+        "clave": "220170116",
+        "nombre": "El Crucero"
+    },
+    {
+        "clave": "220170117",
+        "nombre": "Granja la Morita"
+    },
+    {
+        "clave": "220170118",
+        "nombre": "Rancho el Escuchador"
+    },
+    {
+        "clave": "220170119",
+        "nombre": "Centro de Distribución Genética Porcina"
+    },
+    {
+        "clave": "220170120",
+        "nombre": "Gas Modelo de Jilotepec"
+    },
+    {
+        "clave": "220170121",
+        "nombre": "Granja el Huerto"
+    },
+    {
+        "clave": "220170122",
+        "nombre": "Granja el Rincón"
+    },
+    {
+        "clave": "220170123",
+        "nombre": "Granja los Ángeles"
+    },
+    {
+        "clave": "220170124",
+        "nombre": "Granja los Finitos Sitio Uno"
+    },
+    {
+        "clave": "220170125",
+        "nombre": "El Hueso"
+    },
+    {
+        "clave": "220170126",
+        "nombre": "El Potrillo"
+    },
+    {
+        "clave": "220170127",
+        "nombre": "Rancho el Batán"
+    },
+    {
+        "clave": "220170128",
+        "nombre": "Rancho la Borrega"
+    },
+    {
+        "clave": "220170129",
+        "nombre": "Rancho los Venados"
+    },
+    {
+        "clave": "220170130",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "220170131",
+        "nombre": "Familia Aroca"
+    },
+    {
+        "clave": "220170132",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "220170133",
+        "nombre": "Familia Prado Valencia"
+    },
+    {
+        "clave": "220170134",
+        "nombre": "Familia Carbajal"
+    },
+    {
+        "clave": "220170136",
+        "nombre": "Sitio Dos Destete y Desarrollo"
+    },
+    {
+        "clave": "220170137",
+        "nombre": "Sitio Uno Maternidad Porcina"
+    },
+    {
+        "clave": "220170138",
+        "nombre": "Ampliación Adolfo López Mateos"
+    },
+    {
+        "clave": "220170139",
+        "nombre": "Arroyo Blanco"
+    },
+    {
+        "clave": "220170140",
+        "nombre": "Casa de Matanza Municipal"
+    },
+    {
+        "clave": "220170141",
+        "nombre": "Club de Golf Tequisquiapan"
+    },
+    {
+        "clave": "220170142",
+        "nombre": "Fátima (Ejido de Fuentezuelas)"
+    },
+    {
+        "clave": "220170143",
+        "nombre": "La Ermita"
+    },
+    {
+        "clave": "220170145",
+        "nombre": "Familia Ángeles"
+    },
+    {
+        "clave": "220170147",
+        "nombre": "El Hoyo del Tepetate"
+    },
+    {
+        "clave": "220170148",
+        "nombre": "El Llano (Pozo Número Cinco)"
+    },
+    {
+        "clave": "220170149",
+        "nombre": "El Llano (Pozo Número Cuatro)"
+    },
+    {
+        "clave": "220170150",
+        "nombre": "El Llano (Pozo Número Tres)"
+    },
+    {
+        "clave": "220170151",
+        "nombre": "Pozo La Calera"
+    },
+    {
+        "clave": "220170153",
+        "nombre": "Rancho los Dragones"
+    },
+    {
+        "clave": "220170154",
+        "nombre": "Rancho Montecristo"
+    },
+    {
+        "clave": "220170155",
+        "nombre": "El Salado"
+    },
+    {
+        "clave": "220170156",
+        "nombre": "Familia Chávez Ochoa"
+    },
+    {
+        "clave": "220170157",
+        "nombre": "Familia Dorantes Nieto"
+    },
+    {
+        "clave": "220170159",
+        "nombre": "Tiradero de Resíduos Sólidos"
+    },
+    {
+        "clave": "220170161",
+        "nombre": "Ninguno [Banco las Cenizas]"
+    },
+    {
+        "clave": "220170162",
+        "nombre": "Familia González Martínez"
+    },
+    {
+        "clave": "220170163",
+        "nombre": "Potrerillos [Lienzo Charro]"
+    },
+    {
+        "clave": "220170164",
+        "nombre": "Sección Este de Tequisquiapan"
+    },
+    {
+        "clave": "220170165",
+        "nombre": "Sección Sureste de Tequisquiapan"
+    },
+    {
+        "clave": "220170166",
+        "nombre": "La Fuenta Sección Suroeste"
+    },
+    {
+        "clave": "220170167",
+        "nombre": "Villa Papón"
+    },
+    {
+        "clave": "220170168",
+        "nombre": "Fuentezuelas Sección Poniente"
+    },
+    {
+        "clave": "220170169",
+        "nombre": "Camino al Ciervo (Familia Benítez Ordoñez)"
+    },
+    {
+        "clave": "220170170",
+        "nombre": "Camino al Ciervo (Familia Reséndiz Pérez)"
+    },
+    {
+        "clave": "220170171",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "220170173",
+        "nombre": "Ejido el Sauz (Familia Cruz Hurtado)"
+    },
+    {
+        "clave": "220170174",
+        "nombre": "Ejido el Sauz (J. Guadalupe Pérez)"
+    },
+    {
+        "clave": "220170175",
+        "nombre": "Familia Hernández López"
+    },
+    {
+        "clave": "220170176",
+        "nombre": "Familia Jiménez Camacho"
+    },
+    {
+        "clave": "220170177",
+        "nombre": "Familia Valencia Aranda"
+    },
+    {
+        "clave": "220170179",
+        "nombre": "Familia Ugalde Domínguez"
+    },
+    {
+        "clave": "220170182",
+        "nombre": "El Llano (Pozo número seis)"
+    },
+    {
+        "clave": "220170183",
+        "nombre": "Rancho San Isidro"
+    },
+    {
+        "clave": "220170184",
+        "nombre": "El Vivero"
+    },
+    {
+        "clave": "220170186",
+        "nombre": "Ninguno [Sección Suroeste de Tequisquiapan]"
+    },
+    {
+        "clave": "220170187",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "220170191",
+        "nombre": "La Bolita"
+    },
+    {
+        "clave": "220170192",
+        "nombre": "La Cuevita"
+    },
+    {
+        "clave": "220170193",
+        "nombre": "Lomita de Bordo Blanco"
+    },
+    {
+        "clave": "220170194",
+        "nombre": "Sección Noroeste de Bordo Blanco"
+    },
+    {
+        "clave": "220170195",
+        "nombre": "Sección Noroeste de la Fuente"
+    },
+    {
+        "clave": "220170197",
+        "nombre": "Termas del Rey [Fraccionamiento]"
+    },
+    {
+        "clave": "220170198",
+        "nombre": "La Espíndola"
+    },
+    {
+        "clave": "220170199",
+        "nombre": "Ejido el Carmen (Familia Jiménez)"
+    },
+    {
+        "clave": "220170200",
+        "nombre": "Paraíso Escondido"
+    },
+    {
+        "clave": "220170203",
+        "nombre": "Nahui Ollin [Fraccionamiento]"
+    },
+    {
+        "clave": "220170204",
+        "nombre": "Real del Ciervo [Fraccionamiento Campestre]"
+    },
+    {
+        "clave": "220170205",
+        "nombre": "Las Lagunitas"
+    },
+    {
+        "clave": "220170208",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "220170209",
+        "nombre": "Sección Norte del Tejocote"
+    },
+    {
+        "clave": "220170210",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "220170211",
+        "nombre": "Jardines de Bordo Blanco"
+    },
+    {
+        "clave": "220170212",
+        "nombre": "Sección Este de Bordo Blanco"
+    },
+    {
+        "clave": "220170213",
+        "nombre": "Alma de Agua"
+    },
+    {
+        "clave": "220170214",
+        "nombre": "Congregación de la Pasión (Misioneros Pasionistas)"
+    },
+    {
+        "clave": "220170215",
+        "nombre": "Ejido Fuentezuelas (Familia Chacón Ramírez)"
+    },
+    {
+        "clave": "220170216",
+        "nombre": "El Llano (Pozo Número 6)"
+    },
+    {
+        "clave": "220170217",
+        "nombre": "El Llano [Colonia]"
+    },
+    {
+        "clave": "220170218",
+        "nombre": "El Sauz (Las Morelianas)"
+    },
+    {
+        "clave": "220170219",
+        "nombre": "Hacienda Grande"
+    },
+    {
+        "clave": "220170220",
+        "nombre": "La Charretera"
+    },
+    {
+        "clave": "220170221",
+        "nombre": "Ninguno [Norte de Bordo Blanco]"
+    },
+    {
+        "clave": "220170222",
+        "nombre": "Nueva Ampliación López Mateos"
+    },
+    {
+        "clave": "220170223",
+        "nombre": "Potrero Peña Blanca"
+    },
+    {
+        "clave": "220170224",
+        "nombre": "Rancho Ciprés"
+    }
+]

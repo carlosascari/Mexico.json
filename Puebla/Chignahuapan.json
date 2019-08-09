@@ -1,0 +1,746 @@
+[
+    {
+        "clave": "210530007",
+        "nombre": "La Campana"
+    },
+    {
+        "clave": "210530087",
+        "nombre": "El Eco"
+    },
+    {
+        "clave": "210530102",
+        "nombre": "La Paila"
+    },
+    {
+        "clave": "210530136",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "210530145",
+        "nombre": "La Bruja"
+    },
+    {
+        "clave": "210530146",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "210530147",
+        "nombre": "Las Cabras"
+    },
+    {
+        "clave": "210530160",
+        "nombre": "La Ruleta"
+    },
+    {
+        "clave": "210530161",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "210530167",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "210530186",
+        "nombre": "La Magdalena"
+    },
+    {
+        "clave": "210530190",
+        "nombre": "Loma Alta"
+    },
+    {
+        "clave": "210530002",
+        "nombre": "Acoculco (Alamedilla)"
+    },
+    {
+        "clave": "210530003",
+        "nombre": "Acolihuia"
+    },
+    {
+        "clave": "210530004",
+        "nombre": "Ajolotla"
+    },
+    {
+        "clave": "210530005",
+        "nombre": "Atlamaxac"
+    },
+    {
+        "clave": "210530006",
+        "nombre": "Calapa"
+    },
+    {
+        "clave": "210530008",
+        "nombre": "Cañada de Piedras"
+    },
+    {
+        "clave": "210530009",
+        "nombre": "Capulaquito"
+    },
+    {
+        "clave": "210530012",
+        "nombre": "Coacoyunga"
+    },
+    {
+        "clave": "210530013",
+        "nombre": "San José Corral Blanco"
+    },
+    {
+        "clave": "210530014",
+        "nombre": "Cruz Colorada"
+    },
+    {
+        "clave": "210530015",
+        "nombre": "Cuautelolulco"
+    },
+    {
+        "clave": "210530016",
+        "nombre": "La Gloria (Segunda Sección)"
+    },
+    {
+        "clave": "210530017",
+        "nombre": "Ixtlahuaca (Palancingo)"
+    },
+    {
+        "clave": "210530019",
+        "nombre": "Llano Grande (El Aserradero)"
+    },
+    {
+        "clave": "210530021",
+        "nombre": "El Manzanito"
+    },
+    {
+        "clave": "210530022",
+        "nombre": "Matlahuacala"
+    },
+    {
+        "clave": "210530023",
+        "nombre": "Matlahuacales de Aquiles Serdán"
+    },
+    {
+        "clave": "210530024",
+        "nombre": "Las Mesas"
+    },
+    {
+        "clave": "210530025",
+        "nombre": "Michac"
+    },
+    {
+        "clave": "210530026",
+        "nombre": "Nacayolo"
+    },
+    {
+        "clave": "210530027",
+        "nombre": "Ocojala"
+    },
+    {
+        "clave": "210530028",
+        "nombre": "El Paredón"
+    },
+    {
+        "clave": "210530029",
+        "nombre": "Jonuco Pedernales"
+    },
+    {
+        "clave": "210530030",
+        "nombre": "Pueblo Nuevo (Peñuelas)"
+    },
+    {
+        "clave": "210530031",
+        "nombre": "Piedra Ancha"
+    },
+    {
+        "clave": "210530032",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "210530033",
+        "nombre": "Los Reyes"
+    },
+    {
+        "clave": "210530034",
+        "nombre": "Rinconada"
+    },
+    {
+        "clave": "210530035",
+        "nombre": "Río Chico"
+    },
+    {
+        "clave": "210530038",
+        "nombre": "San Francisco Terrerillos"
+    },
+    {
+        "clave": "210530039",
+        "nombre": "San Isidro Coliuca"
+    },
+    {
+        "clave": "210530040",
+        "nombre": "San Isidro Pedernales"
+    },
+    {
+        "clave": "210530041",
+        "nombre": "San Luis del Valle"
+    },
+    {
+        "clave": "210530042",
+        "nombre": "San Miguel Lastiri"
+    },
+    {
+        "clave": "210530043",
+        "nombre": "Sebastopol"
+    },
+    {
+        "clave": "210530044",
+        "nombre": "Tecoloquillo"
+    },
+    {
+        "clave": "210530046",
+        "nombre": "Tenancingo"
+    },
+    {
+        "clave": "210530047",
+        "nombre": "Tenextla"
+    },
+    {
+        "clave": "210530048",
+        "nombre": "Teotlalcingo"
+    },
+    {
+        "clave": "210530051",
+        "nombre": "Tres Cabezas"
+    },
+    {
+        "clave": "210530052",
+        "nombre": "Tzitla"
+    },
+    {
+        "clave": "210530054",
+        "nombre": "Nuevo San Claudio (Carretero)"
+    },
+    {
+        "clave": "210530055",
+        "nombre": "San José Atzintlimeya"
+    },
+    {
+        "clave": "210530057",
+        "nombre": "Canuillas (Barranca del Cristo)"
+    },
+    {
+        "clave": "210530058",
+        "nombre": "General Rafael Ávila Camacho (Teopan)"
+    },
+    {
+        "clave": "210530059",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "210530062",
+        "nombre": "El Reparo"
+    },
+    {
+        "clave": "210530069",
+        "nombre": "Cozapa (El Cortijo)"
+    },
+    {
+        "clave": "210530070",
+        "nombre": "La Alcantarilla"
+    },
+    {
+        "clave": "210530072",
+        "nombre": "Almeya (Casa Blanca)"
+    },
+    {
+        "clave": "210530073",
+        "nombre": "Altamira"
+    },
+    {
+        "clave": "210530075",
+        "nombre": "Chignahuapan [Baños Termales]"
+    },
+    {
+        "clave": "210530077",
+        "nombre": "Buenos Aires (Presa San Francisco)"
+    },
+    {
+        "clave": "210530080",
+        "nombre": "Cerro de la Virgen"
+    },
+    {
+        "clave": "210530082",
+        "nombre": "La Concepción Calapa"
+    },
+    {
+        "clave": "210530083",
+        "nombre": "El Cristo"
+    },
+    {
+        "clave": "210530088",
+        "nombre": "Ejido de Atlamaxac (Estados Unidos)"
+    },
+    {
+        "clave": "210530089",
+        "nombre": "La Fragua"
+    },
+    {
+        "clave": "210530090",
+        "nombre": "La Gloria (Primera Sección)"
+    },
+    {
+        "clave": "210530098",
+        "nombre": "La Melada"
+    },
+    {
+        "clave": "210530105",
+        "nombre": "Paxtla"
+    },
+    {
+        "clave": "210530106",
+        "nombre": "Los Ranchos (Rinconada)"
+    },
+    {
+        "clave": "210530110",
+        "nombre": "Río Blanco (Sebastopol)"
+    },
+    {
+        "clave": "210530111",
+        "nombre": "La Roca"
+    },
+    {
+        "clave": "210530112",
+        "nombre": "El Saltito"
+    },
+    {
+        "clave": "210530114",
+        "nombre": "San Miguel Pedernales"
+    },
+    {
+        "clave": "210530118",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "210530122",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "210530123",
+        "nombre": "Tecoloque"
+    },
+    {
+        "clave": "210530125",
+        "nombre": "El Tesmolar"
+    },
+    {
+        "clave": "210530128",
+        "nombre": "Venta Ahumada"
+    },
+    {
+        "clave": "210530130",
+        "nombre": "Zacatempa"
+    },
+    {
+        "clave": "210530137",
+        "nombre": "Llanetillo"
+    },
+    {
+        "clave": "210530139",
+        "nombre": "Los Cerones"
+    },
+    {
+        "clave": "210530140",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "210530141",
+        "nombre": "Ailitla"
+    },
+    {
+        "clave": "210530148",
+        "nombre": "El Cantón"
+    },
+    {
+        "clave": "210530149",
+        "nombre": "Cerro Blanco"
+    },
+    {
+        "clave": "210530150",
+        "nombre": "Lázaro Cárdenas (Tzitla)"
+    },
+    {
+        "clave": "210530152",
+        "nombre": "El Manzano"
+    },
+    {
+        "clave": "210530153",
+        "nombre": "La Ocopilera (El Capulín)"
+    },
+    {
+        "clave": "210530154",
+        "nombre": "Ocote Huérfano"
+    },
+    {
+        "clave": "210530155",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "210530158",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "210530159",
+        "nombre": "La Rosa"
+    },
+    {
+        "clave": "210530162",
+        "nombre": "El Sifón"
+    },
+    {
+        "clave": "210530166",
+        "nombre": "Zotoltepec"
+    },
+    {
+        "clave": "210530173",
+        "nombre": "Ciénega Larga (Agua Santa)"
+    },
+    {
+        "clave": "210530174",
+        "nombre": "Los Pilares (La Joya)"
+    },
+    {
+        "clave": "210530183",
+        "nombre": "El Fresno"
+    },
+    {
+        "clave": "210530184",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "210530189",
+        "nombre": "La Quinta"
+    },
+    {
+        "clave": "210530191",
+        "nombre": "La Rosa"
+    },
+    {
+        "clave": "210530195",
+        "nombre": "Las Víboras"
+    },
+    {
+        "clave": "210530196",
+        "nombre": "La Yerba"
+    },
+    {
+        "clave": "210530197",
+        "nombre": "El Campamento"
+    },
+    {
+        "clave": "210530201",
+        "nombre": "Toltempan"
+    },
+    {
+        "clave": "210530204",
+        "nombre": "Los Puentes Cuates"
+    },
+    {
+        "clave": "210530206",
+        "nombre": "Ejido Río Blanco (El Doce)"
+    },
+    {
+        "clave": "210530001",
+        "nombre": "Ciudad de Chignahuapan"
+    },
+    {
+        "clave": "210530011",
+        "nombre": "Ciénega Larga"
+    },
+    {
+        "clave": "210530018",
+        "nombre": "Loma Alta"
+    },
+    {
+        "clave": "210530020",
+        "nombre": "Llano Verde"
+    },
+    {
+        "clave": "210530036",
+        "nombre": "San Antonio Matlahuacales"
+    },
+    {
+        "clave": "210530037",
+        "nombre": "San Claudio"
+    },
+    {
+        "clave": "210530045",
+        "nombre": "Tecoyuca"
+    },
+    {
+        "clave": "210530050",
+        "nombre": "Toltempan"
+    },
+    {
+        "clave": "210530053",
+        "nombre": "Villa Cuauhtémoc"
+    },
+    {
+        "clave": "210530056",
+        "nombre": "Teoconchila"
+    },
+    {
+        "clave": "210530060",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "210530061",
+        "nombre": "La Magdalena"
+    },
+    {
+        "clave": "210530064",
+        "nombre": "Ilamapa"
+    },
+    {
+        "clave": "210530065",
+        "nombre": "Apapasco"
+    },
+    {
+        "clave": "210530074",
+        "nombre": "El Arenal (La Colonia)"
+    },
+    {
+        "clave": "210530078",
+        "nombre": "La Campana"
+    },
+    {
+        "clave": "210530079",
+        "nombre": "El Capulín"
+    },
+    {
+        "clave": "210530084",
+        "nombre": "La Cruz de los Pastores"
+    },
+    {
+        "clave": "210530085",
+        "nombre": "La Cuchilla (Manav Kendra)"
+    },
+    {
+        "clave": "210530086",
+        "nombre": "El Derramadero"
+    },
+    {
+        "clave": "210530091",
+        "nombre": "Huéymac"
+    },
+    {
+        "clave": "210530092",
+        "nombre": "Ixtlahuaca Barrio"
+    },
+    {
+        "clave": "210530093",
+        "nombre": "El Lobón"
+    },
+    {
+        "clave": "210530094",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "210530096",
+        "nombre": "Mano Pintada"
+    },
+    {
+        "clave": "210530099",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "210530100",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "210530103",
+        "nombre": "Palo Bendito"
+    },
+    {
+        "clave": "210530104",
+        "nombre": "Parada el Conejo"
+    },
+    {
+        "clave": "210530108",
+        "nombre": "Rancho Escondido"
+    },
+    {
+        "clave": "210530109",
+        "nombre": "Rincón Verde"
+    },
+    {
+        "clave": "210530113",
+        "nombre": "San José"
+    },
+    {
+        "clave": "210530115",
+        "nombre": "San Pedro el Tipizil"
+    },
+    {
+        "clave": "210530116",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "210530117",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "210530119",
+        "nombre": "Teyra (Santa Rita)"
+    },
+    {
+        "clave": "210530124",
+        "nombre": "Temazcales (Las Palmas)"
+    },
+    {
+        "clave": "210530126",
+        "nombre": "La Tesmolosa"
+    },
+    {
+        "clave": "210530138",
+        "nombre": "Barranca del Cristo"
+    },
+    {
+        "clave": "210530142",
+        "nombre": "Santa Rosa Amanalco"
+    },
+    {
+        "clave": "210530144",
+        "nombre": "Berlín"
+    },
+    {
+        "clave": "210530151",
+        "nombre": "Loma Larga"
+    },
+    {
+        "clave": "210530156",
+        "nombre": "Tlapizahua"
+    },
+    {
+        "clave": "210530157",
+        "nombre": "Rancho San Isidro"
+    },
+    {
+        "clave": "210530163",
+        "nombre": "El Tecajete"
+    },
+    {
+        "clave": "210530165",
+        "nombre": "El Zacatonal"
+    },
+    {
+        "clave": "210530168",
+        "nombre": "San José de las Delicias"
+    },
+    {
+        "clave": "210530169",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "210530172",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "210530176",
+        "nombre": "El Capullo"
+    },
+    {
+        "clave": "210530177",
+        "nombre": "El Cazadero (El Encanto)"
+    },
+    {
+        "clave": "210530178",
+        "nombre": "Cozapa (El Polvorín)"
+    },
+    {
+        "clave": "210530179",
+        "nombre": "Las Cruces"
+    },
+    {
+        "clave": "210530180",
+        "nombre": "El Chamizal"
+    },
+    {
+        "clave": "210530181",
+        "nombre": "El Dorado"
+    },
+    {
+        "clave": "210530182",
+        "nombre": "El Fierro"
+    },
+    {
+        "clave": "210530185",
+        "nombre": "Maderas de la Sierra [Aserradero]"
+    },
+    {
+        "clave": "210530187",
+        "nombre": "Piedra Ancha Aserradero (Segunda Ampliación)"
+    },
+    {
+        "clave": "210530188",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "210530192",
+        "nombre": "San Claudio"
+    },
+    {
+        "clave": "210530193",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "210530194",
+        "nombre": "Tlalayotes"
+    },
+    {
+        "clave": "210530198",
+        "nombre": "Los Tiradores"
+    },
+    {
+        "clave": "210530199",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "210530200",
+        "nombre": "Teotlalpan"
+    },
+    {
+        "clave": "210530202",
+        "nombre": "Las Tetillas"
+    },
+    {
+        "clave": "210530203",
+        "nombre": "Maguey Cenizo"
+    },
+    {
+        "clave": "210530205",
+        "nombre": "Las Chavelitas"
+    },
+    {
+        "clave": "210530207",
+        "nombre": "La Cieneguilla"
+    },
+    {
+        "clave": "210530208",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "210530209",
+        "nombre": "Jardínes de Cozapa"
+    },
+    {
+        "clave": "210530210",
+        "nombre": "San Miguel (Llanito Verde)"
+    },
+    {
+        "clave": "210530211",
+        "nombre": "El Abandono"
+    },
+    {
+        "clave": "210530212",
+        "nombre": "La Perla"
+    },
+    {
+        "clave": "210530213",
+        "nombre": "Sección el Ixtete"
+    }
+]

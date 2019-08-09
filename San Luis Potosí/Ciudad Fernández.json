@@ -1,0 +1,490 @@
+[
+    {
+        "clave": "240110004",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "240110024",
+        "nombre": "La Tízar"
+    },
+    {
+        "clave": "240110028",
+        "nombre": "Mesa del Campanario"
+    },
+    {
+        "clave": "240110029",
+        "nombre": "Puerto de Palo Gordo"
+    },
+    {
+        "clave": "240110102",
+        "nombre": "Paso de San Martín"
+    },
+    {
+        "clave": "240110104",
+        "nombre": "Potrero de Caldera Vieja"
+    },
+    {
+        "clave": "240110112",
+        "nombre": "San Onofre"
+    },
+    {
+        "clave": "240110123",
+        "nombre": "Potrero el Jaral"
+    },
+    {
+        "clave": "240110002",
+        "nombre": "Atotonilco"
+    },
+    {
+        "clave": "240110003",
+        "nombre": "Barrio de Guadalupe"
+    },
+    {
+        "clave": "240110005",
+        "nombre": "Colonia Veinte de Noviembre"
+    },
+    {
+        "clave": "240110007",
+        "nombre": "Mojarras de Abajo"
+    },
+    {
+        "clave": "240110008",
+        "nombre": "Mojarras de Arriba"
+    },
+    {
+        "clave": "240110009",
+        "nombre": "Morillos"
+    },
+    {
+        "clave": "240110010",
+        "nombre": "El Mosco"
+    },
+    {
+        "clave": "240110011",
+        "nombre": "La Noria"
+    },
+    {
+        "clave": "240110012",
+        "nombre": "Ojo de Agua de San Juan"
+    },
+    {
+        "clave": "240110013",
+        "nombre": "Ojo de Agua de Solano"
+    },
+    {
+        "clave": "240110014",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "240110015",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "240110016",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "240110018",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "240110019",
+        "nombre": "San José del Terremoto"
+    },
+    {
+        "clave": "240110020",
+        "nombre": "El Saucillo"
+    },
+    {
+        "clave": "240110021",
+        "nombre": "El Sermón Santa Ana"
+    },
+    {
+        "clave": "240110022",
+        "nombre": "Solano"
+    },
+    {
+        "clave": "240110025",
+        "nombre": "La Ventilla"
+    },
+    {
+        "clave": "240110027",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "240110035",
+        "nombre": "Puestecitos"
+    },
+    {
+        "clave": "240110037",
+        "nombre": "La Reformita"
+    },
+    {
+        "clave": "240110049",
+        "nombre": "Colonia la Peñita"
+    },
+    {
+        "clave": "240110094",
+        "nombre": "Barrio de la Cruz"
+    },
+    {
+        "clave": "240110095",
+        "nombre": "Las Adjuntas"
+    },
+    {
+        "clave": "240110096",
+        "nombre": "Colonia Camino Real"
+    },
+    {
+        "clave": "240110105",
+        "nombre": "Potrero el Tepetate (Cerrito del Melón)"
+    },
+    {
+        "clave": "240110106",
+        "nombre": "Puente Adjuntas (El Tepetate)"
+    },
+    {
+        "clave": "240110114",
+        "nombre": "Potrero de Santa Ana"
+    },
+    {
+        "clave": "240110115",
+        "nombre": "Huerta José González"
+    },
+    {
+        "clave": "240110116",
+        "nombre": "Potrero San Joaquín"
+    },
+    {
+        "clave": "240110120",
+        "nombre": "La Banda"
+    },
+    {
+        "clave": "240110127",
+        "nombre": "Santa Ana"
+    },
+    {
+        "clave": "240110175",
+        "nombre": "Potrero el Álamo"
+    },
+    {
+        "clave": "240110001",
+        "nombre": "Ciudad Fernández"
+    },
+    {
+        "clave": "240110006",
+        "nombre": "Labor Vieja"
+    },
+    {
+        "clave": "240110030",
+        "nombre": "Rancho Xochipilli"
+    },
+    {
+        "clave": "240110033",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "240110036",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "240110038",
+        "nombre": "El Salitre"
+    },
+    {
+        "clave": "240110040",
+        "nombre": "Rancho la Virgen"
+    },
+    {
+        "clave": "240110042",
+        "nombre": "Rancho San Luis"
+    },
+    {
+        "clave": "240110043",
+        "nombre": "Piedras Blancas"
+    },
+    {
+        "clave": "240110045",
+        "nombre": "Puertas Cuatas"
+    },
+    {
+        "clave": "240110047",
+        "nombre": "La Mezclita (Potrero de San Joaquín)"
+    },
+    {
+        "clave": "240110092",
+        "nombre": "La Loma (Las Pitahayas)"
+    },
+    {
+        "clave": "240110097",
+        "nombre": "Los Laureles"
+    },
+    {
+        "clave": "240110098",
+        "nombre": "El Mimbre"
+    },
+    {
+        "clave": "240110099",
+        "nombre": "Monte del Tepetate"
+    },
+    {
+        "clave": "240110100",
+        "nombre": "Moradillas (Valeria)"
+    },
+    {
+        "clave": "240110101",
+        "nombre": "El Obraje"
+    },
+    {
+        "clave": "240110103",
+        "nombre": "Finca la Esperanza (Potrero el Apeloteado)"
+    },
+    {
+        "clave": "240110107",
+        "nombre": "Puerto las Joyas"
+    },
+    {
+        "clave": "240110108",
+        "nombre": "Rancho el Garambullo"
+    },
+    {
+        "clave": "240110109",
+        "nombre": "Rancho el Polocote"
+    },
+    {
+        "clave": "240110110",
+        "nombre": "Rancho el Sacrificio"
+    },
+    {
+        "clave": "240110111",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "240110113",
+        "nombre": "Rancho Santa María"
+    },
+    {
+        "clave": "240110117",
+        "nombre": "Rancho Hernández Perales"
+    },
+    {
+        "clave": "240110118",
+        "nombre": "Tomás González"
+    },
+    {
+        "clave": "240110119",
+        "nombre": "La Alameda"
+    },
+    {
+        "clave": "240110121",
+        "nombre": "Huerta el Huasteco (Potrero el Huasteco)"
+    },
+    {
+        "clave": "240110124",
+        "nombre": "Potrero San Cristóbal"
+    },
+    {
+        "clave": "240110125",
+        "nombre": "La Mina"
+    },
+    {
+        "clave": "240110126",
+        "nombre": "Rancho el Gavilán (Fausto Izar)"
+    },
+    {
+        "clave": "240110128",
+        "nombre": "Las Auras"
+    },
+    {
+        "clave": "240110129",
+        "nombre": "La Encarnación"
+    },
+    {
+        "clave": "240110130",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "240110131",
+        "nombre": "Rancho San Juan"
+    },
+    {
+        "clave": "240110134",
+        "nombre": "La Concepción"
+    },
+    {
+        "clave": "240110135",
+        "nombre": "Ejido los Llanitos"
+    },
+    {
+        "clave": "240110136",
+        "nombre": "El Campestre"
+    },
+    {
+        "clave": "240110137",
+        "nombre": "Huerta de Alfredo Martínez"
+    },
+    {
+        "clave": "240110138",
+        "nombre": "Huerta de Benito Martínez"
+    },
+    {
+        "clave": "240110139",
+        "nombre": "Huerta de Clemente Martínez"
+    },
+    {
+        "clave": "240110140",
+        "nombre": "Huerta de Ezequiel Govea"
+    },
+    {
+        "clave": "240110141",
+        "nombre": "Huerta de Fidencio"
+    },
+    {
+        "clave": "240110142",
+        "nombre": "Huerta de Juan Alvarado"
+    },
+    {
+        "clave": "240110143",
+        "nombre": "Huerta de Juan Compeán"
+    },
+    {
+        "clave": "240110144",
+        "nombre": "Huerta de Juan Govea"
+    },
+    {
+        "clave": "240110145",
+        "nombre": "Huerta de Marcelino Hernández"
+    },
+    {
+        "clave": "240110146",
+        "nombre": "Huerta de Martín Silva"
+    },
+    {
+        "clave": "240110147",
+        "nombre": "Huerta de Roberto de la Torre"
+    },
+    {
+        "clave": "240110148",
+        "nombre": "Huerta la Gloria"
+    },
+    {
+        "clave": "240110149",
+        "nombre": "Huerta las Rositas"
+    },
+    {
+        "clave": "240110150",
+        "nombre": "Huerta los Pinos"
+    },
+    {
+        "clave": "240110151",
+        "nombre": "Huerta San Blas"
+    },
+    {
+        "clave": "240110152",
+        "nombre": "José Jasso Villegas"
+    },
+    {
+        "clave": "240110153",
+        "nombre": "Martín Vasco"
+    },
+    {
+        "clave": "240110154",
+        "nombre": "Splash [Parque Acuático]"
+    },
+    {
+        "clave": "240110155",
+        "nombre": "Piedras Blancas (Álvaro Olguín)"
+    },
+    {
+        "clave": "240110156",
+        "nombre": "Rancho las Sandías"
+    },
+    {
+        "clave": "240110157",
+        "nombre": "Rancho San Benito"
+    },
+    {
+        "clave": "240110158",
+        "nombre": "Rancho San José"
+    },
+    {
+        "clave": "240110159",
+        "nombre": "Rancho Santa Amalia"
+    },
+    {
+        "clave": "240110160",
+        "nombre": "Rancho Santa Catarina"
+    },
+    {
+        "clave": "240110161",
+        "nombre": "Ejido Ojo de Agua (Pablo Mendoza Torres)"
+    },
+    {
+        "clave": "240110162",
+        "nombre": "Huerta Martha Elena"
+    },
+    {
+        "clave": "240110163",
+        "nombre": "Joya de las Peñas"
+    },
+    {
+        "clave": "240110164",
+        "nombre": "La Minita"
+    },
+    {
+        "clave": "240110165",
+        "nombre": "La Mora"
+    },
+    {
+        "clave": "240110166",
+        "nombre": "Las Lechuzas"
+    },
+    {
+        "clave": "240110167",
+        "nombre": "Rancho de los Tirados"
+    },
+    {
+        "clave": "240110168",
+        "nombre": "Las Tres Huérfanas"
+    },
+    {
+        "clave": "240110169",
+        "nombre": "Las Trojas"
+    },
+    {
+        "clave": "240110170",
+        "nombre": "Sin Nombre"
+    },
+    {
+        "clave": "240110171",
+        "nombre": "Gabriel Martínez Segura"
+    },
+    {
+        "clave": "240110172",
+        "nombre": "Marcelino Ramos Castillo"
+    },
+    {
+        "clave": "240110173",
+        "nombre": "Moctezumas del Tepetate"
+    },
+    {
+        "clave": "240110174",
+        "nombre": "El Papalote"
+    },
+    {
+        "clave": "240110176",
+        "nombre": "Rancho la Libertad"
+    },
+    {
+        "clave": "240110177",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "240110178",
+        "nombre": "Quinta Vista Hermosa"
+    },
+    {
+        "clave": "240110179",
+        "nombre": "Ninguno"
+    }
+]

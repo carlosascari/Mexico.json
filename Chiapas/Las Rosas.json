@@ -1,0 +1,546 @@
+[
+    {
+        "clave": "70750003",
+        "nombre": "El Barreño"
+    },
+    {
+        "clave": "70750005",
+        "nombre": "El Cabildo"
+    },
+    {
+        "clave": "70750006",
+        "nombre": "Cancantic"
+    },
+    {
+        "clave": "70750009",
+        "nombre": "Canjob"
+    },
+    {
+        "clave": "70750017",
+        "nombre": "Chajob"
+    },
+    {
+        "clave": "70750020",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "70750023",
+        "nombre": "Las Guayabitas"
+    },
+    {
+        "clave": "70750029",
+        "nombre": "Concepción la Represa"
+    },
+    {
+        "clave": "70750034",
+        "nombre": "San Isidro la Libertad"
+    },
+    {
+        "clave": "70750036",
+        "nombre": "San Mateo"
+    },
+    {
+        "clave": "70750050",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "70750069",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "70750070",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "70750088",
+        "nombre": "El Cuajilote"
+    },
+    {
+        "clave": "70750106",
+        "nombre": "La Fortuna"
+    },
+    {
+        "clave": "70750112",
+        "nombre": "Lázaro Cárdenas del Río"
+    },
+    {
+        "clave": "70750127",
+        "nombre": "San Juan de las Tunas"
+    },
+    {
+        "clave": "70750128",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "70750132",
+        "nombre": "La Cama"
+    },
+    {
+        "clave": "70750134",
+        "nombre": "Santa Rosa (San Ramón)"
+    },
+    {
+        "clave": "70750181",
+        "nombre": "Agua León"
+    },
+    {
+        "clave": "70750190",
+        "nombre": "San Sebastián Buenavista (El Epazote)"
+    },
+    {
+        "clave": "70750202",
+        "nombre": "Los Cedros"
+    },
+    {
+        "clave": "70750205",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "70750207",
+        "nombre": "Piedra de Fuego"
+    },
+    {
+        "clave": "70750220",
+        "nombre": "Santa Eloísa"
+    },
+    {
+        "clave": "70750224",
+        "nombre": "Jesús"
+    },
+    {
+        "clave": "70750225",
+        "nombre": "San Caralampio Nevataj"
+    },
+    {
+        "clave": "70750226",
+        "nombre": "San Cristobalito"
+    },
+    {
+        "clave": "70750230",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "70750232",
+        "nombre": "Santa María las Rosas"
+    },
+    {
+        "clave": "70750234",
+        "nombre": "Veinticuatro de Junio"
+    },
+    {
+        "clave": "70750235",
+        "nombre": "Tzujula I"
+    },
+    {
+        "clave": "70750236",
+        "nombre": "San Miguel el Jocote"
+    },
+    {
+        "clave": "70750001",
+        "nombre": "Las Rosas"
+    },
+    {
+        "clave": "70750010",
+        "nombre": "Canjobito"
+    },
+    {
+        "clave": "70750012",
+        "nombre": "El Ciprés"
+    },
+    {
+        "clave": "70750013",
+        "nombre": "Corral Hierba"
+    },
+    {
+        "clave": "70750016",
+        "nombre": "Buenavista las Cumbres"
+    },
+    {
+        "clave": "70750022",
+        "nombre": "Guadalupe las Canoas"
+    },
+    {
+        "clave": "70750024",
+        "nombre": "Ixtapilla"
+    },
+    {
+        "clave": "70750043",
+        "nombre": "Yalpale"
+    },
+    {
+        "clave": "70750045",
+        "nombre": "Zacualpa"
+    },
+    {
+        "clave": "70750046",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "70750049",
+        "nombre": "Chitama"
+    },
+    {
+        "clave": "70750055",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "70750060",
+        "nombre": "El Chipilinar"
+    },
+    {
+        "clave": "70750066",
+        "nombre": "El Piñuelar"
+    },
+    {
+        "clave": "70750067",
+        "nombre": "San Antonio el Paraje"
+    },
+    {
+        "clave": "70750090",
+        "nombre": "Candelaria Buenavista"
+    },
+    {
+        "clave": "70750104",
+        "nombre": "Cruz Morales"
+    },
+    {
+        "clave": "70750107",
+        "nombre": "Nuevo Tepeyac"
+    },
+    {
+        "clave": "70750108",
+        "nombre": "Planta Vieja"
+    },
+    {
+        "clave": "70750109",
+        "nombre": "Tzujula II"
+    },
+    {
+        "clave": "70750118",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "70750131",
+        "nombre": "Soledad el Llano"
+    },
+    {
+        "clave": "70750154",
+        "nombre": "Paso Hondo"
+    },
+    {
+        "clave": "70750162",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "70750163",
+        "nombre": "Coperote"
+    },
+    {
+        "clave": "70750164",
+        "nombre": "Las Lajas"
+    },
+    {
+        "clave": "70750169",
+        "nombre": "Tres Amores"
+    },
+    {
+        "clave": "70750186",
+        "nombre": "Santa Rosa las Limas"
+    },
+    {
+        "clave": "70750188",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "70750197",
+        "nombre": "Shuca los Laureles"
+    },
+    {
+        "clave": "70750203",
+        "nombre": "Chaquiltic Cochulu"
+    },
+    {
+        "clave": "70750014",
+        "nombre": "Corraltón"
+    },
+    {
+        "clave": "70750027",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "70750041",
+        "nombre": "El Saucito"
+    },
+    {
+        "clave": "70750044",
+        "nombre": "San Rafael el Arroyo"
+    },
+    {
+        "clave": "70750056",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "70750062",
+        "nombre": "Majagual (Joaquín Amaro)"
+    },
+    {
+        "clave": "70750063",
+        "nombre": "La Meza"
+    },
+    {
+        "clave": "70750095",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "70750110",
+        "nombre": "Santa Rita las Flores"
+    },
+    {
+        "clave": "70750117",
+        "nombre": "San José Buenavista"
+    },
+    {
+        "clave": "70750120",
+        "nombre": "San Antonio del Monte"
+    },
+    {
+        "clave": "70750121",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "70750122",
+        "nombre": "Las Manzanitas"
+    },
+    {
+        "clave": "70750123",
+        "nombre": "Buenavista Santa Elena"
+    },
+    {
+        "clave": "70750125",
+        "nombre": "La Primavera"
+    },
+    {
+        "clave": "70750126",
+        "nombre": "San José"
+    },
+    {
+        "clave": "70750129",
+        "nombre": "Candelaria el Pozo"
+    },
+    {
+        "clave": "70750133",
+        "nombre": "San Panuncio"
+    },
+    {
+        "clave": "70750153",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "70750155",
+        "nombre": "Mi Ranchito"
+    },
+    {
+        "clave": "70750156",
+        "nombre": "Valle Placentero"
+    },
+    {
+        "clave": "70750157",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "70750158",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "70750159",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "70750160",
+        "nombre": "Santa Ana"
+    },
+    {
+        "clave": "70750171",
+        "nombre": "Matasanos"
+    },
+    {
+        "clave": "70750174",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "70750175",
+        "nombre": "Santa Cecilia"
+    },
+    {
+        "clave": "70750176",
+        "nombre": "Ingenio Dolores"
+    },
+    {
+        "clave": "70750177",
+        "nombre": "Elohim"
+    },
+    {
+        "clave": "70750178",
+        "nombre": "El Vertedor (El Pedregal)"
+    },
+    {
+        "clave": "70750179",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "70750183",
+        "nombre": "Los Cedros"
+    },
+    {
+        "clave": "70750184",
+        "nombre": "El Haway"
+    },
+    {
+        "clave": "70750189",
+        "nombre": "Los Laureles"
+    },
+    {
+        "clave": "70750191",
+        "nombre": "Fraccionamiento San Miguel"
+    },
+    {
+        "clave": "70750193",
+        "nombre": "Magdalena"
+    },
+    {
+        "clave": "70750194",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "70750195",
+        "nombre": "Santa Isabel"
+    },
+    {
+        "clave": "70750196",
+        "nombre": "Santa Lucía"
+    },
+    {
+        "clave": "70750198",
+        "nombre": "Concepción la Primavera"
+    },
+    {
+        "clave": "70750199",
+        "nombre": "Buenavista Agua Bendita"
+    },
+    {
+        "clave": "70750200",
+        "nombre": "La Furia"
+    },
+    {
+        "clave": "70750201",
+        "nombre": "Las Bugambilias"
+    },
+    {
+        "clave": "70750204",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "70750206",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "70750208",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "70750209",
+        "nombre": "Los Reyes"
+    },
+    {
+        "clave": "70750210",
+        "nombre": "San Antonio de Yola"
+    },
+    {
+        "clave": "70750211",
+        "nombre": "San Martín de la Cañada"
+    },
+    {
+        "clave": "70750212",
+        "nombre": "Santa Rosa (Yaltentzun)"
+    },
+    {
+        "clave": "70750213",
+        "nombre": "Jorge Cantoral"
+    },
+    {
+        "clave": "70750214",
+        "nombre": "Jesús Fernández S."
+    },
+    {
+        "clave": "70750215",
+        "nombre": "Agua Azufrada"
+    },
+    {
+        "clave": "70750216",
+        "nombre": "Alfredo Velasco"
+    },
+    {
+        "clave": "70750217",
+        "nombre": "Bugambilias"
+    },
+    {
+        "clave": "70750218",
+        "nombre": "El Guitarrón Olé"
+    },
+    {
+        "clave": "70750219",
+        "nombre": "La Primavera"
+    },
+    {
+        "clave": "70750221",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "70750222",
+        "nombre": "La Disciplina"
+    },
+    {
+        "clave": "70750223",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "70750227",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "70750228",
+        "nombre": "San José las Vigas"
+    },
+    {
+        "clave": "70750229",
+        "nombre": "Villa Nueva"
+    },
+    {
+        "clave": "70750231",
+        "nombre": "Quinta Ole"
+    },
+    {
+        "clave": "70750233",
+        "nombre": "Santo Tomás"
+    },
+    {
+        "clave": "70750237",
+        "nombre": "El Manantial"
+    },
+    {
+        "clave": "70750238",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "70750239",
+        "nombre": "Juan María Torres Cortez"
+    },
+    {
+        "clave": "70750240",
+        "nombre": "Rigoberto Fernández Solórzano"
+    },
+    {
+        "clave": "70750241",
+        "nombre": "San Luis"
+    }
+]

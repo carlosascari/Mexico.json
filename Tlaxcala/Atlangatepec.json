@@ -1,0 +1,506 @@
+[
+    {
+        "clave": "290030114",
+        "nombre": "San Antonio Zacapexco (San Pedro Zacapexco)"
+    },
+    {
+        "clave": "290030007",
+        "nombre": "Colonia Agrícola San Luis"
+    },
+    {
+        "clave": "290030010",
+        "nombre": "Santa Clara Ozumba"
+    },
+    {
+        "clave": "290030018",
+        "nombre": "Santiago Villalta"
+    },
+    {
+        "clave": "290030019",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "290030022",
+        "nombre": "Zumpango"
+    },
+    {
+        "clave": "290030026",
+        "nombre": "Cerro de las Flores"
+    },
+    {
+        "clave": "290030032",
+        "nombre": "Colonia Loma Bonita"
+    },
+    {
+        "clave": "290030065",
+        "nombre": "El Catorce"
+    },
+    {
+        "clave": "290030084",
+        "nombre": "Las Barrancas [Rancho]"
+    },
+    {
+        "clave": "290030001",
+        "nombre": "Atlangatepec"
+    },
+    {
+        "clave": "290030004",
+        "nombre": "Segunda Fracción de Olivares"
+    },
+    {
+        "clave": "290030005",
+        "nombre": "San Baltazar"
+    },
+    {
+        "clave": "290030006",
+        "nombre": "Ex-hacienda San José Atlanga"
+    },
+    {
+        "clave": "290030008",
+        "nombre": "San Pedro Ecatepec"
+    },
+    {
+        "clave": "290030011",
+        "nombre": "Santa María Tepetzala"
+    },
+    {
+        "clave": "290030012",
+        "nombre": "San José de Santa Rosa Zacapexco"
+    },
+    {
+        "clave": "290030013",
+        "nombre": "Ex-hacienda San Antonio Tepetzala"
+    },
+    {
+        "clave": "290030014",
+        "nombre": "Colonia Benito Juárez (Tezoyo)"
+    },
+    {
+        "clave": "290030015",
+        "nombre": "Tlamimilolpan"
+    },
+    {
+        "clave": "290030017",
+        "nombre": "La Trasquila"
+    },
+    {
+        "clave": "290030021",
+        "nombre": "Ex-hacienda de Zocac"
+    },
+    {
+        "clave": "290030023",
+        "nombre": "San José de Santa Rosa"
+    },
+    {
+        "clave": "290030024",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "290030025",
+        "nombre": "La Cañada"
+    },
+    {
+        "clave": "290030027",
+        "nombre": "Ex-hacienda la Trasquila"
+    },
+    {
+        "clave": "290030028",
+        "nombre": "El Ocotal"
+    },
+    {
+        "clave": "290030029",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "290030030",
+        "nombre": "Rancho Tenopala"
+    },
+    {
+        "clave": "290030031",
+        "nombre": "Villa de las Flores"
+    },
+    {
+        "clave": "290030033",
+        "nombre": "Rancho Jericó"
+    },
+    {
+        "clave": "290030035",
+        "nombre": "San Antonio Zacapexco"
+    },
+    {
+        "clave": "290030036",
+        "nombre": "Xuxtepec"
+    },
+    {
+        "clave": "290030037",
+        "nombre": "La Flor [Rancho]"
+    },
+    {
+        "clave": "290030038",
+        "nombre": "El Fuerte Apache [Centro Turístico]"
+    },
+    {
+        "clave": "290030039",
+        "nombre": "Alicia Fernández Ramírez"
+    },
+    {
+        "clave": "290030040",
+        "nombre": "Cuarta Fracción de Olivares"
+    },
+    {
+        "clave": "290030041",
+        "nombre": "La Cuchilla (El Alcanfor)"
+    },
+    {
+        "clave": "290030042",
+        "nombre": "Fracción San Pedro Ecatepec"
+    },
+    {
+        "clave": "290030043",
+        "nombre": "José Rodríguez"
+    },
+    {
+        "clave": "290030044",
+        "nombre": "Loma Bonita Zacapexco"
+    },
+    {
+        "clave": "290030045",
+        "nombre": "Sabino Grande (El Carmen)"
+    },
+    {
+        "clave": "290030046",
+        "nombre": "Mauro Vázquez"
+    },
+    {
+        "clave": "290030047",
+        "nombre": "Morelos"
+    },
+    {
+        "clave": "290030048",
+        "nombre": "Villa Quinta Olivares [Centro Vacacional]"
+    },
+    {
+        "clave": "290030049",
+        "nombre": "Rancho Xalnene"
+    },
+    {
+        "clave": "290030050",
+        "nombre": "La Herradura [Rancho]"
+    },
+    {
+        "clave": "290030051",
+        "nombre": "San Felipe [Rancho]"
+    },
+    {
+        "clave": "290030052",
+        "nombre": "Los Rodríguez"
+    },
+    {
+        "clave": "290030053",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "290030054",
+        "nombre": "San José Atlanga"
+    },
+    {
+        "clave": "290030055",
+        "nombre": "Zacapexco (La Soledad)"
+    },
+    {
+        "clave": "290030056",
+        "nombre": "Tepezilapan"
+    },
+    {
+        "clave": "290030057",
+        "nombre": "Tercera Fracción de Olivares"
+    },
+    {
+        "clave": "290030058",
+        "nombre": "La Troje"
+    },
+    {
+        "clave": "290030059",
+        "nombre": "La Casa Roja"
+    },
+    {
+        "clave": "290030060",
+        "nombre": "La Loma (El Cerrito)"
+    },
+    {
+        "clave": "290030061",
+        "nombre": "Graciana Flores Hernández"
+    },
+    {
+        "clave": "290030062",
+        "nombre": "El Ardillero"
+    },
+    {
+        "clave": "290030063",
+        "nombre": "Las Cabañas"
+    },
+    {
+        "clave": "290030064",
+        "nombre": "La Cañada [Rancho]"
+    },
+    {
+        "clave": "290030066",
+        "nombre": "Colonia Comisión Federal de Electricidad la Martinica"
+    },
+    {
+        "clave": "290030067",
+        "nombre": "Cruz Juárez Zamora"
+    },
+    {
+        "clave": "290030068",
+        "nombre": "Francisco Espinoza Elizalde"
+    },
+    {
+        "clave": "290030069",
+        "nombre": "San Isidro la Gasca"
+    },
+    {
+        "clave": "290030070",
+        "nombre": "El Huérfano"
+    },
+    {
+        "clave": "290030071",
+        "nombre": "José González"
+    },
+    {
+        "clave": "290030072",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "290030073",
+        "nombre": "El Llano de Xuxtepec"
+    },
+    {
+        "clave": "290030074",
+        "nombre": "El Ocote"
+    },
+    {
+        "clave": "290030075",
+        "nombre": "El Recuerdo [Rancho]"
+    },
+    {
+        "clave": "290030076",
+        "nombre": "El Oyamel"
+    },
+    {
+        "clave": "290030077",
+        "nombre": "Ranchito del Monte"
+    },
+    {
+        "clave": "290030078",
+        "nombre": "El Alazán [Rancho]"
+    },
+    {
+        "clave": "290030079",
+        "nombre": "Rancho el Carmen"
+    },
+    {
+        "clave": "290030080",
+        "nombre": "El Encino [Rancho]"
+    },
+    {
+        "clave": "290030081",
+        "nombre": "El Ocote [Rancho]"
+    },
+    {
+        "clave": "290030082",
+        "nombre": "El Potrero [Rancho]"
+    },
+    {
+        "clave": "290030083",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "290030085",
+        "nombre": "Las Tinajas [Rancho]"
+    },
+    {
+        "clave": "290030086",
+        "nombre": "Los Capulines [Rancho]"
+    },
+    {
+        "clave": "290030087",
+        "nombre": "Los Encinos [Rancho]"
+    },
+    {
+        "clave": "290030088",
+        "nombre": "Los Nopalitos [Rancho]"
+    },
+    {
+        "clave": "290030089",
+        "nombre": "San Francisco [Rancho]"
+    },
+    {
+        "clave": "290030090",
+        "nombre": "Filemón Hernández"
+    },
+    {
+        "clave": "290030091",
+        "nombre": "Redentor Guevara Flores"
+    },
+    {
+        "clave": "290030092",
+        "nombre": "San Simón"
+    },
+    {
+        "clave": "290030093",
+        "nombre": "La Soledad (Las Ánimas)"
+    },
+    {
+        "clave": "290030094",
+        "nombre": "Las Tinajas (La Tepozanera)"
+    },
+    {
+        "clave": "290030095",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "290030096",
+        "nombre": "Luis Echeverría [Establo Bovino]"
+    },
+    {
+        "clave": "290030097",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "290030098",
+        "nombre": "Atlangatepec [Gasolinera]"
+    },
+    {
+        "clave": "290030099",
+        "nombre": "El Alemán"
+    },
+    {
+        "clave": "290030100",
+        "nombre": "Las Tórtolas"
+    },
+    {
+        "clave": "290030101",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "290030102",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "290030103",
+        "nombre": "El Recodo"
+    },
+    {
+        "clave": "290030104",
+        "nombre": "Samuel Orea (Rancho el Pato)"
+    },
+    {
+        "clave": "290030105",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "290030106",
+        "nombre": "Rancho Guadalupe"
+    },
+    {
+        "clave": "290030107",
+        "nombre": "Unidad Habitacional I"
+    },
+    {
+        "clave": "290030108",
+        "nombre": "Almeya"
+    },
+    {
+        "clave": "290030109",
+        "nombre": "El Capricho"
+    },
+    {
+        "clave": "290030110",
+        "nombre": "El Colibrí"
+    },
+    {
+        "clave": "290030111",
+        "nombre": "El Herradero"
+    },
+    {
+        "clave": "290030112",
+        "nombre": "La Vaca Prieta"
+    },
+    {
+        "clave": "290030113",
+        "nombre": "Los Cuatro Hermanos [Rancho]"
+    },
+    {
+        "clave": "290030115",
+        "nombre": "El Cenzontle [Rancho]"
+    },
+    {
+        "clave": "290030116",
+        "nombre": "Camino Real"
+    },
+    {
+        "clave": "290030117",
+        "nombre": "Las Cabañas"
+    },
+    {
+        "clave": "290030118",
+        "nombre": "Jesús García"
+    },
+    {
+        "clave": "290030119",
+        "nombre": "Villa Esperanza [Rancho]"
+    },
+    {
+        "clave": "290030120",
+        "nombre": "Tercera Sección de Vaivén"
+    },
+    {
+        "clave": "290030121",
+        "nombre": "Alcatraces"
+    },
+    {
+        "clave": "290030122",
+        "nombre": "Finca el Cristo"
+    },
+    {
+        "clave": "290030123",
+        "nombre": "Los Arbolitos [Rancho]"
+    },
+    {
+        "clave": "290030124",
+        "nombre": "Pazo Da Lyz E Do Sanci"
+    },
+    {
+        "clave": "290030125",
+        "nombre": "Demetrio Flores"
+    },
+    {
+        "clave": "290030126",
+        "nombre": "El Embarcadero"
+    },
+    {
+        "clave": "290030127",
+        "nombre": "Francisco Vázquez Jiménez"
+    },
+    {
+        "clave": "290030128",
+        "nombre": "Gregorio Herrera"
+    },
+    {
+        "clave": "290030129",
+        "nombre": "Hortencia Palafox González"
+    },
+    {
+        "clave": "290030130",
+        "nombre": "Las Caridades"
+    },
+    {
+        "clave": "290030131",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "290030132",
+        "nombre": "Tepizil (San Pedro)"
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "clave": "80180009",
+        "nombre": "Bajío de Arriba"
+    },
+    {
+        "clave": "80180017",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "80180018",
+        "nombre": "Cerro Prieto de Arriba"
+    },
+    {
+        "clave": "80180021",
+        "nombre": "Coyachi"
+    },
+    {
+        "clave": "80180022",
+        "nombre": "Los Cuates de Arriba"
+    },
+    {
+        "clave": "80180028",
+        "nombre": "Rancho de Domínguez"
+    },
+    {
+        "clave": "80180039",
+        "nombre": "Huizochi"
+    },
+    {
+        "clave": "80180050",
+        "nombre": "Meloncillo"
+    },
+    {
+        "clave": "80180051",
+        "nombre": "Colonia México (La Lagunita)"
+    },
+    {
+        "clave": "80180052",
+        "nombre": "El Mimbre"
+    },
+    {
+        "clave": "80180173",
+        "nombre": "El Porfín (Rancho de Alfonso Domínguez)"
+    },
+    {
+        "clave": "80180267",
+        "nombre": "Real de Arriba"
+    },
+    {
+        "clave": "80180274",
+        "nombre": "La Loma (Saúl Rascón)"
+    },
+    {
+        "clave": "80180001",
+        "nombre": "Cusihuiriachi"
+    },
+    {
+        "clave": "80180002",
+        "nombre": "Acayucan"
+    },
+    {
+        "clave": "80180004",
+        "nombre": "Los Álamos de Cerro Prieto"
+    },
+    {
+        "clave": "80180005",
+        "nombre": "El Alto de Cerro Prieto"
+    },
+    {
+        "clave": "80180008",
+        "nombre": "Bajío de Abajo"
+    },
+    {
+        "clave": "80180013",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "80180014",
+        "nombre": "Capilla de los Remedios"
+    },
+    {
+        "clave": "80180015",
+        "nombre": "Carbajal de Abajo"
+    },
+    {
+        "clave": "80180016",
+        "nombre": "Carbajal de Arriba"
+    },
+    {
+        "clave": "80180019",
+        "nombre": "Colonia Cusi (Ojo de Agua)"
+    },
+    {
+        "clave": "80180020",
+        "nombre": "Campo Veintinueve"
+    },
+    {
+        "clave": "80180023",
+        "nombre": "Charco Azul"
+    },
+    {
+        "clave": "80180024",
+        "nombre": "Chenchen"
+    },
+    {
+        "clave": "80180026",
+        "nombre": "Chopeque"
+    },
+    {
+        "clave": "80180029",
+        "nombre": "Rancho Oaxaca (Dos Amigos)"
+    },
+    {
+        "clave": "80180030",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "80180034",
+        "nombre": "Rancho de González"
+    },
+    {
+        "clave": "80180035",
+        "nombre": "Guarda Raya"
+    },
+    {
+        "clave": "80180036",
+        "nombre": "Rancho Holguín"
+    },
+    {
+        "clave": "80180037",
+        "nombre": "El Horizonte"
+    },
+    {
+        "clave": "80180038",
+        "nombre": "Las Huertas"
+    },
+    {
+        "clave": "80180040",
+        "nombre": "La Jara"
+    },
+    {
+        "clave": "80180046",
+        "nombre": "Llanos de Reforma"
+    },
+    {
+        "clave": "80180053",
+        "nombre": "El Mortero"
+    },
+    {
+        "clave": "80180054",
+        "nombre": "El Nogal (Rancho de Quezada)"
+    },
+    {
+        "clave": "80180055",
+        "nombre": "Ocochi"
+    },
+    {
+        "clave": "80180056",
+        "nombre": "El Ojito"
+    },
+    {
+        "clave": "80180064",
+        "nombre": "Real de Abajo"
+    },
+    {
+        "clave": "80180068",
+        "nombre": "San Antonio de Loya"
+    },
+    {
+        "clave": "80180069",
+        "nombre": "San Bernabé"
+    },
+    {
+        "clave": "80180070",
+        "nombre": "San Gonzalo"
+    },
+    {
+        "clave": "80180071",
+        "nombre": "San Juan de la Junta"
+    },
+    {
+        "clave": "80180075",
+        "nombre": "Santa Gertrudis"
+    },
+    {
+        "clave": "80180076",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "80180078",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "80180079",
+        "nombre": "El Táscate"
+    },
+    {
+        "clave": "80180080",
+        "nombre": "Los Terreritos"
+    },
+    {
+        "clave": "80180082",
+        "nombre": "Tierras Negras (El Ingeniero)"
+    },
+    {
+        "clave": "80180083",
+        "nombre": "El Tule"
+    },
+    {
+        "clave": "80180084",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "80180085",
+        "nombre": "La Villalba"
+    },
+    {
+        "clave": "80180091",
+        "nombre": "El Halcón"
+    },
+    {
+        "clave": "80180093",
+        "nombre": "Los Estrada"
+    },
+    {
+        "clave": "80180095",
+        "nombre": "La Cantera"
+    },
+    {
+        "clave": "80180096",
+        "nombre": "Lagunita de San Bernabé"
+    },
+    {
+        "clave": "80180097",
+        "nombre": "El Mastranzo"
+    },
+    {
+        "clave": "80180100",
+        "nombre": "Rancho Cavazos"
+    },
+    {
+        "clave": "80180101",
+        "nombre": "El Barranco Colorado (Buenos Aires)"
+    },
+    {
+        "clave": "80180102",
+        "nombre": "Los Nogales (San Antonio)"
+    },
+    {
+        "clave": "80180103",
+        "nombre": "Rancho Domínguez"
+    },
+    {
+        "clave": "80180105",
+        "nombre": "Rancho de Quintana (Las Golondrinas)"
+    },
+    {
+        "clave": "80180106",
+        "nombre": "La Laguna de San Rafael"
+    },
+    {
+        "clave": "80180107",
+        "nombre": "El Coyote (La Viuda)"
+    },
+    {
+        "clave": "80180108",
+        "nombre": "El Puerto"
+    },
+    {
+        "clave": "80180109",
+        "nombre": "Rancho Ordóñez (La Soledad)"
+    },
+    {
+        "clave": "80180111",
+        "nombre": "Forestal"
+    },
+    {
+        "clave": "80180112",
+        "nombre": "La Enramada"
+    },
+    {
+        "clave": "80180113",
+        "nombre": "La Purísima"
+    },
+    {
+        "clave": "80180114",
+        "nombre": "Cerro Prieto (Cerro Prieto de Abajo)"
+    },
+    {
+        "clave": "80180117",
+        "nombre": "Loma Linda"
+    },
+    {
+        "clave": "80180118",
+        "nombre": "Rancho Blanco"
+    },
+    {
+        "clave": "80180119",
+        "nombre": "Rancho de Arriba"
+    },
+    {
+        "clave": "80180121",
+        "nombre": "San Juan de la Junta de Arriba"
+    },
+    {
+        "clave": "80180122",
+        "nombre": "San Luis (Las Chivas)"
+    },
+    {
+        "clave": "80180123",
+        "nombre": "Santa Catarina (Santa Catalina de Mendoza)"
+    },
+    {
+        "clave": "80180124",
+        "nombre": "El Tanque"
+    },
+    {
+        "clave": "80180125",
+        "nombre": "Rancho San Pedro (Rancho Ordóñez Hermanos)"
+    },
+    {
+        "clave": "80180126",
+        "nombre": "El Tres X"
+    },
+    {
+        "clave": "80180129",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "80180131",
+        "nombre": "El Chisco"
+    },
+    {
+        "clave": "80180133",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "80180137",
+        "nombre": "La Sauceda"
+    },
+    {
+        "clave": "80180138",
+        "nombre": "La TabLa Grande (La Galera)"
+    },
+    {
+        "clave": "80180139",
+        "nombre": "Las Marías"
+    },
+    {
+        "clave": "80180144",
+        "nombre": "Rancho los Cerritos"
+    },
+    {
+        "clave": "80180145",
+        "nombre": "Las Lupes (Rancho Domínguez)"
+    },
+    {
+        "clave": "80180146",
+        "nombre": "El Ojito"
+    },
+    {
+        "clave": "80180148",
+        "nombre": "La Labor de San Antonio"
+    },
+    {
+        "clave": "80180149",
+        "nombre": "Rancho Alto de Chávez (Rancho Alto Grande)"
+    },
+    {
+        "clave": "80180159",
+        "nombre": "Rancho Masichín"
+    },
+    {
+        "clave": "80180160",
+        "nombre": "El Jazmín"
+    },
+    {
+        "clave": "80180161",
+        "nombre": "Rancho San Nicolás"
+    },
+    {
+        "clave": "80180162",
+        "nombre": "Localidad Sin Nombre"
+    },
+    {
+        "clave": "80180168",
+        "nombre": "El Arbolito"
+    },
+    {
+        "clave": "80180169",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "80180170",
+        "nombre": "La Guajolota"
+    },
+    {
+        "clave": "80180171",
+        "nombre": "Rancho Aragón"
+    },
+    {
+        "clave": "80180172",
+        "nombre": "Rancho de Adán Hernández (Santa Cruz)"
+    },
+    {
+        "clave": "80180174",
+        "nombre": "Rancho de Homero Corral"
+    },
+    {
+        "clave": "80180175",
+        "nombre": "Rancho de Robles"
+    },
+    {
+        "clave": "80180176",
+        "nombre": "Rancho la Finca"
+    },
+    {
+        "clave": "80180177",
+        "nombre": "El Taráis"
+    },
+    {
+        "clave": "80180179",
+        "nombre": "La Boquilla"
+    },
+    {
+        "clave": "80180180",
+        "nombre": "El Molino"
+    },
+    {
+        "clave": "80180181",
+        "nombre": "Flores"
+    },
+    {
+        "clave": "80180182",
+        "nombre": "Los García"
+    },
+    {
+        "clave": "80180183",
+        "nombre": "La Loma (Remigio Rascón)"
+    },
+    {
+        "clave": "80180184",
+        "nombre": "La Manga"
+    },
+    {
+        "clave": "80180185",
+        "nombre": "Los Martínez"
+    },
+    {
+        "clave": "80180186",
+        "nombre": "Los Molinares"
+    },
+    {
+        "clave": "80180188",
+        "nombre": "El Ojo de la Canoa"
+    },
+    {
+        "clave": "80180189",
+        "nombre": "El Papalote"
+    },
+    {
+        "clave": "80180190",
+        "nombre": "Rancho la Finca"
+    },
+    {
+        "clave": "80180191",
+        "nombre": "Sandoval"
+    },
+    {
+        "clave": "80180192",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "80180193",
+        "nombre": "San José"
+    },
+    {
+        "clave": "80180194",
+        "nombre": "El Saucito"
+    },
+    {
+        "clave": "80180195",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180196",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180197",
+        "nombre": "Localidad Sin Nombre"
+    },
+    {
+        "clave": "80180198",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180199",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180200",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180201",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180202",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180203",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180204",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "80180206",
+        "nombre": "Campo Número Veintiséis"
+    },
+    {
+        "clave": "80180207",
+        "nombre": "Campo 27 1/2"
+    },
+    {
+        "clave": "80180208",
+        "nombre": "Campo Número Veintisiete"
+    },
+    {
+        "clave": "80180209",
+        "nombre": "Campo Veintisiete y Medio"
+    },
+    {
+        "clave": "80180210",
+        "nombre": "Campo Número Veintiocho"
+    },
+    {
+        "clave": "80180211",
+        "nombre": "Campo Veintiocho y Medio"
+    },
+    {
+        "clave": "80180212",
+        "nombre": "Campo Veintinueve y Medio (Gandarilla)"
+    },
+    {
+        "clave": "80180213",
+        "nombre": "Gandarilla"
+    },
+    {
+        "clave": "80180214",
+        "nombre": "Huerta Alvarado"
+    },
+    {
+        "clave": "80180215",
+        "nombre": "El Chiquihuite"
+    },
+    {
+        "clave": "80180216",
+        "nombre": "Huerta Salvador Corral (La Laguna del Pato)"
+    },
+    {
+        "clave": "80180217",
+        "nombre": "El Papalote"
+    },
+    {
+        "clave": "80180218",
+        "nombre": "Rancho el Pájaro"
+    },
+    {
+        "clave": "80180219",
+        "nombre": "Chihuahuita"
+    },
+    {
+        "clave": "80180220",
+        "nombre": "Rancho de los Rojo (Rancho Rojo)"
+    },
+    {
+        "clave": "80180221",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180222",
+        "nombre": "La Manga"
+    },
+    {
+        "clave": "80180223",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180224",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "80180250",
+        "nombre": "Loma Linda"
+    },
+    {
+        "clave": "80180251",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180252",
+        "nombre": "Huerta Cusi"
+    },
+    {
+        "clave": "80180253",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180254",
+        "nombre": "Huerta Santa Rita (Rancho Medellín)"
+    },
+    {
+        "clave": "80180255",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180256",
+        "nombre": "Salvador Alvídrez [Huerta]"
+    },
+    {
+        "clave": "80180257",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180258",
+        "nombre": "Rancho el Golfo"
+    },
+    {
+        "clave": "80180259",
+        "nombre": "Talayote"
+    },
+    {
+        "clave": "80180260",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180261",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180263",
+        "nombre": "La Manga"
+    },
+    {
+        "clave": "80180264",
+        "nombre": "Huerta Villagrán"
+    },
+    {
+        "clave": "80180265",
+        "nombre": "Huerta Arroyo Seco"
+    },
+    {
+        "clave": "80180266",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180268",
+        "nombre": "La Casita"
+    },
+    {
+        "clave": "80180269",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180270",
+        "nombre": "El Encanto"
+    },
+    {
+        "clave": "80180271",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "80180272",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "80180273",
+        "nombre": "La Rosetilla"
+    },
+    {
+        "clave": "80180275",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180276",
+        "nombre": "El Halcón"
+    },
+    {
+        "clave": "80180277",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "80180278",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180279",
+        "nombre": "Rancho Orozco"
+    },
+    {
+        "clave": "80180280",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180281",
+        "nombre": "La Bufa"
+    },
+    {
+        "clave": "80180282",
+        "nombre": "El Ganso"
+    },
+    {
+        "clave": "80180283",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180284",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180285",
+        "nombre": "Mesa Blanca"
+    },
+    {
+        "clave": "80180286",
+        "nombre": "Campo Veintisiete B"
+    },
+    {
+        "clave": "80180287",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80180288",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "80180289",
+        "nombre": "Huerta Buenos Aires"
+    },
+    {
+        "clave": "80180290",
+        "nombre": "Huerta la Finca"
+    },
+    {
+        "clave": "80180291",
+        "nombre": "La Capilla"
+    },
+    {
+        "clave": "80180292",
+        "nombre": "Ninguno"
+    }
+]

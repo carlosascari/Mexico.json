@@ -1,0 +1,486 @@
+[
+    {
+        "clave": "280170058",
+        "nombre": "San Francisco del Cañón"
+    },
+    {
+        "clave": "280170076",
+        "nombre": "Veinte de Abril (Joya de Salas)"
+    },
+    {
+        "clave": "280170002",
+        "nombre": "El Alamito"
+    },
+    {
+        "clave": "280170003",
+        "nombre": "Alberto Carrera Torres"
+    },
+    {
+        "clave": "280170005",
+        "nombre": "El Atravesaño"
+    },
+    {
+        "clave": "280170006",
+        "nombre": "Ávila y Urbina (La Meca)"
+    },
+    {
+        "clave": "280170010",
+        "nombre": "El Carrizo"
+    },
+    {
+        "clave": "280170011",
+        "nombre": "Cinco de Mayo"
+    },
+    {
+        "clave": "280170012",
+        "nombre": "Las Comas"
+    },
+    {
+        "clave": "280170014",
+        "nombre": "Conrado Castillo (La Maroma)"
+    },
+    {
+        "clave": "280170020",
+        "nombre": "Francisco I. Madero (Magueyes)"
+    },
+    {
+        "clave": "280170021",
+        "nombre": "Francisco Medrano (Las Pilas)"
+    },
+    {
+        "clave": "280170025",
+        "nombre": "El Higuerón"
+    },
+    {
+        "clave": "280170027",
+        "nombre": "La Independencia (Las Moritas)"
+    },
+    {
+        "clave": "280170028",
+        "nombre": "El Ingenio (Los Adobes)"
+    },
+    {
+        "clave": "280170029",
+        "nombre": "José María Morelos (El Nopal)"
+    },
+    {
+        "clave": "280170033",
+        "nombre": "Magdaleno Aguilar (Santiaguillo)"
+    },
+    {
+        "clave": "280170038",
+        "nombre": "Monterredondo"
+    },
+    {
+        "clave": "280170039",
+        "nombre": "Las Moras"
+    },
+    {
+        "clave": "280170043",
+        "nombre": "Padrón y Juárez (La Puente)"
+    },
+    {
+        "clave": "280170044",
+        "nombre": "La Parra"
+    },
+    {
+        "clave": "280170047",
+        "nombre": "Paso Real de Guerrero"
+    },
+    {
+        "clave": "280170048",
+        "nombre": "Plan de Ayala (Las Calabazas)"
+    },
+    {
+        "clave": "280170053",
+        "nombre": "Rancho Nuevo (Cañitas)"
+    },
+    {
+        "clave": "280170054",
+        "nombre": "Redención del Campesino (Palomas)"
+    },
+    {
+        "clave": "280170055",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "280170057",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "280170059",
+        "nombre": "San Francisco de Zorrilla"
+    },
+    {
+        "clave": "280170061",
+        "nombre": "San José de Salamanca"
+    },
+    {
+        "clave": "280170063",
+        "nombre": "San Juan de Oriente"
+    },
+    {
+        "clave": "280170064",
+        "nombre": "San Juanito"
+    },
+    {
+        "clave": "280170065",
+        "nombre": "San Lorenzo (San Lorencito)"
+    },
+    {
+        "clave": "280170069",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "280170070",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "280170071",
+        "nombre": "Seis de Enero"
+    },
+    {
+        "clave": "280170074",
+        "nombre": "El Troncón"
+    },
+    {
+        "clave": "280170075",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "280170102",
+        "nombre": "Monterredondo (La Zumbadora)"
+    },
+    {
+        "clave": "280170116",
+        "nombre": "Monterredondo (Adolfo Peña)"
+    },
+    {
+        "clave": "280170130",
+        "nombre": "La Florida"
+    },
+    {
+        "clave": "280170001",
+        "nombre": "Jaumave"
+    },
+    {
+        "clave": "280170004",
+        "nombre": "La Asunción (La Chona)"
+    },
+    {
+        "clave": "280170008",
+        "nombre": "Camino Real"
+    },
+    {
+        "clave": "280170013",
+        "nombre": "Compuertas"
+    },
+    {
+        "clave": "280170015",
+        "nombre": "El Coyolar"
+    },
+    {
+        "clave": "280170017",
+        "nombre": "El Duraznillo"
+    },
+    {
+        "clave": "280170018",
+        "nombre": "Granja de Readaptación Social (Los Ébanos)"
+    },
+    {
+        "clave": "280170019",
+        "nombre": "La Florida"
+    },
+    {
+        "clave": "280170022",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "280170023",
+        "nombre": "El Güero"
+    },
+    {
+        "clave": "280170024",
+        "nombre": "Gustavo Cáceres"
+    },
+    {
+        "clave": "280170030",
+        "nombre": "Joya de Molina"
+    },
+    {
+        "clave": "280170032",
+        "nombre": "Las Letras"
+    },
+    {
+        "clave": "280170034",
+        "nombre": "El Mascorro"
+    },
+    {
+        "clave": "280170035",
+        "nombre": "Matías García (La Hacienda)"
+    },
+    {
+        "clave": "280170037",
+        "nombre": "Montecristo"
+    },
+    {
+        "clave": "280170040",
+        "nombre": "El Encantado"
+    },
+    {
+        "clave": "280170041",
+        "nombre": "Nogales"
+    },
+    {
+        "clave": "280170042",
+        "nombre": "Ojos de Agua"
+    },
+    {
+        "clave": "280170045",
+        "nombre": "La Parrita (La Parra)"
+    },
+    {
+        "clave": "280170046",
+        "nombre": "Pascual Orozco"
+    },
+    {
+        "clave": "280170049",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "280170052",
+        "nombre": "Rancho Grande (El Nilo)"
+    },
+    {
+        "clave": "280170072",
+        "nombre": "Cerro de Guadalupe (La Soledad)"
+    },
+    {
+        "clave": "280170073",
+        "nombre": "El Sotol"
+    },
+    {
+        "clave": "280170077",
+        "nombre": "La Esperanza (Las Vigas)"
+    },
+    {
+        "clave": "280170079",
+        "nombre": "Carabanchel"
+    },
+    {
+        "clave": "280170082",
+        "nombre": "La Roca"
+    },
+    {
+        "clave": "280170084",
+        "nombre": "San Felipe (Abraham Ibarra)"
+    },
+    {
+        "clave": "280170086",
+        "nombre": "La Nacahuita"
+    },
+    {
+        "clave": "280170088",
+        "nombre": "Gallinitas"
+    },
+    {
+        "clave": "280170093",
+        "nombre": "Rodarte (Casa Rodarte)"
+    },
+    {
+        "clave": "280170094",
+        "nombre": "Tierras Coloradas"
+    },
+    {
+        "clave": "280170096",
+        "nombre": "Los Viveros"
+    },
+    {
+        "clave": "280170099",
+        "nombre": "Los Nogales"
+    },
+    {
+        "clave": "280170101",
+        "nombre": "La Bajada de los Bueyes"
+    },
+    {
+        "clave": "280170103",
+        "nombre": "El Grullo"
+    },
+    {
+        "clave": "280170106",
+        "nombre": "La Mohonera"
+    },
+    {
+        "clave": "280170109",
+        "nombre": "Joya del León"
+    },
+    {
+        "clave": "280170112",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "280170113",
+        "nombre": "El Encinal"
+    },
+    {
+        "clave": "280170114",
+        "nombre": "El Molino"
+    },
+    {
+        "clave": "280170115",
+        "nombre": "El Carrizo"
+    },
+    {
+        "clave": "280170117",
+        "nombre": "Nogales (José Isabel Álvarez)"
+    },
+    {
+        "clave": "280170118",
+        "nombre": "Bucareli"
+    },
+    {
+        "clave": "280170119",
+        "nombre": "La Mula"
+    },
+    {
+        "clave": "280170120",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "280170121",
+        "nombre": "San Juan del Río"
+    },
+    {
+        "clave": "280170122",
+        "nombre": "La Quemada"
+    },
+    {
+        "clave": "280170123",
+        "nombre": "La Lagunita"
+    },
+    {
+        "clave": "280170124",
+        "nombre": "Joya de Salas"
+    },
+    {
+        "clave": "280170125",
+        "nombre": "Los Angelitos"
+    },
+    {
+        "clave": "280170126",
+        "nombre": "Los Álamos"
+    },
+    {
+        "clave": "280170127",
+        "nombre": "Rogelio Cervantes"
+    },
+    {
+        "clave": "280170128",
+        "nombre": "Santa Elena (La Flecha)"
+    },
+    {
+        "clave": "280170129",
+        "nombre": "Francisco Valdéz"
+    },
+    {
+        "clave": "280170131",
+        "nombre": "Los Ébanos (Caprino)"
+    },
+    {
+        "clave": "280170132",
+        "nombre": "El Chino"
+    },
+    {
+        "clave": "280170133",
+        "nombre": "Las Goteras"
+    },
+    {
+        "clave": "280170134",
+        "nombre": "Aloe de Jaumave (Ramiro Estrada)"
+    },
+    {
+        "clave": "280170135",
+        "nombre": "José Gudiño Cardiel"
+    },
+    {
+        "clave": "280170136",
+        "nombre": "Florentino García Lara"
+    },
+    {
+        "clave": "280170137",
+        "nombre": "El Dátil"
+    },
+    {
+        "clave": "280170138",
+        "nombre": "El Emplumado"
+    },
+    {
+        "clave": "280170139",
+        "nombre": "Los Naranjos"
+    },
+    {
+        "clave": "280170140",
+        "nombre": "El Rincón de Jaumave"
+    },
+    {
+        "clave": "280170141",
+        "nombre": "El Ébano"
+    },
+    {
+        "clave": "280170142",
+        "nombre": "Jaumave (Jesús Rivera Contreras)"
+    },
+    {
+        "clave": "280170143",
+        "nombre": "Los Naranjos"
+    },
+    {
+        "clave": "280170144",
+        "nombre": "Rancho Viejo (San Juana Sosa Barrientos)"
+    },
+    {
+        "clave": "280170145",
+        "nombre": "El Librillal"
+    },
+    {
+        "clave": "280170146",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "280170147",
+        "nombre": "El Pitayal"
+    },
+    {
+        "clave": "280170148",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "280170149",
+        "nombre": "Monterredondo (Los Ébanos)"
+    },
+    {
+        "clave": "280170150",
+        "nombre": "Monterredondo (El Potrero)"
+    },
+    {
+        "clave": "280170151",
+        "nombre": "Joel Cardona"
+    },
+    {
+        "clave": "280170152",
+        "nombre": "Las Adelitas"
+    },
+    {
+        "clave": "280170153",
+        "nombre": "La Saga"
+    },
+    {
+        "clave": "280170154",
+        "nombre": "El Nogal"
+    },
+    {
+        "clave": "280170155",
+        "nombre": "El Retiro"
+    }
+]

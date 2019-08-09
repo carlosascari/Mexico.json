@@ -1,0 +1,722 @@
+[
+    {
+        "clave": "161120023",
+        "nombre": "Francisco Serrato (San Bartolo)"
+    },
+    {
+        "clave": "161120028",
+        "nombre": "El Lindero (Segunda Manzana de Crescencio Morales)"
+    },
+    {
+        "clave": "161120095",
+        "nombre": "La Guitarrita (La Guitarra)"
+    },
+    {
+        "clave": "161120130",
+        "nombre": "Los Lampazos (Tercera Manzana)"
+    },
+    {
+        "clave": "161120157",
+        "nombre": "El Tigrito (Segunda Manzana de Crescencio Morales)"
+    },
+    {
+        "clave": "161120167",
+        "nombre": "Las Tilias (La Haciendita)"
+    },
+    {
+        "clave": "161120178",
+        "nombre": "Loma de Aparicio"
+    },
+    {
+        "clave": "161120206",
+        "nombre": "El Ojo de Agua"
+    },
+    {
+        "clave": "161120222",
+        "nombre": "La Lomita"
+    },
+    {
+        "clave": "161120226",
+        "nombre": "La Loma (Quinta Manzana Crescencio Morales)"
+    },
+    {
+        "clave": "161120002",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "161120003",
+        "nombre": "Aputzio de Juárez (Santa María)"
+    },
+    {
+        "clave": "161120004",
+        "nombre": "Dos Ríos (Barbechos)"
+    },
+    {
+        "clave": "161120005",
+        "nombre": "La Barranca (Quinta Manzana Crescencio Morales)"
+    },
+    {
+        "clave": "161120006",
+        "nombre": "Camémbaro"
+    },
+    {
+        "clave": "161120007",
+        "nombre": "Carpinteros"
+    },
+    {
+        "clave": "161120011",
+        "nombre": "Timbineo los Contreras"
+    },
+    {
+        "clave": "161120012",
+        "nombre": "La Cortina"
+    },
+    {
+        "clave": "161120014",
+        "nombre": "Crescencio Morales (San Mateo)"
+    },
+    {
+        "clave": "161120015",
+        "nombre": "San Francisco Curungueo"
+    },
+    {
+        "clave": "161120017",
+        "nombre": "Chimusdá (Cuarta Manzana de Donaciano Ojeda)"
+    },
+    {
+        "clave": "161120018",
+        "nombre": "La Dieta (Segunda Manzana de Crescencio Morales)"
+    },
+    {
+        "clave": "161120019",
+        "nombre": "Donaciano Ojeda (Primera y Segunda Manzana San Francisco)"
+    },
+    {
+        "clave": "161120020",
+        "nombre": "Colonia Emiliano Zapata (San Juan Zitácuaro)"
+    },
+    {
+        "clave": "161120024",
+        "nombre": "La Fundición (Quinta Manzana)"
+    },
+    {
+        "clave": "161120026",
+        "nombre": "Las Majadas (Rancho de Guadalupe)"
+    },
+    {
+        "clave": "161120027",
+        "nombre": "Kilómetro Once"
+    },
+    {
+        "clave": "161120029",
+        "nombre": "Loma Larga"
+    },
+    {
+        "clave": "161120030",
+        "nombre": "Macutzio"
+    },
+    {
+        "clave": "161120031",
+        "nombre": "Macho de Agua (Quinta Manzana de Crescencio Morales)"
+    },
+    {
+        "clave": "161120033",
+        "nombre": "Manzanillos (Primera Manzana)"
+    },
+    {
+        "clave": "161120035",
+        "nombre": "Mesas de Enandio (Cuarta Manzana)"
+    },
+    {
+        "clave": "161120036",
+        "nombre": "Mesa de los Alzati (Mesa de San Felipe)"
+    },
+    {
+        "clave": "161120039",
+        "nombre": "Ocurio"
+    },
+    {
+        "clave": "161120040",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "161120042",
+        "nombre": "Las Peras"
+    },
+    {
+        "clave": "161120044",
+        "nombre": "Puentecillas (Tercera Manzana de Zirahuato)"
+    },
+    {
+        "clave": "161120045",
+        "nombre": "Puentezuelas (Tercera Manzana de Curungueo)"
+    },
+    {
+        "clave": "161120046",
+        "nombre": "Puerto Azul (Quinta Manzana de San Felipe)"
+    },
+    {
+        "clave": "161120048",
+        "nombre": "Rincón del Ahorcado"
+    },
+    {
+        "clave": "161120049",
+        "nombre": "Rincón de Curungueo (Segunada Manzana de Curungueo)"
+    },
+    {
+        "clave": "161120050",
+        "nombre": "El Rincón de San Felipe (Tercera Manzana San Felipe)"
+    },
+    {
+        "clave": "161120051",
+        "nombre": "Las Rosas"
+    },
+    {
+        "clave": "161120052",
+        "nombre": "San Felipe los Alzati (Colonia Nueva)"
+    },
+    {
+        "clave": "161120053",
+        "nombre": "Seis Palos (Quinta Manzana de San Miguel)"
+    },
+    {
+        "clave": "161120054",
+        "nombre": "Silva de Abajo"
+    },
+    {
+        "clave": "161120055",
+        "nombre": "Silva de Arriba (El Chorrito)"
+    },
+    {
+        "clave": "161120056",
+        "nombre": "La Soledad (Cuarta Manzana de Francisco Serrato)"
+    },
+    {
+        "clave": "161120057",
+        "nombre": "El Tigre (Segunda Manzana de Crescencio Morales)"
+    },
+    {
+        "clave": "161120058",
+        "nombre": "Toma de Agua"
+    },
+    {
+        "clave": "161120059",
+        "nombre": "Los Zapotes (Puerto los Zapotes)"
+    },
+    {
+        "clave": "161120060",
+        "nombre": "Zirahuato de los Bernal"
+    },
+    {
+        "clave": "161120061",
+        "nombre": "La Carne Hedionda"
+    },
+    {
+        "clave": "161120063",
+        "nombre": "Santa Rita (Segunda Manzana de Curungueo)"
+    },
+    {
+        "clave": "161120065",
+        "nombre": "El Llano de Curungueo"
+    },
+    {
+        "clave": "161120067",
+        "nombre": "Cerrito de los Magueyes"
+    },
+    {
+        "clave": "161120069",
+        "nombre": "Puerto de San Felipe (El Trébol)"
+    },
+    {
+        "clave": "161120070",
+        "nombre": "Boca de la Cañada (Quarta Manzana de Crescencio Morales)"
+    },
+    {
+        "clave": "161120073",
+        "nombre": "Ojo de Agua de San Felipe (Primera Manzana)"
+    },
+    {
+        "clave": "161120076",
+        "nombre": "Los Reyes (Quinta Manzana)"
+    },
+    {
+        "clave": "161120079",
+        "nombre": "El Banco"
+    },
+    {
+        "clave": "161120080",
+        "nombre": "Linda Vista (El Bosque)"
+    },
+    {
+        "clave": "161120081",
+        "nombre": "La Y Griega"
+    },
+    {
+        "clave": "161120082",
+        "nombre": "Rincón de Nicolás Romero (Cedros Tercera Manzana)"
+    },
+    {
+        "clave": "161120083",
+        "nombre": "La Cumbre (Quinta Manzana de Crescencio Morales)"
+    },
+    {
+        "clave": "161120084",
+        "nombre": "La Mesa Chiquita (La Mesita Chiquita)"
+    },
+    {
+        "clave": "161120085",
+        "nombre": "Armadillos (Tercera Manzana de Timbineo)"
+    },
+    {
+        "clave": "161120087",
+        "nombre": "El Asoleadero"
+    },
+    {
+        "clave": "161120088",
+        "nombre": "Los Romerillos (Tercera Manzana)"
+    },
+    {
+        "clave": "161120089",
+        "nombre": "El Sauz (Tercera Manzana)"
+    },
+    {
+        "clave": "161120092",
+        "nombre": "Río de Guadalupe (Cuarta Manzana de Crescencio Morales)"
+    },
+    {
+        "clave": "161120097",
+        "nombre": "El Bordo"
+    },
+    {
+        "clave": "161120106",
+        "nombre": "Rosa Santa"
+    },
+    {
+        "clave": "161120111",
+        "nombre": "El Troje"
+    },
+    {
+        "clave": "161120114",
+        "nombre": "Agua Nueva"
+    },
+    {
+        "clave": "161120116",
+        "nombre": "La Pera (La Mora el Aguacate)"
+    },
+    {
+        "clave": "161120117",
+        "nombre": "El Álamo"
+    },
+    {
+        "clave": "161120118",
+        "nombre": "La Colonia de Aputzio"
+    },
+    {
+        "clave": "161120120",
+        "nombre": "El Campamento (Sexta Manzana de Nicolás Romero)"
+    },
+    {
+        "clave": "161120128",
+        "nombre": "El Granjeno"
+    },
+    {
+        "clave": "161120131",
+        "nombre": "Las Lomas de Aputzio (Las Lomas)"
+    },
+    {
+        "clave": "161120132",
+        "nombre": "La Loma (Tercera Manzana de San Miguel)"
+    },
+    {
+        "clave": "161120135",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "161120136",
+        "nombre": "La Mesa (La Mesa de Cedano)"
+    },
+    {
+        "clave": "161120142",
+        "nombre": "Puentecillas (Tercera Manzana de Donaciano Ojeda)"
+    },
+    {
+        "clave": "161120149",
+        "nombre": "Las Casas Blancas"
+    },
+    {
+        "clave": "161120150",
+        "nombre": "El Puerto (Tercera Manzana)"
+    },
+    {
+        "clave": "161120151",
+        "nombre": "La Capilla (Tercera Manzana de Francisco Serrato)"
+    },
+    {
+        "clave": "161120155",
+        "nombre": "La Presa (Segunda Manzana Barrio de Santa Cruz)"
+    },
+    {
+        "clave": "161120158",
+        "nombre": "Valle Verde"
+    },
+    {
+        "clave": "161120159",
+        "nombre": "Los Escobales (Quinta Manzana de Crescencio Morales)"
+    },
+    {
+        "clave": "161120160",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "161120161",
+        "nombre": "El Sombrerete (Tercera Manzana de Curungueo)"
+    },
+    {
+        "clave": "161120162",
+        "nombre": "La Gironda (Hacienda la Gironda)"
+    },
+    {
+        "clave": "161120163",
+        "nombre": "El Hortelano (Puerto de Santa María)"
+    },
+    {
+        "clave": "161120168",
+        "nombre": "La Joya de Manzanillo (Segunda Manzana)"
+    },
+    {
+        "clave": "161120169",
+        "nombre": "Mesa de Loma Larga (Loma Bonita)"
+    },
+    {
+        "clave": "161120170",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "161120171",
+        "nombre": "La Ziranda (El Fresno)"
+    },
+    {
+        "clave": "161120172",
+        "nombre": "Agua Bendita (El Pocito)"
+    },
+    {
+        "clave": "161120173",
+        "nombre": "Agua de la Rosa"
+    },
+    {
+        "clave": "161120174",
+        "nombre": "El Callejón"
+    },
+    {
+        "clave": "161120175",
+        "nombre": "El Capulín"
+    },
+    {
+        "clave": "161120176",
+        "nombre": "El Kilómetro (Llano de San Felipe)"
+    },
+    {
+        "clave": "161120177",
+        "nombre": "Lechuguillas"
+    },
+    {
+        "clave": "161120179",
+        "nombre": "La Mesa del Rincón de Curungueo"
+    },
+    {
+        "clave": "161120180",
+        "nombre": "Ojo de Agua (Tercera Manzana de Zirahuato)"
+    },
+    {
+        "clave": "161120181",
+        "nombre": "Las Pilitas"
+    },
+    {
+        "clave": "161120184",
+        "nombre": "El Derrumbadero"
+    },
+    {
+        "clave": "161120189",
+        "nombre": "El Gigante"
+    },
+    {
+        "clave": "161120190",
+        "nombre": "La Mesa de Abajo"
+    },
+    {
+        "clave": "161120191",
+        "nombre": "El Rincón de Vechi"
+    },
+    {
+        "clave": "161120192",
+        "nombre": "El Capulín (Tercera Manzana de Crescencio Morales)"
+    },
+    {
+        "clave": "161120194",
+        "nombre": "Agua Blanca (La Palma)"
+    },
+    {
+        "clave": "161120197",
+        "nombre": "Colonia Adolfo López Mateos"
+    },
+    {
+        "clave": "161120198",
+        "nombre": "El Escobal (Tercera Manzana de San Miguel)"
+    },
+    {
+        "clave": "161120199",
+        "nombre": "La Guásima (Séptima Manzana de San Miguel)"
+    },
+    {
+        "clave": "161120202",
+        "nombre": "El Maguey"
+    },
+    {
+        "clave": "161120203",
+        "nombre": "Los Mejía"
+    },
+    {
+        "clave": "161120204",
+        "nombre": "Mesa de Dos Ríos (La Mesa Octava Manzana)"
+    },
+    {
+        "clave": "161120205",
+        "nombre": "La Miel (Primera Manzana de San Felipe)"
+    },
+    {
+        "clave": "161120207",
+        "nombre": "Zitácuaro [Parque Industrial]"
+    },
+    {
+        "clave": "161120211",
+        "nombre": "El Puerto de Valle Verde"
+    },
+    {
+        "clave": "161120213",
+        "nombre": "Tercera Manzana de Manzanillos (El Rancho)"
+    },
+    {
+        "clave": "161120214",
+        "nombre": "La Resistol (Segunda Manzana de San Felipe)"
+    },
+    {
+        "clave": "161120218",
+        "nombre": "La Viguita (Cuarta Manzana de Crescencio Morales)"
+    },
+    {
+        "clave": "161120219",
+        "nombre": "El Ojo de Agua"
+    },
+    {
+        "clave": "161120221",
+        "nombre": "Fraccionamiento Primero de Mayo"
+    },
+    {
+        "clave": "161120223",
+        "nombre": "El Espinal (Los Espinales)"
+    },
+    {
+        "clave": "161120225",
+        "nombre": "Los Encinos"
+    },
+    {
+        "clave": "161120227",
+        "nombre": "Lomas del Sol"
+    },
+    {
+        "clave": "161120228",
+        "nombre": "Piedra Ahumada"
+    },
+    {
+        "clave": "161120230",
+        "nombre": "Cerro Ancho (Segunda Manzana de Nicolás Romero)"
+    },
+    {
+        "clave": "161120001",
+        "nombre": "Heróica Zitácuaro"
+    },
+    {
+        "clave": "161120013",
+        "nombre": "Ignacio López Rayón (Coyota Primera Manzana)"
+    },
+    {
+        "clave": "161120021",
+        "nombre": "La Encarnación"
+    },
+    {
+        "clave": "161120025",
+        "nombre": "La Garita de Coatepec"
+    },
+    {
+        "clave": "161120037",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "161120043",
+        "nombre": "Pueblo Nuevo (Colonia Valle de Quencio)"
+    },
+    {
+        "clave": "161120047",
+        "nombre": "Puerto de los Espinos"
+    },
+    {
+        "clave": "161120066",
+        "nombre": "El Espinal"
+    },
+    {
+        "clave": "161120068",
+        "nombre": "La Cantina"
+    },
+    {
+        "clave": "161120071",
+        "nombre": "El Polvorín"
+    },
+    {
+        "clave": "161120074",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "161120090",
+        "nombre": "Los Polvillos (El Crucero)"
+    },
+    {
+        "clave": "161120094",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "161120103",
+        "nombre": "La Comunidad"
+    },
+    {
+        "clave": "161120104",
+        "nombre": "Las Mesitas"
+    },
+    {
+        "clave": "161120113",
+        "nombre": "La Mesa Alta"
+    },
+    {
+        "clave": "161120115",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "161120119",
+        "nombre": "La Calera"
+    },
+    {
+        "clave": "161120121",
+        "nombre": "El Capire"
+    },
+    {
+        "clave": "161120124",
+        "nombre": "Fraccionamiento Aguacatera del Monte"
+    },
+    {
+        "clave": "161120125",
+        "nombre": "Las Escobas (La Recicladora)"
+    },
+    {
+        "clave": "161120138",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "161120139",
+        "nombre": "El Palmar (Piedra de Cal)"
+    },
+    {
+        "clave": "161120143",
+        "nombre": "Curvas del Gato"
+    },
+    {
+        "clave": "161120154",
+        "nombre": "La Mojonera"
+    },
+    {
+        "clave": "161120165",
+        "nombre": "Casa Colorada"
+    },
+    {
+        "clave": "161120182",
+        "nombre": "Puerto del Aire"
+    },
+    {
+        "clave": "161120183",
+        "nombre": "El Abuelo"
+    },
+    {
+        "clave": "161120186",
+        "nombre": "La Angostura (La Vuelta)"
+    },
+    {
+        "clave": "161120187",
+        "nombre": "San Cayetano"
+    },
+    {
+        "clave": "161120193",
+        "nombre": "El Tizate"
+    },
+    {
+        "clave": "161120195",
+        "nombre": "Albergue Shalom"
+    },
+    {
+        "clave": "161120196",
+        "nombre": "La Calera"
+    },
+    {
+        "clave": "161120200",
+        "nombre": "Los Ailes"
+    },
+    {
+        "clave": "161120201",
+        "nombre": "Llano Grande (El Vergel)"
+    },
+    {
+        "clave": "161120208",
+        "nombre": "Paraje del Granjeno"
+    },
+    {
+        "clave": "161120209",
+        "nombre": "La Pinzanera (Cémoro)"
+    },
+    {
+        "clave": "161120210",
+        "nombre": "Puente Colorado"
+    },
+    {
+        "clave": "161120212",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "161120215",
+        "nombre": "San Miguel Chichimequillas"
+    },
+    {
+        "clave": "161120216",
+        "nombre": "El Tiradero (El Tianguis)"
+    },
+    {
+        "clave": "161120217",
+        "nombre": "El Túnel"
+    },
+    {
+        "clave": "161120220",
+        "nombre": "Rosas de Zícata"
+    },
+    {
+        "clave": "161120224",
+        "nombre": "Fraccionamiento la Venta"
+    },
+    {
+        "clave": "161120229",
+        "nombre": "Colonia la Magdalena"
+    },
+    {
+        "clave": "161120231",
+        "nombre": "El Santísimo (Quinta Manzana de Crescencio Morales)"
+    },
+    {
+        "clave": "161120232",
+        "nombre": "Lomas de Oriente"
+    }
+]

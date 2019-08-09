@@ -1,0 +1,602 @@
+[
+    {
+        "clave": "220180013",
+        "nombre": "Corralitos"
+    },
+    {
+        "clave": "220180020",
+        "nombre": "García"
+    },
+    {
+        "clave": "220180024",
+        "nombre": "El Jabalí"
+    },
+    {
+        "clave": "220180042",
+        "nombre": "Ronquillo"
+    },
+    {
+        "clave": "220180060",
+        "nombre": "Zapote de los Uribe (El Zapote)"
+    },
+    {
+        "clave": "220180066",
+        "nombre": "El Madroño"
+    },
+    {
+        "clave": "220180081",
+        "nombre": "El Saucito"
+    },
+    {
+        "clave": "220180084",
+        "nombre": "El Sabino (La Guayaba)"
+    },
+    {
+        "clave": "220180106",
+        "nombre": "El Puertecito (Zapote de los Uribe)"
+    },
+    {
+        "clave": "220180129",
+        "nombre": "La Presita"
+    },
+    {
+        "clave": "220180149",
+        "nombre": "La Víbora"
+    },
+    {
+        "clave": "220180160",
+        "nombre": "Linda Vista"
+    },
+    {
+        "clave": "220180002",
+        "nombre": "Adjuntillas"
+    },
+    {
+        "clave": "220180004",
+        "nombre": "Bomintzá"
+    },
+    {
+        "clave": "220180006",
+        "nombre": "La Cañada"
+    },
+    {
+        "clave": "220180008",
+        "nombre": "Carrizalillo"
+    },
+    {
+        "clave": "220180009",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "220180010",
+        "nombre": "Barrio de Casas Viejas"
+    },
+    {
+        "clave": "220180011",
+        "nombre": "Rancho el Cedazo"
+    },
+    {
+        "clave": "220180012",
+        "nombre": "El Cerrito Parado"
+    },
+    {
+        "clave": "220180014",
+        "nombre": "Las Crucitas"
+    },
+    {
+        "clave": "220180016",
+        "nombre": "El Chilar"
+    },
+    {
+        "clave": "220180017",
+        "nombre": "Derramadero"
+    },
+    {
+        "clave": "220180018",
+        "nombre": "Don Lucas"
+    },
+    {
+        "clave": "220180019",
+        "nombre": "La Estancia"
+    },
+    {
+        "clave": "220180021",
+        "nombre": "Granjeno"
+    },
+    {
+        "clave": "220180022",
+        "nombre": "Gudiños"
+    },
+    {
+        "clave": "220180025",
+        "nombre": "Rancho de Guadalupe"
+    },
+    {
+        "clave": "220180027",
+        "nombre": "Maguey Manso"
+    },
+    {
+        "clave": "220180028",
+        "nombre": "Manantial"
+    },
+    {
+        "clave": "220180029",
+        "nombre": "La Matamba Uno"
+    },
+    {
+        "clave": "220180030",
+        "nombre": "Mesa de Ramírez"
+    },
+    {
+        "clave": "220180032",
+        "nombre": "Las Moras"
+    },
+    {
+        "clave": "220180033",
+        "nombre": "Nogales"
+    },
+    {
+        "clave": "220180035",
+        "nombre": "Panales"
+    },
+    {
+        "clave": "220180036",
+        "nombre": "El Patol"
+    },
+    {
+        "clave": "220180037",
+        "nombre": "Peña Blanca"
+    },
+    {
+        "clave": "220180039",
+        "nombre": "Puerto Blanco"
+    },
+    {
+        "clave": "220180040",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "220180043",
+        "nombre": "Sabino de San Ambrosio"
+    },
+    {
+        "clave": "220180047",
+        "nombre": "San Antonio de la Cal"
+    },
+    {
+        "clave": "220180049",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "220180050",
+        "nombre": "San Pablo Tolimán"
+    },
+    {
+        "clave": "220180054",
+        "nombre": "Tequesquite (Chalma)"
+    },
+    {
+        "clave": "220180055",
+        "nombre": "El Terrero"
+    },
+    {
+        "clave": "220180056",
+        "nombre": "Tierra Volteada"
+    },
+    {
+        "clave": "220180057",
+        "nombre": "La Vereda"
+    },
+    {
+        "clave": "220180058",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "220180061",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "220180063",
+        "nombre": "Bermejo"
+    },
+    {
+        "clave": "220180067",
+        "nombre": "Mesa de Chagoya"
+    },
+    {
+        "clave": "220180069",
+        "nombre": "Lindero"
+    },
+    {
+        "clave": "220180070",
+        "nombre": "Diezmeros"
+    },
+    {
+        "clave": "220180072",
+        "nombre": "La Cebolleta"
+    },
+    {
+        "clave": "220180074",
+        "nombre": "Barrio de García"
+    },
+    {
+        "clave": "220180083",
+        "nombre": "Los Rincones (San Pedro de los Eucaliptos)"
+    },
+    {
+        "clave": "220180086",
+        "nombre": "La Peña"
+    },
+    {
+        "clave": "220180092",
+        "nombre": "Tuna Manza"
+    },
+    {
+        "clave": "220180099",
+        "nombre": "Las Cuatas"
+    },
+    {
+        "clave": "220180104",
+        "nombre": "Longo"
+    },
+    {
+        "clave": "220180116",
+        "nombre": "Los Rincones (Casas Viejas)"
+    },
+    {
+        "clave": "220180117",
+        "nombre": "San Pedro de los Eucaliptos"
+    },
+    {
+        "clave": "220180118",
+        "nombre": "La Matamba Dos"
+    },
+    {
+        "clave": "220180119",
+        "nombre": "El Tule"
+    },
+    {
+        "clave": "220180123",
+        "nombre": "La Puerta"
+    },
+    {
+        "clave": "220180124",
+        "nombre": "Ciprés"
+    },
+    {
+        "clave": "220180125",
+        "nombre": "La Cuchara"
+    },
+    {
+        "clave": "220180126",
+        "nombre": "Los González"
+    },
+    {
+        "clave": "220180127",
+        "nombre": "Loma de Casa Blanca"
+    },
+    {
+        "clave": "220180128",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "220180134",
+        "nombre": "Familia Dimas"
+    },
+    {
+        "clave": "220180142",
+        "nombre": "Nueva el Granjeno"
+    },
+    {
+        "clave": "220180145",
+        "nombre": "El Mezquite"
+    },
+    {
+        "clave": "220180146",
+        "nombre": "El Shaminal"
+    },
+    {
+        "clave": "220180147",
+        "nombre": "El Terremote"
+    },
+    {
+        "clave": "220180158",
+        "nombre": "Familia Ramos"
+    },
+    {
+        "clave": "220180001",
+        "nombre": "Tolimán"
+    },
+    {
+        "clave": "220180003",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "220180005",
+        "nombre": "Rancho Buenavista"
+    },
+    {
+        "clave": "220180023",
+        "nombre": "Horno de Cal"
+    },
+    {
+        "clave": "220180031",
+        "nombre": "El Molino"
+    },
+    {
+        "clave": "220180034",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "220180052",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "220180064",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "220180075",
+        "nombre": "La Carreta"
+    },
+    {
+        "clave": "220180078",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "220180079",
+        "nombre": "Puerto del Aire"
+    },
+    {
+        "clave": "220180080",
+        "nombre": "El Encinal"
+    },
+    {
+        "clave": "220180082",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "220180085",
+        "nombre": "Xihti"
+    },
+    {
+        "clave": "220180087",
+        "nombre": "Tuna Mantza (El Sabino)"
+    },
+    {
+        "clave": "220180089",
+        "nombre": "Ninguno [Incubadora Ojo Claro]"
+    },
+    {
+        "clave": "220180090",
+        "nombre": "Rancho la Yerbabuena"
+    },
+    {
+        "clave": "220180091",
+        "nombre": "Rancho los Olvera"
+    },
+    {
+        "clave": "220180093",
+        "nombre": "El Cardón"
+    },
+    {
+        "clave": "220180094",
+        "nombre": "La Redonda"
+    },
+    {
+        "clave": "220180095",
+        "nombre": "Laguna de Álvarez"
+    },
+    {
+        "clave": "220180096",
+        "nombre": "La Colonia Campesina"
+    },
+    {
+        "clave": "220180097",
+        "nombre": "Las Canoas"
+    },
+    {
+        "clave": "220180098",
+        "nombre": "Los Cuartos (El Salado)"
+    },
+    {
+        "clave": "220180100",
+        "nombre": "Las Cuevitas (El Pilón)"
+    },
+    {
+        "clave": "220180101",
+        "nombre": "La Era"
+    },
+    {
+        "clave": "220180102",
+        "nombre": "La Gerenta"
+    },
+    {
+        "clave": "220180103",
+        "nombre": "Ninguno [Granja]"
+    },
+    {
+        "clave": "220180105",
+        "nombre": "Los Pilares"
+    },
+    {
+        "clave": "220180107",
+        "nombre": "Rancho el Cascabel"
+    },
+    {
+        "clave": "220180108",
+        "nombre": "Rancho el Patol"
+    },
+    {
+        "clave": "220180109",
+        "nombre": "Rancho el Patol"
+    },
+    {
+        "clave": "220180111",
+        "nombre": "Rancho las Mujercitas"
+    },
+    {
+        "clave": "220180112",
+        "nombre": "Rancho los luque"
+    },
+    {
+        "clave": "220180113",
+        "nombre": "Rancho San Agustín de Verónica"
+    },
+    {
+        "clave": "220180114",
+        "nombre": "Rancho Santa Fe"
+    },
+    {
+        "clave": "220180115",
+        "nombre": "Rancho Torreón"
+    },
+    {
+        "clave": "220180120",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "220180121",
+        "nombre": "El Arte"
+    },
+    {
+        "clave": "220180130",
+        "nombre": "El Puerto del Álamo"
+    },
+    {
+        "clave": "220180131",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "220180132",
+        "nombre": "La Brígida"
+    },
+    {
+        "clave": "220180133",
+        "nombre": "La Estancia"
+    },
+    {
+        "clave": "220180135",
+        "nombre": "Jesús Conde"
+    },
+    {
+        "clave": "220180136",
+        "nombre": "Rancho el Magueyal"
+    },
+    {
+        "clave": "220180137",
+        "nombre": "Rancho los Garambullos"
+    },
+    {
+        "clave": "220180138",
+        "nombre": "El Sabinal"
+    },
+    {
+        "clave": "220180139",
+        "nombre": "Sección Noroeste de San Pablo"
+    },
+    {
+        "clave": "220180140",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "220180141",
+        "nombre": "El Salto"
+    },
+    {
+        "clave": "220180143",
+        "nombre": "Corrales el Fuerte"
+    },
+    {
+        "clave": "220180144",
+        "nombre": "El Eucalipto (Familia Botello)"
+    },
+    {
+        "clave": "220180148",
+        "nombre": "La Lezna"
+    },
+    {
+        "clave": "220180150",
+        "nombre": "Rancho Arco Iris"
+    },
+    {
+        "clave": "220180151",
+        "nombre": "Rancho Real de Santa María"
+    },
+    {
+        "clave": "220180152",
+        "nombre": "Rancho Santa Teresa"
+    },
+    {
+        "clave": "220180153",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "220180154",
+        "nombre": "Alamitos (La Higuera)"
+    },
+    {
+        "clave": "220180155",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "220180156",
+        "nombre": "El Arte"
+    },
+    {
+        "clave": "220180157",
+        "nombre": "Familia Hernández"
+    },
+    {
+        "clave": "220180159",
+        "nombre": "Finca el Encanto"
+    },
+    {
+        "clave": "220180161",
+        "nombre": "Rancho el Papalote"
+    },
+    {
+        "clave": "220180162",
+        "nombre": "Sección Noreste de San Pablo"
+    },
+    {
+        "clave": "220180163",
+        "nombre": "Rancho la Ponderosa"
+    },
+    {
+        "clave": "220180164",
+        "nombre": "Rancho la Ponderos"
+    },
+    {
+        "clave": "220180165",
+        "nombre": "El Arroyo del Sabino"
+    },
+    {
+        "clave": "220180166",
+        "nombre": "El Ejido (Familia Sánchez Sánchez)"
+    },
+    {
+        "clave": "220180167",
+        "nombre": "El Rincón (Familia Martínez Martínez)"
+    },
+    {
+        "clave": "220180168",
+        "nombre": "Familia Montes"
+    },
+    {
+        "clave": "220180169",
+        "nombre": "La Concepción"
+    },
+    {
+        "clave": "220180170",
+        "nombre": "La Peñita"
+    },
+    {
+        "clave": "220180171",
+        "nombre": "Peña Blanca (Familia Granados de la Cruz)"
+    },
+    {
+        "clave": "220180172",
+        "nombre": "Rancho la Ciénega"
+    }
+]

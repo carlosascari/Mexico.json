@@ -1,0 +1,542 @@
+[
+    {
+        "clave": "310400001",
+        "nombre": "Izamal"
+    },
+    {
+        "clave": "310400003",
+        "nombre": "Citilcum"
+    },
+    {
+        "clave": "310400004",
+        "nombre": "Cuauhtémoc"
+    },
+    {
+        "clave": "310400024",
+        "nombre": "Sitilpech"
+    },
+    {
+        "clave": "310400028",
+        "nombre": "Xanabá"
+    },
+    {
+        "clave": "310400041",
+        "nombre": "Kimbilá"
+    },
+    {
+        "clave": "310400005",
+        "nombre": "Chacón"
+    },
+    {
+        "clave": "310400008",
+        "nombre": "Chuiché"
+    },
+    {
+        "clave": "310400009",
+        "nombre": "Chichí-Hú"
+    },
+    {
+        "clave": "310400010",
+        "nombre": "Kanchunup"
+    },
+    {
+        "clave": "310400013",
+        "nombre": "Kancabchén"
+    },
+    {
+        "clave": "310400017",
+        "nombre": "Sacalá"
+    },
+    {
+        "clave": "310400020",
+        "nombre": "San José Tzabcán"
+    },
+    {
+        "clave": "310400022",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "310400023",
+        "nombre": "Kalanteni"
+    },
+    {
+        "clave": "310400026",
+        "nombre": "Tulinché"
+    },
+    {
+        "clave": "310400027",
+        "nombre": "Tzip"
+    },
+    {
+        "clave": "310400030",
+        "nombre": "Yokdzonot"
+    },
+    {
+        "clave": "310400031",
+        "nombre": "San José Chiceh"
+    },
+    {
+        "clave": "310400033",
+        "nombre": "Chen Canul"
+    },
+    {
+        "clave": "310400037",
+        "nombre": "Ebulá"
+    },
+    {
+        "clave": "310400038",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "310400045",
+        "nombre": "Cax-Ek"
+    },
+    {
+        "clave": "310400046",
+        "nombre": "San Luis Chico"
+    },
+    {
+        "clave": "310400048",
+        "nombre": "Sodzil"
+    },
+    {
+        "clave": "310400049",
+        "nombre": "Chenkín"
+    },
+    {
+        "clave": "310400050",
+        "nombre": "Chovenché"
+    },
+    {
+        "clave": "310400051",
+        "nombre": "Chuil"
+    },
+    {
+        "clave": "310400052",
+        "nombre": "Chumul"
+    },
+    {
+        "clave": "310400056",
+        "nombre": "Kanab"
+    },
+    {
+        "clave": "310400057",
+        "nombre": "Kanán"
+    },
+    {
+        "clave": "310400063",
+        "nombre": "Noh-Copó"
+    },
+    {
+        "clave": "310400066",
+        "nombre": "Popolá"
+    },
+    {
+        "clave": "310400067",
+        "nombre": "Sac-Nicté"
+    },
+    {
+        "clave": "310400068",
+        "nombre": "San Antonio Chich"
+    },
+    {
+        "clave": "310400069",
+        "nombre": "San Dimas"
+    },
+    {
+        "clave": "310400070",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "310400073",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "310400074",
+        "nombre": "San Lorenzo Uno"
+    },
+    {
+        "clave": "310400077",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "310400078",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "310400080",
+        "nombre": "Santa Carolina"
+    },
+    {
+        "clave": "310400083",
+        "nombre": "Sihomal"
+    },
+    {
+        "clave": "310400087",
+        "nombre": "San José Tecoh"
+    },
+    {
+        "clave": "310400089",
+        "nombre": "Tulinché"
+    },
+    {
+        "clave": "310400090",
+        "nombre": "Tzahkú"
+    },
+    {
+        "clave": "310400093",
+        "nombre": "Kol-Ac"
+    },
+    {
+        "clave": "310400096",
+        "nombre": "Yaxcucul"
+    },
+    {
+        "clave": "310400103",
+        "nombre": "Manuel Cecilio Villamor"
+    },
+    {
+        "clave": "310400106",
+        "nombre": "San Lucas"
+    },
+    {
+        "clave": "310400115",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "310400116",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "310400117",
+        "nombre": "Balantún"
+    },
+    {
+        "clave": "310400118",
+        "nombre": "Chenbox"
+    },
+    {
+        "clave": "310400119",
+        "nombre": "Cheul"
+    },
+    {
+        "clave": "310400120",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "310400121",
+        "nombre": "Juan Manuel"
+    },
+    {
+        "clave": "310400122",
+        "nombre": "Miguel Allende"
+    },
+    {
+        "clave": "310400123",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "310400124",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "310400125",
+        "nombre": "San José"
+    },
+    {
+        "clave": "310400126",
+        "nombre": "San José Kanán"
+    },
+    {
+        "clave": "310400129",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "310400130",
+        "nombre": "San José"
+    },
+    {
+        "clave": "310400131",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "310400132",
+        "nombre": "San Pedro Uno"
+    },
+    {
+        "clave": "310400134",
+        "nombre": "Santa Catalina"
+    },
+    {
+        "clave": "310400135",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400136",
+        "nombre": "Timul"
+    },
+    {
+        "clave": "310400137",
+        "nombre": "Las Tres Cruces"
+    },
+    {
+        "clave": "310400138",
+        "nombre": "Los Tres Reyes"
+    },
+    {
+        "clave": "310400140",
+        "nombre": "Yohmac"
+    },
+    {
+        "clave": "310400141",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400142",
+        "nombre": "Francisco Villa Uno"
+    },
+    {
+        "clave": "310400143",
+        "nombre": "Santo Domingo"
+    },
+    {
+        "clave": "310400144",
+        "nombre": "Gas de Yucatán"
+    },
+    {
+        "clave": "310400145",
+        "nombre": "Santos Pat Uitz [Granja]"
+    },
+    {
+        "clave": "310400146",
+        "nombre": "Tomás Aguilar"
+    },
+    {
+        "clave": "310400147",
+        "nombre": "Mukulcán"
+    },
+    {
+        "clave": "310400148",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "310400149",
+        "nombre": "Treinta y Tres [Unidad Citrícola]"
+    },
+    {
+        "clave": "310400150",
+        "nombre": "Yaxché"
+    },
+    {
+        "clave": "310400151",
+        "nombre": "Pérez [Banco de Material]"
+    },
+    {
+        "clave": "310400152",
+        "nombre": "La Gran Vaca"
+    },
+    {
+        "clave": "310400153",
+        "nombre": "Noh Kaax"
+    },
+    {
+        "clave": "310400154",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "310400155",
+        "nombre": "La Piedra"
+    },
+    {
+        "clave": "310400156",
+        "nombre": "Román Pech"
+    },
+    {
+        "clave": "310400157",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "310400158",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400159",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400160",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400161",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "310400162",
+        "nombre": "Cocopesa [Banco de Material]"
+    },
+    {
+        "clave": "310400163",
+        "nombre": "Dina I"
+    },
+    {
+        "clave": "310400164",
+        "nombre": "La Frontera"
+    },
+    {
+        "clave": "310400165",
+        "nombre": "Emiliano Zapata [Unidad de Riego]"
+    },
+    {
+        "clave": "310400166",
+        "nombre": "Orlando Navarrete"
+    },
+    {
+        "clave": "310400167",
+        "nombre": "El Pájaro"
+    },
+    {
+        "clave": "310400168",
+        "nombre": "Gustavo Burgos Candil"
+    },
+    {
+        "clave": "310400169",
+        "nombre": "El Negrito"
+    },
+    {
+        "clave": "310400170",
+        "nombre": "San Abraham"
+    },
+    {
+        "clave": "310400171",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "310400172",
+        "nombre": "Santa Guadalupe"
+    },
+    {
+        "clave": "310400173",
+        "nombre": "Las Margaritas"
+    },
+    {
+        "clave": "310400174",
+        "nombre": "Santa María de los Ángeles"
+    },
+    {
+        "clave": "310400175",
+        "nombre": "San Yazké"
+    },
+    {
+        "clave": "310400176",
+        "nombre": "Horeb"
+    },
+    {
+        "clave": "310400177",
+        "nombre": "Chuil Uno"
+    },
+    {
+        "clave": "310400178",
+        "nombre": "Eligio Can"
+    },
+    {
+        "clave": "310400179",
+        "nombre": "San Miguel Arcangel"
+    },
+    {
+        "clave": "310400180",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "310400181",
+        "nombre": "Santa Anita [Rancho]"
+    },
+    {
+        "clave": "310400182",
+        "nombre": "Kimbilá [Granja]"
+    },
+    {
+        "clave": "310400183",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400184",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400185",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400186",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400187",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400188",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400189",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400190",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400191",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400192",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400193",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310400194",
+        "nombre": "Luis Uitzil"
+    },
+    {
+        "clave": "310400195",
+        "nombre": "Marcelino Lugo"
+    },
+    {
+        "clave": "310400196",
+        "nombre": "Mina de Oro"
+    },
+    {
+        "clave": "310400197",
+        "nombre": "Patricia Blanco"
+    },
+    {
+        "clave": "310400198",
+        "nombre": "Pérez Montalvo"
+    },
+    {
+        "clave": "310400199",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "310400200",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "310400201",
+        "nombre": "Santa Pilar"
+    },
+    {
+        "clave": "310400202",
+        "nombre": "Tres Potrillos"
+    },
+    {
+        "clave": "310400203",
+        "nombre": "Yohactún"
+    }
+]

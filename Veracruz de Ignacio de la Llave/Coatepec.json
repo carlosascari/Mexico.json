@@ -1,0 +1,662 @@
+[
+    {
+        "clave": "300380005",
+        "nombre": "Cuesta del Pino"
+    },
+    {
+        "clave": "300380045",
+        "nombre": "Tierra Grande"
+    },
+    {
+        "clave": "300380046",
+        "nombre": "Loma Alta"
+    },
+    {
+        "clave": "300380050",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "300380116",
+        "nombre": "Chihualtepec"
+    },
+    {
+        "clave": "300380142",
+        "nombre": "El Aguacatal"
+    },
+    {
+        "clave": "300380205",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "300380217",
+        "nombre": "El Tecajete"
+    },
+    {
+        "clave": "300380004",
+        "nombre": "Cuauhtémoc"
+    },
+    {
+        "clave": "300380007",
+        "nombre": "Ingenio del Rosario"
+    },
+    {
+        "clave": "300380013",
+        "nombre": "Mundo Nuevo"
+    },
+    {
+        "clave": "300380017",
+        "nombre": "Tapachapan"
+    },
+    {
+        "clave": "300380025",
+        "nombre": "El Atorón"
+    },
+    {
+        "clave": "300380027",
+        "nombre": "Costa Rica"
+    },
+    {
+        "clave": "300380034",
+        "nombre": "Bola de Oro"
+    },
+    {
+        "clave": "300380041",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "300380044",
+        "nombre": "El Cedro"
+    },
+    {
+        "clave": "300380048",
+        "nombre": "Cinco Palos"
+    },
+    {
+        "clave": "300380049",
+        "nombre": "Mesa del Laurel"
+    },
+    {
+        "clave": "300380057",
+        "nombre": "San Alfonso"
+    },
+    {
+        "clave": "300380075",
+        "nombre": "Chopantla"
+    },
+    {
+        "clave": "300380077",
+        "nombre": "El Encinal"
+    },
+    {
+        "clave": "300380112",
+        "nombre": "Puente Zaragoza"
+    },
+    {
+        "clave": "300380136",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "300380138",
+        "nombre": "Tixtla"
+    },
+    {
+        "clave": "300380156",
+        "nombre": "La Malinche"
+    },
+    {
+        "clave": "300380164",
+        "nombre": "La Marina"
+    },
+    {
+        "clave": "300380167",
+        "nombre": "Beneficio la Amistad"
+    },
+    {
+        "clave": "300380183",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "300380184",
+        "nombre": "Lealtad Institucional"
+    },
+    {
+        "clave": "300380195",
+        "nombre": "Segunda del Cedro"
+    },
+    {
+        "clave": "300380211",
+        "nombre": "Lealtad Institucional (Segunda Sección)"
+    },
+    {
+        "clave": "300380227",
+        "nombre": "Entrada a Pichoca"
+    },
+    {
+        "clave": "300380229",
+        "nombre": "El Perú"
+    },
+    {
+        "clave": "300380001",
+        "nombre": "Coatepec"
+    },
+    {
+        "clave": "300380002",
+        "nombre": "Bella Esperanza"
+    },
+    {
+        "clave": "300380003",
+        "nombre": "Consolapan"
+    },
+    {
+        "clave": "300380006",
+        "nombre": "El Grande"
+    },
+    {
+        "clave": "300380008",
+        "nombre": "La Isleta Grande"
+    },
+    {
+        "clave": "300380009",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "300380011",
+        "nombre": "Las Lomas"
+    },
+    {
+        "clave": "300380012",
+        "nombre": "Mahuixtlán"
+    },
+    {
+        "clave": "300380014",
+        "nombre": "La Orduña"
+    },
+    {
+        "clave": "300380015",
+        "nombre": "Pacho Viejo"
+    },
+    {
+        "clave": "300380016",
+        "nombre": "Puente Seco (Campo Viejo)"
+    },
+    {
+        "clave": "300380018",
+        "nombre": "Tepeapulco"
+    },
+    {
+        "clave": "300380019",
+        "nombre": "Tuzamapan"
+    },
+    {
+        "clave": "300380020",
+        "nombre": "Vaquería"
+    },
+    {
+        "clave": "300380021",
+        "nombre": "Zimpizahua"
+    },
+    {
+        "clave": "300380022",
+        "nombre": "La Pitahaya (Congregación Zoncuantla)"
+    },
+    {
+        "clave": "300380023",
+        "nombre": "Colonia Plan de la Cruz"
+    },
+    {
+        "clave": "300380024",
+        "nombre": "La Calera"
+    },
+    {
+        "clave": "300380026",
+        "nombre": "Alxoxuca"
+    },
+    {
+        "clave": "300380028",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "300380030",
+        "nombre": "Las Lajas"
+    },
+    {
+        "clave": "300380031",
+        "nombre": "Briones"
+    },
+    {
+        "clave": "300380032",
+        "nombre": "El Deseo"
+    },
+    {
+        "clave": "300380043",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "300380053",
+        "nombre": "La Piaña"
+    },
+    {
+        "clave": "300380056",
+        "nombre": "Puerto Rico"
+    },
+    {
+        "clave": "300380058",
+        "nombre": "Las Cañadas"
+    },
+    {
+        "clave": "300380065",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "300380067",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "300380068",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "300380070",
+        "nombre": "La Bolsa"
+    },
+    {
+        "clave": "300380071",
+        "nombre": "Los Brujos"
+    },
+    {
+        "clave": "300380073",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "300380076",
+        "nombre": "El Arco"
+    },
+    {
+        "clave": "300380078",
+        "nombre": "La Estación"
+    },
+    {
+        "clave": "300380081",
+        "nombre": "La Galera"
+    },
+    {
+        "clave": "300380085",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "300380087",
+        "nombre": "Llano de la Virgen"
+    },
+    {
+        "clave": "300380088",
+        "nombre": "Mariano Escobedo"
+    },
+    {
+        "clave": "300380089",
+        "nombre": "La Mascota"
+    },
+    {
+        "clave": "300380090",
+        "nombre": "Palo Blanco (La Bugambilia)"
+    },
+    {
+        "clave": "300380091",
+        "nombre": "Plan Chico"
+    },
+    {
+        "clave": "300380092",
+        "nombre": "Plan Grande"
+    },
+    {
+        "clave": "300380096",
+        "nombre": "Rincón de Yeguas"
+    },
+    {
+        "clave": "300380097",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "300380098",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "300380102",
+        "nombre": "San Pedro Chapoteadero"
+    },
+    {
+        "clave": "300380103",
+        "nombre": "Colonia Obrera (Las Puentes)"
+    },
+    {
+        "clave": "300380109",
+        "nombre": "Colonia Seis de Enero"
+    },
+    {
+        "clave": "300380110",
+        "nombre": "El Guitarrero"
+    },
+    {
+        "clave": "300380113",
+        "nombre": "Barranca Ramírez"
+    },
+    {
+        "clave": "300380114",
+        "nombre": "Hayas Cuatas"
+    },
+    {
+        "clave": "300380115",
+        "nombre": "Tecoxolco (Huertos Familiares)"
+    },
+    {
+        "clave": "300380117",
+        "nombre": "Coatepec Viejo"
+    },
+    {
+        "clave": "300380118",
+        "nombre": "Dos Caminos"
+    },
+    {
+        "clave": "300380120",
+        "nombre": "El Trianón"
+    },
+    {
+        "clave": "300380123",
+        "nombre": "Campo Costa Rica"
+    },
+    {
+        "clave": "300380124",
+        "nombre": "La Vega"
+    },
+    {
+        "clave": "300380126",
+        "nombre": "La Barranca"
+    },
+    {
+        "clave": "300380127",
+        "nombre": "La Pitahaya"
+    },
+    {
+        "clave": "300380128",
+        "nombre": "Paso Limón"
+    },
+    {
+        "clave": "300380129",
+        "nombre": "Vista Hermosa Salmones"
+    },
+    {
+        "clave": "300380130",
+        "nombre": "Maximiano"
+    },
+    {
+        "clave": "300380135",
+        "nombre": "Barataria"
+    },
+    {
+        "clave": "300380137",
+        "nombre": "El Guayabal"
+    },
+    {
+        "clave": "300380140",
+        "nombre": "Filo de la Granada"
+    },
+    {
+        "clave": "300380143",
+        "nombre": "Cascajal"
+    },
+    {
+        "clave": "300380145",
+        "nombre": "Tlanalapan"
+    },
+    {
+        "clave": "300380148",
+        "nombre": "El Sastre"
+    },
+    {
+        "clave": "300380149",
+        "nombre": "Castillos (Rancho Amorós)"
+    },
+    {
+        "clave": "300380152",
+        "nombre": "La Luz"
+    },
+    {
+        "clave": "300380153",
+        "nombre": "Dos Cerros"
+    },
+    {
+        "clave": "300380159",
+        "nombre": "Plan de la Cruz"
+    },
+    {
+        "clave": "300380160",
+        "nombre": "San Jacinto"
+    },
+    {
+        "clave": "300380161",
+        "nombre": "La Desviación"
+    },
+    {
+        "clave": "300380163",
+        "nombre": "Ejido Coatepec"
+    },
+    {
+        "clave": "300380165",
+        "nombre": "El Algodonal"
+    },
+    {
+        "clave": "300380168",
+        "nombre": "Las Bugambilias"
+    },
+    {
+        "clave": "300380169",
+        "nombre": "La Caja"
+    },
+    {
+        "clave": "300380170",
+        "nombre": "Las Cañadas"
+    },
+    {
+        "clave": "300380171",
+        "nombre": "Casa Amarilla"
+    },
+    {
+        "clave": "300380175",
+        "nombre": "Los Dos Lotes"
+    },
+    {
+        "clave": "300380176",
+        "nombre": "Las Duelas (El Aguacatal)"
+    },
+    {
+        "clave": "300380177",
+        "nombre": "El Equimite"
+    },
+    {
+        "clave": "300380178",
+        "nombre": "Finca la Cruz"
+    },
+    {
+        "clave": "300380179",
+        "nombre": "Finca Tuzamapam"
+    },
+    {
+        "clave": "300380180",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "300380181",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "300380182",
+        "nombre": "Jinicuiles"
+    },
+    {
+        "clave": "300380187",
+        "nombre": "El Panteón"
+    },
+    {
+        "clave": "300380188",
+        "nombre": "Progreso Tuzamápam"
+    },
+    {
+        "clave": "300380189",
+        "nombre": "Pueblo Viejo"
+    },
+    {
+        "clave": "300380190",
+        "nombre": "Puente Rolón"
+    },
+    {
+        "clave": "300380191",
+        "nombre": "Río Sordo"
+    },
+    {
+        "clave": "300380192",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "300380196",
+        "nombre": "Tres Marías"
+    },
+    {
+        "clave": "300380197",
+        "nombre": "Las Minas"
+    },
+    {
+        "clave": "300380198",
+        "nombre": "El Vigía"
+    },
+    {
+        "clave": "300380199",
+        "nombre": "Zamora"
+    },
+    {
+        "clave": "300380200",
+        "nombre": "Amatitla"
+    },
+    {
+        "clave": "300380201",
+        "nombre": "El Español"
+    },
+    {
+        "clave": "300380203",
+        "nombre": "Los Migueles"
+    },
+    {
+        "clave": "300380207",
+        "nombre": "Entrada a la Orduña"
+    },
+    {
+        "clave": "300380208",
+        "nombre": "La Pedrera"
+    },
+    {
+        "clave": "300380209",
+        "nombre": "Casa de Altos"
+    },
+    {
+        "clave": "300380210",
+        "nombre": "El Aguacate [Granja]"
+    },
+    {
+        "clave": "300380212",
+        "nombre": "Palo Verde"
+    },
+    {
+        "clave": "300380214",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "300380215",
+        "nombre": "La Cabaña del Tío Yeyo"
+    },
+    {
+        "clave": "300380216",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "300380218",
+        "nombre": "Tres Puertas"
+    },
+    {
+        "clave": "300380219",
+        "nombre": "La Concha"
+    },
+    {
+        "clave": "300380220",
+        "nombre": "Los Cerritos"
+    },
+    {
+        "clave": "300380221",
+        "nombre": "Los Encinos Teloxolico"
+    },
+    {
+        "clave": "300380222",
+        "nombre": "La Galera"
+    },
+    {
+        "clave": "300380223",
+        "nombre": "La Esmeralda"
+    },
+    {
+        "clave": "300380224",
+        "nombre": "El Aguacatal de Vivero"
+    },
+    {
+        "clave": "300380225",
+        "nombre": "El Capotal"
+    },
+    {
+        "clave": "300380226",
+        "nombre": "Colonia Anturios"
+    },
+    {
+        "clave": "300380228",
+        "nombre": "El Mango"
+    },
+    {
+        "clave": "300380230",
+        "nombre": "El Haya"
+    },
+    {
+        "clave": "300380231",
+        "nombre": "Los Pasos"
+    },
+    {
+        "clave": "300380232",
+        "nombre": "Plan de Mesa Chica"
+    },
+    {
+        "clave": "300380233",
+        "nombre": "Cruz de Duela"
+    },
+    {
+        "clave": "300380234",
+        "nombre": "La Pueblita"
+    },
+    {
+        "clave": "300380235",
+        "nombre": "Sixto Galán"
+    },
+    {
+        "clave": "300380236",
+        "nombre": "Hacienda los Cafetales"
+    },
+    {
+        "clave": "300380237",
+        "nombre": "Valle Dorado"
+    },
+    {
+        "clave": "300380238",
+        "nombre": "El Naranjal"
+    },
+    {
+        "clave": "300380239",
+        "nombre": "Dos de Marzo"
+    },
+    {
+        "clave": "300380240",
+        "nombre": "Conecalli"
+    }
+]

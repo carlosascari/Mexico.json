@@ -1,0 +1,634 @@
+[
+    {
+        "clave": "141130083",
+        "nombre": "Palos Verdes"
+    },
+    {
+        "clave": "141130126",
+        "nombre": "Puerto de la Estacada"
+    },
+    {
+        "clave": "141130002",
+        "nombre": "El Aguaje"
+    },
+    {
+        "clave": "141130003",
+        "nombre": "Los Ahuates"
+    },
+    {
+        "clave": "141130006",
+        "nombre": "Apango"
+    },
+    {
+        "clave": "141130010",
+        "nombre": "La Cañada"
+    },
+    {
+        "clave": "141130011",
+        "nombre": "El Carpintero"
+    },
+    {
+        "clave": "141130013",
+        "nombre": "La Croix"
+    },
+    {
+        "clave": "141130018",
+        "nombre": "Los Fresnos"
+    },
+    {
+        "clave": "141130020",
+        "nombre": "Los Gallos"
+    },
+    {
+        "clave": "141130021",
+        "nombre": "Los García"
+    },
+    {
+        "clave": "141130024",
+        "nombre": "Hacienda Vieja"
+    },
+    {
+        "clave": "141130027",
+        "nombre": "Jahuiques"
+    },
+    {
+        "clave": "141130028",
+        "nombre": "El Jardín"
+    },
+    {
+        "clave": "141130040",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "141130041",
+        "nombre": "Ojo de Agua de Apango"
+    },
+    {
+        "clave": "141130042",
+        "nombre": "El Pelillo"
+    },
+    {
+        "clave": "141130046",
+        "nombre": "Presa de Tierra"
+    },
+    {
+        "clave": "141130051",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "141130052",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "141130053",
+        "nombre": "San José del Rincón (San José de las Burras)"
+    },
+    {
+        "clave": "141130055",
+        "nombre": "Sayulapan"
+    },
+    {
+        "clave": "141130059",
+        "nombre": "El Tepamal"
+    },
+    {
+        "clave": "141130062",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "141130066",
+        "nombre": "El Veladero"
+    },
+    {
+        "clave": "141130092",
+        "nombre": "Las Tortugas"
+    },
+    {
+        "clave": "141130141",
+        "nombre": "Las Primaveras [Invernadero]"
+    },
+    {
+        "clave": "141130001",
+        "nombre": "San Gabriel"
+    },
+    {
+        "clave": "141130004",
+        "nombre": "Alista"
+    },
+    {
+        "clave": "141130005",
+        "nombre": "El Anillo"
+    },
+    {
+        "clave": "141130007",
+        "nombre": "Rancho el Bordo"
+    },
+    {
+        "clave": "141130008",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "141130009",
+        "nombre": "Los Camichines"
+    },
+    {
+        "clave": "141130012",
+        "nombre": "Cerro Viejo"
+    },
+    {
+        "clave": "141130023",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "141130026",
+        "nombre": "El Izote"
+    },
+    {
+        "clave": "141130029",
+        "nombre": "El Jazmín"
+    },
+    {
+        "clave": "141130030",
+        "nombre": "Jiquilpan"
+    },
+    {
+        "clave": "141130033",
+        "nombre": "Los Llanetes"
+    },
+    {
+        "clave": "141130034",
+        "nombre": "La Manzanilla"
+    },
+    {
+        "clave": "141130035",
+        "nombre": "El Manzanillo"
+    },
+    {
+        "clave": "141130036",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "141130038",
+        "nombre": "El Molino"
+    },
+    {
+        "clave": "141130039",
+        "nombre": "Nahuapan"
+    },
+    {
+        "clave": "141130043",
+        "nombre": "El Penal"
+    },
+    {
+        "clave": "141130045",
+        "nombre": "La Planta de Luz"
+    },
+    {
+        "clave": "141130047",
+        "nombre": "Los Ranchitos"
+    },
+    {
+        "clave": "141130050",
+        "nombre": "Salsipuedes"
+    },
+    {
+        "clave": "141130054",
+        "nombre": "La Sauceda"
+    },
+    {
+        "clave": "141130058",
+        "nombre": "Telcampana"
+    },
+    {
+        "clave": "141130060",
+        "nombre": "El Tepozal"
+    },
+    {
+        "clave": "141130061",
+        "nombre": "El Tezontel"
+    },
+    {
+        "clave": "141130064",
+        "nombre": "Totolimixpa"
+    },
+    {
+        "clave": "141130065",
+        "nombre": "Las Varillas"
+    },
+    {
+        "clave": "141130068",
+        "nombre": "Puerto el Floripondio"
+    },
+    {
+        "clave": "141130074",
+        "nombre": "La Cuicha"
+    },
+    {
+        "clave": "141130075",
+        "nombre": "El Caracol"
+    },
+    {
+        "clave": "141130077",
+        "nombre": "Agua Escondida"
+    },
+    {
+        "clave": "141130079",
+        "nombre": "El Divisadero"
+    },
+    {
+        "clave": "141130080",
+        "nombre": "Los Pozos y el Ocote"
+    },
+    {
+        "clave": "141130081",
+        "nombre": "Juan Diego"
+    },
+    {
+        "clave": "141130084",
+        "nombre": "Piedra Ancha"
+    },
+    {
+        "clave": "141130088",
+        "nombre": "Rancho los Chávez"
+    },
+    {
+        "clave": "141130090",
+        "nombre": "Rancho Blanco"
+    },
+    {
+        "clave": "141130091",
+        "nombre": "Rancho Prieto"
+    },
+    {
+        "clave": "141130093",
+        "nombre": "Los Alpes"
+    },
+    {
+        "clave": "141130094",
+        "nombre": "Los Arcos"
+    },
+    {
+        "clave": "141130095",
+        "nombre": "El Carbunco"
+    },
+    {
+        "clave": "141130096",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "141130097",
+        "nombre": "Chapopotera"
+    },
+    {
+        "clave": "141130098",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "141130099",
+        "nombre": "El Colchón"
+    },
+    {
+        "clave": "141130100",
+        "nombre": "El Copal"
+    },
+    {
+        "clave": "141130101",
+        "nombre": "El Coyote"
+    },
+    {
+        "clave": "141130102",
+        "nombre": "Cuatro Caminos"
+    },
+    {
+        "clave": "141130103",
+        "nombre": "Cuista"
+    },
+    {
+        "clave": "141130104",
+        "nombre": "El Edén"
+    },
+    {
+        "clave": "141130105",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "141130106",
+        "nombre": "Estancia la María Isabel"
+    },
+    {
+        "clave": "141130107",
+        "nombre": "Faro del Llano"
+    },
+    {
+        "clave": "141130108",
+        "nombre": "Finca Rosario"
+    },
+    {
+        "clave": "141130109",
+        "nombre": "Finca Susana del Carmen"
+    },
+    {
+        "clave": "141130110",
+        "nombre": "La Galera"
+    },
+    {
+        "clave": "141130111",
+        "nombre": "La Gatera"
+    },
+    {
+        "clave": "141130113",
+        "nombre": "La Higuerilla"
+    },
+    {
+        "clave": "141130114",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "141130115",
+        "nombre": "La Lobera"
+    },
+    {
+        "clave": "141130116",
+        "nombre": "Loma Alta"
+    },
+    {
+        "clave": "141130117",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "141130118",
+        "nombre": "El Maguey"
+    },
+    {
+        "clave": "141130119",
+        "nombre": "La Media Luna"
+    },
+    {
+        "clave": "141130120",
+        "nombre": "El Oasis del Desierto"
+    },
+    {
+        "clave": "141130121",
+        "nombre": "La Crucecita (La Joya)"
+    },
+    {
+        "clave": "141130122",
+        "nombre": "Rancho el Paraíso"
+    },
+    {
+        "clave": "141130123",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "141130124",
+        "nombre": "Los Preciado"
+    },
+    {
+        "clave": "141130125",
+        "nombre": "La Puerta"
+    },
+    {
+        "clave": "141130127",
+        "nombre": "Ranchito Sin Nombre"
+    },
+    {
+        "clave": "141130128",
+        "nombre": "Rancho de Antonio Durán"
+    },
+    {
+        "clave": "141130129",
+        "nombre": "Los Laureles"
+    },
+    {
+        "clave": "141130130",
+        "nombre": "Rancho de Javier Peralta (La Penca)"
+    },
+    {
+        "clave": "141130131",
+        "nombre": "Rancho de Juan Dávalos"
+    },
+    {
+        "clave": "141130132",
+        "nombre": "El Chubasco"
+    },
+    {
+        "clave": "141130133",
+        "nombre": "Rancho de Jesús Gómez"
+    },
+    {
+        "clave": "141130134",
+        "nombre": "Rancho de Salvador Chávez"
+    },
+    {
+        "clave": "141130135",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "141130136",
+        "nombre": "Rancho el Torito"
+    },
+    {
+        "clave": "141130137",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "141130138",
+        "nombre": "El Sinaí"
+    },
+    {
+        "clave": "141130139",
+        "nombre": "El Tule"
+    },
+    {
+        "clave": "141130140",
+        "nombre": "Los Cajones"
+    },
+    {
+        "clave": "141130142",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "141130143",
+        "nombre": "Crucero del Aguaje"
+    },
+    {
+        "clave": "141130144",
+        "nombre": "El Crucero"
+    },
+    {
+        "clave": "141130145",
+        "nombre": "El Encino"
+    },
+    {
+        "clave": "141130146",
+        "nombre": "El Jilote"
+    },
+    {
+        "clave": "141130147",
+        "nombre": "Los Tacotes"
+    },
+    {
+        "clave": "141130148",
+        "nombre": "La Capilla"
+    },
+    {
+        "clave": "141130149",
+        "nombre": "El Capulín"
+    },
+    {
+        "clave": "141130150",
+        "nombre": "El Comandante"
+    },
+    {
+        "clave": "141130151",
+        "nombre": "Crucero del Camichín"
+    },
+    {
+        "clave": "141130152",
+        "nombre": "La Cruz del Padre Mota"
+    },
+    {
+        "clave": "141130153",
+        "nombre": "La Chingada"
+    },
+    {
+        "clave": "141130154",
+        "nombre": "El Desmonte de Pizano"
+    },
+    {
+        "clave": "141130155",
+        "nombre": "El Divisadero"
+    },
+    {
+        "clave": "141130156",
+        "nombre": "La Erita"
+    },
+    {
+        "clave": "141130157",
+        "nombre": "La Estancia"
+    },
+    {
+        "clave": "141130158",
+        "nombre": "La Guayabera"
+    },
+    {
+        "clave": "141130159",
+        "nombre": "Jaime Cárdenas"
+    },
+    {
+        "clave": "141130160",
+        "nombre": "La Lagunita"
+    },
+    {
+        "clave": "141130161",
+        "nombre": "Loma de Tacamo"
+    },
+    {
+        "clave": "141130162",
+        "nombre": "Loma de Temuchil"
+    },
+    {
+        "clave": "141130163",
+        "nombre": "Loma del Camichín"
+    },
+    {
+        "clave": "141130164",
+        "nombre": "Loma Delgada"
+    },
+    {
+        "clave": "141130165",
+        "nombre": "La Loma Larga (Rancho de Don Faustino)"
+    },
+    {
+        "clave": "141130166",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "141130167",
+        "nombre": "Los Machetes"
+    },
+    {
+        "clave": "141130168",
+        "nombre": "El Manzano"
+    },
+    {
+        "clave": "141130169",
+        "nombre": "La Mezcalera"
+    },
+    {
+        "clave": "141130170",
+        "nombre": "Los Mogotes"
+    },
+    {
+        "clave": "141130171",
+        "nombre": "La Mojonera"
+    },
+    {
+        "clave": "141130172",
+        "nombre": "El Pantalón"
+    },
+    {
+        "clave": "141130173",
+        "nombre": "El Platanito"
+    },
+    {
+        "clave": "141130174",
+        "nombre": "Potrero de San Isidro"
+    },
+    {
+        "clave": "141130175",
+        "nombre": "Potrero Ojo de Agua"
+    },
+    {
+        "clave": "141130176",
+        "nombre": "Puente Alto"
+    },
+    {
+        "clave": "141130177",
+        "nombre": "Puerta Alta"
+    },
+    {
+        "clave": "141130178",
+        "nombre": "Rancho de Benjamín Gómez"
+    },
+    {
+        "clave": "141130179",
+        "nombre": "Rancho del Cerrito"
+    },
+    {
+        "clave": "141130180",
+        "nombre": "La Reserva"
+    },
+    {
+        "clave": "141130181",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "141130182",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "141130183",
+        "nombre": "Tacamo y Corral de Piedra"
+    },
+    {
+        "clave": "141130184",
+        "nombre": "La Tuna"
+    },
+    {
+        "clave": "141130185",
+        "nombre": "La Virgen"
+    },
+    {
+        "clave": "141130186",
+        "nombre": "Camichines"
+    },
+    {
+        "clave": "141130187",
+        "nombre": "El Retiro de Poncho"
+    },
+    {
+        "clave": "141130188",
+        "nombre": "Rancho los Patos"
+    }
+]

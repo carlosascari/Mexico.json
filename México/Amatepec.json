@@ -1,0 +1,802 @@
+[
+    {
+        "clave": "150080165",
+        "nombre": "Palos Altos"
+    },
+    {
+        "clave": "150080196",
+        "nombre": "Cortijo"
+    },
+    {
+        "clave": "150080204",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "150080227",
+        "nombre": "El Coyol"
+    },
+    {
+        "clave": "150080002",
+        "nombre": "Acatempan"
+    },
+    {
+        "clave": "150080003",
+        "nombre": "El Aguacate Ayuquila (El Aguacate)"
+    },
+    {
+        "clave": "150080004",
+        "nombre": "Aguacatitlán (La Carreta)"
+    },
+    {
+        "clave": "150080005",
+        "nombre": "Ayuquila"
+    },
+    {
+        "clave": "150080006",
+        "nombre": "Barranca de Esmeraldas (La Güila)"
+    },
+    {
+        "clave": "150080007",
+        "nombre": "Cerro de las Ánimas (El Cerro de las Ánimas)"
+    },
+    {
+        "clave": "150080009",
+        "nombre": "Cincuenta Arrobas"
+    },
+    {
+        "clave": "150080010",
+        "nombre": "Coahuilotes (Los Coahuilotes)"
+    },
+    {
+        "clave": "150080011",
+        "nombre": "Corral de Piedra"
+    },
+    {
+        "clave": "150080012",
+        "nombre": "Cuadrilla de López"
+    },
+    {
+        "clave": "150080013",
+        "nombre": "Chapuluapan"
+    },
+    {
+        "clave": "150080014",
+        "nombre": "Dolores (Hacienda Dolores)"
+    },
+    {
+        "clave": "150080015",
+        "nombre": "Los Espinos"
+    },
+    {
+        "clave": "150080016",
+        "nombre": "El Fresno"
+    },
+    {
+        "clave": "150080017",
+        "nombre": "La Goleta"
+    },
+    {
+        "clave": "150080018",
+        "nombre": "Los Guajes"
+    },
+    {
+        "clave": "150080019",
+        "nombre": "Huixtitla"
+    },
+    {
+        "clave": "150080020",
+        "nombre": "Las Joyas"
+    },
+    {
+        "clave": "150080021",
+        "nombre": "Las Latas (Ayuquila)"
+    },
+    {
+        "clave": "150080022",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "150080023",
+        "nombre": "El Malpaso"
+    },
+    {
+        "clave": "150080026",
+        "nombre": "El Monteal (Barranca Papaloapan)"
+    },
+    {
+        "clave": "150080027",
+        "nombre": "Palmar Chico"
+    },
+    {
+        "clave": "150080028",
+        "nombre": "El Paraje"
+    },
+    {
+        "clave": "150080029",
+        "nombre": "Pinzanes Matuz"
+    },
+    {
+        "clave": "150080030",
+        "nombre": "Pueblo Nuevo (San Lucas Pueblo Nuevo)"
+    },
+    {
+        "clave": "150080031",
+        "nombre": "Quimichatenco (Barranca de Quimichatenco)"
+    },
+    {
+        "clave": "150080032",
+        "nombre": "El Rancho"
+    },
+    {
+        "clave": "150080033",
+        "nombre": "Rincón de la Cofradía"
+    },
+    {
+        "clave": "150080034",
+        "nombre": "Salitre de López"
+    },
+    {
+        "clave": "150080035",
+        "nombre": "Salitre Palmarillos"
+    },
+    {
+        "clave": "150080036",
+        "nombre": "San Felipe de Jesús"
+    },
+    {
+        "clave": "150080037",
+        "nombre": "San Francisco de los Pinzanes"
+    },
+    {
+        "clave": "150080039",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "150080040",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "150080041",
+        "nombre": "San Miguel (San Miguel Zinacausto)"
+    },
+    {
+        "clave": "150080042",
+        "nombre": "San Simón (San Simón Zozocoltepec)"
+    },
+    {
+        "clave": "150080044",
+        "nombre": "Santiago"
+    },
+    {
+        "clave": "150080045",
+        "nombre": "El Sitio"
+    },
+    {
+        "clave": "150080046",
+        "nombre": "Tepehuajes (Tepehuajes de Abajo)"
+    },
+    {
+        "clave": "150080047",
+        "nombre": "Tepehuastitlán"
+    },
+    {
+        "clave": "150080048",
+        "nombre": "Los Timbres"
+    },
+    {
+        "clave": "150080049",
+        "nombre": "Cerro de Tlacotepec (Tlacotepec)"
+    },
+    {
+        "clave": "150080050",
+        "nombre": "Tlalchichilpan"
+    },
+    {
+        "clave": "150080051",
+        "nombre": "El Tlapanco"
+    },
+    {
+        "clave": "150080052",
+        "nombre": "El Veladero"
+    },
+    {
+        "clave": "150080059",
+        "nombre": "Tepehuajes Uno (Tepehuajes de Arriba)"
+    },
+    {
+        "clave": "150080069",
+        "nombre": "Barranca del Coyol"
+    },
+    {
+        "clave": "150080070",
+        "nombre": "La Mora"
+    },
+    {
+        "clave": "150080071",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "150080072",
+        "nombre": "Peña Agujerada"
+    },
+    {
+        "clave": "150080074",
+        "nombre": "El Aguacate (El Aguacate San Martín)"
+    },
+    {
+        "clave": "150080075",
+        "nombre": "Recobeco"
+    },
+    {
+        "clave": "150080076",
+        "nombre": "Corral Viejo"
+    },
+    {
+        "clave": "150080083",
+        "nombre": "Amadores (Los Amador)"
+    },
+    {
+        "clave": "150080084",
+        "nombre": "San José (San José del Palmar)"
+    },
+    {
+        "clave": "150080085",
+        "nombre": "El Consuelo"
+    },
+    {
+        "clave": "150080087",
+        "nombre": "Salitre Santa Bárbara (Santa Bárbara)"
+    },
+    {
+        "clave": "150080089",
+        "nombre": "El Matadero"
+    },
+    {
+        "clave": "150080090",
+        "nombre": "El Conejo (Conejo Viejo)"
+    },
+    {
+        "clave": "150080092",
+        "nombre": "Cerro del Coyol"
+    },
+    {
+        "clave": "150080093",
+        "nombre": "Meyuca"
+    },
+    {
+        "clave": "150080095",
+        "nombre": "El Pantalón"
+    },
+    {
+        "clave": "150080096",
+        "nombre": "El Convento"
+    },
+    {
+        "clave": "150080097",
+        "nombre": "Mango Matuz"
+    },
+    {
+        "clave": "150080098",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "150080099",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "150080101",
+        "nombre": "Guayabillos"
+    },
+    {
+        "clave": "150080103",
+        "nombre": "El Arrayán"
+    },
+    {
+        "clave": "150080114",
+        "nombre": "Los Encinos"
+    },
+    {
+        "clave": "150080116",
+        "nombre": "Puente Viejo"
+    },
+    {
+        "clave": "150080117",
+        "nombre": "Rincón de San Simón"
+    },
+    {
+        "clave": "150080118",
+        "nombre": "La Carrera"
+    },
+    {
+        "clave": "150080119",
+        "nombre": "Encinal Verde"
+    },
+    {
+        "clave": "150080122",
+        "nombre": "El Coyol (Coyol de Coahuilotes)"
+    },
+    {
+        "clave": "150080123",
+        "nombre": "El Zapote (El Zapote López)"
+    },
+    {
+        "clave": "150080128",
+        "nombre": "La Chupa Rosa"
+    },
+    {
+        "clave": "150080131",
+        "nombre": "Tezululoma (Teshululoma)"
+    },
+    {
+        "clave": "150080134",
+        "nombre": "Cerro los Casahuates"
+    },
+    {
+        "clave": "150080135",
+        "nombre": "El Aguacatito (Cuadrilla de Jaimes)"
+    },
+    {
+        "clave": "150080137",
+        "nombre": "Aviación (Campo de Aviación)"
+    },
+    {
+        "clave": "150080145",
+        "nombre": "La Chaqueta"
+    },
+    {
+        "clave": "150080146",
+        "nombre": "Charco Hondo (El Tlacuache)"
+    },
+    {
+        "clave": "150080149",
+        "nombre": "Cuadrilla Nueva"
+    },
+    {
+        "clave": "150080156",
+        "nombre": "El Jején"
+    },
+    {
+        "clave": "150080157",
+        "nombre": "Joya de la Venta"
+    },
+    {
+        "clave": "150080162",
+        "nombre": "Los Órganos"
+    },
+    {
+        "clave": "150080163",
+        "nombre": "Las Pailas"
+    },
+    {
+        "clave": "150080164",
+        "nombre": "Palmarillos"
+    },
+    {
+        "clave": "150080167",
+        "nombre": "La Parota (La Parota Tepehuajes)"
+    },
+    {
+        "clave": "150080168",
+        "nombre": "Paso de la Parota"
+    },
+    {
+        "clave": "150080169",
+        "nombre": "Peña del Cuervo"
+    },
+    {
+        "clave": "150080173",
+        "nombre": "Puerto del Pollo"
+    },
+    {
+        "clave": "150080176",
+        "nombre": "La Rayuela"
+    },
+    {
+        "clave": "150080177",
+        "nombre": "Rincón de Esmeraldas"
+    },
+    {
+        "clave": "150080180",
+        "nombre": "Los Sabinos"
+    },
+    {
+        "clave": "150080190",
+        "nombre": "Bosque Grande"
+    },
+    {
+        "clave": "150080191",
+        "nombre": "Bosque Redondo"
+    },
+    {
+        "clave": "150080192",
+        "nombre": "Las Ceibas"
+    },
+    {
+        "clave": "150080193",
+        "nombre": "Cerro Verde"
+    },
+    {
+        "clave": "150080194",
+        "nombre": "La Cofradía"
+    },
+    {
+        "clave": "150080195",
+        "nombre": "Los Colorines"
+    },
+    {
+        "clave": "150080197",
+        "nombre": "Coyol de San Simón"
+    },
+    {
+        "clave": "150080198",
+        "nombre": "Cuadrilla de los Morales"
+    },
+    {
+        "clave": "150080199",
+        "nombre": "Güijas Blancas"
+    },
+    {
+        "clave": "150080202",
+        "nombre": "Barranca del Mamey"
+    },
+    {
+        "clave": "150080207",
+        "nombre": "Platanal"
+    },
+    {
+        "clave": "150080208",
+        "nombre": "Los Pocitos"
+    },
+    {
+        "clave": "150080209",
+        "nombre": "El Puerto"
+    },
+    {
+        "clave": "150080210",
+        "nombre": "Puerto de la Mojonera"
+    },
+    {
+        "clave": "150080211",
+        "nombre": "Puente del Rodeo"
+    },
+    {
+        "clave": "150080212",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "150080213",
+        "nombre": "Sumpancle"
+    },
+    {
+        "clave": "150080214",
+        "nombre": "Los Timbres"
+    },
+    {
+        "clave": "150080215",
+        "nombre": "Zacatones"
+    },
+    {
+        "clave": "150080216",
+        "nombre": "Barranca de los Sauz (Convento de Abajo)"
+    },
+    {
+        "clave": "150080217",
+        "nombre": "Cuadrilla del Naranjo (Rincón del Naranjo)"
+    },
+    {
+        "clave": "150080218",
+        "nombre": "Tierra Colorada"
+    },
+    {
+        "clave": "150080219",
+        "nombre": "Tierra Azul"
+    },
+    {
+        "clave": "150080220",
+        "nombre": "Las Ceibas"
+    },
+    {
+        "clave": "150080221",
+        "nombre": "Tamarindo Matuz"
+    },
+    {
+        "clave": "150080223",
+        "nombre": "Matuz Puerto del Rodeo"
+    },
+    {
+        "clave": "150080224",
+        "nombre": "Ex-hacienda Rodeo Matuz (El Rodeo)"
+    },
+    {
+        "clave": "150080226",
+        "nombre": "El Arrayán (El Arrayán Cincuenta Arrobas)"
+    },
+    {
+        "clave": "150080228",
+        "nombre": "El Mamey"
+    },
+    {
+        "clave": "150080229",
+        "nombre": "Cuadrilla Nueva"
+    },
+    {
+        "clave": "150080231",
+        "nombre": "El Mango Piedras Anchas"
+    },
+    {
+        "clave": "150080232",
+        "nombre": "Barrio de la Uva"
+    },
+    {
+        "clave": "150080233",
+        "nombre": "Barranca de Gallegos"
+    },
+    {
+        "clave": "150080234",
+        "nombre": "Barranca del Veladero"
+    },
+    {
+        "clave": "150080236",
+        "nombre": "Cristo Rey (Guacamayas)"
+    },
+    {
+        "clave": "150080240",
+        "nombre": "Escuela Vieja"
+    },
+    {
+        "clave": "150080242",
+        "nombre": "Los Jazmines"
+    },
+    {
+        "clave": "150080244",
+        "nombre": "Mesa del Mango"
+    },
+    {
+        "clave": "150080245",
+        "nombre": "La Mina"
+    },
+    {
+        "clave": "150080246",
+        "nombre": "El Panteón de San Felipe de Jesús"
+    },
+    {
+        "clave": "150080247",
+        "nombre": "Paso del Sitio"
+    },
+    {
+        "clave": "150080249",
+        "nombre": "Los Ciruelos (Rancho los Ciruelos)"
+    },
+    {
+        "clave": "150080250",
+        "nombre": "El Zapote Cincuenta Arrobas (El Zapote)"
+    },
+    {
+        "clave": "150080252",
+        "nombre": "Puerto de la Uva"
+    },
+    {
+        "clave": "150080255",
+        "nombre": "Cerro de las Ánimas-El Manguito"
+    },
+    {
+        "clave": "150080259",
+        "nombre": "Las Tijeras"
+    },
+    {
+        "clave": "150080261",
+        "nombre": "El Camalote"
+    },
+    {
+        "clave": "150080262",
+        "nombre": "El Ortigo"
+    },
+    {
+        "clave": "150080001",
+        "nombre": "Amatepec"
+    },
+    {
+        "clave": "150080008",
+        "nombre": "Cerro del Campo"
+    },
+    {
+        "clave": "150080025",
+        "nombre": "San Antonio Matuz"
+    },
+    {
+        "clave": "150080038",
+        "nombre": "San Juan Tizapán (La Haciendita)"
+    },
+    {
+        "clave": "150080043",
+        "nombre": "Santa Bárbara"
+    },
+    {
+        "clave": "150080073",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "150080080",
+        "nombre": "La Malagueña"
+    },
+    {
+        "clave": "150080081",
+        "nombre": "El Cirián"
+    },
+    {
+        "clave": "150080091",
+        "nombre": "Limón Seco"
+    },
+    {
+        "clave": "150080109",
+        "nombre": "Hacienda Vieja"
+    },
+    {
+        "clave": "150080112",
+        "nombre": "Las Cañitas"
+    },
+    {
+        "clave": "150080121",
+        "nombre": "Las Huertas"
+    },
+    {
+        "clave": "150080124",
+        "nombre": "Los Encinos"
+    },
+    {
+        "clave": "150080126",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "150080138",
+        "nombre": "Barranca de los Blancos (Barranca del Cirián)"
+    },
+    {
+        "clave": "150080143",
+        "nombre": "Cerro de Santiago"
+    },
+    {
+        "clave": "150080148",
+        "nombre": "Crucero Cerro del Campo"
+    },
+    {
+        "clave": "150080150",
+        "nombre": "La Cueva"
+    },
+    {
+        "clave": "150080152",
+        "nombre": "El Güicume"
+    },
+    {
+        "clave": "150080161",
+        "nombre": "Las Mesas"
+    },
+    {
+        "clave": "150080166",
+        "nombre": "Las Paredes"
+    },
+    {
+        "clave": "150080170",
+        "nombre": "Piñuelas"
+    },
+    {
+        "clave": "150080171",
+        "nombre": "Los Planes"
+    },
+    {
+        "clave": "150080172",
+        "nombre": "Potrerillos (Potrerillos Matuz)"
+    },
+    {
+        "clave": "150080175",
+        "nombre": "Rancho Viejo (Cirián Manzo)"
+    },
+    {
+        "clave": "150080181",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "150080182",
+        "nombre": "San Juan (Paso de San Juan)"
+    },
+    {
+        "clave": "150080184",
+        "nombre": "El Sobaco"
+    },
+    {
+        "clave": "150080185",
+        "nombre": "Las Tinajas"
+    },
+    {
+        "clave": "150080187",
+        "nombre": "Las Trojas"
+    },
+    {
+        "clave": "150080188",
+        "nombre": "Los Ajoques"
+    },
+    {
+        "clave": "150080189",
+        "nombre": "El Ancón"
+    },
+    {
+        "clave": "150080201",
+        "nombre": "Ligas"
+    },
+    {
+        "clave": "150080203",
+        "nombre": "La Mina"
+    },
+    {
+        "clave": "150080205",
+        "nombre": "Peña Blanca"
+    },
+    {
+        "clave": "150080206",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "150080222",
+        "nombre": "Las Mesitas Matuz"
+    },
+    {
+        "clave": "150080230",
+        "nombre": "Cuadrilla Nueva (La Presa)"
+    },
+    {
+        "clave": "150080235",
+        "nombre": "Coahuilotes Matuz"
+    },
+    {
+        "clave": "150080237",
+        "nombre": "Cuadrilla de Mondragones"
+    },
+    {
+        "clave": "150080238",
+        "nombre": "Cuadrilla Vieja"
+    },
+    {
+        "clave": "150080239",
+        "nombre": "Escuela Vieja (El Cuitaz)"
+    },
+    {
+        "clave": "150080241",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "150080243",
+        "nombre": "El Manguito"
+    },
+    {
+        "clave": "150080248",
+        "nombre": "Plan de los Guajes"
+    },
+    {
+        "clave": "150080251",
+        "nombre": "El Jucual"
+    },
+    {
+        "clave": "150080253",
+        "nombre": "El Puerto Hondo"
+    },
+    {
+        "clave": "150080254",
+        "nombre": "La Ceiba Tirada"
+    },
+    {
+        "clave": "150080256",
+        "nombre": "Cerro del Bonete (La Parota)"
+    },
+    {
+        "clave": "150080257",
+        "nombre": "Cuadrilla de Cardosos (Paso del Sitio)"
+    },
+    {
+        "clave": "150080258",
+        "nombre": "El Sesteo"
+    },
+    {
+        "clave": "150080260",
+        "nombre": "El Zapote"
+    }
+]

@@ -1,0 +1,714 @@
+[
+    {
+        "clave": "120130022",
+        "nombre": "La Culebra"
+    },
+    {
+        "clave": "120130050",
+        "nombre": "Los Quiterios"
+    },
+    {
+        "clave": "120130087",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "120130109",
+        "nombre": "Rancho Hermanos Cortez"
+    },
+    {
+        "clave": "120130120",
+        "nombre": "Playa Suave"
+    },
+    {
+        "clave": "120130129",
+        "nombre": "Las Trancas"
+    },
+    {
+        "clave": "120130216",
+        "nombre": "Rancho los Mendoza"
+    },
+    {
+        "clave": "120130001",
+        "nombre": "Azoyú"
+    },
+    {
+        "clave": "120130004",
+        "nombre": "Arcelia del Progreso"
+    },
+    {
+        "clave": "120130007",
+        "nombre": "Banco de Oro"
+    },
+    {
+        "clave": "120130010",
+        "nombre": "La Bocana"
+    },
+    {
+        "clave": "120130018",
+        "nombre": "El Carrizo"
+    },
+    {
+        "clave": "120130024",
+        "nombre": "Los Chegües"
+    },
+    {
+        "clave": "120130029",
+        "nombre": "Huehuetán"
+    },
+    {
+        "clave": "120130035",
+        "nombre": "Lomas del Vidal (El Vidal)"
+    },
+    {
+        "clave": "120130038",
+        "nombre": "El Macahuite"
+    },
+    {
+        "clave": "120130040",
+        "nombre": "Maxmadi"
+    },
+    {
+        "clave": "120130041",
+        "nombre": "Los Metates"
+    },
+    {
+        "clave": "120130048",
+        "nombre": "San Isidro el Puente (El Puente)"
+    },
+    {
+        "clave": "120130049",
+        "nombre": "Quetzalapa"
+    },
+    {
+        "clave": "120130054",
+        "nombre": "Talapilla"
+    },
+    {
+        "clave": "120130056",
+        "nombre": "Tenango"
+    },
+    {
+        "clave": "120130062",
+        "nombre": "Zapotitlán de la Fuente (El Zapote)"
+    },
+    {
+        "clave": "120130075",
+        "nombre": "La Pelota"
+    },
+    {
+        "clave": "120130089",
+        "nombre": "Charco de Alfonso Cruz (Los Carmona la Loma)"
+    },
+    {
+        "clave": "120130186",
+        "nombre": "El Arenal (La Plataforma)"
+    },
+    {
+        "clave": "120130002",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "120130003",
+        "nombre": "Agua Zarca (Barrio de Agua Zarca)"
+    },
+    {
+        "clave": "120130008",
+        "nombre": "La Barra de Tecoanapa (Barra de Tecoanapa)"
+    },
+    {
+        "clave": "120130009",
+        "nombre": "Barrio Nuevo"
+    },
+    {
+        "clave": "120130011",
+        "nombre": "Plan de Buenavista (Buenavista)"
+    },
+    {
+        "clave": "120130014",
+        "nombre": "Los Callejones Viejos"
+    },
+    {
+        "clave": "120130015",
+        "nombre": "El Capulín Chocolate"
+    },
+    {
+        "clave": "120130016",
+        "nombre": "San José del Capulín (Capulín Calavera)"
+    },
+    {
+        "clave": "120130017",
+        "nombre": "Carrizalillo"
+    },
+    {
+        "clave": "120130020",
+        "nombre": "Cruz Verde"
+    },
+    {
+        "clave": "120130021",
+        "nombre": "La Cuchilla"
+    },
+    {
+        "clave": "120130026",
+        "nombre": "Rancho el Palmar (La Finca)"
+    },
+    {
+        "clave": "120130027",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "120130030",
+        "nombre": "La India (La India Calosa)"
+    },
+    {
+        "clave": "120130031",
+        "nombre": "Juchitán"
+    },
+    {
+        "clave": "120130036",
+        "nombre": "Llanos del Coco (El Coco)"
+    },
+    {
+        "clave": "120130037",
+        "nombre": "Llano del Muerto (Rancho de Chema Rodríguez)"
+    },
+    {
+        "clave": "120130039",
+        "nombre": "Marquelia"
+    },
+    {
+        "clave": "120130043",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "120130044",
+        "nombre": "Los Pelillos"
+    },
+    {
+        "clave": "120130046",
+        "nombre": "Las Peñitas"
+    },
+    {
+        "clave": "120130047",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "120130051",
+        "nombre": "El Ranchito (El Ranchito de Moctezuma)"
+    },
+    {
+        "clave": "120130052",
+        "nombre": "Rayito de Luna"
+    },
+    {
+        "clave": "120130055",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "120130057",
+        "nombre": "Tencohuey"
+    },
+    {
+        "clave": "120130058",
+        "nombre": "Tepantitlán (El Paso)"
+    },
+    {
+        "clave": "120130060",
+        "nombre": "Terrero Huehueteco"
+    },
+    {
+        "clave": "120130063",
+        "nombre": "Zoyatlán"
+    },
+    {
+        "clave": "120130065",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "120130076",
+        "nombre": "Toxnene"
+    },
+    {
+        "clave": "120130079",
+        "nombre": "Isla del Cerrito (El Cerrito)"
+    },
+    {
+        "clave": "120130080",
+        "nombre": "Crucero de la Balsa (Rancho Norberta Herrera)"
+    },
+    {
+        "clave": "120130082",
+        "nombre": "El Miramar"
+    },
+    {
+        "clave": "120130085",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "120130086",
+        "nombre": "El Zapotito"
+    },
+    {
+        "clave": "120130088",
+        "nombre": "Aguacatillo (Rancho Maximino Muñoz)"
+    },
+    {
+        "clave": "120130092",
+        "nombre": "Rancho el Limón (Rancho Bautista)"
+    },
+    {
+        "clave": "120130093",
+        "nombre": "Rancho Bautista Dos (Hermanos B. Florentino)"
+    },
+    {
+        "clave": "120130094",
+        "nombre": "Cafetal (Rancho Amado Herrera Martínez)"
+    },
+    {
+        "clave": "120130095",
+        "nombre": "El Callejón (Encierro de Ezequiel L"
+    },
+    {
+        "clave": "120130096",
+        "nombre": "Cañada de los Mayo"
+    },
+    {
+        "clave": "120130097",
+        "nombre": "Rancho el Capulín"
+    },
+    {
+        "clave": "120130098",
+        "nombre": "Cola de Charco (Charco Grande)"
+    },
+    {
+        "clave": "120130101",
+        "nombre": "Crucero de los Callejones (Los Callejones)"
+    },
+    {
+        "clave": "120130102",
+        "nombre": "Finca los Pumas (Crucero Lomas del Vidal)"
+    },
+    {
+        "clave": "120130103",
+        "nombre": "Charco Choco (Rancho Domingo Martínez)"
+    },
+    {
+        "clave": "120130105",
+        "nombre": "Rancho Estrada"
+    },
+    {
+        "clave": "120130107",
+        "nombre": "Dos Arroyos"
+    },
+    {
+        "clave": "120130111",
+        "nombre": "Rancho Dos Potrillos (Rancho Luis Justo H.)"
+    },
+    {
+        "clave": "120130112",
+        "nombre": "Rancho Lempira"
+    },
+    {
+        "clave": "120130114",
+        "nombre": "Rancho Maximiliano Mendoza (Rancho de Lango)"
+    },
+    {
+        "clave": "120130115",
+        "nombre": "Rancho Muñoz"
+    },
+    {
+        "clave": "120130118",
+        "nombre": "Palo Blanco"
+    },
+    {
+        "clave": "120130123",
+        "nombre": "Quiterio García"
+    },
+    {
+        "clave": "120130124",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "120130125",
+        "nombre": "Rosendo Balanzar García [Rancho]"
+    },
+    {
+        "clave": "120130126",
+        "nombre": "El Salto"
+    },
+    {
+        "clave": "120130130",
+        "nombre": "Tres Pelos"
+    },
+    {
+        "clave": "120130131",
+        "nombre": "La Unión de los Hernández"
+    },
+    {
+        "clave": "120130132",
+        "nombre": "Villa de Cortez"
+    },
+    {
+        "clave": "120130133",
+        "nombre": "Rancho Muñoz Castellanos"
+    },
+    {
+        "clave": "120130134",
+        "nombre": "Playa la Bocana"
+    },
+    {
+        "clave": "120130135",
+        "nombre": "Rancho Chávez Heredia (Rancho el Rodeo)"
+    },
+    {
+        "clave": "120130136",
+        "nombre": "Palma Quemada"
+    },
+    {
+        "clave": "120130137",
+        "nombre": "Rancho San Marqueño"
+    },
+    {
+        "clave": "120130138",
+        "nombre": "La Mazacuata"
+    },
+    {
+        "clave": "120130143",
+        "nombre": "Rancho Ángel Zurita"
+    },
+    {
+        "clave": "120130144",
+        "nombre": "Rancho Eleazar Zurita"
+    },
+    {
+        "clave": "120130146",
+        "nombre": "La Arenilla"
+    },
+    {
+        "clave": "120130147",
+        "nombre": "Arroyo de Tila (Cohimbre)"
+    },
+    {
+        "clave": "120130148",
+        "nombre": "Arroyo Seco"
+    },
+    {
+        "clave": "120130150",
+        "nombre": "Charco Cuaresma"
+    },
+    {
+        "clave": "120130151",
+        "nombre": "Charco Largo"
+    },
+    {
+        "clave": "120130152",
+        "nombre": "Crucero de Huehuetán [Escuela Secundaria J. García J.]"
+    },
+    {
+        "clave": "120130153",
+        "nombre": "El Cucharo (Arroyo el Cucharo)"
+    },
+    {
+        "clave": "120130160",
+        "nombre": "Huerta de Tito"
+    },
+    {
+        "clave": "120130161",
+        "nombre": "Huerta Eloy Juanico"
+    },
+    {
+        "clave": "120130165",
+        "nombre": "Huerta Gustavo Casanova"
+    },
+    {
+        "clave": "120130166",
+        "nombre": "Huerta Gustavo Guerrero Cortez"
+    },
+    {
+        "clave": "120130167",
+        "nombre": "Huerta Heriberto Rentería Salinas"
+    },
+    {
+        "clave": "120130168",
+        "nombre": "Huerta Aquileo Rendón Ávila"
+    },
+    {
+        "clave": "120130171",
+        "nombre": "Huerta Juan Salinas Ávila López"
+    },
+    {
+        "clave": "120130173",
+        "nombre": "Huerta Luciano Bonifacio"
+    },
+    {
+        "clave": "120130174",
+        "nombre": "Huerta Luisa Vázquez"
+    },
+    {
+        "clave": "120130180",
+        "nombre": "Huerta Gelacio Panchi"
+    },
+    {
+        "clave": "120130182",
+        "nombre": "Huerta Zenaido Cruz"
+    },
+    {
+        "clave": "120130183",
+        "nombre": "La Isleta"
+    },
+    {
+        "clave": "120130184",
+        "nombre": "Las Palmitas (Medardo Soriano)"
+    },
+    {
+        "clave": "120130185",
+        "nombre": "Peñas Negras"
+    },
+    {
+        "clave": "120130187",
+        "nombre": "Playa Larga"
+    },
+    {
+        "clave": "120130188",
+        "nombre": "Playa Tortuga"
+    },
+    {
+        "clave": "120130189",
+        "nombre": "Rancho Adalberto Sáligan Ávila (Playa Larga)"
+    },
+    {
+        "clave": "120130191",
+        "nombre": "Rancho Bahena"
+    },
+    {
+        "clave": "120130193",
+        "nombre": "Rancho Carlota Viuda de Peña"
+    },
+    {
+        "clave": "120130194",
+        "nombre": "Rancho Celso Muñoz"
+    },
+    {
+        "clave": "120130195",
+        "nombre": "Rancho Cisneros"
+    },
+    {
+        "clave": "120130197",
+        "nombre": "Rancho David Bautista (Arroyo Seco)"
+    },
+    {
+        "clave": "120130200",
+        "nombre": "Rancho Dos Laureles"
+    },
+    {
+        "clave": "120130202",
+        "nombre": "Rancho el Mesón"
+    },
+    {
+        "clave": "120130203",
+        "nombre": "Rancho el Roble (Rancho David Bautista)"
+    },
+    {
+        "clave": "120130204",
+        "nombre": "Rancho el Tarillal (Juan Alarcón Soriano)"
+    },
+    {
+        "clave": "120130205",
+        "nombre": "Rancho Gabriel Herrera"
+    },
+    {
+        "clave": "120130206",
+        "nombre": "Rancho Edrey Bautista"
+    },
+    {
+        "clave": "120130207",
+        "nombre": "Rancho Hermanos Alvarado (Crucero de Huehuetán)"
+    },
+    {
+        "clave": "120130208",
+        "nombre": "Rancho Jesús Ávila"
+    },
+    {
+        "clave": "120130209",
+        "nombre": "Rancho Joel Chávez"
+    },
+    {
+        "clave": "120130211",
+        "nombre": "Rancho Jorge San Juan"
+    },
+    {
+        "clave": "120130212",
+        "nombre": "Rancho José Romero Marín"
+    },
+    {
+        "clave": "120130213",
+        "nombre": "Rancho Lauro Justo (Amate Guinea)"
+    },
+    {
+        "clave": "120130214",
+        "nombre": "Rancho la Ceiba"
+    },
+    {
+        "clave": "120130218",
+        "nombre": "Rancho Maestro Crisógono"
+    },
+    {
+        "clave": "120130219",
+        "nombre": "Rancho Magdaleno Justo"
+    },
+    {
+        "clave": "120130220",
+        "nombre": "Rancho Mariana Cortez"
+    },
+    {
+        "clave": "120130224",
+        "nombre": "Rancho Paulino Dámaso Mayo"
+    },
+    {
+        "clave": "120130225",
+        "nombre": "Rancho Herrera Martínez"
+    },
+    {
+        "clave": "120130226",
+        "nombre": "Rancho Salvador Galindo (Las Peñas)"
+    },
+    {
+        "clave": "120130227",
+        "nombre": "Rancho Tino Cortez"
+    },
+    {
+        "clave": "120130228",
+        "nombre": "Rancho Urbano Jiménez"
+    },
+    {
+        "clave": "120130229",
+        "nombre": "Rancho Graydi Guerrero"
+    },
+    {
+        "clave": "120130230",
+        "nombre": "Rancho el Centenario (Rancho Luis Justo)"
+    },
+    {
+        "clave": "120130231",
+        "nombre": "Villa de Cortez Dos"
+    },
+    {
+        "clave": "120130232",
+        "nombre": "Zapotitán"
+    },
+    {
+        "clave": "120130233",
+        "nombre": "Colonia la Noria"
+    },
+    {
+        "clave": "120130235",
+        "nombre": "Rancho Albino Rosales Gatica"
+    },
+    {
+        "clave": "120130237",
+        "nombre": "Colonia el Polvorín Uno"
+    },
+    {
+        "clave": "120130238",
+        "nombre": "Colonia San José Uno"
+    },
+    {
+        "clave": "120130239",
+        "nombre": "Huerta Antonio Moctezuma (Charco del Naranjo)"
+    },
+    {
+        "clave": "120130240",
+        "nombre": "Huerta Pablo Maceda"
+    },
+    {
+        "clave": "120130241",
+        "nombre": "Juchitán Uno (Colonia Independencia)"
+    },
+    {
+        "clave": "120130242",
+        "nombre": "La Cañada de los Potes"
+    },
+    {
+        "clave": "120130243",
+        "nombre": "Rancho Carlos Villanueva Mendoza"
+    },
+    {
+        "clave": "120130244",
+        "nombre": "Rancho Mario Bautista"
+    },
+    {
+        "clave": "120130245",
+        "nombre": "Rancho el Chorro (Celso Alvarado Nolasco)"
+    },
+    {
+        "clave": "120130246",
+        "nombre": "Rancho Ignacio Cortez"
+    },
+    {
+        "clave": "120130247",
+        "nombre": "Rancho Manzanárez Cortez"
+    },
+    {
+        "clave": "120130248",
+        "nombre": "Rancho Marquez"
+    },
+    {
+        "clave": "120130249",
+        "nombre": "Cerro Cuate"
+    },
+    {
+        "clave": "120130250",
+        "nombre": "Juchitán Dos"
+    },
+    {
+        "clave": "120130251",
+        "nombre": "Las Pilitas"
+    },
+    {
+        "clave": "120130252",
+        "nombre": "Rancho Cerro Cuate"
+    },
+    {
+        "clave": "120130253",
+        "nombre": "Rancho Isabel Rodríguez"
+    },
+    {
+        "clave": "120130254",
+        "nombre": "Rancho la Antena"
+    },
+    {
+        "clave": "120130255",
+        "nombre": "La Amatera"
+    },
+    {
+        "clave": "120130256",
+        "nombre": "La Cañada del Cayaco"
+    },
+    {
+        "clave": "120130257",
+        "nombre": "Chalacatepec"
+    },
+    {
+        "clave": "120130258",
+        "nombre": "Rancho Hermenegildo Antonio Hernández"
+    },
+    {
+        "clave": "120130259",
+        "nombre": "Mata de Zarza"
+    },
+    {
+        "clave": "120130260",
+        "nombre": "Localidad sin nombre"
+    },
+    {
+        "clave": "120130261",
+        "nombre": "Localidad sin nombre"
+    },
+    {
+        "clave": "120130262",
+        "nombre": "El Tejoruco (Tenoxtitlán)"
+    },
+    {
+        "clave": "120130263",
+        "nombre": "José Efrén Cortés [Rancho]"
+    }
+]

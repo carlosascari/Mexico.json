@@ -1,0 +1,786 @@
+[
+    {
+        "clave": "200570082",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "200570083",
+        "nombre": "El Corte"
+    },
+    {
+        "clave": "200570204",
+        "nombre": "Paisanos Atitlán"
+    },
+    {
+        "clave": "200570238",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "200570247",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "200570254",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "200570268",
+        "nombre": "Las Vegas"
+    },
+    {
+        "clave": "200570269",
+        "nombre": "Colonia Emiliano Zapata"
+    },
+    {
+        "clave": "200570002",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "200570004",
+        "nombre": "Cuauhtémoc"
+    },
+    {
+        "clave": "200570008",
+        "nombre": "Francisco Javier Jasso"
+    },
+    {
+        "clave": "200570009",
+        "nombre": "Colonia Gabriel Ramos Millán"
+    },
+    {
+        "clave": "200570011",
+        "nombre": "Juno"
+    },
+    {
+        "clave": "200570013",
+        "nombre": "La Cumbre"
+    },
+    {
+        "clave": "200570014",
+        "nombre": "Martínez de la Torre"
+    },
+    {
+        "clave": "200570017",
+        "nombre": "Nuevo Ubero"
+    },
+    {
+        "clave": "200570018",
+        "nombre": "Palomares"
+    },
+    {
+        "clave": "200570019",
+        "nombre": "El Paguital"
+    },
+    {
+        "clave": "200570021",
+        "nombre": "El Paso de las Maravillas"
+    },
+    {
+        "clave": "200570022",
+        "nombre": "Paso Guayabo"
+    },
+    {
+        "clave": "200570023",
+        "nombre": "Profesor Otilio Montaño"
+    },
+    {
+        "clave": "200570024",
+        "nombre": "San Gabriel"
+    },
+    {
+        "clave": "200570026",
+        "nombre": "Donají"
+    },
+    {
+        "clave": "200570027",
+        "nombre": "Tolosita"
+    },
+    {
+        "clave": "200570028",
+        "nombre": "Ubero"
+    },
+    {
+        "clave": "200570030",
+        "nombre": "La Victoria"
+    },
+    {
+        "clave": "200570049",
+        "nombre": "Arroyo Azul"
+    },
+    {
+        "clave": "200570066",
+        "nombre": "Linda Vista"
+    },
+    {
+        "clave": "200570068",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "200570090",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "200570095",
+        "nombre": "Nuevo Progreso"
+    },
+    {
+        "clave": "200570099",
+        "nombre": "Río Verde"
+    },
+    {
+        "clave": "200570104",
+        "nombre": "San Pedro Evangelista"
+    },
+    {
+        "clave": "200570105",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "200570121",
+        "nombre": "Ejido Diodoro Carrasco Altamirano"
+    },
+    {
+        "clave": "200570140",
+        "nombre": "La Puerta"
+    },
+    {
+        "clave": "200570142",
+        "nombre": "Dos Efes"
+    },
+    {
+        "clave": "200570169",
+        "nombre": "Arroyo Seco"
+    },
+    {
+        "clave": "200570174",
+        "nombre": "Monte Oscuro"
+    },
+    {
+        "clave": "200570177",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "200570178",
+        "nombre": "12 de Julio"
+    },
+    {
+        "clave": "200570182",
+        "nombre": "Cuatro Caminos"
+    },
+    {
+        "clave": "200570183",
+        "nombre": "El Gavilán"
+    },
+    {
+        "clave": "200570195",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "200570201",
+        "nombre": "Colonia Libertad"
+    },
+    {
+        "clave": "200570202",
+        "nombre": "La Oaxaqueña"
+    },
+    {
+        "clave": "200570207",
+        "nombre": "Colonia Cuauhtémoc"
+    },
+    {
+        "clave": "200570219",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "200570221",
+        "nombre": "El Platanillo"
+    },
+    {
+        "clave": "200570230",
+        "nombre": "San Juan del Río"
+    },
+    {
+        "clave": "200570233",
+        "nombre": "Tierra Nueva"
+    },
+    {
+        "clave": "200570235",
+        "nombre": "Colonia Agrícola Ganadera Progreso (El Lirio)"
+    },
+    {
+        "clave": "200570241",
+        "nombre": "Monte los Tucanes"
+    },
+    {
+        "clave": "200570244",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "200570257",
+        "nombre": "El Llanito"
+    },
+    {
+        "clave": "200570274",
+        "nombre": "La Aurora (Desviación Suchilapan) [Rancho]"
+    },
+    {
+        "clave": "200570277",
+        "nombre": "La Lagunita"
+    },
+    {
+        "clave": "200570001",
+        "nombre": "Matías Romero Avendaño"
+    },
+    {
+        "clave": "200570010",
+        "nombre": "Colonia Istmeña el Zapote"
+    },
+    {
+        "clave": "200570034",
+        "nombre": "Barrancones"
+    },
+    {
+        "clave": "200570041",
+        "nombre": "Rancho Roque"
+    },
+    {
+        "clave": "200570042",
+        "nombre": "El Remolino"
+    },
+    {
+        "clave": "200570079",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "200570080",
+        "nombre": "Las Cañas"
+    },
+    {
+        "clave": "200570097",
+        "nombre": "Pentacal (Paso de Buques)"
+    },
+    {
+        "clave": "200570098",
+        "nombre": "Playa Varela"
+    },
+    {
+        "clave": "200570101",
+        "nombre": "Rancho San Carlos"
+    },
+    {
+        "clave": "200570103",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "200570111",
+        "nombre": "El Naranjal"
+    },
+    {
+        "clave": "200570113",
+        "nombre": "Los Limonares"
+    },
+    {
+        "clave": "200570114",
+        "nombre": "El Moro"
+    },
+    {
+        "clave": "200570115",
+        "nombre": "El Aserradero"
+    },
+    {
+        "clave": "200570116",
+        "nombre": "Paso del Buque (El Bañadero)"
+    },
+    {
+        "clave": "200570120",
+        "nombre": "Centro de Desarrollo Genético"
+    },
+    {
+        "clave": "200570122",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "200570123",
+        "nombre": "Siete Hermanos"
+    },
+    {
+        "clave": "200570125",
+        "nombre": "David Colmenero"
+    },
+    {
+        "clave": "200570126",
+        "nombre": "Brena Torres (Nuevo Brena Torres)"
+    },
+    {
+        "clave": "200570127",
+        "nombre": "Tres Espigas"
+    },
+    {
+        "clave": "200570128",
+        "nombre": "Chayotillo"
+    },
+    {
+        "clave": "200570129",
+        "nombre": "San Bernardo"
+    },
+    {
+        "clave": "200570130",
+        "nombre": "Rancho Elba"
+    },
+    {
+        "clave": "200570132",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "200570133",
+        "nombre": "Parcela San Gabriel"
+    },
+    {
+        "clave": "200570134",
+        "nombre": "El Novillero"
+    },
+    {
+        "clave": "200570135",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "200570136",
+        "nombre": "Las Cruces"
+    },
+    {
+        "clave": "200570138",
+        "nombre": "Nuevo Paraje"
+    },
+    {
+        "clave": "200570139",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "200570143",
+        "nombre": "Las Palmitas"
+    },
+    {
+        "clave": "200570145",
+        "nombre": "Rancho Leticia"
+    },
+    {
+        "clave": "200570146",
+        "nombre": "Monte Bello"
+    },
+    {
+        "clave": "200570147",
+        "nombre": "Rivera"
+    },
+    {
+        "clave": "200570148",
+        "nombre": "El Ensueño"
+    },
+    {
+        "clave": "200570149",
+        "nombre": "Cirilo Méndez"
+    },
+    {
+        "clave": "200570156",
+        "nombre": "Vitela (Predio Visuriki)"
+    },
+    {
+        "clave": "200570158",
+        "nombre": "Chalchijapa"
+    },
+    {
+        "clave": "200570160",
+        "nombre": "Plan de San Luis"
+    },
+    {
+        "clave": "200570170",
+        "nombre": "El Tortuguero (Rancho Eréndira)"
+    },
+    {
+        "clave": "200570171",
+        "nombre": "Eréndira"
+    },
+    {
+        "clave": "200570172",
+        "nombre": "Río Escondido"
+    },
+    {
+        "clave": "200570176",
+        "nombre": "Media Luna"
+    },
+    {
+        "clave": "200570179",
+        "nombre": "La Palestina"
+    },
+    {
+        "clave": "200570180",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "200570181",
+        "nombre": "La Línea"
+    },
+    {
+        "clave": "200570184",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "200570185",
+        "nombre": "Chayotillo Segundo (Rancho Froylán Muñiz)"
+    },
+    {
+        "clave": "200570186",
+        "nombre": "Los Jabalines [Rancho]"
+    },
+    {
+        "clave": "200570187",
+        "nombre": "Tomás Hernández"
+    },
+    {
+        "clave": "200570188",
+        "nombre": "Chayotillo Primero"
+    },
+    {
+        "clave": "200570189",
+        "nombre": "El Manantial"
+    },
+    {
+        "clave": "200570190",
+        "nombre": "Las Milpas"
+    },
+    {
+        "clave": "200570191",
+        "nombre": "Rancho Mayra"
+    },
+    {
+        "clave": "200570192",
+        "nombre": "Monte Fiel"
+    },
+    {
+        "clave": "200570193",
+        "nombre": "Las Palmas (Cinco Hermanos)"
+    },
+    {
+        "clave": "200570194",
+        "nombre": "Puerta la Palestina"
+    },
+    {
+        "clave": "200570196",
+        "nombre": "Rancho Oaxaca"
+    },
+    {
+        "clave": "200570197",
+        "nombre": "Rancho Ponce (Los Arrayanes)"
+    },
+    {
+        "clave": "200570198",
+        "nombre": "Rancho Veracruz"
+    },
+    {
+        "clave": "200570199",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "200570200",
+        "nombre": "El Talismán"
+    },
+    {
+        "clave": "200570205",
+        "nombre": "La Palmita"
+    },
+    {
+        "clave": "200570206",
+        "nombre": "Rancho Fausto García"
+    },
+    {
+        "clave": "200570208",
+        "nombre": "La Escuadra"
+    },
+    {
+        "clave": "200570209",
+        "nombre": "Guetagana"
+    },
+    {
+        "clave": "200570210",
+        "nombre": "Barrio Nuevo"
+    },
+    {
+        "clave": "200570211",
+        "nombre": "Desviación Brena Torres"
+    },
+    {
+        "clave": "200570212",
+        "nombre": "El Faisán"
+    },
+    {
+        "clave": "200570213",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "200570214",
+        "nombre": "Las Flores [Comunidad]"
+    },
+    {
+        "clave": "200570215",
+        "nombre": "Fracción el Manantial (Finca el Ubero)"
+    },
+    {
+        "clave": "200570216",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "200570217",
+        "nombre": "La Morucha [Rancho]"
+    },
+    {
+        "clave": "200570218",
+        "nombre": "Nuevo Progreso"
+    },
+    {
+        "clave": "200570222",
+        "nombre": "Los Pintos [Rancho]"
+    },
+    {
+        "clave": "200570223",
+        "nombre": "Altamira"
+    },
+    {
+        "clave": "200570224",
+        "nombre": "Rancho Bonifacio Franco"
+    },
+    {
+        "clave": "200570225",
+        "nombre": "Rancho Doce Chica"
+    },
+    {
+        "clave": "200570226",
+        "nombre": "Piedras Negras"
+    },
+    {
+        "clave": "200570227",
+        "nombre": "Rancho Monte Calvario (Rancho Ombligo)"
+    },
+    {
+        "clave": "200570228",
+        "nombre": "Rancho Prieto"
+    },
+    {
+        "clave": "200570229",
+        "nombre": "San Isidro (Fracción del Rancho Elba)"
+    },
+    {
+        "clave": "200570231",
+        "nombre": "Rancho San Manuel"
+    },
+    {
+        "clave": "200570232",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "200570234",
+        "nombre": "El Aserradero"
+    },
+    {
+        "clave": "200570236",
+        "nombre": "El Chamizal"
+    },
+    {
+        "clave": "200570237",
+        "nombre": "Ejido Piedra Blanca"
+    },
+    {
+        "clave": "200570239",
+        "nombre": "Foresta (El Aserradero)"
+    },
+    {
+        "clave": "200570240",
+        "nombre": "Las Higueras"
+    },
+    {
+        "clave": "200570242",
+        "nombre": "La Pava"
+    },
+    {
+        "clave": "200570243",
+        "nombre": "Rancho Juan Romero"
+    },
+    {
+        "clave": "200570245",
+        "nombre": "Rancho Primaveral"
+    },
+    {
+        "clave": "200570246",
+        "nombre": "El Roble (El Portillo)"
+    },
+    {
+        "clave": "200570248",
+        "nombre": "Los Amigos"
+    },
+    {
+        "clave": "200570249",
+        "nombre": "Buena Vista Dos Hermanos"
+    },
+    {
+        "clave": "200570250",
+        "nombre": "La Cascada (Puente el Límite)"
+    },
+    {
+        "clave": "200570251",
+        "nombre": "La Cascarilla"
+    },
+    {
+        "clave": "200570252",
+        "nombre": "La Colina de Sión"
+    },
+    {
+        "clave": "200570253",
+        "nombre": "Las Cruces [Rancho]"
+    },
+    {
+        "clave": "200570255",
+        "nombre": "Las Hormigas"
+    },
+    {
+        "clave": "200570256",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "200570258",
+        "nombre": "Marisela"
+    },
+    {
+        "clave": "200570259",
+        "nombre": "La Pasada"
+    },
+    {
+        "clave": "200570260",
+        "nombre": "Rancho Escondido (Sector Seis)"
+    },
+    {
+        "clave": "200570261",
+        "nombre": "Rancho Félix Maldonado"
+    },
+    {
+        "clave": "200570262",
+        "nombre": "Rancho Nereyda Toribio Antonio"
+    },
+    {
+        "clave": "200570263",
+        "nombre": "El Sacrificio"
+    },
+    {
+        "clave": "200570264",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "200570265",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "200570266",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "200570267",
+        "nombre": "El Tucán"
+    },
+    {
+        "clave": "200570270",
+        "nombre": "Los Gómez"
+    },
+    {
+        "clave": "200570271",
+        "nombre": "Monte Fiel"
+    },
+    {
+        "clave": "200570272",
+        "nombre": "Peña Blanca"
+    },
+    {
+        "clave": "200570273",
+        "nombre": "Rancho Soledad"
+    },
+    {
+        "clave": "200570275",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "200570276",
+        "nombre": "El Suriano"
+    },
+    {
+        "clave": "200570278",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "200570279",
+        "nombre": "El Ponedero"
+    },
+    {
+        "clave": "200570280",
+        "nombre": "El Retiro [Rancho]"
+    },
+    {
+        "clave": "200570281",
+        "nombre": "La Aurora [Rancho]"
+    },
+    {
+        "clave": "200570282",
+        "nombre": "La Noria [Rancho]"
+    },
+    {
+        "clave": "200570283",
+        "nombre": "La Viuda Benítez (Rancho de la Viuda Benítez)"
+    },
+    {
+        "clave": "200570284",
+        "nombre": "Las Jacarandas"
+    },
+    {
+        "clave": "200570285",
+        "nombre": "La Llorona [Rancho]"
+    },
+    {
+        "clave": "200570286",
+        "nombre": "Rancho Seco"
+    },
+    {
+        "clave": "200570287",
+        "nombre": "Rancho Soñador"
+    },
+    {
+        "clave": "200570288",
+        "nombre": "El Columpio"
+    },
+    {
+        "clave": "200570289",
+        "nombre": "Rancho Alaska"
+    },
+    {
+        "clave": "200570290",
+        "nombre": "Santa Clara"
+    },
+    {
+        "clave": "200570291",
+        "nombre": "La Chiclosa"
+    },
+    {
+        "clave": "200570292",
+        "nombre": "El Tarasco"
+    },
+    {
+        "clave": "200570293",
+        "nombre": "Los Potrillos"
+    },
+    {
+        "clave": "200570294",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "200570295",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "200570296",
+        "nombre": "El Venadito"
+    }
+]

@@ -1,0 +1,694 @@
+[
+    {
+        "clave": "301480015",
+        "nombre": "Dos Matas"
+    },
+    {
+        "clave": "301480121",
+        "nombre": "Loma del Tejón (Paso Arriero)"
+    },
+    {
+        "clave": "301480167",
+        "nombre": "Paso Real"
+    },
+    {
+        "clave": "301480002",
+        "nombre": "Adalberto Tejeda (La Iguana)"
+    },
+    {
+        "clave": "301480005",
+        "nombre": "Barranca de Palma"
+    },
+    {
+        "clave": "301480006",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "301480008",
+        "nombre": "Cerro de León (Mundo Raro)"
+    },
+    {
+        "clave": "301480010",
+        "nombre": "La Cruz (Lázaro Cárdenas)"
+    },
+    {
+        "clave": "301480012",
+        "nombre": "Chapulina"
+    },
+    {
+        "clave": "301480016",
+        "nombre": "Emilio Carranza"
+    },
+    {
+        "clave": "301480018",
+        "nombre": "Espinal de Santa Bárbara"
+    },
+    {
+        "clave": "301480021",
+        "nombre": "Rincón de las Flores"
+    },
+    {
+        "clave": "301480022",
+        "nombre": "La Gachupina"
+    },
+    {
+        "clave": "301480023",
+        "nombre": "Los Guajitos"
+    },
+    {
+        "clave": "301480024",
+        "nombre": "Higuera Cuata"
+    },
+    {
+        "clave": "301480025",
+        "nombre": "Huihuixtla"
+    },
+    {
+        "clave": "301480026",
+        "nombre": "El Izote"
+    },
+    {
+        "clave": "301480028",
+        "nombre": "El Jagüey de Malibrán"
+    },
+    {
+        "clave": "301480030",
+        "nombre": "Laguna Blanca"
+    },
+    {
+        "clave": "301480031",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "301480032",
+        "nombre": "Loma del Faro (El Toche)"
+    },
+    {
+        "clave": "301480033",
+        "nombre": "Loma del Nanche"
+    },
+    {
+        "clave": "301480034",
+        "nombre": "Loma de Santa Bárbara (El Organal)"
+    },
+    {
+        "clave": "301480035",
+        "nombre": "Loma Jovera"
+    },
+    {
+        "clave": "301480037",
+        "nombre": "La Mapachera"
+    },
+    {
+        "clave": "301480038",
+        "nombre": "Mata Ardilla"
+    },
+    {
+        "clave": "301480039",
+        "nombre": "Mata Bruja"
+    },
+    {
+        "clave": "301480040",
+        "nombre": "Mata Cazuela"
+    },
+    {
+        "clave": "301480041",
+        "nombre": "Mata Conejo"
+    },
+    {
+        "clave": "301480042",
+        "nombre": "Mata de Caña"
+    },
+    {
+        "clave": "301480044",
+        "nombre": "La Guadalupe (Mata de Loros)"
+    },
+    {
+        "clave": "301480046",
+        "nombre": "Matamoros (Mata Muertos)"
+    },
+    {
+        "clave": "301480047",
+        "nombre": "El Progreso (Mata Novillo)"
+    },
+    {
+        "clave": "301480048",
+        "nombre": "Mata Pionche"
+    },
+    {
+        "clave": "301480049",
+        "nombre": "Mata Redonda"
+    },
+    {
+        "clave": "301480050",
+        "nombre": "La Mendoza"
+    },
+    {
+        "clave": "301480053",
+        "nombre": "Mirador de Santa Rosa"
+    },
+    {
+        "clave": "301480055",
+        "nombre": "Miralejos"
+    },
+    {
+        "clave": "301480057",
+        "nombre": "El Organal"
+    },
+    {
+        "clave": "301480058",
+        "nombre": "El Organito"
+    },
+    {
+        "clave": "301480059",
+        "nombre": "La Oriental"
+    },
+    {
+        "clave": "301480061",
+        "nombre": "Las Palomas"
+    },
+    {
+        "clave": "301480063",
+        "nombre": "Paso Cabestro"
+    },
+    {
+        "clave": "301480064",
+        "nombre": "Paso de Cabra"
+    },
+    {
+        "clave": "301480065",
+        "nombre": "Paso Don Roque"
+    },
+    {
+        "clave": "301480066",
+        "nombre": "Paso las Pintas"
+    },
+    {
+        "clave": "301480067",
+        "nombre": "Paso Lagarto"
+    },
+    {
+        "clave": "301480070",
+        "nombre": "Paso Naranjo Poniente"
+    },
+    {
+        "clave": "301480071",
+        "nombre": "Paso Santiago"
+    },
+    {
+        "clave": "301480072",
+        "nombre": "Paso Solano (Ejido Mirador y Anexos)"
+    },
+    {
+        "clave": "301480073",
+        "nombre": "Pénjamo"
+    },
+    {
+        "clave": "301480079",
+        "nombre": "La Primavera"
+    },
+    {
+        "clave": "301480080",
+        "nombre": "Puerta de Mata Anona"
+    },
+    {
+        "clave": "301480083",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "301480084",
+        "nombre": "El Recuerdo"
+    },
+    {
+        "clave": "301480085",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "301480086",
+        "nombre": "Las Remojadas"
+    },
+    {
+        "clave": "301480090",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "301480091",
+        "nombre": "San José de Gracia"
+    },
+    {
+        "clave": "301480092",
+        "nombre": "Paso Naranjo Oriente"
+    },
+    {
+        "clave": "301480094",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "301480095",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "301480096",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "301480097",
+        "nombre": "Tamarindo de San Miguel"
+    },
+    {
+        "clave": "301480098",
+        "nombre": "Tamarindo Uno (Tamarindo de Conrado)"
+    },
+    {
+        "clave": "301480099",
+        "nombre": "Tamarindo Dos (Tamarindo Cerro de León)"
+    },
+    {
+        "clave": "301480100",
+        "nombre": "Tepetates"
+    },
+    {
+        "clave": "301480101",
+        "nombre": "Los Teteles"
+    },
+    {
+        "clave": "301480102",
+        "nombre": "Tizaltepec"
+    },
+    {
+        "clave": "301480103",
+        "nombre": "Tranca Negra"
+    },
+    {
+        "clave": "301480104",
+        "nombre": "Tres Higueras"
+    },
+    {
+        "clave": "301480105",
+        "nombre": "La Unión Uno"
+    },
+    {
+        "clave": "301480106",
+        "nombre": "La Unión Dos"
+    },
+    {
+        "clave": "301480110",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "301480112",
+        "nombre": "La Sábila"
+    },
+    {
+        "clave": "301480119",
+        "nombre": "Rincón de los Toros"
+    },
+    {
+        "clave": "301480120",
+        "nombre": "El Conejo (Paso de los Cedros)"
+    },
+    {
+        "clave": "301480125",
+        "nombre": "El Malinar (El Pica)"
+    },
+    {
+        "clave": "301480127",
+        "nombre": "Playa Azul (El Degollado)"
+    },
+    {
+        "clave": "301480136",
+        "nombre": "El Volcán"
+    },
+    {
+        "clave": "301480144",
+        "nombre": "Rincón del Toro"
+    },
+    {
+        "clave": "301480146",
+        "nombre": "Paso Trujillo"
+    },
+    {
+        "clave": "301480152",
+        "nombre": "La Pista"
+    },
+    {
+        "clave": "301480168",
+        "nombre": "Mata Novillo"
+    },
+    {
+        "clave": "301480192",
+        "nombre": "Colonia Flores"
+    },
+    {
+        "clave": "301480001",
+        "nombre": "Soledad de Doblado"
+    },
+    {
+        "clave": "301480003",
+        "nombre": "Altamira"
+    },
+    {
+        "clave": "301480004",
+        "nombre": "La Angostura"
+    },
+    {
+        "clave": "301480007",
+        "nombre": "La Burrera"
+    },
+    {
+        "clave": "301480009",
+        "nombre": "El Copite"
+    },
+    {
+        "clave": "301480011",
+        "nombre": "Cuatro Caminos"
+    },
+    {
+        "clave": "301480014",
+        "nombre": "El Diamante"
+    },
+    {
+        "clave": "301480017",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "301480020",
+        "nombre": "La Finca"
+    },
+    {
+        "clave": "301480027",
+        "nombre": "La Jacaranda"
+    },
+    {
+        "clave": "301480029",
+        "nombre": "Colonia José Cardel"
+    },
+    {
+        "clave": "301480036",
+        "nombre": "Loma Triste"
+    },
+    {
+        "clave": "301480043",
+        "nombre": "Mata del Gallo"
+    },
+    {
+        "clave": "301480045",
+        "nombre": "Mata Higuera"
+    },
+    {
+        "clave": "301480051",
+        "nombre": "Las Minas"
+    },
+    {
+        "clave": "301480052",
+        "nombre": "Mirador de Malibrán"
+    },
+    {
+        "clave": "301480056",
+        "nombre": "Oaxaquilla"
+    },
+    {
+        "clave": "301480060",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "301480062",
+        "nombre": "Paso Achote"
+    },
+    {
+        "clave": "301480068",
+        "nombre": "Paso de los Cedros"
+    },
+    {
+        "clave": "301480069",
+        "nombre": "Paso María Hernández"
+    },
+    {
+        "clave": "301480074",
+        "nombre": "El Pensamiento"
+    },
+    {
+        "clave": "301480075",
+        "nombre": "La Perla"
+    },
+    {
+        "clave": "301480077",
+        "nombre": "Los Portales"
+    },
+    {
+        "clave": "301480089",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "301480093",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "301480107",
+        "nombre": "Vacas Gordas"
+    },
+    {
+        "clave": "301480108",
+        "nombre": "Valladolid"
+    },
+    {
+        "clave": "301480109",
+        "nombre": "Loma del Vigía"
+    },
+    {
+        "clave": "301480111",
+        "nombre": "Vista Hermosa Sur"
+    },
+    {
+        "clave": "301480114",
+        "nombre": "Mata Bejuco"
+    },
+    {
+        "clave": "301480115",
+        "nombre": "El Moreno"
+    },
+    {
+        "clave": "301480117",
+        "nombre": "Hermanos de Diego"
+    },
+    {
+        "clave": "301480122",
+        "nombre": "El Pingüino"
+    },
+    {
+        "clave": "301480128",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "301480135",
+        "nombre": "La Campera (Los Pozos)"
+    },
+    {
+        "clave": "301480138",
+        "nombre": "Camino de Luz y Esperanza"
+    },
+    {
+        "clave": "301480139",
+        "nombre": "El Balajú"
+    },
+    {
+        "clave": "301480140",
+        "nombre": "Dicha del Coyote"
+    },
+    {
+        "clave": "301480141",
+        "nombre": "Huentitlán"
+    },
+    {
+        "clave": "301480143",
+        "nombre": "El Chaparral"
+    },
+    {
+        "clave": "301480145",
+        "nombre": "El Cristo (El Vado)"
+    },
+    {
+        "clave": "301480147",
+        "nombre": "Mirador de Mata Redonda"
+    },
+    {
+        "clave": "301480148",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "301480149",
+        "nombre": "La Perlita"
+    },
+    {
+        "clave": "301480150",
+        "nombre": "Tiolinga"
+    },
+    {
+        "clave": "301480153",
+        "nombre": "Loma Clara"
+    },
+    {
+        "clave": "301480155",
+        "nombre": "El Cedro"
+    },
+    {
+        "clave": "301480157",
+        "nombre": "Ventura"
+    },
+    {
+        "clave": "301480158",
+        "nombre": "Paso Trujillo"
+    },
+    {
+        "clave": "301480169",
+        "nombre": "La Margarita"
+    },
+    {
+        "clave": "301480170",
+        "nombre": "Félix Paredes Colorado (Los Pozos)"
+    },
+    {
+        "clave": "301480171",
+        "nombre": "Gramo de Oro"
+    },
+    {
+        "clave": "301480172",
+        "nombre": "Mi Retiro"
+    },
+    {
+        "clave": "301480173",
+        "nombre": "Guillermo Naranjo"
+    },
+    {
+        "clave": "301480174",
+        "nombre": "El Huatusquito"
+    },
+    {
+        "clave": "301480176",
+        "nombre": "Mata Copite"
+    },
+    {
+        "clave": "301480177",
+        "nombre": "Jorge Malpica Enríquez (El Polvorín)"
+    },
+    {
+        "clave": "301480178",
+        "nombre": "Nuevo Silva"
+    },
+    {
+        "clave": "301480179",
+        "nombre": "El Organito"
+    },
+    {
+        "clave": "301480180",
+        "nombre": "Paso Carrera el Jagüey"
+    },
+    {
+        "clave": "301480182",
+        "nombre": "Las Potrancas"
+    },
+    {
+        "clave": "301480184",
+        "nombre": "Rincón Sabroso"
+    },
+    {
+        "clave": "301480186",
+        "nombre": "El Retiro de la Mendoza"
+    },
+    {
+        "clave": "301480187",
+        "nombre": "Tres Estrellas"
+    },
+    {
+        "clave": "301480188",
+        "nombre": "Jardines de la Soledad [Unidad Habitacional]"
+    },
+    {
+        "clave": "301480189",
+        "nombre": "La Victoria"
+    },
+    {
+        "clave": "301480193",
+        "nombre": "David Yerena"
+    },
+    {
+        "clave": "301480194",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "301480200",
+        "nombre": "Puente Nuevo"
+    },
+    {
+        "clave": "301480201",
+        "nombre": "La Cabaña"
+    },
+    {
+        "clave": "301480203",
+        "nombre": "Fernando Montero"
+    },
+    {
+        "clave": "301480204",
+        "nombre": "Joaquín Moreno"
+    },
+    {
+        "clave": "301480205",
+        "nombre": "José Grajales"
+    },
+    {
+        "clave": "301480206",
+        "nombre": "Mario Montero"
+    },
+    {
+        "clave": "301480207",
+        "nombre": "Trinidad nava"
+    },
+    {
+        "clave": "301480208",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "301480209",
+        "nombre": "Colonia Paso Pedregoso"
+    },
+    {
+        "clave": "301480210",
+        "nombre": "Miguel Fadul"
+    },
+    {
+        "clave": "301480211",
+        "nombre": "Piedra del Indio"
+    },
+    {
+        "clave": "301480212",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "301480213",
+        "nombre": "Bachoco"
+    },
+    {
+        "clave": "301480214",
+        "nombre": "Cuatro Caminos"
+    },
+    {
+        "clave": "301480215",
+        "nombre": "Paso Cabra"
+    },
+    {
+        "clave": "301480216",
+        "nombre": "El Oeste"
+    },
+    {
+        "clave": "301480217",
+        "nombre": "Soledad Dos"
+    },
+    {
+        "clave": "301480218",
+        "nombre": "Soledad Tres"
+    },
+    {
+        "clave": "301480219",
+        "nombre": "El Organito"
+    }
+]

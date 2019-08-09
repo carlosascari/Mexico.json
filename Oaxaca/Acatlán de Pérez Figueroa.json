@@ -1,0 +1,754 @@
+[
+    {
+        "clave": "200020002",
+        "nombre": "Agua Escondida (Joya Honda)"
+    },
+    {
+        "clave": "200020016",
+        "nombre": "La Estrella"
+    },
+    {
+        "clave": "200020024",
+        "nombre": "La Michuca"
+    },
+    {
+        "clave": "200020046",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "200020054",
+        "nombre": "Sierra Mojarra"
+    },
+    {
+        "clave": "200020059",
+        "nombre": "Cerro las Águilas"
+    },
+    {
+        "clave": "200020067",
+        "nombre": "Campo Chico"
+    },
+    {
+        "clave": "200020071",
+        "nombre": "La Cotorra"
+    },
+    {
+        "clave": "200020080",
+        "nombre": "Lindero"
+    },
+    {
+        "clave": "200020081",
+        "nombre": "Los Lirios"
+    },
+    {
+        "clave": "200020089",
+        "nombre": "Josefa Ortiz de Domínguez (La Josefita)"
+    },
+    {
+        "clave": "200020099",
+        "nombre": "Los Reyes"
+    },
+    {
+        "clave": "200020100",
+        "nombre": "Saltillo"
+    },
+    {
+        "clave": "200020101",
+        "nombre": "San Antonio Uno"
+    },
+    {
+        "clave": "200020109",
+        "nombre": "Cerro Castillo"
+    },
+    {
+        "clave": "200020114",
+        "nombre": "Monte Alto"
+    },
+    {
+        "clave": "200020122",
+        "nombre": "San Evaristo"
+    },
+    {
+        "clave": "200020128",
+        "nombre": "Las Casitas"
+    },
+    {
+        "clave": "200020131",
+        "nombre": "El Setenta y Dos"
+    },
+    {
+        "clave": "200020146",
+        "nombre": "San Antonio Dos"
+    },
+    {
+        "clave": "200020147",
+        "nombre": "Peña Blanca"
+    },
+    {
+        "clave": "200020148",
+        "nombre": "Plan de Ayala"
+    },
+    {
+        "clave": "200020150",
+        "nombre": "El Agostadero"
+    },
+    {
+        "clave": "200020162",
+        "nombre": "La Candelaria"
+    },
+    {
+        "clave": "200020174",
+        "nombre": "Esperanza Madero"
+    },
+    {
+        "clave": "200020183",
+        "nombre": "Los Cañas (Tres Potencias)"
+    },
+    {
+        "clave": "200020184",
+        "nombre": "Colonia Vicente García"
+    },
+    {
+        "clave": "200020189",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "200020201",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "200020202",
+        "nombre": "Los Trapiches"
+    },
+    {
+        "clave": "200020219",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "200020227",
+        "nombre": "Palma Cuata"
+    },
+    {
+        "clave": "200020001",
+        "nombre": "Acatlán de Pérez Figueroa"
+    },
+    {
+        "clave": "200020003",
+        "nombre": "Arroyo de Enmedio"
+    },
+    {
+        "clave": "200020004",
+        "nombre": "Arroyo de Pita"
+    },
+    {
+        "clave": "200020005",
+        "nombre": "Aserradero Segundo"
+    },
+    {
+        "clave": "200020006",
+        "nombre": "Barbasco"
+    },
+    {
+        "clave": "200020007",
+        "nombre": "Cañada San Antonio"
+    },
+    {
+        "clave": "200020008",
+        "nombre": "Cañamazal"
+    },
+    {
+        "clave": "200020009",
+        "nombre": "La Carbonera"
+    },
+    {
+        "clave": "200020011",
+        "nombre": "El Cedral"
+    },
+    {
+        "clave": "200020012",
+        "nombre": "Cerro Mojarra"
+    },
+    {
+        "clave": "200020013",
+        "nombre": "Cosolapa Sarmiento"
+    },
+    {
+        "clave": "200020015",
+        "nombre": "Esperanza"
+    },
+    {
+        "clave": "200020017",
+        "nombre": "Guadalupe de los Reyes"
+    },
+    {
+        "clave": "200020018",
+        "nombre": "La Isleta"
+    },
+    {
+        "clave": "200020019",
+        "nombre": "Joliette"
+    },
+    {
+        "clave": "200020020",
+        "nombre": "La Junta"
+    },
+    {
+        "clave": "200020022",
+        "nombre": "Las Maravillas"
+    },
+    {
+        "clave": "200020026",
+        "nombre": "Ojo de Agua o Palma Cuata"
+    },
+    {
+        "clave": "200020027",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "200020028",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "200020029",
+        "nombre": "Rancho Grande"
+    },
+    {
+        "clave": "200020030",
+        "nombre": "La Raya"
+    },
+    {
+        "clave": "200020031",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "200020032",
+        "nombre": "La Tabaquera"
+    },
+    {
+        "clave": "200020033",
+        "nombre": "Tembladera del Castillo"
+    },
+    {
+        "clave": "200020036",
+        "nombre": "Tembladera Vista Hermosa"
+    },
+    {
+        "clave": "200020037",
+        "nombre": "Tetela"
+    },
+    {
+        "clave": "200020038",
+        "nombre": "Torreón"
+    },
+    {
+        "clave": "200020041",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "200020045",
+        "nombre": "El Conejo"
+    },
+    {
+        "clave": "200020047",
+        "nombre": "Los Corrales"
+    },
+    {
+        "clave": "200020049",
+        "nombre": "Tembladera de la Selva 1"
+    },
+    {
+        "clave": "200020051",
+        "nombre": "Tembladera de la Selva 2"
+    },
+    {
+        "clave": "200020057",
+        "nombre": "Primera Ampliación la Palma (El Viejo)"
+    },
+    {
+        "clave": "200020058",
+        "nombre": "Colonia Josefa Ortiz de Domínguez"
+    },
+    {
+        "clave": "200020061",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "200020069",
+        "nombre": "La Coraza"
+    },
+    {
+        "clave": "200020070",
+        "nombre": "Miguel Hidalgo"
+    },
+    {
+        "clave": "200020077",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "200020078",
+        "nombre": "Los Almendros"
+    },
+    {
+        "clave": "200020092",
+        "nombre": "Palo Solo"
+    },
+    {
+        "clave": "200020107",
+        "nombre": "El Nanche"
+    },
+    {
+        "clave": "200020110",
+        "nombre": "Aserradero"
+    },
+    {
+        "clave": "200020116",
+        "nombre": "Laguna Verde"
+    },
+    {
+        "clave": "200020117",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "200020118",
+        "nombre": "Estancia de Vacas"
+    },
+    {
+        "clave": "200020119",
+        "nombre": "Zona Urbana Ejidal"
+    },
+    {
+        "clave": "200020120",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "200020129",
+        "nombre": "El Cedro"
+    },
+    {
+        "clave": "200020130",
+        "nombre": "San Francisco (El Trapiche)"
+    },
+    {
+        "clave": "200020136",
+        "nombre": "Emiliano Zapata (Colonia 21 de Mayo)"
+    },
+    {
+        "clave": "200020137",
+        "nombre": "Los Vírgenes"
+    },
+    {
+        "clave": "200020142",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "200020206",
+        "nombre": "El Nacimiento"
+    },
+    {
+        "clave": "200020208",
+        "nombre": "Rancho Hernández"
+    },
+    {
+        "clave": "200020230",
+        "nombre": "Los Lara [Rancho]"
+    },
+    {
+        "clave": "200020010",
+        "nombre": "El Carmen (Rancho de los Montiel)"
+    },
+    {
+        "clave": "200020014",
+        "nombre": "La Defensa"
+    },
+    {
+        "clave": "200020039",
+        "nombre": "Vicente Camalote"
+    },
+    {
+        "clave": "200020040",
+        "nombre": "Cobagar"
+    },
+    {
+        "clave": "200020042",
+        "nombre": "La Merced"
+    },
+    {
+        "clave": "200020063",
+        "nombre": "Las Anonas"
+    },
+    {
+        "clave": "200020064",
+        "nombre": "El Azufre"
+    },
+    {
+        "clave": "200020066",
+        "nombre": "Las Cadenas"
+    },
+    {
+        "clave": "200020068",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "200020072",
+        "nombre": "La Cruz"
+    },
+    {
+        "clave": "200020073",
+        "nombre": "La Cuchilla"
+    },
+    {
+        "clave": "200020074",
+        "nombre": "El Dorado"
+    },
+    {
+        "clave": "200020079",
+        "nombre": "El Limón Uno"
+    },
+    {
+        "clave": "200020082",
+        "nombre": "Macahua"
+    },
+    {
+        "clave": "200020083",
+        "nombre": "Los Mangos"
+    },
+    {
+        "clave": "200020084",
+        "nombre": "Maravillas"
+    },
+    {
+        "clave": "200020090",
+        "nombre": "Los Ojochales"
+    },
+    {
+        "clave": "200020094",
+        "nombre": "El Peñón"
+    },
+    {
+        "clave": "200020095",
+        "nombre": "El Alacrán"
+    },
+    {
+        "clave": "200020098",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "200020102",
+        "nombre": "San Eduardo"
+    },
+    {
+        "clave": "200020103",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "200020108",
+        "nombre": "Bonito"
+    },
+    {
+        "clave": "200020111",
+        "nombre": "La Sabaneta"
+    },
+    {
+        "clave": "200020113",
+        "nombre": "Rancho de Oro"
+    },
+    {
+        "clave": "200020115",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "200020121",
+        "nombre": "El Uvero"
+    },
+    {
+        "clave": "200020123",
+        "nombre": "Santo Tomás"
+    },
+    {
+        "clave": "200020124",
+        "nombre": "San Felipe de Jesús"
+    },
+    {
+        "clave": "200020125",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "200020126",
+        "nombre": "Santa Mónica"
+    },
+    {
+        "clave": "200020127",
+        "nombre": "El Tigre"
+    },
+    {
+        "clave": "200020132",
+        "nombre": "Rancho López"
+    },
+    {
+        "clave": "200020134",
+        "nombre": "La Ogada"
+    },
+    {
+        "clave": "200020135",
+        "nombre": "Los Manantiales"
+    },
+    {
+        "clave": "200020138",
+        "nombre": "El Esfuerzo"
+    },
+    {
+        "clave": "200020139",
+        "nombre": "El Crucero"
+    },
+    {
+        "clave": "200020141",
+        "nombre": "Palma Vieja"
+    },
+    {
+        "clave": "200020143",
+        "nombre": "El Ciégano"
+    },
+    {
+        "clave": "200020144",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "200020145",
+        "nombre": "El Arbolito"
+    },
+    {
+        "clave": "200020152",
+        "nombre": "La Higuera (Las Higueras)"
+    },
+    {
+        "clave": "200020153",
+        "nombre": "El Nanche"
+    },
+    {
+        "clave": "200020154",
+        "nombre": "Santa Teresita"
+    },
+    {
+        "clave": "200020155",
+        "nombre": "La Fortunita"
+    },
+    {
+        "clave": "200020157",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "200020159",
+        "nombre": "Argentina"
+    },
+    {
+        "clave": "200020160",
+        "nombre": "Campo Grande"
+    },
+    {
+        "clave": "200020161",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "200020163",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "200020164",
+        "nombre": "Doña Rufina (El Mirador)"
+    },
+    {
+        "clave": "200020165",
+        "nombre": "La Concepción"
+    },
+    {
+        "clave": "200020167",
+        "nombre": "Santiago Cibrián"
+    },
+    {
+        "clave": "200020168",
+        "nombre": "Rancho Ramírez"
+    },
+    {
+        "clave": "200020169",
+        "nombre": "Rancho Cañón"
+    },
+    {
+        "clave": "200020170",
+        "nombre": "Rancho Pavón"
+    },
+    {
+        "clave": "200020172",
+        "nombre": "Rancho Tetela (Parada los Mangos)"
+    },
+    {
+        "clave": "200020175",
+        "nombre": "Mundo Nuevo"
+    },
+    {
+        "clave": "200020176",
+        "nombre": "Paso Pascual"
+    },
+    {
+        "clave": "200020177",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "200020182",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "200020185",
+        "nombre": "Los Encinos (El Limón Dos)"
+    },
+    {
+        "clave": "200020186",
+        "nombre": "La Galera"
+    },
+    {
+        "clave": "200020187",
+        "nombre": "Garza Blanca"
+    },
+    {
+        "clave": "200020188",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "200020190",
+        "nombre": "Julián González Soriano"
+    },
+    {
+        "clave": "200020191",
+        "nombre": "Manantiales Dos"
+    },
+    {
+        "clave": "200020192",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "200020193",
+        "nombre": "El Naranjal"
+    },
+    {
+        "clave": "200020194",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "200020195",
+        "nombre": "La Parcela"
+    },
+    {
+        "clave": "200020196",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "200020197",
+        "nombre": "Rancho Charito"
+    },
+    {
+        "clave": "200020198",
+        "nombre": "Estancia de Vacas"
+    },
+    {
+        "clave": "200020199",
+        "nombre": "Los Rodríguez"
+    },
+    {
+        "clave": "200020200",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "200020203",
+        "nombre": "Los Arados"
+    },
+    {
+        "clave": "200020204",
+        "nombre": "Comitancillo Libre"
+    },
+    {
+        "clave": "200020205",
+        "nombre": "Rancho Cortez Lozano"
+    },
+    {
+        "clave": "200020207",
+        "nombre": "Rancho Cuatro Vientos"
+    },
+    {
+        "clave": "200020209",
+        "nombre": "Colonia Benito Zapata"
+    },
+    {
+        "clave": "200020210",
+        "nombre": "Los Huertos [Fraccionamiento]"
+    },
+    {
+        "clave": "200020211",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "200020213",
+        "nombre": "Los Encinos"
+    },
+    {
+        "clave": "200020215",
+        "nombre": "Desviación a la Palma"
+    },
+    {
+        "clave": "200020216",
+        "nombre": "Las Tres Marías"
+    },
+    {
+        "clave": "200020217",
+        "nombre": "Los Torres"
+    },
+    {
+        "clave": "200020218",
+        "nombre": "Rancho Arco"
+    },
+    {
+        "clave": "200020221",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "200020222",
+        "nombre": "Los López [Rancho]"
+    },
+    {
+        "clave": "200020223",
+        "nombre": "Los Caracoles"
+    },
+    {
+        "clave": "200020224",
+        "nombre": "La Herencia"
+    },
+    {
+        "clave": "200020225",
+        "nombre": "Loma de Azures"
+    },
+    {
+        "clave": "200020226",
+        "nombre": "La Magdalena"
+    },
+    {
+        "clave": "200020228",
+        "nombre": "Paso Limón"
+    },
+    {
+        "clave": "200020229",
+        "nombre": "La Loma [Rancho]"
+    },
+    {
+        "clave": "200020231",
+        "nombre": "Rancho Matías Virgen Virgen"
+    },
+    {
+        "clave": "200020232",
+        "nombre": "San Antonio [Rancho]"
+    },
+    {
+        "clave": "200020233",
+        "nombre": "Santa Teresita"
+    },
+    {
+        "clave": "200020234",
+        "nombre": "Santo Domingo"
+    }
+]

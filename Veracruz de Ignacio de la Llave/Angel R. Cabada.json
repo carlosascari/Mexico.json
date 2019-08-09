@@ -1,0 +1,986 @@
+[
+    {
+        "clave": "300150026",
+        "nombre": "Rincón Rasposo"
+    },
+    {
+        "clave": "300150028",
+        "nombre": "Santa Margarita"
+    },
+    {
+        "clave": "300150029",
+        "nombre": "Plan del Carrizal"
+    },
+    {
+        "clave": "300150031",
+        "nombre": "Santana"
+    },
+    {
+        "clave": "300150032",
+        "nombre": "La Esmeralda"
+    },
+    {
+        "clave": "300150034",
+        "nombre": "El Seno"
+    },
+    {
+        "clave": "300150036",
+        "nombre": "San Francisco los Cocos"
+    },
+    {
+        "clave": "300150054",
+        "nombre": "Tulapa de Abajo"
+    },
+    {
+        "clave": "300150065",
+        "nombre": "La Alianza"
+    },
+    {
+        "clave": "300150066",
+        "nombre": "Chancarrito de Arriba"
+    },
+    {
+        "clave": "300150072",
+        "nombre": "Puerto Rico"
+    },
+    {
+        "clave": "300150076",
+        "nombre": "Los Tablones"
+    },
+    {
+        "clave": "300150080",
+        "nombre": "El Jobo"
+    },
+    {
+        "clave": "300150082",
+        "nombre": "Santa Elena (Pan Viejo)"
+    },
+    {
+        "clave": "300150084",
+        "nombre": "Laguna el Mogo"
+    },
+    {
+        "clave": "300150090",
+        "nombre": "La Sierra"
+    },
+    {
+        "clave": "300150092",
+        "nombre": "Nacimiento del Zapotal (Colonia Francisco I. Madero)"
+    },
+    {
+        "clave": "300150107",
+        "nombre": "Arroyo Grande de Arriba (Colonia Francisco I. Madero)"
+    },
+    {
+        "clave": "300150117",
+        "nombre": "La Barra (Río de Caña)"
+    },
+    {
+        "clave": "300150118",
+        "nombre": "Cacahuatal"
+    },
+    {
+        "clave": "300150131",
+        "nombre": "La Laja Dos (San Rafael)"
+    },
+    {
+        "clave": "300150134",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "300150141",
+        "nombre": "La Puntilla"
+    },
+    {
+        "clave": "300150171",
+        "nombre": "Los Cuates"
+    },
+    {
+        "clave": "300150194",
+        "nombre": "Paso del Tigre"
+    },
+    {
+        "clave": "300150209",
+        "nombre": "Santa Bárbara"
+    },
+    {
+        "clave": "300150219",
+        "nombre": "Los Cazarines"
+    },
+    {
+        "clave": "300150241",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "300150244",
+        "nombre": "El Trapiche"
+    },
+    {
+        "clave": "300150255",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "300150259",
+        "nombre": "La Laja Uno"
+    },
+    {
+        "clave": "300150260",
+        "nombre": "Enrique López Huitrón (Colonia Huitrón)"
+    },
+    {
+        "clave": "300150277",
+        "nombre": "Colonia Artículo Veintisiete"
+    },
+    {
+        "clave": "300150280",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "300150305",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "300150002",
+        "nombre": "Brazo de la Palma (El Rincón Caliente)"
+    },
+    {
+        "clave": "300150003",
+        "nombre": "El Escobillal"
+    },
+    {
+        "clave": "300150004",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "300150007",
+        "nombre": "Ixhuapan"
+    },
+    {
+        "clave": "300150008",
+        "nombre": "Laguna Colorada (Anexo Plan de los Naranjos)"
+    },
+    {
+        "clave": "300150009",
+        "nombre": "Laguna de Majahual (Río de Cañas)"
+    },
+    {
+        "clave": "300150010",
+        "nombre": "Laguna Verde (La Esperanza)"
+    },
+    {
+        "clave": "300150011",
+        "nombre": "Los Lirios"
+    },
+    {
+        "clave": "300150013",
+        "nombre": "La Mojarra"
+    },
+    {
+        "clave": "300150014",
+        "nombre": "El Panatlán"
+    },
+    {
+        "clave": "300150015",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "300150017",
+        "nombre": "Plan de los Naranjos"
+    },
+    {
+        "clave": "300150018",
+        "nombre": "Los Planes"
+    },
+    {
+        "clave": "300150020",
+        "nombre": "El Progreso Majahual"
+    },
+    {
+        "clave": "300150021",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "300150022",
+        "nombre": "El Saltillo Caracolar"
+    },
+    {
+        "clave": "300150025",
+        "nombre": "Zanja Grande de Abajo"
+    },
+    {
+        "clave": "300150038",
+        "nombre": "La Sardina"
+    },
+    {
+        "clave": "300150042",
+        "nombre": "San Juan de los Reyes (Luis Valenzuela)"
+    },
+    {
+        "clave": "300150044",
+        "nombre": "El Zapotal"
+    },
+    {
+        "clave": "300150057",
+        "nombre": "Caña Amarilla"
+    },
+    {
+        "clave": "300150058",
+        "nombre": "La Mulata"
+    },
+    {
+        "clave": "300150059",
+        "nombre": "Tulapilla (Ejido Tulapilla)"
+    },
+    {
+        "clave": "300150061",
+        "nombre": "Zanja Tigrera"
+    },
+    {
+        "clave": "300150062",
+        "nombre": "Cinapa de Arriba"
+    },
+    {
+        "clave": "300150064",
+        "nombre": "Cinapa de Abajo"
+    },
+    {
+        "clave": "300150069",
+        "nombre": "Chonegal"
+    },
+    {
+        "clave": "300150077",
+        "nombre": "Chimalpay"
+    },
+    {
+        "clave": "300150078",
+        "nombre": "El Trópico"
+    },
+    {
+        "clave": "300150079",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "300150085",
+        "nombre": "Cerro Prieto"
+    },
+    {
+        "clave": "300150086",
+        "nombre": "Pechapan"
+    },
+    {
+        "clave": "300150089",
+        "nombre": "Puerta Negra"
+    },
+    {
+        "clave": "300150095",
+        "nombre": "El Pital"
+    },
+    {
+        "clave": "300150096",
+        "nombre": "Laguna del Marquez"
+    },
+    {
+        "clave": "300150101",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "300150110",
+        "nombre": "Suchapan"
+    },
+    {
+        "clave": "300150122",
+        "nombre": "El Capulinar"
+    },
+    {
+        "clave": "300150130",
+        "nombre": "El Jobo"
+    },
+    {
+        "clave": "300150135",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "300150143",
+        "nombre": "La Rinconada"
+    },
+    {
+        "clave": "300150144",
+        "nombre": "Saltillo"
+    },
+    {
+        "clave": "300150147",
+        "nombre": "Hermanos Vergara"
+    },
+    {
+        "clave": "300150148",
+        "nombre": "La Yagua"
+    },
+    {
+        "clave": "300150149",
+        "nombre": "Zanja Grande de Arriba"
+    },
+    {
+        "clave": "300150156",
+        "nombre": "Colonia Francisco I. Madero"
+    },
+    {
+        "clave": "300150158",
+        "nombre": "Mata de Caña"
+    },
+    {
+        "clave": "300150165",
+        "nombre": "Laguna Colorada (Anexo a los Lirios)"
+    },
+    {
+        "clave": "300150166",
+        "nombre": "Arroyo Grande de Abajo"
+    },
+    {
+        "clave": "300150168",
+        "nombre": "El Caracolar"
+    },
+    {
+        "clave": "300150169",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "300150170",
+        "nombre": "Paraíso Escondido"
+    },
+    {
+        "clave": "300150188",
+        "nombre": "Los Manguitos"
+    },
+    {
+        "clave": "300150217",
+        "nombre": "La Fortaleza"
+    },
+    {
+        "clave": "300150220",
+        "nombre": "La Zamaria"
+    },
+    {
+        "clave": "300150231",
+        "nombre": "La Florida [Balneario]"
+    },
+    {
+        "clave": "300150238",
+        "nombre": "La Gloria (Casimiro Mendoza)"
+    },
+    {
+        "clave": "300150240",
+        "nombre": "El Oasis"
+    },
+    {
+        "clave": "300150284",
+        "nombre": "Ejido Ángel R. Cabada"
+    },
+    {
+        "clave": "300150304",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "300150001",
+        "nombre": "Ángel R. Cabada"
+    },
+    {
+        "clave": "300150005",
+        "nombre": "La Florida"
+    },
+    {
+        "clave": "300150006",
+        "nombre": "Paso del Ingenio"
+    },
+    {
+        "clave": "300150016",
+        "nombre": "La Perla de Michapan"
+    },
+    {
+        "clave": "300150019",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "300150023",
+        "nombre": "Tecolapan"
+    },
+    {
+        "clave": "300150024",
+        "nombre": "Tula"
+    },
+    {
+        "clave": "300150030",
+        "nombre": "Los Pocitos"
+    },
+    {
+        "clave": "300150045",
+        "nombre": "La Piedra"
+    },
+    {
+        "clave": "300150046",
+        "nombre": "El Majahual"
+    },
+    {
+        "clave": "300150052",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "300150055",
+        "nombre": "Tulapa Grande"
+    },
+    {
+        "clave": "300150067",
+        "nombre": "Chancarrito de Abajo (La Esmeralda)"
+    },
+    {
+        "clave": "300150070",
+        "nombre": "Los Laureles"
+    },
+    {
+        "clave": "300150073",
+        "nombre": "Pancho López"
+    },
+    {
+        "clave": "300150074",
+        "nombre": "Ampliación Colonia Francisco I. Madero"
+    },
+    {
+        "clave": "300150083",
+        "nombre": "Los Clarines"
+    },
+    {
+        "clave": "300150091",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "300150093",
+        "nombre": "Severo García (Los Pinos)"
+    },
+    {
+        "clave": "300150099",
+        "nombre": "Mata de Caña"
+    },
+    {
+        "clave": "300150102",
+        "nombre": "Matabasta"
+    },
+    {
+        "clave": "300150108",
+        "nombre": "Banco de Laja"
+    },
+    {
+        "clave": "300150109",
+        "nombre": "El Trapiche"
+    },
+    {
+        "clave": "300150111",
+        "nombre": "Mazapa"
+    },
+    {
+        "clave": "300150114",
+        "nombre": "San Martín de Porres"
+    },
+    {
+        "clave": "300150116",
+        "nombre": "Archom (El Aviador)"
+    },
+    {
+        "clave": "300150119",
+        "nombre": "California"
+    },
+    {
+        "clave": "300150121",
+        "nombre": "La Candelaria"
+    },
+    {
+        "clave": "300150123",
+        "nombre": "Huitrón"
+    },
+    {
+        "clave": "300150124",
+        "nombre": "Coronel (Rancho de Cinco Hermanos)"
+    },
+    {
+        "clave": "300150126",
+        "nombre": "Las Bombas"
+    },
+    {
+        "clave": "300150128",
+        "nombre": "La Fernandeña"
+    },
+    {
+        "clave": "300150132",
+        "nombre": "Los Mangos"
+    },
+    {
+        "clave": "300150133",
+        "nombre": "Michapan"
+    },
+    {
+        "clave": "300150138",
+        "nombre": "Pedregal"
+    },
+    {
+        "clave": "300150139",
+        "nombre": "La Poza del Rifle"
+    },
+    {
+        "clave": "300150140",
+        "nombre": "Punta Brava"
+    },
+    {
+        "clave": "300150142",
+        "nombre": "Rancho de Jacinta Amor Rascon"
+    },
+    {
+        "clave": "300150145",
+        "nombre": "San José de Lázaro"
+    },
+    {
+        "clave": "300150146",
+        "nombre": "El Sufrido"
+    },
+    {
+        "clave": "300150160",
+        "nombre": "Fomperosa"
+    },
+    {
+        "clave": "300150161",
+        "nombre": "Rancho Ventura Canela"
+    },
+    {
+        "clave": "300150162",
+        "nombre": "Rancho Sosa"
+    },
+    {
+        "clave": "300150163",
+        "nombre": "Rosendo Rodríguez Arroniz"
+    },
+    {
+        "clave": "300150164",
+        "nombre": "Ángel Gutiérrez Alejo"
+    },
+    {
+        "clave": "300150167",
+        "nombre": "La Puente"
+    },
+    {
+        "clave": "300150172",
+        "nombre": "Chiconamel"
+    },
+    {
+        "clave": "300150173",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "300150174",
+        "nombre": "Predio el Porvenir"
+    },
+    {
+        "clave": "300150175",
+        "nombre": "Ampliación de Arroyo del Pan"
+    },
+    {
+        "clave": "300150176",
+        "nombre": "Jaime Malpica"
+    },
+    {
+        "clave": "300150178",
+        "nombre": "La Isla"
+    },
+    {
+        "clave": "300150179",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "300150180",
+        "nombre": "Israel Delgado (El Saltillo)"
+    },
+    {
+        "clave": "300150182",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "300150183",
+        "nombre": "Los Pinos (Ernestina González)"
+    },
+    {
+        "clave": "300150184",
+        "nombre": "Marruan (Mario Domínguez)"
+    },
+    {
+        "clave": "300150186",
+        "nombre": "El Palmar (Alejandro Barrán)"
+    },
+    {
+        "clave": "300150187",
+        "nombre": "Las Tembladeras"
+    },
+    {
+        "clave": "300150189",
+        "nombre": "La Guadalupana"
+    },
+    {
+        "clave": "300150190",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "300150191",
+        "nombre": "Arroyo del Pan"
+    },
+    {
+        "clave": "300150192",
+        "nombre": "La Carmelita"
+    },
+    {
+        "clave": "300150193",
+        "nombre": "La Hacienda (Severo García)"
+    },
+    {
+        "clave": "300150195",
+        "nombre": "El Amatal"
+    },
+    {
+        "clave": "300150196",
+        "nombre": "San Rafael (Rafael Cazarín)"
+    },
+    {
+        "clave": "300150197",
+        "nombre": "Víctor Ochoa"
+    },
+    {
+        "clave": "300150198",
+        "nombre": "Arroyo Tulapilla"
+    },
+    {
+        "clave": "300150199",
+        "nombre": "Gontrán Hernández"
+    },
+    {
+        "clave": "300150200",
+        "nombre": "Crucero del Paraíso"
+    },
+    {
+        "clave": "300150201",
+        "nombre": "Los Botes"
+    },
+    {
+        "clave": "300150202",
+        "nombre": "Los González (Chico González)"
+    },
+    {
+        "clave": "300150203",
+        "nombre": "Miguel Morales"
+    },
+    {
+        "clave": "300150204",
+        "nombre": "Rubelio Hernández"
+    },
+    {
+        "clave": "300150205",
+        "nombre": "Fomperosa Romero"
+    },
+    {
+        "clave": "300150206",
+        "nombre": "Mata de Caña (Rubén Lagunes)"
+    },
+    {
+        "clave": "300150207",
+        "nombre": "La Potranca"
+    },
+    {
+        "clave": "300150208",
+        "nombre": "Tulapa"
+    },
+    {
+        "clave": "300150210",
+        "nombre": "Álvaro Silva Luna"
+    },
+    {
+        "clave": "300150211",
+        "nombre": "La Guadalupana (Genaro Cazarín)"
+    },
+    {
+        "clave": "300150212",
+        "nombre": "Santo Sábado"
+    },
+    {
+        "clave": "300150213",
+        "nombre": "Gregorio Pereda"
+    },
+    {
+        "clave": "300150214",
+        "nombre": "Los Mayorales (Justo García)"
+    },
+    {
+        "clave": "300150215",
+        "nombre": "Francisco Pereda"
+    },
+    {
+        "clave": "300150216",
+        "nombre": "El Uveral"
+    },
+    {
+        "clave": "300150218",
+        "nombre": "Roberto González"
+    },
+    {
+        "clave": "300150221",
+        "nombre": "Antonio Ramón Mimendi"
+    },
+    {
+        "clave": "300150226",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "300150227",
+        "nombre": "El Mangal"
+    },
+    {
+        "clave": "300150230",
+        "nombre": "Pereda (Jemito Pereda)"
+    },
+    {
+        "clave": "300150234",
+        "nombre": "Rancho San Luis"
+    },
+    {
+        "clave": "300150235",
+        "nombre": "El Naranjalillo"
+    },
+    {
+        "clave": "300150236",
+        "nombre": "Cinco Chorros"
+    },
+    {
+        "clave": "300150237",
+        "nombre": "Rocío [Granja]"
+    },
+    {
+        "clave": "300150239",
+        "nombre": "Rincón del Brujo"
+    },
+    {
+        "clave": "300150242",
+        "nombre": "Rancho Campechano"
+    },
+    {
+        "clave": "300150243",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "300150245",
+        "nombre": "Malpica (Las Ruedas de Carreta)"
+    },
+    {
+        "clave": "300150247",
+        "nombre": "Francisco Mulato (Bernadino Sánchez Gómez)"
+    },
+    {
+        "clave": "300150248",
+        "nombre": "Rubén Lagunes"
+    },
+    {
+        "clave": "300150249",
+        "nombre": "Altamira"
+    },
+    {
+        "clave": "300150250",
+        "nombre": "El Bejucal"
+    },
+    {
+        "clave": "300150251",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "300150252",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "300150253",
+        "nombre": "El Canelo (Gabriel García Rascon)"
+    },
+    {
+        "clave": "300150254",
+        "nombre": "La Carmelita (Candelaria Morales)"
+    },
+    {
+        "clave": "300150257",
+        "nombre": "El Duende"
+    },
+    {
+        "clave": "300150258",
+        "nombre": "Ermita"
+    },
+    {
+        "clave": "300150261",
+        "nombre": "Cinapa (Las Tres Hermanas)"
+    },
+    {
+        "clave": "300150262",
+        "nombre": "El Recuerdo"
+    },
+    {
+        "clave": "300150263",
+        "nombre": "Santa Margarita"
+    },
+    {
+        "clave": "300150264",
+        "nombre": "Efraín Gutiérrez Zapot"
+    },
+    {
+        "clave": "300150265",
+        "nombre": "Rancho Francisco Zapot"
+    },
+    {
+        "clave": "300150266",
+        "nombre": "Hermenegildo Zapot"
+    },
+    {
+        "clave": "300150267",
+        "nombre": "Los Pocitos"
+    },
+    {
+        "clave": "300150268",
+        "nombre": "Marcelo Márquez Quiala"
+    },
+    {
+        "clave": "300150269",
+        "nombre": "Nazario Méndez Aguirre (La Diabla)"
+    },
+    {
+        "clave": "300150270",
+        "nombre": "Néstor Hernández"
+    },
+    {
+        "clave": "300150271",
+        "nombre": "Pablo Hernández"
+    },
+    {
+        "clave": "300150273",
+        "nombre": "San Diego Michapan"
+    },
+    {
+        "clave": "300150274",
+        "nombre": "Santa Cecilia"
+    },
+    {
+        "clave": "300150275",
+        "nombre": "José Luis Romero"
+    },
+    {
+        "clave": "300150276",
+        "nombre": "El Yagual"
+    },
+    {
+        "clave": "300150278",
+        "nombre": "Adolfo Gabino Rojas"
+    },
+    {
+        "clave": "300150279",
+        "nombre": "Severo Ambrocio"
+    },
+    {
+        "clave": "300150281",
+        "nombre": "El Baño"
+    },
+    {
+        "clave": "300150282",
+        "nombre": "Barrio Brujo"
+    },
+    {
+        "clave": "300150285",
+        "nombre": "El Esfuerzo"
+    },
+    {
+        "clave": "300150286",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "300150287",
+        "nombre": "Isiquio Tadeo"
+    },
+    {
+        "clave": "300150288",
+        "nombre": "Las Pailas"
+    },
+    {
+        "clave": "300150289",
+        "nombre": "El Picho"
+    },
+    {
+        "clave": "300150290",
+        "nombre": "Abelardo Mendoza"
+    },
+    {
+        "clave": "300150291",
+        "nombre": "Rancho Tres"
+    },
+    {
+        "clave": "300150292",
+        "nombre": "La Reforma II"
+    },
+    {
+        "clave": "300150293",
+        "nombre": "San Diego"
+    },
+    {
+        "clave": "300150294",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "300150295",
+        "nombre": "El Uvero"
+    },
+    {
+        "clave": "300150296",
+        "nombre": "Toma de Agua"
+    },
+    {
+        "clave": "300150297",
+        "nombre": "Finca del Refugio"
+    },
+    {
+        "clave": "300150298",
+        "nombre": "El Potrerito"
+    },
+    {
+        "clave": "300150299",
+        "nombre": "El Reencuentro"
+    },
+    {
+        "clave": "300150301",
+        "nombre": "El Charrito"
+    },
+    {
+        "clave": "300150302",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "300150303",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "300150306",
+        "nombre": "Rancho Juan Canela"
+    },
+    {
+        "clave": "300150307",
+        "nombre": "Rancho Manuel Aguirre"
+    },
+    {
+        "clave": "300150308",
+        "nombre": "Rancho Zárate"
+    },
+    {
+        "clave": "300150309",
+        "nombre": "Rancho los Dos Potrillos"
+    },
+    {
+        "clave": "300150310",
+        "nombre": "Fraccionamiento los Idolos"
+    },
+    {
+        "clave": "300150311",
+        "nombre": "Balneario la Ribera del Prado"
+    }
+]

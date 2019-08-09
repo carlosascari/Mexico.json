@@ -1,0 +1,686 @@
+[
+    {
+        "clave": "140060045",
+        "nombre": "El Realito"
+    },
+    {
+        "clave": "140060022",
+        "nombre": "La Estancita"
+    },
+    {
+        "clave": "140060026",
+        "nombre": "Jayamitla (Colmenar)"
+    },
+    {
+        "clave": "140060028",
+        "nombre": "Lagunillas"
+    },
+    {
+        "clave": "140060030",
+        "nombre": "El Magistral"
+    },
+    {
+        "clave": "140060032",
+        "nombre": "Malpaso de la Pequeña"
+    },
+    {
+        "clave": "140060033",
+        "nombre": "Mesa de Ramos"
+    },
+    {
+        "clave": "140060034",
+        "nombre": "Los Morillos"
+    },
+    {
+        "clave": "140060042",
+        "nombre": "El Portezuelo"
+    },
+    {
+        "clave": "140060043",
+        "nombre": "Queixpan"
+    },
+    {
+        "clave": "140060054",
+        "nombre": "El Saucillo"
+    },
+    {
+        "clave": "140060061",
+        "nombre": "El Zoquite"
+    },
+    {
+        "clave": "140060062",
+        "nombre": "Los Hornos"
+    },
+    {
+        "clave": "140060079",
+        "nombre": "El Mono"
+    },
+    {
+        "clave": "140060085",
+        "nombre": "La Escalera"
+    },
+    {
+        "clave": "140060095",
+        "nombre": "Loma de San Javier"
+    },
+    {
+        "clave": "140060160",
+        "nombre": "Lomas de Santiago"
+    },
+    {
+        "clave": "140060001",
+        "nombre": "Ameca"
+    },
+    {
+        "clave": "140060002",
+        "nombre": "Altavista de Ramos"
+    },
+    {
+        "clave": "140060003",
+        "nombre": "Los Amiales"
+    },
+    {
+        "clave": "140060004",
+        "nombre": "El Arco"
+    },
+    {
+        "clave": "140060005",
+        "nombre": "Arroyo Hondo"
+    },
+    {
+        "clave": "140060007",
+        "nombre": "La Atrevida"
+    },
+    {
+        "clave": "140060008",
+        "nombre": "La Barranca del Cuis"
+    },
+    {
+        "clave": "140060009",
+        "nombre": "Hacienda Blanca (La Blanca)"
+    },
+    {
+        "clave": "140060010",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "140060011",
+        "nombre": "El Cabezón (El Limón)"
+    },
+    {
+        "clave": "140060012",
+        "nombre": "Caimanero (El Quelite)"
+    },
+    {
+        "clave": "140060013",
+        "nombre": "La Calera de Abajo"
+    },
+    {
+        "clave": "140060014",
+        "nombre": "La Calera de Arriba"
+    },
+    {
+        "clave": "140060015",
+        "nombre": "La Nueva Cantería (El Pochote)"
+    },
+    {
+        "clave": "140060017",
+        "nombre": "El Cerrito del Cuis"
+    },
+    {
+        "clave": "140060018",
+        "nombre": "La Coronilla"
+    },
+    {
+        "clave": "140060019",
+        "nombre": "El Cuis (El Tasajo)"
+    },
+    {
+        "clave": "140060020",
+        "nombre": "Don Martín"
+    },
+    {
+        "clave": "140060023",
+        "nombre": "Guarachilla"
+    },
+    {
+        "clave": "140060024",
+        "nombre": "La Higuera"
+    },
+    {
+        "clave": "140060025",
+        "nombre": "La Huerta de San Javier"
+    },
+    {
+        "clave": "140060027",
+        "nombre": "Labor de Solís"
+    },
+    {
+        "clave": "140060031",
+        "nombre": "Malpasito"
+    },
+    {
+        "clave": "140060036",
+        "nombre": "El Ojo de Agua"
+    },
+    {
+        "clave": "140060037",
+        "nombre": "Las Paredes"
+    },
+    {
+        "clave": "140060038",
+        "nombre": "La Pareja"
+    },
+    {
+        "clave": "140060039",
+        "nombre": "Los Pilares"
+    },
+    {
+        "clave": "140060040",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "140060041",
+        "nombre": "Los Pocitos"
+    },
+    {
+        "clave": "140060044",
+        "nombre": "Las Raíces"
+    },
+    {
+        "clave": "140060046",
+        "nombre": "El Sabino"
+    },
+    {
+        "clave": "140060047",
+        "nombre": "San Antonio Matute"
+    },
+    {
+        "clave": "140060048",
+        "nombre": "San Antonio Puerta de la Vega"
+    },
+    {
+        "clave": "140060049",
+        "nombre": "San Ignacio"
+    },
+    {
+        "clave": "140060050",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "140060051",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "140060052",
+        "nombre": "Santa María de la Huerta"
+    },
+    {
+        "clave": "140060053",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "140060057",
+        "nombre": "El Texcalame"
+    },
+    {
+        "clave": "140060058",
+        "nombre": "Villa Hermosa"
+    },
+    {
+        "clave": "140060059",
+        "nombre": "La Villita"
+    },
+    {
+        "clave": "140060060",
+        "nombre": "Zacapoaxtla"
+    },
+    {
+        "clave": "140060063",
+        "nombre": "El Brillante"
+    },
+    {
+        "clave": "140060064",
+        "nombre": "Ojo de Agua (Los Camichines)"
+    },
+    {
+        "clave": "140060065",
+        "nombre": "Rancho los Arbolitos (La Ciénega Prieta)"
+    },
+    {
+        "clave": "140060066",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "140060068",
+        "nombre": "La Laguna Seca"
+    },
+    {
+        "clave": "140060070",
+        "nombre": "El Naranjo (La Gigantera)"
+    },
+    {
+        "clave": "140060071",
+        "nombre": "Los Puentes del Cabezón"
+    },
+    {
+        "clave": "140060072",
+        "nombre": "Los Ángeles (Los Terreros)"
+    },
+    {
+        "clave": "140060073",
+        "nombre": "Crucero de San Antonio"
+    },
+    {
+        "clave": "140060075",
+        "nombre": "El Mapo"
+    },
+    {
+        "clave": "140060076",
+        "nombre": "El Texcalamito"
+    },
+    {
+        "clave": "140060077",
+        "nombre": "Los Zapotes"
+    },
+    {
+        "clave": "140060080",
+        "nombre": "Ponderosa [Granja]"
+    },
+    {
+        "clave": "140060082",
+        "nombre": "San Isidro (La Casa de Nilo)"
+    },
+    {
+        "clave": "140060083",
+        "nombre": "Los Atascaderos"
+    },
+    {
+        "clave": "140060084",
+        "nombre": "La Cañita"
+    },
+    {
+        "clave": "140060087",
+        "nombre": "Carlos Arreola"
+    },
+    {
+        "clave": "140060088",
+        "nombre": "Rancho la Galera"
+    },
+    {
+        "clave": "140060089",
+        "nombre": "Rancho el Garabato"
+    },
+    {
+        "clave": "140060091",
+        "nombre": "El Verde"
+    },
+    {
+        "clave": "140060092",
+        "nombre": "Casas Viejas (Los Amador)"
+    },
+    {
+        "clave": "140060096",
+        "nombre": "Los Camichines [Balneario la Cale]"
+    },
+    {
+        "clave": "140060097",
+        "nombre": "Adolfo Gutiérrez"
+    },
+    {
+        "clave": "140060098",
+        "nombre": "Antonia Salazar"
+    },
+    {
+        "clave": "140060099",
+        "nombre": "Antonio Rizo"
+    },
+    {
+        "clave": "140060100",
+        "nombre": "Antonio Correa"
+    },
+    {
+        "clave": "140060101",
+        "nombre": "Arroyo Grande"
+    },
+    {
+        "clave": "140060102",
+        "nombre": "Bellavista"
+    },
+    {
+        "clave": "140060103",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "140060104",
+        "nombre": "Bodega B"
+    },
+    {
+        "clave": "140060105",
+        "nombre": "La Cantería"
+    },
+    {
+        "clave": "140060106",
+        "nombre": "Universidad de Guadalajara [Campo Experimental Agrícola]"
+    },
+    {
+        "clave": "140060107",
+        "nombre": "El Divisadero"
+    },
+    {
+        "clave": "140060109",
+        "nombre": "La Galera"
+    },
+    {
+        "clave": "140060110",
+        "nombre": "Rancho Santa Fe [La Granja]"
+    },
+    {
+        "clave": "140060111",
+        "nombre": "Ninguno [Granja]"
+    },
+    {
+        "clave": "140060112",
+        "nombre": "San Carlos [Granja]"
+    },
+    {
+        "clave": "140060113",
+        "nombre": "Las Garzas"
+    },
+    {
+        "clave": "140060114",
+        "nombre": "Los Gómez"
+    },
+    {
+        "clave": "140060115",
+        "nombre": "La Huerta de Vicente Vázquez"
+    },
+    {
+        "clave": "140060116",
+        "nombre": "La Isla (El Rebaje)"
+    },
+    {
+        "clave": "140060117",
+        "nombre": "Laguna los Berros"
+    },
+    {
+        "clave": "140060118",
+        "nombre": "Loma del Coyonque"
+    },
+    {
+        "clave": "140060119",
+        "nombre": "Camichines (Los Laureles)"
+    },
+    {
+        "clave": "140060120",
+        "nombre": "Ninguno [Maquinaria Agrícola de Guadalajara]"
+    },
+    {
+        "clave": "140060121",
+        "nombre": "La Mata"
+    },
+    {
+        "clave": "140060122",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "140060123",
+        "nombre": "Morales"
+    },
+    {
+        "clave": "140060124",
+        "nombre": "Nacional [Aislantes Térmicos]"
+    },
+    {
+        "clave": "140060125",
+        "nombre": "El Pedazo Prieto"
+    },
+    {
+        "clave": "140060126",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "140060127",
+        "nombre": "Potrero la Chirimoya"
+    },
+    {
+        "clave": "140060128",
+        "nombre": "Potrero el Limón"
+    },
+    {
+        "clave": "140060129",
+        "nombre": "Potrero el Terrero"
+    },
+    {
+        "clave": "140060130",
+        "nombre": "Potrero Nuevo"
+    },
+    {
+        "clave": "140060131",
+        "nombre": "Raúl Rodríguez Guzmán"
+    },
+    {
+        "clave": "140060132",
+        "nombre": "Rancho de los Castro"
+    },
+    {
+        "clave": "140060133",
+        "nombre": "Rancho Herradura"
+    },
+    {
+        "clave": "140060134",
+        "nombre": "Rancho los González"
+    },
+    {
+        "clave": "140060135",
+        "nombre": "Los Coyotes"
+    },
+    {
+        "clave": "140060136",
+        "nombre": "Groasa [Transportes]"
+    },
+    {
+        "clave": "140060137",
+        "nombre": "Los Vera"
+    },
+    {
+        "clave": "140060139",
+        "nombre": "Ameca"
+    },
+    {
+        "clave": "140060140",
+        "nombre": "Ameca"
+    },
+    {
+        "clave": "140060142",
+        "nombre": "La Noria"
+    },
+    {
+        "clave": "140060144",
+        "nombre": "Los Cajones"
+    },
+    {
+        "clave": "140060145",
+        "nombre": "La Casita"
+    },
+    {
+        "clave": "140060146",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "140060147",
+        "nombre": "Las Iguanas"
+    },
+    {
+        "clave": "140060148",
+        "nombre": "Los Ojos de Agua"
+    },
+    {
+        "clave": "140060149",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "140060150",
+        "nombre": "Palo Seco"
+    },
+    {
+        "clave": "140060151",
+        "nombre": "La Puerta de la Higuera"
+    },
+    {
+        "clave": "140060152",
+        "nombre": "Puerta de Pericos (Tlachichilco)"
+    },
+    {
+        "clave": "140060153",
+        "nombre": "Rancho el Capulín"
+    },
+    {
+        "clave": "140060154",
+        "nombre": "Rancho los Tres Potrillos"
+    },
+    {
+        "clave": "140060155",
+        "nombre": "La Vida Preciosa"
+    },
+    {
+        "clave": "140060156",
+        "nombre": "Las Ánimas"
+    },
+    {
+        "clave": "140060157",
+        "nombre": "El Brillante [Fraccionamiento]"
+    },
+    {
+        "clave": "140060158",
+        "nombre": "Ninguno [Gasolinera]"
+    },
+    {
+        "clave": "140060159",
+        "nombre": "La Estrella [Granja]"
+    },
+    {
+        "clave": "140060161",
+        "nombre": "Piedra Blanca"
+    },
+    {
+        "clave": "140060162",
+        "nombre": "Potrero el Aguaje"
+    },
+    {
+        "clave": "140060163",
+        "nombre": "Potrero el Carrizo"
+    },
+    {
+        "clave": "140060164",
+        "nombre": "Potrero el Carrizo sin Número"
+    },
+    {
+        "clave": "140060165",
+        "nombre": "Rancho el Guajito"
+    },
+    {
+        "clave": "140060166",
+        "nombre": "Rancho José Ramos González"
+    },
+    {
+        "clave": "140060167",
+        "nombre": "Rancho las Lomas"
+    },
+    {
+        "clave": "140060168",
+        "nombre": "Rancho los Flores"
+    },
+    {
+        "clave": "140060169",
+        "nombre": "Rancho los Ruelas"
+    },
+    {
+        "clave": "140060170",
+        "nombre": "Rancho los Solano"
+    },
+    {
+        "clave": "140060171",
+        "nombre": "Rancho Pacheco"
+    },
+    {
+        "clave": "140060172",
+        "nombre": "Rancho Santa Rita"
+    },
+    {
+        "clave": "140060173",
+        "nombre": "El Valle"
+    },
+    {
+        "clave": "140060174",
+        "nombre": "La Crucita"
+    },
+    {
+        "clave": "140060175",
+        "nombre": "El Garbanzal"
+    },
+    {
+        "clave": "140060176",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "140060177",
+        "nombre": "El Organito"
+    },
+    {
+        "clave": "140060178",
+        "nombre": "Los Ramos"
+    },
+    {
+        "clave": "140060179",
+        "nombre": "Rodolfo Ramos"
+    },
+    {
+        "clave": "140060180",
+        "nombre": "Los Tablones"
+    },
+    {
+        "clave": "140060181",
+        "nombre": "La Granja de Aarón"
+    },
+    {
+        "clave": "140060182",
+        "nombre": "La Palapa del Mayor"
+    },
+    {
+        "clave": "140060183",
+        "nombre": "Rancho el Colorado"
+    },
+    {
+        "clave": "140060184",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "140060185",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "140060186",
+        "nombre": "Mirador del Águila"
+    },
+    {
+        "clave": "140060187",
+        "nombre": "Rancho el Colorado II"
+    },
+    {
+        "clave": "140060188",
+        "nombre": "Rancho Jordán"
+    },
+    {
+        "clave": "140060189",
+        "nombre": "Rancho la Querencia"
+    },
+    {
+        "clave": "140060190",
+        "nombre": "Rancho María Preciado"
+    },
+    {
+        "clave": "140060191",
+        "nombre": "Serenidad de los Salcido"
+    }
+]

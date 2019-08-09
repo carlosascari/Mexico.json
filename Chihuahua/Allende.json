@@ -1,0 +1,662 @@
+[
+    {
+        "clave": "80030079",
+        "nombre": "Troya"
+    },
+    {
+        "clave": "80030006",
+        "nombre": "Agua Fría Alfareña"
+    },
+    {
+        "clave": "80030023",
+        "nombre": "Las Delicias"
+    },
+    {
+        "clave": "80030044",
+        "nombre": "Fracción la Porreña"
+    },
+    {
+        "clave": "80030045",
+        "nombre": "Rancho Blanco"
+    },
+    {
+        "clave": "80030001",
+        "nombre": "Valle de Ignacio Allende"
+    },
+    {
+        "clave": "80030002",
+        "nombre": "Abel"
+    },
+    {
+        "clave": "80030003",
+        "nombre": "Estación Adela (San Gregorio)"
+    },
+    {
+        "clave": "80030004",
+        "nombre": "Agua Fría (Barricada)"
+    },
+    {
+        "clave": "80030007",
+        "nombre": "El Álamo"
+    },
+    {
+        "clave": "80030008",
+        "nombre": "Almoloya"
+    },
+    {
+        "clave": "80030009",
+        "nombre": "San Antonio del Alto Corralejo"
+    },
+    {
+        "clave": "80030010",
+        "nombre": "El Amparo"
+    },
+    {
+        "clave": "80030011",
+        "nombre": "La Aurora"
+    },
+    {
+        "clave": "80030012",
+        "nombre": "Los Estrada (Baca)"
+    },
+    {
+        "clave": "80030015",
+        "nombre": "El Bosque"
+    },
+    {
+        "clave": "80030016",
+        "nombre": "Colonia Búfalo"
+    },
+    {
+        "clave": "80030017",
+        "nombre": "El Canelo"
+    },
+    {
+        "clave": "80030018",
+        "nombre": "El Carmen y Anexos"
+    },
+    {
+        "clave": "80030020",
+        "nombre": "El Cinco"
+    },
+    {
+        "clave": "80030024",
+        "nombre": "Colonia Progreso (El Dorado)"
+    },
+    {
+        "clave": "80030025",
+        "nombre": "Estación Dorado"
+    },
+    {
+        "clave": "80030026",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "80030027",
+        "nombre": "General Felipe Ángeles"
+    },
+    {
+        "clave": "80030030",
+        "nombre": "Las Carolinas"
+    },
+    {
+        "clave": "80030032",
+        "nombre": "La Magdalena"
+    },
+    {
+        "clave": "80030033",
+        "nombre": "El Milagro"
+    },
+    {
+        "clave": "80030034",
+        "nombre": "Molinares"
+    },
+    {
+        "clave": "80030035",
+        "nombre": "La Montaña"
+    },
+    {
+        "clave": "80030036",
+        "nombre": "Estación Morita"
+    },
+    {
+        "clave": "80030038",
+        "nombre": "El Ojito"
+    },
+    {
+        "clave": "80030039",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "80030042",
+        "nombre": "Plan de Ayala"
+    },
+    {
+        "clave": "80030046",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "80030047",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "80030048",
+        "nombre": "El Retiro de Mascareñas"
+    },
+    {
+        "clave": "80030049",
+        "nombre": "Ampliación Felipe Ángeles"
+    },
+    {
+        "clave": "80030050",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "80030051",
+        "nombre": "Rosas"
+    },
+    {
+        "clave": "80030053",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "80030054",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "80030055",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "80030057",
+        "nombre": "San José de los Medina"
+    },
+    {
+        "clave": "80030059",
+        "nombre": "San Juan de Allende"
+    },
+    {
+        "clave": "80030062",
+        "nombre": "Santa Ana de Prado"
+    },
+    {
+        "clave": "80030064",
+        "nombre": "Santa Eduviges"
+    },
+    {
+        "clave": "80030065",
+        "nombre": "Santa Isabel"
+    },
+    {
+        "clave": "80030066",
+        "nombre": "Santa Lucía"
+    },
+    {
+        "clave": "80030068",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "80030069",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "80030071",
+        "nombre": "Talamantes"
+    },
+    {
+        "clave": "80030073",
+        "nombre": "El Tecolote"
+    },
+    {
+        "clave": "80030076",
+        "nombre": "Torreón de Mata"
+    },
+    {
+        "clave": "80030077",
+        "nombre": "El Tres"
+    },
+    {
+        "clave": "80030078",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "80030080",
+        "nombre": "El Uno"
+    },
+    {
+        "clave": "80030085",
+        "nombre": "El Volcán"
+    },
+    {
+        "clave": "80030086",
+        "nombre": "Pueblito de Allende"
+    },
+    {
+        "clave": "80030090",
+        "nombre": "El Dorado"
+    },
+    {
+        "clave": "80030093",
+        "nombre": "Punta de Agua"
+    },
+    {
+        "clave": "80030094",
+        "nombre": "El Edén"
+    },
+    {
+        "clave": "80030095",
+        "nombre": "Rancho Walterio"
+    },
+    {
+        "clave": "80030102",
+        "nombre": "La Rosita"
+    },
+    {
+        "clave": "80030105",
+        "nombre": "El Pozo"
+    },
+    {
+        "clave": "80030106",
+        "nombre": "La Flor"
+    },
+    {
+        "clave": "80030107",
+        "nombre": "Rancho de Enmedio (El Carmen)"
+    },
+    {
+        "clave": "80030109",
+        "nombre": "El Dos"
+    },
+    {
+        "clave": "80030117",
+        "nombre": "Nogales (San José)"
+    },
+    {
+        "clave": "80030118",
+        "nombre": "Santa Mónica (El Seis)"
+    },
+    {
+        "clave": "80030120",
+        "nombre": "San Gregorio"
+    },
+    {
+        "clave": "80030127",
+        "nombre": "Rarámuri (La Manga)"
+    },
+    {
+        "clave": "80030132",
+        "nombre": "El Carmen (El Pozo)"
+    },
+    {
+        "clave": "80030134",
+        "nombre": "El Verano"
+    },
+    {
+        "clave": "80030135",
+        "nombre": "Los Milagros"
+    },
+    {
+        "clave": "80030136",
+        "nombre": "San Florencio"
+    },
+    {
+        "clave": "80030137",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "80030138",
+        "nombre": "La Aguja"
+    },
+    {
+        "clave": "80030139",
+        "nombre": "El Tarahumara (Los Juncos)"
+    },
+    {
+        "clave": "80030140",
+        "nombre": "Guadalupe de Almolaya"
+    },
+    {
+        "clave": "80030141",
+        "nombre": "Ojo de Almoloya"
+    },
+    {
+        "clave": "80030142",
+        "nombre": "El Santorini"
+    },
+    {
+        "clave": "80030143",
+        "nombre": "Mesa las Hormigas (Los Alamitos)"
+    },
+    {
+        "clave": "80030144",
+        "nombre": "Rancho Prieto"
+    },
+    {
+        "clave": "80030145",
+        "nombre": "Las Margaritas (Rancho Cardona)"
+    },
+    {
+        "clave": "80030149",
+        "nombre": "La Haciendita Fiereña"
+    },
+    {
+        "clave": "80030150",
+        "nombre": "San Francisco de Almoloya"
+    },
+    {
+        "clave": "80030155",
+        "nombre": "Los Arenales"
+    },
+    {
+        "clave": "80030160",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "80030163",
+        "nombre": "El Gato"
+    },
+    {
+        "clave": "80030164",
+        "nombre": "Los Montes (Jerusalén)"
+    },
+    {
+        "clave": "80030165",
+        "nombre": "La Josefina"
+    },
+    {
+        "clave": "80030166",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "80030167",
+        "nombre": "María Luisa"
+    },
+    {
+        "clave": "80030170",
+        "nombre": "La Parra"
+    },
+    {
+        "clave": "80030171",
+        "nombre": "El Pozo"
+    },
+    {
+        "clave": "80030173",
+        "nombre": "El Presón de Esmeralda"
+    },
+    {
+        "clave": "80030176",
+        "nombre": "San Ángel"
+    },
+    {
+        "clave": "80030179",
+        "nombre": "Chupaderos"
+    },
+    {
+        "clave": "80030182",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "80030183",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "80030188",
+        "nombre": "Temporales"
+    },
+    {
+        "clave": "80030190",
+        "nombre": "Patitos"
+    },
+    {
+        "clave": "80030191",
+        "nombre": "Ejido las Auras"
+    },
+    {
+        "clave": "80030192",
+        "nombre": "La Espuela"
+    },
+    {
+        "clave": "80030193",
+        "nombre": "El Tigre"
+    },
+    {
+        "clave": "80030195",
+        "nombre": "El Ojo de Talamantes"
+    },
+    {
+        "clave": "80030196",
+        "nombre": "El Porvenir (Rancho de Carlos)"
+    },
+    {
+        "clave": "80030198",
+        "nombre": "Rancho el Cuatro"
+    },
+    {
+        "clave": "80030200",
+        "nombre": "Los Desmontes"
+    },
+    {
+        "clave": "80030201",
+        "nombre": "Los Jacales"
+    },
+    {
+        "clave": "80030202",
+        "nombre": "Tres Hermanos (El Comandante)"
+    },
+    {
+        "clave": "80030203",
+        "nombre": "Las Hilachas"
+    },
+    {
+        "clave": "80030205",
+        "nombre": "Ignacio Ramírez"
+    },
+    {
+        "clave": "80030206",
+        "nombre": "Rancho Julimes"
+    },
+    {
+        "clave": "80030208",
+        "nombre": "Crucero el Dorado"
+    },
+    {
+        "clave": "80030209",
+        "nombre": "El Desierto"
+    },
+    {
+        "clave": "80030210",
+        "nombre": "Las Garzas"
+    },
+    {
+        "clave": "80030211",
+        "nombre": "Ojuelos"
+    },
+    {
+        "clave": "80030212",
+        "nombre": "El Pozo"
+    },
+    {
+        "clave": "80030213",
+        "nombre": "El Rincón del Ancón (Rancho los Quiroz)"
+    },
+    {
+        "clave": "80030214",
+        "nombre": "La Marusa"
+    },
+    {
+        "clave": "80030215",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80030216",
+        "nombre": "La Tabla"
+    },
+    {
+        "clave": "80030217",
+        "nombre": "La Concepción"
+    },
+    {
+        "clave": "80030218",
+        "nombre": "La Casita"
+    },
+    {
+        "clave": "80030219",
+        "nombre": "Peñuelas"
+    },
+    {
+        "clave": "80030220",
+        "nombre": "Chupaderos"
+    },
+    {
+        "clave": "80030221",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "80030222",
+        "nombre": "El Álamo"
+    },
+    {
+        "clave": "80030225",
+        "nombre": "Pénjamo"
+    },
+    {
+        "clave": "80030226",
+        "nombre": "La Fe"
+    },
+    {
+        "clave": "80030227",
+        "nombre": "La Manzana"
+    },
+    {
+        "clave": "80030228",
+        "nombre": "Rancho Daraíto"
+    },
+    {
+        "clave": "80030229",
+        "nombre": "San Federico"
+    },
+    {
+        "clave": "80030230",
+        "nombre": "Santa Prisca"
+    },
+    {
+        "clave": "80030231",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "80030232",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80030233",
+        "nombre": "La Viña de Talamantes de Arriba"
+    },
+    {
+        "clave": "80030234",
+        "nombre": "El Cuatro"
+    },
+    {
+        "clave": "80030235",
+        "nombre": "La Cabaña"
+    },
+    {
+        "clave": "80030236",
+        "nombre": "Chupaderos"
+    },
+    {
+        "clave": "80030237",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "80030238",
+        "nombre": "Rancho de Arriba"
+    },
+    {
+        "clave": "80030239",
+        "nombre": "La Vara"
+    },
+    {
+        "clave": "80030240",
+        "nombre": "Chayito"
+    },
+    {
+        "clave": "80030241",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "80030242",
+        "nombre": "La Labor"
+    },
+    {
+        "clave": "80030243",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80030244",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80030245",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80030246",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80030247",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80030248",
+        "nombre": "Ninguno [Manuel Guillén]"
+    },
+    {
+        "clave": "80030249",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80030250",
+        "nombre": "El 4M [Huerta]"
+    },
+    {
+        "clave": "80030251",
+        "nombre": "Santa Martha"
+    },
+    {
+        "clave": "80030252",
+        "nombre": "La Haciendita"
+    },
+    {
+        "clave": "80030253",
+        "nombre": "El Reintegro"
+    },
+    {
+        "clave": "80030254",
+        "nombre": "La Huanaja"
+    },
+    {
+        "clave": "80030255",
+        "nombre": "El Triángulo"
+    },
+    {
+        "clave": "80030256",
+        "nombre": "La Casita"
+    },
+    {
+        "clave": "80030257",
+        "nombre": "Los Girasoles"
+    },
+    {
+        "clave": "80030258",
+        "nombre": "Los Temporales"
+    },
+    {
+        "clave": "80030259",
+        "nombre": "El Hangar"
+    },
+    {
+        "clave": "80030260",
+        "nombre": "La Y Griega"
+    }
+]

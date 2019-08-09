@@ -1,0 +1,734 @@
+[
+    {
+        "clave": "120460012",
+        "nombre": "Cumbre de Barranca Honda"
+    },
+    {
+        "clave": "120460014",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "120460016",
+        "nombre": "Huixtepec"
+    },
+    {
+        "clave": "120460020",
+        "nombre": "El Mango (El Mango Solo Sur)"
+    },
+    {
+        "clave": "120460022",
+        "nombre": "Paso del Tabaco"
+    },
+    {
+        "clave": "120460035",
+        "nombre": "Zacoalpan"
+    },
+    {
+        "clave": "120460037",
+        "nombre": "Cruz Verde II"
+    },
+    {
+        "clave": "120460040",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "120460041",
+        "nombre": "Paso Cuahulote"
+    },
+    {
+        "clave": "120460042",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "120460047",
+        "nombre": "Plan Juste"
+    },
+    {
+        "clave": "120460048",
+        "nombre": "Rancho San Francisco"
+    },
+    {
+        "clave": "120460051",
+        "nombre": "Tierra Colorada"
+    },
+    {
+        "clave": "120460052",
+        "nombre": "La Mira"
+    },
+    {
+        "clave": "120460055",
+        "nombre": "Cuadrilla Nueva (Chilpancinguito)"
+    },
+    {
+        "clave": "120460068",
+        "nombre": "Arroyo Barranca Honda"
+    },
+    {
+        "clave": "120460073",
+        "nombre": "La Cresta (Palma de Molina)"
+    },
+    {
+        "clave": "120460088",
+        "nombre": "Mazapa"
+    },
+    {
+        "clave": "120460102",
+        "nombre": "Cerro Pájaro"
+    },
+    {
+        "clave": "120460103",
+        "nombre": "Cerro Piedra Negra"
+    },
+    {
+        "clave": "120460107",
+        "nombre": "Mango Norte (El Mango Solo Norte)"
+    },
+    {
+        "clave": "120460116",
+        "nombre": "Arroyo Zapote"
+    },
+    {
+        "clave": "120460128",
+        "nombre": "Zapotales"
+    },
+    {
+        "clave": "120460139",
+        "nombre": "Arroyo Tecojochén"
+    },
+    {
+        "clave": "120460144",
+        "nombre": "Cuadrilla de San Antonio"
+    },
+    {
+        "clave": "120460152",
+        "nombre": "Rancho el Bramadero (Rancho Epifanio Bustos)"
+    },
+    {
+        "clave": "120460162",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "120460173",
+        "nombre": "Arroyo el Guate"
+    },
+    {
+        "clave": "120460174",
+        "nombre": "Arroyo Chachalaco"
+    },
+    {
+        "clave": "120460183",
+        "nombre": "Plan de Guacamaya"
+    },
+    {
+        "clave": "120460221",
+        "nombre": "Colonia Tejería"
+    },
+    {
+        "clave": "120460001",
+        "nombre": "Ometepec"
+    },
+    {
+        "clave": "120460002",
+        "nombre": "Acatepec"
+    },
+    {
+        "clave": "120460004",
+        "nombre": "El Capricho (La Poza)"
+    },
+    {
+        "clave": "120460005",
+        "nombre": "La Catalina"
+    },
+    {
+        "clave": "120460006",
+        "nombre": "Cerro Grande"
+    },
+    {
+        "clave": "120460007",
+        "nombre": "Cochoapa"
+    },
+    {
+        "clave": "120460009",
+        "nombre": "La Concepción"
+    },
+    {
+        "clave": "120460010",
+        "nombre": "Cruz de Corazón"
+    },
+    {
+        "clave": "120460011",
+        "nombre": "Cruz Verde I"
+    },
+    {
+        "clave": "120460013",
+        "nombre": "El Charco de la Puerta"
+    },
+    {
+        "clave": "120460015",
+        "nombre": "Huajintepec"
+    },
+    {
+        "clave": "120460017",
+        "nombre": "Las Iguanas"
+    },
+    {
+        "clave": "120460018",
+        "nombre": "La Ladrillera"
+    },
+    {
+        "clave": "120460019",
+        "nombre": "La Libertad"
+    },
+    {
+        "clave": "120460021",
+        "nombre": "Milpillas"
+    },
+    {
+        "clave": "120460023",
+        "nombre": "Piedra Ancha"
+    },
+    {
+        "clave": "120460024",
+        "nombre": "Piedra Boluda"
+    },
+    {
+        "clave": "120460025",
+        "nombre": "Piedra del Tigre"
+    },
+    {
+        "clave": "120460026",
+        "nombre": "Piedra Labrada"
+    },
+    {
+        "clave": "120460027",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "120460028",
+        "nombre": "Santa Cruz Teconte (El Teconte)"
+    },
+    {
+        "clave": "120460029",
+        "nombre": "Santa María (Santa María Asunción)"
+    },
+    {
+        "clave": "120460030",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "120460031",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "120460032",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "120460033",
+        "nombre": "Las Vigas"
+    },
+    {
+        "clave": "120460034",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "120460036",
+        "nombre": "El Sepudo"
+    },
+    {
+        "clave": "120460038",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "120460043",
+        "nombre": "San José Ejido (San José)"
+    },
+    {
+        "clave": "120460044",
+        "nombre": "San Vicente (San Vicente de Benítez)"
+    },
+    {
+        "clave": "120460059",
+        "nombre": "Rancho los Moreno"
+    },
+    {
+        "clave": "120460008",
+        "nombre": "Villa Hidalgo"
+    },
+    {
+        "clave": "120460045",
+        "nombre": "Barranca Atotonilco (Atotonilco)"
+    },
+    {
+        "clave": "120460050",
+        "nombre": "Arroyo Zopilote"
+    },
+    {
+        "clave": "120460056",
+        "nombre": "Rancho Benito Montalbán"
+    },
+    {
+        "clave": "120460057",
+        "nombre": "Las Parotas"
+    },
+    {
+        "clave": "120460061",
+        "nombre": "Rancho Ángel Manuel Estrada Trani"
+    },
+    {
+        "clave": "120460065",
+        "nombre": "Rancho Ojo de Agua (Rancho Víctor Hilario Marín)"
+    },
+    {
+        "clave": "120460079",
+        "nombre": "Rancho José María Aparicio"
+    },
+    {
+        "clave": "120460080",
+        "nombre": "Rancho Anatolio Guerrero"
+    },
+    {
+        "clave": "120460082",
+        "nombre": "Rancho el Calvario"
+    },
+    {
+        "clave": "120460085",
+        "nombre": "San Rafael los Liros (Rancho Jesús López)"
+    },
+    {
+        "clave": "120460087",
+        "nombre": "Rancho el Mapache (Rancho Marcos Bahena)"
+    },
+    {
+        "clave": "120460089",
+        "nombre": "Rancho los Naranjos"
+    },
+    {
+        "clave": "120460090",
+        "nombre": "Rancho Pepín Torres"
+    },
+    {
+        "clave": "120460091",
+        "nombre": "Rancho el Pizote"
+    },
+    {
+        "clave": "120460092",
+        "nombre": "Rancho Porfirio Carbajal Morán"
+    },
+    {
+        "clave": "120460093",
+        "nombre": "Rancho José Carlos Rivera López"
+    },
+    {
+        "clave": "120460094",
+        "nombre": "Rancho Rafael Aburto (Los Carreño)"
+    },
+    {
+        "clave": "120460095",
+        "nombre": "Rancho Juan José Jiménez"
+    },
+    {
+        "clave": "120460096",
+        "nombre": "Rancho Sigifredo Morales Uno"
+    },
+    {
+        "clave": "120460098",
+        "nombre": "Rancho los Vázquez"
+    },
+    {
+        "clave": "120460099",
+        "nombre": "Rancho los Barroso (La Cañada)"
+    },
+    {
+        "clave": "120460101",
+        "nombre": "Cañada de las Flores"
+    },
+    {
+        "clave": "120460106",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "120460108",
+        "nombre": "Rancho Edmundo Guillén de la Barrera"
+    },
+    {
+        "clave": "120460111",
+        "nombre": "Rancho los Parajes"
+    },
+    {
+        "clave": "120460112",
+        "nombre": "El Sermón"
+    },
+    {
+        "clave": "120460114",
+        "nombre": "Paso Cuahulote Dos"
+    },
+    {
+        "clave": "120460117",
+        "nombre": "Rancho Gonzalo Molina Estrada (Las Palmas)"
+    },
+    {
+        "clave": "120460119",
+        "nombre": "Rancho Jesús Estrada García (Predio los Mangos)"
+    },
+    {
+        "clave": "120460120",
+        "nombre": "Rancho Joaquín Hernández"
+    },
+    {
+        "clave": "120460121",
+        "nombre": "Rancho Eloy Vázquez"
+    },
+    {
+        "clave": "120460122",
+        "nombre": "Rancho los Salinas"
+    },
+    {
+        "clave": "120460123",
+        "nombre": "Rancho Mario Navarrete Gutiérrez"
+    },
+    {
+        "clave": "120460127",
+        "nombre": "Rancho Rafael García Ortiz"
+    },
+    {
+        "clave": "120460129",
+        "nombre": "Rancho Fidel Carmona"
+    },
+    {
+        "clave": "120460130",
+        "nombre": "Rancho el Pirul (Charco del Tule)"
+    },
+    {
+        "clave": "120460132",
+        "nombre": "Poza Verde"
+    },
+    {
+        "clave": "120460133",
+        "nombre": "Rancho Napoleón Justo (Rancho el Tamarindo)"
+    },
+    {
+        "clave": "120460134",
+        "nombre": "Cuadrilla de los Mangos"
+    },
+    {
+        "clave": "120460137",
+        "nombre": "Rancho Yolanda Morales"
+    },
+    {
+        "clave": "120460143",
+        "nombre": "Ninguno [Centro Emisor de Televisa]"
+    },
+    {
+        "clave": "120460145",
+        "nombre": "El Frutillo"
+    },
+    {
+        "clave": "120460146",
+        "nombre": "Los Pantanos"
+    },
+    {
+        "clave": "120460147",
+        "nombre": "La Pastoría"
+    },
+    {
+        "clave": "120460149",
+        "nombre": "Rancho Efrén Hilario Marín"
+    },
+    {
+        "clave": "120460150",
+        "nombre": "Rancho el Carmen"
+    },
+    {
+        "clave": "120460153",
+        "nombre": "Rancho Delfino Aguirre Rivero (El Palomar)"
+    },
+    {
+        "clave": "120460154",
+        "nombre": "Rancho la Parota (Rancho Elsa Salazar)"
+    },
+    {
+        "clave": "120460155",
+        "nombre": "Rancho los Laureles (Juan Sierra)"
+    },
+    {
+        "clave": "120460156",
+        "nombre": "Rancho Ismael Torres Añorve (El Maestro)"
+    },
+    {
+        "clave": "120460157",
+        "nombre": "Rancho la Esperanza (Rancho Ulises Estrada Vázquez)"
+    },
+    {
+        "clave": "120460158",
+        "nombre": "Rancho José Luis Dircio Gil"
+    },
+    {
+        "clave": "120460160",
+        "nombre": "Rancho de Martha"
+    },
+    {
+        "clave": "120460161",
+        "nombre": "El Cuije"
+    },
+    {
+        "clave": "120460163",
+        "nombre": "La Presa"
+    },
+    {
+        "clave": "120460166",
+        "nombre": "Rancho Nicolás Gil"
+    },
+    {
+        "clave": "120460167",
+        "nombre": "Rancho Nicolás Hernández (Rancho las Parotas)"
+    },
+    {
+        "clave": "120460168",
+        "nombre": "Rancho Santa Ana (Rancho del Médico Arbieyga)"
+    },
+    {
+        "clave": "120460169",
+        "nombre": "Finca Santander"
+    },
+    {
+        "clave": "120460172",
+        "nombre": "Rancho la Ceiba (El Capricho)"
+    },
+    {
+        "clave": "120460175",
+        "nombre": "Planta Potabilizadora de Agua"
+    },
+    {
+        "clave": "120460176",
+        "nombre": "Rancho Efraín Guillén Apresa (El Mapachito)"
+    },
+    {
+        "clave": "120460177",
+        "nombre": "Rcho. Fco. Espinoza Hilario (Rcho. el Carmen)"
+    },
+    {
+        "clave": "120460178",
+        "nombre": "Rancho María Abarca"
+    },
+    {
+        "clave": "120460179",
+        "nombre": "Rancho Taurino Cárdenas Aparicio"
+    },
+    {
+        "clave": "120460180",
+        "nombre": "El Manguito (El Talolote)"
+    },
+    {
+        "clave": "120460181",
+        "nombre": "Arroyo el Zapote"
+    },
+    {
+        "clave": "120460182",
+        "nombre": "Talapa [Balneario]"
+    },
+    {
+        "clave": "120460184",
+        "nombre": "Rancho Adolfo Muñoz"
+    },
+    {
+        "clave": "120460185",
+        "nombre": "Rancho el Cuapinole Grande"
+    },
+    {
+        "clave": "120460186",
+        "nombre": "Rancho Familia Díaz"
+    },
+    {
+        "clave": "120460187",
+        "nombre": "Rancho Eloy Ortiz"
+    },
+    {
+        "clave": "120460188",
+        "nombre": "Rancho el Paso del Toro"
+    },
+    {
+        "clave": "120460189",
+        "nombre": "Rancho Vicente Piña"
+    },
+    {
+        "clave": "120460190",
+        "nombre": "Cerro Tierra Blanca"
+    },
+    {
+        "clave": "120460191",
+        "nombre": "Cerro Zorro"
+    },
+    {
+        "clave": "120460192",
+        "nombre": "Piedra Quebrada"
+    },
+    {
+        "clave": "120460193",
+        "nombre": "Ramiro López Santiago"
+    },
+    {
+        "clave": "120460194",
+        "nombre": "Rancho Julián Vázquez Mendoza"
+    },
+    {
+        "clave": "120460195",
+        "nombre": "Tranquilino Ricardo Vázquez"
+    },
+    {
+        "clave": "120460196",
+        "nombre": "Rancho Ángel Ruiz"
+    },
+    {
+        "clave": "120460197",
+        "nombre": "Rancho Benigno Montalbán Jiménez"
+    },
+    {
+        "clave": "120460198",
+        "nombre": "Rancho Charco Grande (Rancho Víctor Manuel Zarco)"
+    },
+    {
+        "clave": "120460199",
+        "nombre": "Rancho Héctor Clemente"
+    },
+    {
+        "clave": "120460200",
+        "nombre": "Rancho de los Carbajales"
+    },
+    {
+        "clave": "120460201",
+        "nombre": "Rancho Elizabeth Domínguez"
+    },
+    {
+        "clave": "120460202",
+        "nombre": "Rancho Efrén Montalbán"
+    },
+    {
+        "clave": "120460203",
+        "nombre": "Rancho el Coquillo (Rancho Marino Pachuca)"
+    },
+    {
+        "clave": "120460204",
+        "nombre": "Rancho Marino Pachuca Dos"
+    },
+    {
+        "clave": "120460205",
+        "nombre": "Rancho Otilo Torres"
+    },
+    {
+        "clave": "120460206",
+        "nombre": "Rancho PedroTorres"
+    },
+    {
+        "clave": "120460207",
+        "nombre": "Rancho Isidro"
+    },
+    {
+        "clave": "120460208",
+        "nombre": "Rancho Ramiro Sánchez"
+    },
+    {
+        "clave": "120460209",
+        "nombre": "Rancho Santa Cruz"
+    },
+    {
+        "clave": "120460210",
+        "nombre": "Rancho Socorro Marroquín"
+    },
+    {
+        "clave": "120460211",
+        "nombre": "Rancho Tino Hilario Marín"
+    },
+    {
+        "clave": "120460212",
+        "nombre": "Rancho Tita Pachuca"
+    },
+    {
+        "clave": "120460213",
+        "nombre": "Rancho Vicente Moreno"
+    },
+    {
+        "clave": "120460214",
+        "nombre": "El Crucero"
+    },
+    {
+        "clave": "120460215",
+        "nombre": "Neftalí Benito Miranda"
+    },
+    {
+        "clave": "120460216",
+        "nombre": "Rancho Simón Hernández"
+    },
+    {
+        "clave": "120460217",
+        "nombre": "Arroyo Tortuga"
+    },
+    {
+        "clave": "120460218",
+        "nombre": "José Apolonio Santiago"
+    },
+    {
+        "clave": "120460219",
+        "nombre": "Rancho los Pinos"
+    },
+    {
+        "clave": "120460220",
+        "nombre": "Rancho San Agustín"
+    },
+    {
+        "clave": "120460222",
+        "nombre": "Camino Real [Balneario]"
+    },
+    {
+        "clave": "120460223",
+        "nombre": "Rancho Francisco Espinoza Hilario 2"
+    },
+    {
+        "clave": "120460224",
+        "nombre": "Rancho Pantaleón Vázquez"
+    },
+    {
+        "clave": "120460225",
+        "nombre": "Rancho San Isidro (El Pantano)"
+    },
+    {
+        "clave": "120460226",
+        "nombre": "Rancho el Mesías"
+    },
+    {
+        "clave": "120460227",
+        "nombre": "Finca San Isidro"
+    },
+    {
+        "clave": "120460228",
+        "nombre": "Rancho la Herradura"
+    },
+    {
+        "clave": "120460229",
+        "nombre": "San Francisco [Rancho]"
+    },
+    {
+        "clave": "120460230",
+        "nombre": "Vicente Moreno [Rancho]"
+    },
+    {
+        "clave": "120460231",
+        "nombre": "Luis Gil [Rancho]"
+    },
+    {
+        "clave": "120460232",
+        "nombre": "Agustín Urbina Hernández [Rancho]"
+    },
+    {
+        "clave": "120460233",
+        "nombre": "Caritino Jiménez [Rancho]"
+    },
+    {
+        "clave": "120460234",
+        "nombre": "Armando Mateo Macedonio"
+    },
+    {
+        "clave": "120460235",
+        "nombre": "El Nuevo Capricho"
+    }
+]

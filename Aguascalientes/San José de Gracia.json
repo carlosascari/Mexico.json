@@ -1,0 +1,538 @@
+[
+    {
+        "clave": "10080002",
+        "nombre": "Las Amarillas"
+    },
+    {
+        "clave": "10080007",
+        "nombre": "Santa Elena de la Cruz (Capadero)"
+    },
+    {
+        "clave": "10080020",
+        "nombre": "Potrerillo"
+    },
+    {
+        "clave": "10080026",
+        "nombre": "El Tecongo"
+    },
+    {
+        "clave": "10080029",
+        "nombre": "Tortugas"
+    },
+    {
+        "clave": "10080030",
+        "nombre": "Túnel de Potrerillo"
+    },
+    {
+        "clave": "10080113",
+        "nombre": "Maximiano Domínguez"
+    },
+    {
+        "clave": "10080144",
+        "nombre": "Rancho de la Santa Cruz"
+    },
+    {
+        "clave": "10080001",
+        "nombre": "San José de Gracia"
+    },
+    {
+        "clave": "10080010",
+        "nombre": "Cieneguita"
+    },
+    {
+        "clave": "10080011",
+        "nombre": "La Congoja"
+    },
+    {
+        "clave": "10080013",
+        "nombre": "Estancia de San Marcos"
+    },
+    {
+        "clave": "10080014",
+        "nombre": "Guajolotes (Huijolotes)"
+    },
+    {
+        "clave": "10080015",
+        "nombre": "El Jocoqui"
+    },
+    {
+        "clave": "10080018",
+        "nombre": "Paredes"
+    },
+    {
+        "clave": "10080021",
+        "nombre": "Potrero de los López"
+    },
+    {
+        "clave": "10080022",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "10080023",
+        "nombre": "San Antonio de los Ríos"
+    },
+    {
+        "clave": "10080024",
+        "nombre": "Santa Rosa de Lima"
+    },
+    {
+        "clave": "10080027",
+        "nombre": "El Toril"
+    },
+    {
+        "clave": "10080031",
+        "nombre": "El Águila"
+    },
+    {
+        "clave": "10080033",
+        "nombre": "Antrialgo"
+    },
+    {
+        "clave": "10080046",
+        "nombre": "Río Blanco"
+    },
+    {
+        "clave": "10080055",
+        "nombre": "Agua Escondida"
+    },
+    {
+        "clave": "10080056",
+        "nombre": "Sierra Hermosa (Los Alamitos)"
+    },
+    {
+        "clave": "10080057",
+        "nombre": "Astillero"
+    },
+    {
+        "clave": "10080059",
+        "nombre": "Los Bancos"
+    },
+    {
+        "clave": "10080060",
+        "nombre": "Barranca del Abuelo"
+    },
+    {
+        "clave": "10080061",
+        "nombre": "Boca del Túnel de Potrerillo"
+    },
+    {
+        "clave": "10080062",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "10080063",
+        "nombre": "El Cíbolo"
+    },
+    {
+        "clave": "10080064",
+        "nombre": "Ciénega de Gallardo"
+    },
+    {
+        "clave": "10080065",
+        "nombre": "Las Cuatas"
+    },
+    {
+        "clave": "10080066",
+        "nombre": "Los Charcos"
+    },
+    {
+        "clave": "10080067",
+        "nombre": "El Aldeano"
+    },
+    {
+        "clave": "10080068",
+        "nombre": "Laguna Seca"
+    },
+    {
+        "clave": "10080069",
+        "nombre": "Sierra Linda"
+    },
+    {
+        "clave": "10080070",
+        "nombre": "Peña Parada"
+    },
+    {
+        "clave": "10080073",
+        "nombre": "Sierra Brava"
+    },
+    {
+        "clave": "10080074",
+        "nombre": "El Taray"
+    },
+    {
+        "clave": "10080075",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "10080076",
+        "nombre": "Tinajuelas"
+    },
+    {
+        "clave": "10080077",
+        "nombre": "El Toril II"
+    },
+    {
+        "clave": "10080078",
+        "nombre": "Los Yugos"
+    },
+    {
+        "clave": "10080079",
+        "nombre": "El Cepo"
+    },
+    {
+        "clave": "10080080",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "10080092",
+        "nombre": "Mesa de Tinajuelas"
+    },
+    {
+        "clave": "10080094",
+        "nombre": "El Voladero"
+    },
+    {
+        "clave": "10080095",
+        "nombre": "El Ajiladero [Rancho]"
+    },
+    {
+        "clave": "10080096",
+        "nombre": "Covadonga"
+    },
+    {
+        "clave": "10080097",
+        "nombre": "Ejido Cieneguita"
+    },
+    {
+        "clave": "10080098",
+        "nombre": "Huemantla"
+    },
+    {
+        "clave": "10080099",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "10080101",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "10080103",
+        "nombre": "Los Alamitos [Campamento de Educación Ambiental]"
+    },
+    {
+        "clave": "10080104",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "10080105",
+        "nombre": "Ciénega de Alcorcha"
+    },
+    {
+        "clave": "10080106",
+        "nombre": "Loma Alta"
+    },
+    {
+        "clave": "10080107",
+        "nombre": "Carlos Lozano de la Torre"
+    },
+    {
+        "clave": "10080108",
+        "nombre": "Domingo Guerra"
+    },
+    {
+        "clave": "10080110",
+        "nombre": "Parcela del Divino Niño Jesús"
+    },
+    {
+        "clave": "10080111",
+        "nombre": "José López Campa"
+    },
+    {
+        "clave": "10080112",
+        "nombre": "Localidad sin Nombre (Juan Escobedo)"
+    },
+    {
+        "clave": "10080114",
+        "nombre": "El Tecolote"
+    },
+    {
+        "clave": "10080115",
+        "nombre": "Pedro Díaz de Luna"
+    },
+    {
+        "clave": "10080116",
+        "nombre": "Salvador Muñoz"
+    },
+    {
+        "clave": "10080117",
+        "nombre": "Mesa de Camarillo"
+    },
+    {
+        "clave": "10080118",
+        "nombre": "Presa 50 Aniversario"
+    },
+    {
+        "clave": "10080119",
+        "nombre": "2 Hermanos [Rancho]"
+    },
+    {
+        "clave": "10080120",
+        "nombre": "San Isidro [Rancho]"
+    },
+    {
+        "clave": "10080121",
+        "nombre": "La Ciénega (Cabaña las Driades)"
+    },
+    {
+        "clave": "10080122",
+        "nombre": "El Rayito"
+    },
+    {
+        "clave": "10080123",
+        "nombre": "El Retoño de Amparo"
+    },
+    {
+        "clave": "10080124",
+        "nombre": "Los Sotoles"
+    },
+    {
+        "clave": "10080125",
+        "nombre": "El Toril"
+    },
+    {
+        "clave": "10080126",
+        "nombre": "El Ajolote (Francisco Marín Chávez)"
+    },
+    {
+        "clave": "10080127",
+        "nombre": "Piletas [Rancho]"
+    },
+    {
+        "clave": "10080128",
+        "nombre": "Jorge Gándara"
+    },
+    {
+        "clave": "10080129",
+        "nombre": "Rinconada la Luz"
+    },
+    {
+        "clave": "10080130",
+        "nombre": "Los Pilares"
+    },
+    {
+        "clave": "10080131",
+        "nombre": "Paso del Sauz"
+    },
+    {
+        "clave": "10080133",
+        "nombre": "Presa de la Araña"
+    },
+    {
+        "clave": "10080134",
+        "nombre": "La Pensión [Rancho]"
+    },
+    {
+        "clave": "10080135",
+        "nombre": "Cazuelas"
+    },
+    {
+        "clave": "10080136",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "10080137",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "10080138",
+        "nombre": "Abel Medina"
+    },
+    {
+        "clave": "10080139",
+        "nombre": "Altagracia Díaz López"
+    },
+    {
+        "clave": "10080140",
+        "nombre": "Los Rodríguez"
+    },
+    {
+        "clave": "10080141",
+        "nombre": "Peñón Blanco"
+    },
+    {
+        "clave": "10080142",
+        "nombre": "Puerto Piñones"
+    },
+    {
+        "clave": "10080143",
+        "nombre": "San José de Gracia [Reserva de Crecimiento]"
+    },
+    {
+        "clave": "10080145",
+        "nombre": "San Francisco [Rancho]"
+    },
+    {
+        "clave": "10080146",
+        "nombre": "La Palapa [Restaurante-Bar]"
+    },
+    {
+        "clave": "10080147",
+        "nombre": "El Crucero (Rubén Rodríguez Guerrero)"
+    },
+    {
+        "clave": "10080148",
+        "nombre": "Río Blanco"
+    },
+    {
+        "clave": "10080149",
+        "nombre": "El Bajío de la Canoa"
+    },
+    {
+        "clave": "10080150",
+        "nombre": "La Cabaña de Tetor"
+    },
+    {
+        "clave": "10080151",
+        "nombre": "San José [Club Náutico]"
+    },
+    {
+        "clave": "10080152",
+        "nombre": "Ganadería Medina Ibarra"
+    },
+    {
+        "clave": "10080153",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "10080154",
+        "nombre": "El Soyate"
+    },
+    {
+        "clave": "10080155",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "10080156",
+        "nombre": "Claudio Gil"
+    },
+    {
+        "clave": "10080157",
+        "nombre": "David Arroyo"
+    },
+    {
+        "clave": "10080158",
+        "nombre": "Javier Romo"
+    },
+    {
+        "clave": "10080159",
+        "nombre": "Jesús Romo"
+    },
+    {
+        "clave": "10080160",
+        "nombre": "La Majada"
+    },
+    {
+        "clave": "10080161",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "10080162",
+        "nombre": "Bajío de los Pilares (Héctor del Villar)"
+    },
+    {
+        "clave": "10080163",
+        "nombre": "La Barranca (Ganadería Medina Ibarra)"
+    },
+    {
+        "clave": "10080164",
+        "nombre": "Cerro de las Borregas (Benjamín Rangel Jiménez)"
+    },
+    {
+        "clave": "10080165",
+        "nombre": "Los Galleros"
+    },
+    {
+        "clave": "10080166",
+        "nombre": "El Huapango (Alfonso Alba)"
+    },
+    {
+        "clave": "10080167",
+        "nombre": "Laguna Seca (Jesús Medina)"
+    },
+    {
+        "clave": "10080168",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "10080169",
+        "nombre": "La Loma del Gato (Carlos Herrera)"
+    },
+    {
+        "clave": "10080170",
+        "nombre": "La Loma del Gato (Gabriel Sánchez)"
+    },
+    {
+        "clave": "10080171",
+        "nombre": "Las Macitas (Miguel Ángel Valdez)"
+    },
+    {
+        "clave": "10080172",
+        "nombre": "El Mágico (Jesús Muñoz)"
+    },
+    {
+        "clave": "10080173",
+        "nombre": "Las Manzanillas"
+    },
+    {
+        "clave": "10080174",
+        "nombre": "Cabaña de Miguel Ángel Carbajal González"
+    },
+    {
+        "clave": "10080175",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "10080176",
+        "nombre": "Nido del Águila (Licenciado Tristán)"
+    },
+    {
+        "clave": "10080177",
+        "nombre": "La Pensión (Javier Buenrostro Gándara)"
+    },
+    {
+        "clave": "10080178",
+        "nombre": "La Peña del Aire (Jorge Gándara)"
+    },
+    {
+        "clave": "10080179",
+        "nombre": "La Piedra del Tesoro (Marco Aurelio Hernández Pérez)"
+    },
+    {
+        "clave": "10080180",
+        "nombre": "Puerta del Madroño"
+    },
+    {
+        "clave": "10080181",
+        "nombre": "Sierra del Curro (Víctor Padilla)"
+    },
+    {
+        "clave": "10080182",
+        "nombre": "Sierra Paraíso"
+    },
+    {
+        "clave": "10080183",
+        "nombre": "El Zarco"
+    },
+    {
+        "clave": "10080184",
+        "nombre": "Guadalupe Casillas Hernández (El Huizache)"
+    },
+    {
+        "clave": "10080185",
+        "nombre": "Las Cabañas de Serrano"
+    },
+    {
+        "clave": "10080186",
+        "nombre": "La Escondida [Crucero a Tortugas]"
+    }
+]

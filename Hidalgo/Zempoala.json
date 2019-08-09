@@ -1,0 +1,438 @@
+[
+    {
+        "clave": "130830014",
+        "nombre": "Las Palomas"
+    },
+    {
+        "clave": "130830128",
+        "nombre": "Ejido de Tzacuala"
+    },
+    {
+        "clave": "130830130",
+        "nombre": "El Mirador Sexta Sección"
+    },
+    {
+        "clave": "130830017",
+        "nombre": "San Gabriel Azteca"
+    },
+    {
+        "clave": "130830022",
+        "nombre": "Ex-hacienda de Tecajete"
+    },
+    {
+        "clave": "130830025",
+        "nombre": "Tepa el Grande"
+    },
+    {
+        "clave": "130830028",
+        "nombre": "San Mateo Tlajomulco"
+    },
+    {
+        "clave": "130830034",
+        "nombre": "Zontecomate"
+    },
+    {
+        "clave": "130830042",
+        "nombre": "La Cuchilla"
+    },
+    {
+        "clave": "130830043",
+        "nombre": "El Cerrito de Téllez"
+    },
+    {
+        "clave": "130830046",
+        "nombre": "San Cristóbal el Grande"
+    },
+    {
+        "clave": "130830047",
+        "nombre": "Ex-hacienda San Antonio Tochatlaco"
+    },
+    {
+        "clave": "130830059",
+        "nombre": "Ex-hacienda Guadalupe Arcos"
+    },
+    {
+        "clave": "130830070",
+        "nombre": "Las Casas"
+    },
+    {
+        "clave": "130830077",
+        "nombre": "La Isla"
+    },
+    {
+        "clave": "130830080",
+        "nombre": "El Barrio Casas Coloradas"
+    },
+    {
+        "clave": "130830086",
+        "nombre": "Nueva San Agustín [Colonia]"
+    },
+    {
+        "clave": "130830087",
+        "nombre": "La Grava"
+    },
+    {
+        "clave": "130830090",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "130830131",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "130830001",
+        "nombre": "Zempoala"
+    },
+    {
+        "clave": "130830002",
+        "nombre": "Acelotla de Ocampo"
+    },
+    {
+        "clave": "130830006",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "130830007",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "130830008",
+        "nombre": "Rancho Luna"
+    },
+    {
+        "clave": "130830009",
+        "nombre": "Guadalupe Santa Rita de Arriba"
+    },
+    {
+        "clave": "130830011",
+        "nombre": "Rancho Margarita"
+    },
+    {
+        "clave": "130830012",
+        "nombre": "Ex-hacienda Metepec"
+    },
+    {
+        "clave": "130830013",
+        "nombre": "Nextlalpan (San Miguel Nextlalpan)"
+    },
+    {
+        "clave": "130830015",
+        "nombre": "San Agustín Zapotlán"
+    },
+    {
+        "clave": "130830016",
+        "nombre": "San Antonio Oxtoyucan"
+    },
+    {
+        "clave": "130830019",
+        "nombre": "Santa María Tecajete"
+    },
+    {
+        "clave": "130830020",
+        "nombre": "Ex-hacienda Santa Rita el Sauz"
+    },
+    {
+        "clave": "130830021",
+        "nombre": "Santo Tomás"
+    },
+    {
+        "clave": "130830023",
+        "nombre": "Jagüey de Téllez (Estación Téllez)"
+    },
+    {
+        "clave": "130830026",
+        "nombre": "Santiago Tepeyahualco"
+    },
+    {
+        "clave": "130830027",
+        "nombre": "Tepozoyucan"
+    },
+    {
+        "clave": "130830029",
+        "nombre": "San Pedro Tlaquilpan"
+    },
+    {
+        "clave": "130830030",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "130830031",
+        "nombre": "Venustiano Carranza"
+    },
+    {
+        "clave": "130830032",
+        "nombre": "Villa Margarita"
+    },
+    {
+        "clave": "130830035",
+        "nombre": "Hacienda Tepa el Chico"
+    },
+    {
+        "clave": "130830036",
+        "nombre": "Granjas Integradas"
+    },
+    {
+        "clave": "130830044",
+        "nombre": "San Juan Pueblilla"
+    },
+    {
+        "clave": "130830045",
+        "nombre": "Santa Gertrudis"
+    },
+    {
+        "clave": "130830048",
+        "nombre": "Mazatepec"
+    },
+    {
+        "clave": "130830049",
+        "nombre": "Ex-hacienda Montecillos"
+    },
+    {
+        "clave": "130830055",
+        "nombre": "Rancho Bachimba"
+    },
+    {
+        "clave": "130830056",
+        "nombre": "El Capiro"
+    },
+    {
+        "clave": "130830058",
+        "nombre": "Rancho Guadalupe"
+    },
+    {
+        "clave": "130830060",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "130830061",
+        "nombre": "Los Olivos"
+    },
+    {
+        "clave": "130830062",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "130830064",
+        "nombre": "San José Tetecuintla"
+    },
+    {
+        "clave": "130830065",
+        "nombre": "San Antonio Tepeyac"
+    },
+    {
+        "clave": "130830066",
+        "nombre": "San Mateo Axtlacoyoacan (San Mateo) [Rancho]"
+    },
+    {
+        "clave": "130830067",
+        "nombre": "Rancho Guadalupe"
+    },
+    {
+        "clave": "130830071",
+        "nombre": "Alfonso Corona del Rosal"
+    },
+    {
+        "clave": "130830073",
+        "nombre": "Los Pilares"
+    },
+    {
+        "clave": "130830074",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "130830075",
+        "nombre": "Los Pozos"
+    },
+    {
+        "clave": "130830076",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "130830081",
+        "nombre": "Los Canales"
+    },
+    {
+        "clave": "130830082",
+        "nombre": "El Capulín"
+    },
+    {
+        "clave": "130830084",
+        "nombre": "Casa Vieja"
+    },
+    {
+        "clave": "130830085",
+        "nombre": "Santa Isabel"
+    },
+    {
+        "clave": "130830088",
+        "nombre": "Las Lomas (Los Galleros)"
+    },
+    {
+        "clave": "130830089",
+        "nombre": "Rancho Berlín"
+    },
+    {
+        "clave": "130830091",
+        "nombre": "El Tejamanil"
+    },
+    {
+        "clave": "130830092",
+        "nombre": "Ejido San Antonio Oxtoyucan"
+    },
+    {
+        "clave": "130830093",
+        "nombre": "Los Laureles [Rancho]"
+    },
+    {
+        "clave": "130830094",
+        "nombre": "Rancho Dazha"
+    },
+    {
+        "clave": "130830095",
+        "nombre": "Pozo el Llano"
+    },
+    {
+        "clave": "130830096",
+        "nombre": "La Era de la Peña"
+    },
+    {
+        "clave": "130830097",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "130830099",
+        "nombre": "Cañada el Salvador [Rancho]"
+    },
+    {
+        "clave": "130830100",
+        "nombre": "La Luz [Rancho]"
+    },
+    {
+        "clave": "130830101",
+        "nombre": "La Galera"
+    },
+    {
+        "clave": "130830102",
+        "nombre": "Lindavista"
+    },
+    {
+        "clave": "130830103",
+        "nombre": "Cuatro Caminos [Rancho]"
+    },
+    {
+        "clave": "130830105",
+        "nombre": "El Caracol [Rancho]"
+    },
+    {
+        "clave": "130830106",
+        "nombre": "La Palma [Rancho]"
+    },
+    {
+        "clave": "130830109",
+        "nombre": "Santa Inés"
+    },
+    {
+        "clave": "130830110",
+        "nombre": "Margarito Osorno"
+    },
+    {
+        "clave": "130830111",
+        "nombre": "San Hipólito [Rancho]"
+    },
+    {
+        "clave": "130830112",
+        "nombre": "Casa Sola"
+    },
+    {
+        "clave": "130830113",
+        "nombre": "El Charquito"
+    },
+    {
+        "clave": "130830114",
+        "nombre": "Jagüey Seco"
+    },
+    {
+        "clave": "130830115",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "130830116",
+        "nombre": "Cerro Pelón [Rancho]"
+    },
+    {
+        "clave": "130830117",
+        "nombre": "El Chocolin [Rancho]"
+    },
+    {
+        "clave": "130830118",
+        "nombre": "El Cristo [Rancho]"
+    },
+    {
+        "clave": "130830119",
+        "nombre": "El Obregón [Rancho]"
+    },
+    {
+        "clave": "130830120",
+        "nombre": "La Palma [Rancho]"
+    },
+    {
+        "clave": "130830121",
+        "nombre": "Las Calaveras [Rancho]"
+    },
+    {
+        "clave": "130830122",
+        "nombre": "Las Palomas [Rancho]"
+    },
+    {
+        "clave": "130830123",
+        "nombre": "La Rinconada"
+    },
+    {
+        "clave": "130830124",
+        "nombre": "Roberto Islas"
+    },
+    {
+        "clave": "130830125",
+        "nombre": "San José"
+    },
+    {
+        "clave": "130830126",
+        "nombre": "San Juan Tepemazalco"
+    },
+    {
+        "clave": "130830127",
+        "nombre": "San Ignacio [Rancho]"
+    },
+    {
+        "clave": "130830129",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "130830132",
+        "nombre": "Palmitas [Colonia]"
+    },
+    {
+        "clave": "130830133",
+        "nombre": "Privadas Santa Matilde"
+    },
+    {
+        "clave": "130830134",
+        "nombre": "Villas de San Marcos"
+    },
+    {
+        "clave": "130830135",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "130830136",
+        "nombre": "Bosques de Matilde"
+    },
+    {
+        "clave": "130830137",
+        "nombre": "Villa Fontana"
+    },
+    {
+        "clave": "130830138",
+        "nombre": "Los Ciruelos"
+    }
+]

@@ -1,0 +1,758 @@
+[
+    {
+        "clave": "310650001",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "310650002",
+        "nombre": "Acapulco"
+    },
+    {
+        "clave": "310650003",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "310650009",
+        "nombre": "Lourdes"
+    },
+    {
+        "clave": "310650011",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "310650013",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "310650014",
+        "nombre": "San Benito"
+    },
+    {
+        "clave": "310650016",
+        "nombre": "San Esteban"
+    },
+    {
+        "clave": "310650017",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "310650018",
+        "nombre": "San Francisco de Asís"
+    },
+    {
+        "clave": "310650019",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "310650021",
+        "nombre": "Chen Cimén"
+    },
+    {
+        "clave": "310650023",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "310650024",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "310650027",
+        "nombre": "Paraíso"
+    },
+    {
+        "clave": "310650028",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "310650029",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "310650030",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "310650032",
+        "nombre": "Santiaguito"
+    },
+    {
+        "clave": "310650033",
+        "nombre": "Santo Domingo"
+    },
+    {
+        "clave": "310650035",
+        "nombre": "Soledad"
+    },
+    {
+        "clave": "310650036",
+        "nombre": "Xkokol"
+    },
+    {
+        "clave": "310650037",
+        "nombre": "Xpanha-Toro"
+    },
+    {
+        "clave": "310650038",
+        "nombre": "Yokdzonot"
+    },
+    {
+        "clave": "310650039",
+        "nombre": "Actún Há"
+    },
+    {
+        "clave": "310650044",
+        "nombre": "Chun On"
+    },
+    {
+        "clave": "310650046",
+        "nombre": "Ebtún"
+    },
+    {
+        "clave": "310650050",
+        "nombre": "La Costa"
+    },
+    {
+        "clave": "310650056",
+        "nombre": "Santa Cruz Miraflor"
+    },
+    {
+        "clave": "310650057",
+        "nombre": "Monserrat"
+    },
+    {
+        "clave": "310650060",
+        "nombre": "Chaparral"
+    },
+    {
+        "clave": "310650061",
+        "nombre": "Orizaba"
+    },
+    {
+        "clave": "310650063",
+        "nombre": "Santa Clara"
+    },
+    {
+        "clave": "310650064",
+        "nombre": "San Lucas"
+    },
+    {
+        "clave": "310650068",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "310650070",
+        "nombre": "Las Cruces"
+    },
+    {
+        "clave": "310650071",
+        "nombre": "San Dimas"
+    },
+    {
+        "clave": "310650075",
+        "nombre": "San Gregorio"
+    },
+    {
+        "clave": "310650076",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "310650079",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "310650080",
+        "nombre": "San Juan Número Tres"
+    },
+    {
+        "clave": "310650081",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "310650082",
+        "nombre": "Ix Nohtok"
+    },
+    {
+        "clave": "310650083",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "310650084",
+        "nombre": "San Luis Mena"
+    },
+    {
+        "clave": "310650087",
+        "nombre": "San Román Uno"
+    },
+    {
+        "clave": "310650091",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "310650095",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "310650101",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "310650102",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "310650106",
+        "nombre": "San Genaro"
+    },
+    {
+        "clave": "310650108",
+        "nombre": "Santa Pilar"
+    },
+    {
+        "clave": "310650111",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "310650112",
+        "nombre": "Cuatro Hermanos"
+    },
+    {
+        "clave": "310650113",
+        "nombre": "Cuchbatab"
+    },
+    {
+        "clave": "310650114",
+        "nombre": "Chacancún"
+    },
+    {
+        "clave": "310650115",
+        "nombre": "Chan Pozuelo"
+    },
+    {
+        "clave": "310650117",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "310650119",
+        "nombre": "Ingenio"
+    },
+    {
+        "clave": "310650120",
+        "nombre": "Kaladzadz"
+    },
+    {
+        "clave": "310650125",
+        "nombre": "San Gabriel"
+    },
+    {
+        "clave": "310650127",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "310650129",
+        "nombre": "Santa Anita"
+    },
+    {
+        "clave": "310650131",
+        "nombre": "Santa Lucía"
+    },
+    {
+        "clave": "310650132",
+        "nombre": "Xkalayaxché"
+    },
+    {
+        "clave": "310650133",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "310650134",
+        "nombre": "Santa Clara"
+    },
+    {
+        "clave": "310650136",
+        "nombre": "Saya Osorno"
+    },
+    {
+        "clave": "310650137",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "310650138",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "310650139",
+        "nombre": "Santa Martha"
+    },
+    {
+        "clave": "310650140",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "310650142",
+        "nombre": "Edén"
+    },
+    {
+        "clave": "310650143",
+        "nombre": "San Sebastián"
+    },
+    {
+        "clave": "310650146",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "310650147",
+        "nombre": "El Faisán"
+    },
+    {
+        "clave": "310650149",
+        "nombre": "Santo Domingo"
+    },
+    {
+        "clave": "310650150",
+        "nombre": "Santiaguito"
+    },
+    {
+        "clave": "310650151",
+        "nombre": "El Sagrario"
+    },
+    {
+        "clave": "310650152",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "310650154",
+        "nombre": "Xcaltún"
+    },
+    {
+        "clave": "310650155",
+        "nombre": "X-Panhatoro"
+    },
+    {
+        "clave": "310650156",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "310650157",
+        "nombre": "Sayashán"
+    },
+    {
+        "clave": "310650158",
+        "nombre": "San José"
+    },
+    {
+        "clave": "310650159",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "310650160",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "310650161",
+        "nombre": "San Pascual"
+    },
+    {
+        "clave": "310650162",
+        "nombre": "Solteca"
+    },
+    {
+        "clave": "310650163",
+        "nombre": "Almendro"
+    },
+    {
+        "clave": "310650164",
+        "nombre": "El Almendro"
+    },
+    {
+        "clave": "310650165",
+        "nombre": "El Bajío"
+    },
+    {
+        "clave": "310650166",
+        "nombre": "La Bendición de Dios"
+    },
+    {
+        "clave": "310650167",
+        "nombre": "Chen Cortador"
+    },
+    {
+        "clave": "310650168",
+        "nombre": "Chinalco"
+    },
+    {
+        "clave": "310650169",
+        "nombre": "Concepción"
+    },
+    {
+        "clave": "310650170",
+        "nombre": "Dzonot Lú"
+    },
+    {
+        "clave": "310650171",
+        "nombre": "Dzonot Pinto Uno"
+    },
+    {
+        "clave": "310650172",
+        "nombre": "El Girasol"
+    },
+    {
+        "clave": "310650173",
+        "nombre": "Maracaibo"
+    },
+    {
+        "clave": "310650174",
+        "nombre": "El Milagro de Dios"
+    },
+    {
+        "clave": "310650175",
+        "nombre": "Miraflor"
+    },
+    {
+        "clave": "310650176",
+        "nombre": "Montecristo"
+    },
+    {
+        "clave": "310650177",
+        "nombre": "Montecristo"
+    },
+    {
+        "clave": "310650179",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "310650180",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "310650181",
+        "nombre": "Chac-Dzadz Primero"
+    },
+    {
+        "clave": "310650182",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "310650183",
+        "nombre": "El Ramonal"
+    },
+    {
+        "clave": "310650184",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "310650185",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "310650186",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "310650187",
+        "nombre": "San Diego"
+    },
+    {
+        "clave": "310650188",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "310650189",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "310650190",
+        "nombre": "San Genaro"
+    },
+    {
+        "clave": "310650191",
+        "nombre": "San Genaro"
+    },
+    {
+        "clave": "310650192",
+        "nombre": "San Gilberto"
+    },
+    {
+        "clave": "310650193",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "310650194",
+        "nombre": "San José"
+    },
+    {
+        "clave": "310650195",
+        "nombre": "San José"
+    },
+    {
+        "clave": "310650196",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "310650197",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "310650198",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "310650199",
+        "nombre": "San Luis Díaz"
+    },
+    {
+        "clave": "310650200",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "310650201",
+        "nombre": "San Manuel de Atocha"
+    },
+    {
+        "clave": "310650202",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "310650203",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "310650204",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "310650205",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "310650206",
+        "nombre": "San Martín de la Costa"
+    },
+    {
+        "clave": "310650207",
+        "nombre": "San Néstor"
+    },
+    {
+        "clave": "310650208",
+        "nombre": "San Pastor"
+    },
+    {
+        "clave": "310650209",
+        "nombre": "San Pastor"
+    },
+    {
+        "clave": "310650210",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "310650211",
+        "nombre": "San Ramón"
+    },
+    {
+        "clave": "310650212",
+        "nombre": "San Román Dos"
+    },
+    {
+        "clave": "310650213",
+        "nombre": "San Salvador"
+    },
+    {
+        "clave": "310650214",
+        "nombre": "Santa Clara"
+    },
+    {
+        "clave": "310650215",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "310650216",
+        "nombre": "Santa Librada"
+    },
+    {
+        "clave": "310650217",
+        "nombre": "Santa Lourdes"
+    },
+    {
+        "clave": "310650218",
+        "nombre": "Santa Lucía"
+    },
+    {
+        "clave": "310650219",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "310650220",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "310650221",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "310650222",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "310650223",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "310650224",
+        "nombre": "Santiaguito"
+    },
+    {
+        "clave": "310650225",
+        "nombre": "Sayá Copó"
+    },
+    {
+        "clave": "310650226",
+        "nombre": "Temisto"
+    },
+    {
+        "clave": "310650227",
+        "nombre": "Tres Marías"
+    },
+    {
+        "clave": "310650228",
+        "nombre": "Tres Reyes"
+    },
+    {
+        "clave": "310650229",
+        "nombre": "Xkokol Dos"
+    },
+    {
+        "clave": "310650230",
+        "nombre": "Zacnicté"
+    },
+    {
+        "clave": "310650231",
+        "nombre": "Zak Put"
+    },
+    {
+        "clave": "310650232",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "310650233",
+        "nombre": "Tres Hermanos"
+    },
+    {
+        "clave": "310650234",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "310650235",
+        "nombre": "Santiaguito"
+    },
+    {
+        "clave": "310650236",
+        "nombre": "La Posta"
+    },
+    {
+        "clave": "310650237",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "310650238",
+        "nombre": "El Chamizal"
+    },
+    {
+        "clave": "310650239",
+        "nombre": "Dzonot Pinto"
+    },
+    {
+        "clave": "310650240",
+        "nombre": "Los Girasoles"
+    },
+    {
+        "clave": "310650241",
+        "nombre": "Las Margaritas"
+    },
+    {
+        "clave": "310650242",
+        "nombre": "El Porvenir Dos"
+    },
+    {
+        "clave": "310650243",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "310650244",
+        "nombre": "San Joaquín"
+    },
+    {
+        "clave": "310650245",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "310650246",
+        "nombre": "Zapata"
+    },
+    {
+        "clave": "310650247",
+        "nombre": "Tony Mena"
+    },
+    {
+        "clave": "310650248",
+        "nombre": "Aktanchuleh"
+    },
+    {
+        "clave": "310650249",
+        "nombre": "La Almendra"
+    },
+    {
+        "clave": "310650250",
+        "nombre": "Santa Rosa [Anexa]"
+    },
+    {
+        "clave": "310650251",
+        "nombre": "Francisco Ceme"
+    },
+    {
+        "clave": "310650252",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310650253",
+        "nombre": "El Milagro de Dios"
+    },
+    {
+        "clave": "310650254",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "310650255",
+        "nombre": "El Ramonal"
+    },
+    {
+        "clave": "310650256",
+        "nombre": "San Diego"
+    },
+    {
+        "clave": "310650257",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "310650258",
+        "nombre": "San Germán"
+    },
+    {
+        "clave": "310650259",
+        "nombre": "San José Tizimín"
+    },
+    {
+        "clave": "310650260",
+        "nombre": "San Judas Tadeo"
+    },
+    {
+        "clave": "310650261",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "310650262",
+        "nombre": "Santa Martha"
+    },
+    {
+        "clave": "310650263",
+        "nombre": "San Carlos"
+    }
+]

@@ -1,0 +1,598 @@
+[
+    {
+        "clave": "50360002",
+        "nombre": "Bajío de Ahuichila"
+    },
+    {
+        "clave": "50360005",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "50360008",
+        "nombre": "Darías"
+    },
+    {
+        "clave": "50360011",
+        "nombre": "La Fe"
+    },
+    {
+        "clave": "50360012",
+        "nombre": "Flor de Mayo"
+    },
+    {
+        "clave": "50360018",
+        "nombre": "Héroes de Chapultepec (Niños Héroes)"
+    },
+    {
+        "clave": "50360019",
+        "nombre": "Ignacio Zaragoza"
+    },
+    {
+        "clave": "50360020",
+        "nombre": "La Mancha [Estación]"
+    },
+    {
+        "clave": "50360022",
+        "nombre": "Las Margaritas (Casco)"
+    },
+    {
+        "clave": "50360028",
+        "nombre": "Punta de Santo Domingo"
+    },
+    {
+        "clave": "50360035",
+        "nombre": "San Miguel del Alto"
+    },
+    {
+        "clave": "50360039",
+        "nombre": "Saucillo"
+    },
+    {
+        "clave": "50360045",
+        "nombre": "Venustiano Carranza (Hacienda de Hornos)"
+    },
+    {
+        "clave": "50360050",
+        "nombre": "Alto del Palomillo"
+    },
+    {
+        "clave": "50360064",
+        "nombre": "La Leona"
+    },
+    {
+        "clave": "50360079",
+        "nombre": "La Presa de Yenti"
+    },
+    {
+        "clave": "50360082",
+        "nombre": "Juan Antonio del Sur (Sector Gilita Ocho)"
+    },
+    {
+        "clave": "50360100",
+        "nombre": "El Esfuerzo Sector Ocho (El Puerto)"
+    },
+    {
+        "clave": "50360102",
+        "nombre": "La Fe"
+    },
+    {
+        "clave": "50360157",
+        "nombre": "Cinco de Mayo"
+    },
+    {
+        "clave": "50360001",
+        "nombre": "Viesca"
+    },
+    {
+        "clave": "50360004",
+        "nombre": "Boquilla de las Perlas"
+    },
+    {
+        "clave": "50360006",
+        "nombre": "El Crótalo"
+    },
+    {
+        "clave": "50360007",
+        "nombre": "El Chupón"
+    },
+    {
+        "clave": "50360009",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "50360013",
+        "nombre": "Gabino Vázquez (San Luis)"
+    },
+    {
+        "clave": "50360014",
+        "nombre": "Gilita"
+    },
+    {
+        "clave": "50360016",
+        "nombre": "Gregorio García (El Taconazo)"
+    },
+    {
+        "clave": "50360021",
+        "nombre": "Las Margaritas"
+    },
+    {
+        "clave": "50360023",
+        "nombre": "Mieleras"
+    },
+    {
+        "clave": "50360025",
+        "nombre": "Nuevo Margaritas"
+    },
+    {
+        "clave": "50360026",
+        "nombre": "Nueva Reynosa"
+    },
+    {
+        "clave": "50360029",
+        "nombre": "Río Escondido"
+    },
+    {
+        "clave": "50360030",
+        "nombre": "La Rosita"
+    },
+    {
+        "clave": "50360031",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "50360032",
+        "nombre": "San José del Aguaje"
+    },
+    {
+        "clave": "50360033",
+        "nombre": "San Juan de Villanueva (Villanueva)"
+    },
+    {
+        "clave": "50360034",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "50360036",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "50360037",
+        "nombre": "Santa María Uno"
+    },
+    {
+        "clave": "50360040",
+        "nombre": "Tanque Aguilereño (El Tanque)"
+    },
+    {
+        "clave": "50360041",
+        "nombre": "Tejabán de la Rosita"
+    },
+    {
+        "clave": "50360042",
+        "nombre": "Tejabán del Esfuerzo (El Esfuerzo)"
+    },
+    {
+        "clave": "50360043",
+        "nombre": "Tierra y Libertad"
+    },
+    {
+        "clave": "50360044",
+        "nombre": "La Ventana"
+    },
+    {
+        "clave": "50360046",
+        "nombre": "Villa de Bilbao"
+    },
+    {
+        "clave": "50360054",
+        "nombre": "Cinco Hermanos"
+    },
+    {
+        "clave": "50360055",
+        "nombre": "La Esperanza (Florencia)"
+    },
+    {
+        "clave": "50360056",
+        "nombre": "El Esterito Uno"
+    },
+    {
+        "clave": "50360057",
+        "nombre": "El Esterito"
+    },
+    {
+        "clave": "50360058",
+        "nombre": "San Jorge (El Florido)"
+    },
+    {
+        "clave": "50360061",
+        "nombre": "La Siete (Laguna Seca)"
+    },
+    {
+        "clave": "50360066",
+        "nombre": "San José [Establo]"
+    },
+    {
+        "clave": "50360069",
+        "nombre": "La Noria (El Control)"
+    },
+    {
+        "clave": "50360070",
+        "nombre": "Nuevo Cuauhtémoc"
+    },
+    {
+        "clave": "50360071",
+        "nombre": "Paredones"
+    },
+    {
+        "clave": "50360073",
+        "nombre": "Poanas Margaritas (Margaritas Dos)"
+    },
+    {
+        "clave": "50360075",
+        "nombre": "San Jorge (El Crótalo)"
+    },
+    {
+        "clave": "50360077",
+        "nombre": "San Ignacio"
+    },
+    {
+        "clave": "50360080",
+        "nombre": "Zapopan"
+    },
+    {
+        "clave": "50360086",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "50360092",
+        "nombre": "Boquilla Tres"
+    },
+    {
+        "clave": "50360093",
+        "nombre": "Boquillas Sociedad"
+    },
+    {
+        "clave": "50360095",
+        "nombre": "Esfuerzo Sector Cinco (La Chiripa)"
+    },
+    {
+        "clave": "50360097",
+        "nombre": "Claudio [Estación]"
+    },
+    {
+        "clave": "50360098",
+        "nombre": "La Colorada"
+    },
+    {
+        "clave": "50360099",
+        "nombre": "Darías (Estación Darías)"
+    },
+    {
+        "clave": "50360101",
+        "nombre": "El Esfuerzo Sector Seis"
+    },
+    {
+        "clave": "50360103",
+        "nombre": "General Eulalio Gutiérrez González"
+    },
+    {
+        "clave": "50360106",
+        "nombre": "Sector Uno Mieleras"
+    },
+    {
+        "clave": "50360110",
+        "nombre": "El Paraíso [Establo]"
+    },
+    {
+        "clave": "50360112",
+        "nombre": "San José del Esfuerzo"
+    },
+    {
+        "clave": "50360118",
+        "nombre": "Las Víboras"
+    },
+    {
+        "clave": "50360120",
+        "nombre": "Las Liebres"
+    },
+    {
+        "clave": "50360121",
+        "nombre": "Sector Siete Boquilla de las Perlas"
+    },
+    {
+        "clave": "50360122",
+        "nombre": "Sector Cinco Mieleras (El Pabellón)"
+    },
+    {
+        "clave": "50360123",
+        "nombre": "Sector Doce Mieleras (Noria los Paniagua)"
+    },
+    {
+        "clave": "50360124",
+        "nombre": "Las Margaritas [Establo]"
+    },
+    {
+        "clave": "50360126",
+        "nombre": "Sector Once Mieleras (La Nogalera)"
+    },
+    {
+        "clave": "50360128",
+        "nombre": "Norias Plan Viesca"
+    },
+    {
+        "clave": "50360130",
+        "nombre": "Santa María Sector Nueve"
+    },
+    {
+        "clave": "50360131",
+        "nombre": "Santa María de Arriba"
+    },
+    {
+        "clave": "50360133",
+        "nombre": "Rosita Cuatro A (Noria los Valero)"
+    },
+    {
+        "clave": "50360134",
+        "nombre": "Sector Javier Rojo Gómez"
+    },
+    {
+        "clave": "50360136",
+        "nombre": "Sector Tres A Caracol"
+    },
+    {
+        "clave": "50360137",
+        "nombre": "Sector Tres B Aguanueva"
+    },
+    {
+        "clave": "50360138",
+        "nombre": "Sector Siete Gilita"
+    },
+    {
+        "clave": "50360139",
+        "nombre": "Sector Seis Gilita"
+    },
+    {
+        "clave": "50360141",
+        "nombre": "Sector Gilita Dos"
+    },
+    {
+        "clave": "50360142",
+        "nombre": "Sector Trece B Mieleras (Los Alacranes)"
+    },
+    {
+        "clave": "50360143",
+        "nombre": "Sector Trece A Mieleras"
+    },
+    {
+        "clave": "50360144",
+        "nombre": "Sector Siete Mieleras"
+    },
+    {
+        "clave": "50360145",
+        "nombre": "Sector Tres Mieleras"
+    },
+    {
+        "clave": "50360146",
+        "nombre": "Sector Diez Mieleras"
+    },
+    {
+        "clave": "50360147",
+        "nombre": "Sector Dos Mieleras"
+    },
+    {
+        "clave": "50360148",
+        "nombre": "Cinco de Mayo"
+    },
+    {
+        "clave": "50360149",
+        "nombre": "Sector 6 la Ventana Veintiocho-Veintinueve"
+    },
+    {
+        "clave": "50360150",
+        "nombre": "Sector 6 la Ventana Veintiocho-Veintisiete"
+    },
+    {
+        "clave": "50360152",
+        "nombre": "Sector 2 Flor de Mayo Veintisiete-Veintitrés"
+    },
+    {
+        "clave": "50360153",
+        "nombre": "El Establo"
+    },
+    {
+        "clave": "50360155",
+        "nombre": "Margaritas Sector Uno"
+    },
+    {
+        "clave": "50360158",
+        "nombre": "Sector Quince Mieleras"
+    },
+    {
+        "clave": "50360159",
+        "nombre": "Sector Tres C. Gilita (Rancho del Prieto)"
+    },
+    {
+        "clave": "50360160",
+        "nombre": "El Cerrito (La Cuadra)"
+    },
+    {
+        "clave": "50360161",
+        "nombre": "El Cerrito (La Granja)"
+    },
+    {
+        "clave": "50360162",
+        "nombre": "El Uno"
+    },
+    {
+        "clave": "50360163",
+        "nombre": "Boquillas Dos"
+    },
+    {
+        "clave": "50360164",
+        "nombre": "Sector Cuatro Mieleras"
+    },
+    {
+        "clave": "50360165",
+        "nombre": "Sector Seis Mieleras"
+    },
+    {
+        "clave": "50360166",
+        "nombre": "Sector Dos La Rosita"
+    },
+    {
+        "clave": "50360167",
+        "nombre": "Noria Número Cuatro"
+    },
+    {
+        "clave": "50360168",
+        "nombre": "Sector Nueve Mieleras"
+    },
+    {
+        "clave": "50360169",
+        "nombre": "Sector Ocho B Mieleras"
+    },
+    {
+        "clave": "50360170",
+        "nombre": "8 de Abril (Pozo 2030) [Sociedad de Producción Agropecuaria]"
+    },
+    {
+        "clave": "50360172",
+        "nombre": "Ventana Dos [Establo]"
+    },
+    {
+        "clave": "50360173",
+        "nombre": "Sector Uno Veintisiete-Veintiuno Flor de Mayo"
+    },
+    {
+        "clave": "50360174",
+        "nombre": "Sector Dos Veintisiete-Veinte Flor de Mayo"
+    },
+    {
+        "clave": "50360176",
+        "nombre": "San Manuel Sociedad"
+    },
+    {
+        "clave": "50360177",
+        "nombre": "Sector Uno Ignacio Zaragoza (Noria de los Rojos)"
+    },
+    {
+        "clave": "50360178",
+        "nombre": "Sector 3 Ignacio Zaragoza (Noria de la Víboras)"
+    },
+    {
+        "clave": "50360180",
+        "nombre": "Sector Uno Gabino Vázquez"
+    },
+    {
+        "clave": "50360181",
+        "nombre": "La Fe"
+    },
+    {
+        "clave": "50360182",
+        "nombre": "General Eulalio Gutiérrez González"
+    },
+    {
+        "clave": "50360183",
+        "nombre": "La Chicharra"
+    },
+    {
+        "clave": "50360184",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "50360185",
+        "nombre": "La Cuchilla (Noria Villa de Bilbao 3089)"
+    },
+    {
+        "clave": "50360186",
+        "nombre": "Noria Villa de Bilbao Dos Mil Novecientos"
+    },
+    {
+        "clave": "50360187",
+        "nombre": "Luz María (Los García)"
+    },
+    {
+        "clave": "50360188",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "50360189",
+        "nombre": "El Alto del Becerro"
+    },
+    {
+        "clave": "50360190",
+        "nombre": "El Cafetal"
+    },
+    {
+        "clave": "50360191",
+        "nombre": "Sector Gilitas (La Colorada)"
+    },
+    {
+        "clave": "50360192",
+        "nombre": "Sector Ocho A Mieleras"
+    },
+    {
+        "clave": "50360193",
+        "nombre": "Sector Tres"
+    },
+    {
+        "clave": "50360194",
+        "nombre": "Los Rosales de Mieleras"
+    },
+    {
+        "clave": "50360195",
+        "nombre": "Paulin Juárez García"
+    },
+    {
+        "clave": "50360197",
+        "nombre": "La Cabaña"
+    },
+    {
+        "clave": "50360198",
+        "nombre": "Graciano Sánchez"
+    },
+    {
+        "clave": "50360199",
+        "nombre": "El Esterito Dos"
+    },
+    {
+        "clave": "50360200",
+        "nombre": "Noria Veintisiete Once"
+    },
+    {
+        "clave": "50360201",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "50360202",
+        "nombre": "Localidad sin Nombre (Félix Gallardo)"
+    },
+    {
+        "clave": "50360203",
+        "nombre": "Santa Rosalía"
+    },
+    {
+        "clave": "50360204",
+        "nombre": "Sector Ocho B Mieleras"
+    },
+    {
+        "clave": "50360205",
+        "nombre": "Boquilla de las Perlas (Veintiocho Catorce)"
+    },
+    {
+        "clave": "50360206",
+        "nombre": "Sector Cinco Boquilla de las Perlas (Las Víboras)"
+    },
+    {
+        "clave": "50360207",
+        "nombre": "Sector Ocho Mieleras"
+    },
+    {
+        "clave": "50360208",
+        "nombre": "Noria 3092"
+    },
+    {
+        "clave": "50360209",
+        "nombre": "Noria el Pozo"
+    }
+]

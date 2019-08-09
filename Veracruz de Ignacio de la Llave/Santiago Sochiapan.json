@@ -1,0 +1,502 @@
+[
+    {
+        "clave": "302120007",
+        "nombre": "Arroyo"
+    },
+    {
+        "clave": "302120048",
+        "nombre": "Las Bugambilias"
+    },
+    {
+        "clave": "302120082",
+        "nombre": "Los Hernández"
+    },
+    {
+        "clave": "302120103",
+        "nombre": "Colonia Miguel Alemán"
+    },
+    {
+        "clave": "302120108",
+        "nombre": "Vicente Fox Quezada"
+    },
+    {
+        "clave": "302120001",
+        "nombre": "Xochiapa"
+    },
+    {
+        "clave": "302120004",
+        "nombre": "Alfredo V. Bonfil"
+    },
+    {
+        "clave": "302120006",
+        "nombre": "Arenalito"
+    },
+    {
+        "clave": "302120008",
+        "nombre": "Arroyo Colorado (Cruz Verde)"
+    },
+    {
+        "clave": "302120010",
+        "nombre": "Arroyo Santa María"
+    },
+    {
+        "clave": "302120012",
+        "nombre": "Augusto Gómez Villanueva"
+    },
+    {
+        "clave": "302120013",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "302120014",
+        "nombre": "Boca del Monte"
+    },
+    {
+        "clave": "302120017",
+        "nombre": "Dante Delgado"
+    },
+    {
+        "clave": "302120019",
+        "nombre": "Ejido Revolución (Arroyo del Olvido)"
+    },
+    {
+        "clave": "302120020",
+        "nombre": "Ejido Sergio Vera Cervantes"
+    },
+    {
+        "clave": "302120025",
+        "nombre": "El Nuevo Progreso Tatahuicapan"
+    },
+    {
+        "clave": "302120026",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "302120031",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "302120032",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "302120037",
+        "nombre": "General Lázaro Cárdenas"
+    },
+    {
+        "clave": "302120041",
+        "nombre": "La Ceiba Nueva"
+    },
+    {
+        "clave": "302120044",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "302120047",
+        "nombre": "La Unión Progreso Tatahuicapa"
+    },
+    {
+        "clave": "302120055",
+        "nombre": "Margarito Montes Parra Ejido"
+    },
+    {
+        "clave": "302120058",
+        "nombre": "Niños Héroes"
+    },
+    {
+        "clave": "302120060",
+        "nombre": "Nueva Boca del Monte"
+    },
+    {
+        "clave": "302120061",
+        "nombre": "Nuevo Ideal de Arriba"
+    },
+    {
+        "clave": "302120063",
+        "nombre": "Parada de Águilas (Los Cuervos)"
+    },
+    {
+        "clave": "302120067",
+        "nombre": "Puebla"
+    },
+    {
+        "clave": "302120084",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "302120091",
+        "nombre": "San Antonio la Libertad"
+    },
+    {
+        "clave": "302120092",
+        "nombre": "San Cristóbal"
+    },
+    {
+        "clave": "302120094",
+        "nombre": "San Gabriel de la Chinantla"
+    },
+    {
+        "clave": "302120095",
+        "nombre": "Santa Margarita Yogopi"
+    },
+    {
+        "clave": "302120096",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "302120099",
+        "nombre": "Tatahuicapa"
+    },
+    {
+        "clave": "302120100",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "302120101",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "302120002",
+        "nombre": "Alberto Portillo Mendoza"
+    },
+    {
+        "clave": "302120003",
+        "nombre": "Alegre"
+    },
+    {
+        "clave": "302120005",
+        "nombre": "Martha Díaz"
+    },
+    {
+        "clave": "302120009",
+        "nombre": "Arroyo de Hojas"
+    },
+    {
+        "clave": "302120011",
+        "nombre": "Arturo Martínez Vázquez"
+    },
+    {
+        "clave": "302120015",
+        "nombre": "Brígido López Cortés"
+    },
+    {
+        "clave": "302120018",
+        "nombre": "Diego Mateo Pérez"
+    },
+    {
+        "clave": "302120021",
+        "nombre": "El Diamante"
+    },
+    {
+        "clave": "302120022",
+        "nombre": "El Encino"
+    },
+    {
+        "clave": "302120023",
+        "nombre": "El Faro"
+    },
+    {
+        "clave": "302120024",
+        "nombre": "El Medellín"
+    },
+    {
+        "clave": "302120027",
+        "nombre": "El Sahamán"
+    },
+    {
+        "clave": "302120028",
+        "nombre": "El Tauro"
+    },
+    {
+        "clave": "302120029",
+        "nombre": "El Trébol"
+    },
+    {
+        "clave": "302120030",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "302120033",
+        "nombre": "Ernesto Díaz"
+    },
+    {
+        "clave": "302120034",
+        "nombre": "Felipe Villa Correa"
+    },
+    {
+        "clave": "302120035",
+        "nombre": "Finca Lupita"
+    },
+    {
+        "clave": "302120036",
+        "nombre": "Francisco Sánchez Castro"
+    },
+    {
+        "clave": "302120038",
+        "nombre": "Graciano Jaime"
+    },
+    {
+        "clave": "302120039",
+        "nombre": "Juan Martínez"
+    },
+    {
+        "clave": "302120040",
+        "nombre": "La Barbasquera"
+    },
+    {
+        "clave": "302120042",
+        "nombre": "La Desviación"
+    },
+    {
+        "clave": "302120043",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "302120045",
+        "nombre": "La Piñita"
+    },
+    {
+        "clave": "302120046",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "302120049",
+        "nombre": "Las Camelias"
+    },
+    {
+        "clave": "302120050",
+        "nombre": "Las Gardenias"
+    },
+    {
+        "clave": "302120051",
+        "nombre": "Las Palmitas"
+    },
+    {
+        "clave": "302120053",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "302120054",
+        "nombre": "Luis Quezada"
+    },
+    {
+        "clave": "302120056",
+        "nombre": "Miguel Hernández González"
+    },
+    {
+        "clave": "302120057",
+        "nombre": "Mundo Nuevo"
+    },
+    {
+        "clave": "302120059",
+        "nombre": "Niños Héroes"
+    },
+    {
+        "clave": "302120062",
+        "nombre": "Pablo Peréz Bautista"
+    },
+    {
+        "clave": "302120064",
+        "nombre": "Patricia González Castañeda"
+    },
+    {
+        "clave": "302120065",
+        "nombre": "Paulino Martínez"
+    },
+    {
+        "clave": "302120066",
+        "nombre": "Puebla"
+    },
+    {
+        "clave": "302120068",
+        "nombre": "Cristino Contreras Raymundo"
+    },
+    {
+        "clave": "302120069",
+        "nombre": "Los Landa"
+    },
+    {
+        "clave": "302120070",
+        "nombre": "El Capricho"
+    },
+    {
+        "clave": "302120071",
+        "nombre": "El Castillo"
+    },
+    {
+        "clave": "302120072",
+        "nombre": "El Sacrificio"
+    },
+    {
+        "clave": "302120073",
+        "nombre": "El Toral"
+    },
+    {
+        "clave": "302120074",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "302120075",
+        "nombre": "Encino Gordo"
+    },
+    {
+        "clave": "302120076",
+        "nombre": "Hermanos Uscanga"
+    },
+    {
+        "clave": "302120077",
+        "nombre": "La Aurora"
+    },
+    {
+        "clave": "302120078",
+        "nombre": "La Ostuta"
+    },
+    {
+        "clave": "302120079",
+        "nombre": "La Selva"
+    },
+    {
+        "clave": "302120080",
+        "nombre": "Las Conchitas"
+    },
+    {
+        "clave": "302120081",
+        "nombre": "Los Hernández"
+    },
+    {
+        "clave": "302120083",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "302120085",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "302120086",
+        "nombre": "San Judas Tadeo"
+    },
+    {
+        "clave": "302120087",
+        "nombre": "Siete Hermanos"
+    },
+    {
+        "clave": "302120088",
+        "nombre": "Río la Lana"
+    },
+    {
+        "clave": "302120089",
+        "nombre": "Rubén Ortiz"
+    },
+    {
+        "clave": "302120090",
+        "nombre": "Salvador Cortés Vázquez"
+    },
+    {
+        "clave": "302120093",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "302120097",
+        "nombre": "Segundo González López"
+    },
+    {
+        "clave": "302120098",
+        "nombre": "Serveriano Barragán"
+    },
+    {
+        "clave": "302120102",
+        "nombre": "Vista Hermosa (Matías Ochoa)"
+    },
+    {
+        "clave": "302120104",
+        "nombre": "José Juan López"
+    },
+    {
+        "clave": "302120105",
+        "nombre": "Julián López"
+    },
+    {
+        "clave": "302120106",
+        "nombre": "Mario Bautista"
+    },
+    {
+        "clave": "302120107",
+        "nombre": "Refugio Díaz"
+    },
+    {
+        "clave": "302120109",
+        "nombre": "El Arenalito"
+    },
+    {
+        "clave": "302120110",
+        "nombre": "Alondra"
+    },
+    {
+        "clave": "302120111",
+        "nombre": "El Girasol"
+    },
+    {
+        "clave": "302120112",
+        "nombre": "Las Abejitas"
+    },
+    {
+        "clave": "302120113",
+        "nombre": "Las Carmelitas"
+    },
+    {
+        "clave": "302120114",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "302120115",
+        "nombre": "El Tesoro"
+    },
+    {
+        "clave": "302120116",
+        "nombre": "El Canario"
+    },
+    {
+        "clave": "302120117",
+        "nombre": "El Encinal"
+    },
+    {
+        "clave": "302120118",
+        "nombre": "Francisco Ramos Mendoza"
+    },
+    {
+        "clave": "302120119",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "302120120",
+        "nombre": "Andrés Soto Rosa"
+    },
+    {
+        "clave": "302120121",
+        "nombre": "Rancho Grande"
+    },
+    {
+        "clave": "302120122",
+        "nombre": "Guadalupe Santos López"
+    },
+    {
+        "clave": "302120123",
+        "nombre": "El 85"
+    },
+    {
+        "clave": "302120124",
+        "nombre": "Loma Alta"
+    },
+    {
+        "clave": "302120125",
+        "nombre": "Corpus Cristy"
+    },
+    {
+        "clave": "302120126",
+        "nombre": "El Manzanero"
+    },
+    {
+        "clave": "302120127",
+        "nombre": "El Nazareno"
+    }
+]

@@ -1,0 +1,2282 @@
+[
+    {
+        "clave": "1",
+        "nombre": "Abejones"
+    },
+    {
+        "clave": "2",
+        "nombre": "Acatlán de Pérez Figueroa"
+    },
+    {
+        "clave": "3",
+        "nombre": "Asunción Cacalotepec"
+    },
+    {
+        "clave": "4",
+        "nombre": "Asunción Cuyotepeji"
+    },
+    {
+        "clave": "5",
+        "nombre": "Asunción Ixtaltepec"
+    },
+    {
+        "clave": "6",
+        "nombre": "Asunción Nochixtlán"
+    },
+    {
+        "clave": "7",
+        "nombre": "Asunción Ocotlán"
+    },
+    {
+        "clave": "8",
+        "nombre": "Asunción Tlacolulita"
+    },
+    {
+        "clave": "9",
+        "nombre": "Ayotzintepec"
+    },
+    {
+        "clave": "10",
+        "nombre": "El Barrio de la Soledad"
+    },
+    {
+        "clave": "11",
+        "nombre": "Calihualá"
+    },
+    {
+        "clave": "12",
+        "nombre": "Candelaria Loxicha"
+    },
+    {
+        "clave": "13",
+        "nombre": "Ciénega de Zimatlán"
+    },
+    {
+        "clave": "14",
+        "nombre": "Ciudad Ixtepec"
+    },
+    {
+        "clave": "15",
+        "nombre": "Coatecas Altas"
+    },
+    {
+        "clave": "16",
+        "nombre": "Coicoyán de las Flores"
+    },
+    {
+        "clave": "17",
+        "nombre": "La Compañía"
+    },
+    {
+        "clave": "18",
+        "nombre": "Concepción Buenavista"
+    },
+    {
+        "clave": "19",
+        "nombre": "Concepción Pápalo"
+    },
+    {
+        "clave": "20",
+        "nombre": "Constancia del Rosario"
+    },
+    {
+        "clave": "21",
+        "nombre": "Cosolapa"
+    },
+    {
+        "clave": "22",
+        "nombre": "Cosoltepec"
+    },
+    {
+        "clave": "23",
+        "nombre": "Cuilápam de Guerrero"
+    },
+    {
+        "clave": "24",
+        "nombre": "Cuyamecalco Villa de Zaragoza"
+    },
+    {
+        "clave": "25",
+        "nombre": "Chahuites"
+    },
+    {
+        "clave": "26",
+        "nombre": "Chalcatongo de Hidalgo"
+    },
+    {
+        "clave": "27",
+        "nombre": "Chiquihuitlán de Benito Juárez"
+    },
+    {
+        "clave": "28",
+        "nombre": "Heroica Ciudad de Ejutla de Crespo"
+    },
+    {
+        "clave": "29",
+        "nombre": "Eloxochitlán de Flores Magón"
+    },
+    {
+        "clave": "30",
+        "nombre": "El Espinal"
+    },
+    {
+        "clave": "31",
+        "nombre": "Tamazulápam del Espíritu Santo"
+    },
+    {
+        "clave": "32",
+        "nombre": "Fresnillo de Trujano"
+    },
+    {
+        "clave": "33",
+        "nombre": "Guadalupe Etla"
+    },
+    {
+        "clave": "34",
+        "nombre": "Guadalupe de Ramírez"
+    },
+    {
+        "clave": "35",
+        "nombre": "Guelatao de Juárez"
+    },
+    {
+        "clave": "36",
+        "nombre": "Guevea de Humboldt"
+    },
+    {
+        "clave": "37",
+        "nombre": "Mesones Hidalgo"
+    },
+    {
+        "clave": "38",
+        "nombre": "Villa Hidalgo"
+    },
+    {
+        "clave": "39",
+        "nombre": "Heroica Ciudad de Huajuapan de León"
+    },
+    {
+        "clave": "40",
+        "nombre": "Huautepec"
+    },
+    {
+        "clave": "41",
+        "nombre": "Huautla de Jiménez"
+    },
+    {
+        "clave": "42",
+        "nombre": "Ixtlán de Juárez"
+    },
+    {
+        "clave": "43",
+        "nombre": "Heroica Ciudad de Juchitán de Zaragoza"
+    },
+    {
+        "clave": "44",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "45",
+        "nombre": "Magdalena Apasco"
+    },
+    {
+        "clave": "46",
+        "nombre": "Magdalena Jaltepec"
+    },
+    {
+        "clave": "47",
+        "nombre": "Santa Magdalena Jicotlán"
+    },
+    {
+        "clave": "48",
+        "nombre": "Magdalena Mixtepec"
+    },
+    {
+        "clave": "49",
+        "nombre": "Magdalena Ocotlán"
+    },
+    {
+        "clave": "50",
+        "nombre": "Magdalena Peñasco"
+    },
+    {
+        "clave": "51",
+        "nombre": "Magdalena Teitipac"
+    },
+    {
+        "clave": "52",
+        "nombre": "Magdalena Tequisistlán"
+    },
+    {
+        "clave": "53",
+        "nombre": "Magdalena Tlacotepec"
+    },
+    {
+        "clave": "54",
+        "nombre": "Magdalena Zahuatlán"
+    },
+    {
+        "clave": "55",
+        "nombre": "Mariscala de Juárez"
+    },
+    {
+        "clave": "56",
+        "nombre": "Mártires de Tacubaya"
+    },
+    {
+        "clave": "57",
+        "nombre": "Matías Romero Avendaño"
+    },
+    {
+        "clave": "58",
+        "nombre": "Mazatlán Villa de Flores"
+    },
+    {
+        "clave": "59",
+        "nombre": "Miahuatlán de Porfirio Díaz"
+    },
+    {
+        "clave": "60",
+        "nombre": "Mixistlán de la Reforma"
+    },
+    {
+        "clave": "61",
+        "nombre": "Monjas"
+    },
+    {
+        "clave": "62",
+        "nombre": "Natividad"
+    },
+    {
+        "clave": "63",
+        "nombre": "Nazareno Etla"
+    },
+    {
+        "clave": "64",
+        "nombre": "Nejapa de Madero"
+    },
+    {
+        "clave": "65",
+        "nombre": "Ixpantepec Nieves"
+    },
+    {
+        "clave": "66",
+        "nombre": "Santiago Niltepec"
+    },
+    {
+        "clave": "67",
+        "nombre": "Oaxaca de Juárez"
+    },
+    {
+        "clave": "68",
+        "nombre": "Ocotlán de Morelos"
+    },
+    {
+        "clave": "69",
+        "nombre": "La Pe"
+    },
+    {
+        "clave": "70",
+        "nombre": "Pinotepa de Don Luis"
+    },
+    {
+        "clave": "71",
+        "nombre": "Pluma Hidalgo"
+    },
+    {
+        "clave": "72",
+        "nombre": "San José del Progreso"
+    },
+    {
+        "clave": "73",
+        "nombre": "Putla Villa de Guerrero"
+    },
+    {
+        "clave": "74",
+        "nombre": "Santa Catarina Quioquitani"
+    },
+    {
+        "clave": "75",
+        "nombre": "Reforma de Pineda"
+    },
+    {
+        "clave": "76",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "77",
+        "nombre": "Reyes Etla"
+    },
+    {
+        "clave": "78",
+        "nombre": "Rojas de Cuauhtémoc"
+    },
+    {
+        "clave": "79",
+        "nombre": "Salina Cruz"
+    },
+    {
+        "clave": "80",
+        "nombre": "San Agustín Amatengo"
+    },
+    {
+        "clave": "81",
+        "nombre": "San Agustín Atenango"
+    },
+    {
+        "clave": "82",
+        "nombre": "San Agustín Chayuco"
+    },
+    {
+        "clave": "83",
+        "nombre": "San Agustín de las Juntas"
+    },
+    {
+        "clave": "84",
+        "nombre": "San Agustín Etla"
+    },
+    {
+        "clave": "85",
+        "nombre": "San Agustín Loxicha"
+    },
+    {
+        "clave": "86",
+        "nombre": "San Agustín Tlacotepec"
+    },
+    {
+        "clave": "87",
+        "nombre": "San Agustín Yatareni"
+    },
+    {
+        "clave": "88",
+        "nombre": "San Andrés Cabecera Nueva"
+    },
+    {
+        "clave": "89",
+        "nombre": "San Andrés Dinicuiti"
+    },
+    {
+        "clave": "90",
+        "nombre": "San Andrés Huaxpaltepec"
+    },
+    {
+        "clave": "91",
+        "nombre": "San Andrés Huayápam"
+    },
+    {
+        "clave": "92",
+        "nombre": "San Andrés Ixtlahuaca"
+    },
+    {
+        "clave": "93",
+        "nombre": "San Andrés Lagunas"
+    },
+    {
+        "clave": "94",
+        "nombre": "San Andrés Nuxiño"
+    },
+    {
+        "clave": "95",
+        "nombre": "San Andrés Paxtlán"
+    },
+    {
+        "clave": "96",
+        "nombre": "San Andrés Sinaxtla"
+    },
+    {
+        "clave": "97",
+        "nombre": "San Andrés Solaga"
+    },
+    {
+        "clave": "98",
+        "nombre": "San Andrés Teotilálpam"
+    },
+    {
+        "clave": "99",
+        "nombre": "San Andrés Tepetlapa"
+    },
+    {
+        "clave": "100",
+        "nombre": "San Andrés Yaá"
+    },
+    {
+        "clave": "101",
+        "nombre": "San Andrés Zabache"
+    },
+    {
+        "clave": "102",
+        "nombre": "San Andrés Zautla"
+    },
+    {
+        "clave": "103",
+        "nombre": "San Antonino Castillo Velasco"
+    },
+    {
+        "clave": "104",
+        "nombre": "San Antonino el Alto"
+    },
+    {
+        "clave": "105",
+        "nombre": "San Antonino Monte Verde"
+    },
+    {
+        "clave": "106",
+        "nombre": "San Antonio Acutla"
+    },
+    {
+        "clave": "107",
+        "nombre": "San Antonio de la Cal"
+    },
+    {
+        "clave": "108",
+        "nombre": "San Antonio Huitepec"
+    },
+    {
+        "clave": "109",
+        "nombre": "San Antonio Nanahuatípam"
+    },
+    {
+        "clave": "110",
+        "nombre": "San Antonio Sinicahua"
+    },
+    {
+        "clave": "111",
+        "nombre": "San Antonio Tepetlapa"
+    },
+    {
+        "clave": "112",
+        "nombre": "San Baltazar Chichicápam"
+    },
+    {
+        "clave": "113",
+        "nombre": "San Baltazar Loxicha"
+    },
+    {
+        "clave": "114",
+        "nombre": "San Baltazar Yatzachi el Bajo"
+    },
+    {
+        "clave": "115",
+        "nombre": "San Bartolo Coyotepec"
+    },
+    {
+        "clave": "116",
+        "nombre": "San Bartolomé Ayautla"
+    },
+    {
+        "clave": "117",
+        "nombre": "San Bartolomé Loxicha"
+    },
+    {
+        "clave": "118",
+        "nombre": "San Bartolomé Quialana"
+    },
+    {
+        "clave": "119",
+        "nombre": "San Bartolomé Yucuañe"
+    },
+    {
+        "clave": "120",
+        "nombre": "San Bartolomé Zoogocho"
+    },
+    {
+        "clave": "121",
+        "nombre": "San Bartolo Soyaltepec"
+    },
+    {
+        "clave": "122",
+        "nombre": "San Bartolo Yautepec"
+    },
+    {
+        "clave": "123",
+        "nombre": "San Bernardo Mixtepec"
+    },
+    {
+        "clave": "124",
+        "nombre": "San Blas Atempa"
+    },
+    {
+        "clave": "125",
+        "nombre": "San Carlos Yautepec"
+    },
+    {
+        "clave": "126",
+        "nombre": "San Cristóbal Amatlán"
+    },
+    {
+        "clave": "127",
+        "nombre": "San Cristóbal Amoltepec"
+    },
+    {
+        "clave": "128",
+        "nombre": "San Cristóbal Lachirioag"
+    },
+    {
+        "clave": "129",
+        "nombre": "San Cristóbal Suchixtlahuaca"
+    },
+    {
+        "clave": "130",
+        "nombre": "San Dionisio del Mar"
+    },
+    {
+        "clave": "131",
+        "nombre": "San Dionisio Ocotepec"
+    },
+    {
+        "clave": "132",
+        "nombre": "San Dionisio Ocotlán"
+    },
+    {
+        "clave": "133",
+        "nombre": "San Esteban Atatlahuca"
+    },
+    {
+        "clave": "134",
+        "nombre": "San Felipe Jalapa de Díaz"
+    },
+    {
+        "clave": "135",
+        "nombre": "San Felipe Tejalápam"
+    },
+    {
+        "clave": "136",
+        "nombre": "San Felipe Usila"
+    },
+    {
+        "clave": "137",
+        "nombre": "San Francisco Cahuacuá"
+    },
+    {
+        "clave": "138",
+        "nombre": "San Francisco Cajonos"
+    },
+    {
+        "clave": "139",
+        "nombre": "San Francisco Chapulapa"
+    },
+    {
+        "clave": "140",
+        "nombre": "San Francisco Chindúa"
+    },
+    {
+        "clave": "141",
+        "nombre": "San Francisco del Mar"
+    },
+    {
+        "clave": "142",
+        "nombre": "San Francisco Huehuetlán"
+    },
+    {
+        "clave": "143",
+        "nombre": "San Francisco Ixhuatán"
+    },
+    {
+        "clave": "144",
+        "nombre": "San Francisco Jaltepetongo"
+    },
+    {
+        "clave": "145",
+        "nombre": "San Francisco Lachigoló"
+    },
+    {
+        "clave": "146",
+        "nombre": "San Francisco Logueche"
+    },
+    {
+        "clave": "147",
+        "nombre": "San Francisco Nuxaño"
+    },
+    {
+        "clave": "148",
+        "nombre": "San Francisco Ozolotepec"
+    },
+    {
+        "clave": "149",
+        "nombre": "San Francisco Sola"
+    },
+    {
+        "clave": "150",
+        "nombre": "San Francisco Telixtlahuaca"
+    },
+    {
+        "clave": "151",
+        "nombre": "San Francisco Teopan"
+    },
+    {
+        "clave": "152",
+        "nombre": "San Francisco Tlapancingo"
+    },
+    {
+        "clave": "153",
+        "nombre": "San Gabriel Mixtepec"
+    },
+    {
+        "clave": "154",
+        "nombre": "San Ildefonso Amatlán"
+    },
+    {
+        "clave": "155",
+        "nombre": "San Ildefonso Sola"
+    },
+    {
+        "clave": "156",
+        "nombre": "San Ildefonso Villa Alta"
+    },
+    {
+        "clave": "157",
+        "nombre": "San Jacinto Amilpas"
+    },
+    {
+        "clave": "158",
+        "nombre": "San Jacinto Tlacotepec"
+    },
+    {
+        "clave": "159",
+        "nombre": "San Jerónimo Coatlán"
+    },
+    {
+        "clave": "160",
+        "nombre": "San Jerónimo Silacayoapilla"
+    },
+    {
+        "clave": "161",
+        "nombre": "San Jerónimo Sosola"
+    },
+    {
+        "clave": "162",
+        "nombre": "San Jerónimo Taviche"
+    },
+    {
+        "clave": "163",
+        "nombre": "San Jerónimo Tecóatl"
+    },
+    {
+        "clave": "164",
+        "nombre": "San Jorge Nuchita"
+    },
+    {
+        "clave": "165",
+        "nombre": "San José Ayuquila"
+    },
+    {
+        "clave": "166",
+        "nombre": "San José Chiltepec"
+    },
+    {
+        "clave": "167",
+        "nombre": "San José del Peñasco"
+    },
+    {
+        "clave": "168",
+        "nombre": "San José Estancia Grande"
+    },
+    {
+        "clave": "169",
+        "nombre": "San José Independencia"
+    },
+    {
+        "clave": "170",
+        "nombre": "San José Lachiguiri"
+    },
+    {
+        "clave": "171",
+        "nombre": "San José Tenango"
+    },
+    {
+        "clave": "172",
+        "nombre": "San Juan Achiutla"
+    },
+    {
+        "clave": "173",
+        "nombre": "San Juan Atepec"
+    },
+    {
+        "clave": "174",
+        "nombre": "Ánimas Trujano"
+    },
+    {
+        "clave": "175",
+        "nombre": "San Juan Bautista Atatlahuca"
+    },
+    {
+        "clave": "176",
+        "nombre": "San Juan Bautista Coixtlahuaca"
+    },
+    {
+        "clave": "177",
+        "nombre": "San Juan Bautista Cuicatlán"
+    },
+    {
+        "clave": "178",
+        "nombre": "San Juan Bautista Guelache"
+    },
+    {
+        "clave": "179",
+        "nombre": "San Juan Bautista Jayacatlán"
+    },
+    {
+        "clave": "180",
+        "nombre": "San Juan Bautista Lo de Soto"
+    },
+    {
+        "clave": "181",
+        "nombre": "San Juan Bautista Suchitepec"
+    },
+    {
+        "clave": "182",
+        "nombre": "San Juan Bautista Tlacoatzintepec"
+    },
+    {
+        "clave": "183",
+        "nombre": "San Juan Bautista Tlachichilco"
+    },
+    {
+        "clave": "184",
+        "nombre": "San Juan Bautista Tuxtepec"
+    },
+    {
+        "clave": "185",
+        "nombre": "San Juan Cacahuatepec"
+    },
+    {
+        "clave": "186",
+        "nombre": "San Juan Cieneguilla"
+    },
+    {
+        "clave": "187",
+        "nombre": "San Juan Coatzóspam"
+    },
+    {
+        "clave": "188",
+        "nombre": "San Juan Colorado"
+    },
+    {
+        "clave": "189",
+        "nombre": "San Juan Comaltepec"
+    },
+    {
+        "clave": "190",
+        "nombre": "San Juan Cotzocón"
+    },
+    {
+        "clave": "191",
+        "nombre": "San Juan Chicomezúchil"
+    },
+    {
+        "clave": "192",
+        "nombre": "San Juan Chilateca"
+    },
+    {
+        "clave": "193",
+        "nombre": "San Juan del Estado"
+    },
+    {
+        "clave": "194",
+        "nombre": "San Juan del Río"
+    },
+    {
+        "clave": "195",
+        "nombre": "San Juan Diuxi"
+    },
+    {
+        "clave": "196",
+        "nombre": "San Juan Evangelista Analco"
+    },
+    {
+        "clave": "197",
+        "nombre": "San Juan Guelavía"
+    },
+    {
+        "clave": "198",
+        "nombre": "San Juan Guichicovi"
+    },
+    {
+        "clave": "199",
+        "nombre": "San Juan Ihualtepec"
+    },
+    {
+        "clave": "200",
+        "nombre": "San Juan Juquila Mixes"
+    },
+    {
+        "clave": "201",
+        "nombre": "San Juan Juquila Vijanos"
+    },
+    {
+        "clave": "202",
+        "nombre": "San Juan Lachao"
+    },
+    {
+        "clave": "203",
+        "nombre": "San Juan Lachigalla"
+    },
+    {
+        "clave": "204",
+        "nombre": "San Juan Lajarcia"
+    },
+    {
+        "clave": "205",
+        "nombre": "San Juan Lalana"
+    },
+    {
+        "clave": "206",
+        "nombre": "San Juan de los Cués"
+    },
+    {
+        "clave": "207",
+        "nombre": "San Juan Mazatlán"
+    },
+    {
+        "clave": "208",
+        "nombre": "San Juan Mixtepec"
+    },
+    {
+        "clave": "209",
+        "nombre": "San Juan Mixtepec"
+    },
+    {
+        "clave": "210",
+        "nombre": "San Juan Ñumí"
+    },
+    {
+        "clave": "211",
+        "nombre": "San Juan Ozolotepec"
+    },
+    {
+        "clave": "212",
+        "nombre": "San Juan Petlapa"
+    },
+    {
+        "clave": "213",
+        "nombre": "San Juan Quiahije"
+    },
+    {
+        "clave": "214",
+        "nombre": "San Juan Quiotepec"
+    },
+    {
+        "clave": "215",
+        "nombre": "San Juan Sayultepec"
+    },
+    {
+        "clave": "216",
+        "nombre": "San Juan Tabaá"
+    },
+    {
+        "clave": "217",
+        "nombre": "San Juan Tamazola"
+    },
+    {
+        "clave": "218",
+        "nombre": "San Juan Teita"
+    },
+    {
+        "clave": "219",
+        "nombre": "San Juan Teitipac"
+    },
+    {
+        "clave": "220",
+        "nombre": "San Juan Tepeuxila"
+    },
+    {
+        "clave": "221",
+        "nombre": "San Juan Teposcolula"
+    },
+    {
+        "clave": "222",
+        "nombre": "San Juan Yaeé"
+    },
+    {
+        "clave": "223",
+        "nombre": "San Juan Yatzona"
+    },
+    {
+        "clave": "224",
+        "nombre": "San Juan Yucuita"
+    },
+    {
+        "clave": "225",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "226",
+        "nombre": "San Lorenzo Albarradas"
+    },
+    {
+        "clave": "227",
+        "nombre": "San Lorenzo Cacaotepec"
+    },
+    {
+        "clave": "228",
+        "nombre": "San Lorenzo Cuaunecuiltitla"
+    },
+    {
+        "clave": "229",
+        "nombre": "San Lorenzo Texmelúcan"
+    },
+    {
+        "clave": "230",
+        "nombre": "San Lorenzo Victoria"
+    },
+    {
+        "clave": "231",
+        "nombre": "San Lucas Camotlán"
+    },
+    {
+        "clave": "232",
+        "nombre": "San Lucas Ojitlán"
+    },
+    {
+        "clave": "233",
+        "nombre": "San Lucas Quiaviní"
+    },
+    {
+        "clave": "234",
+        "nombre": "San Lucas Zoquiápam"
+    },
+    {
+        "clave": "235",
+        "nombre": "San Luis Amatlán"
+    },
+    {
+        "clave": "236",
+        "nombre": "San Marcial Ozolotepec"
+    },
+    {
+        "clave": "237",
+        "nombre": "San Marcos Arteaga"
+    },
+    {
+        "clave": "238",
+        "nombre": "San Martín de los Cansecos"
+    },
+    {
+        "clave": "239",
+        "nombre": "San Martín Huamelúlpam"
+    },
+    {
+        "clave": "240",
+        "nombre": "San Martín Itunyoso"
+    },
+    {
+        "clave": "241",
+        "nombre": "San Martín Lachilá"
+    },
+    {
+        "clave": "242",
+        "nombre": "San Martín Peras"
+    },
+    {
+        "clave": "243",
+        "nombre": "San Martín Tilcajete"
+    },
+    {
+        "clave": "244",
+        "nombre": "San Martín Toxpalan"
+    },
+    {
+        "clave": "245",
+        "nombre": "San Martín Zacatepec"
+    },
+    {
+        "clave": "246",
+        "nombre": "San Mateo Cajonos"
+    },
+    {
+        "clave": "247",
+        "nombre": "Capulálpam de Méndez"
+    },
+    {
+        "clave": "248",
+        "nombre": "San Mateo del Mar"
+    },
+    {
+        "clave": "249",
+        "nombre": "San Mateo Yoloxochitlán"
+    },
+    {
+        "clave": "250",
+        "nombre": "San Mateo Etlatongo"
+    },
+    {
+        "clave": "251",
+        "nombre": "San Mateo Nejápam"
+    },
+    {
+        "clave": "252",
+        "nombre": "San Mateo Peñasco"
+    },
+    {
+        "clave": "253",
+        "nombre": "San Mateo Piñas"
+    },
+    {
+        "clave": "254",
+        "nombre": "San Mateo Río Hondo"
+    },
+    {
+        "clave": "255",
+        "nombre": "San Mateo Sindihui"
+    },
+    {
+        "clave": "256",
+        "nombre": "San Mateo Tlapiltepec"
+    },
+    {
+        "clave": "257",
+        "nombre": "San Melchor Betaza"
+    },
+    {
+        "clave": "258",
+        "nombre": "San Miguel Achiutla"
+    },
+    {
+        "clave": "259",
+        "nombre": "San Miguel Ahuehuetitlán"
+    },
+    {
+        "clave": "260",
+        "nombre": "San Miguel Aloápam"
+    },
+    {
+        "clave": "261",
+        "nombre": "San Miguel Amatitlán"
+    },
+    {
+        "clave": "262",
+        "nombre": "San Miguel Amatlán"
+    },
+    {
+        "clave": "263",
+        "nombre": "San Miguel Coatlán"
+    },
+    {
+        "clave": "264",
+        "nombre": "San Miguel Chicahua"
+    },
+    {
+        "clave": "265",
+        "nombre": "San Miguel Chimalapa"
+    },
+    {
+        "clave": "266",
+        "nombre": "San Miguel del Puerto"
+    },
+    {
+        "clave": "267",
+        "nombre": "San Miguel del Río"
+    },
+    {
+        "clave": "268",
+        "nombre": "San Miguel Ejutla"
+    },
+    {
+        "clave": "269",
+        "nombre": "San Miguel el Grande"
+    },
+    {
+        "clave": "270",
+        "nombre": "San Miguel Huautla"
+    },
+    {
+        "clave": "271",
+        "nombre": "San Miguel Mixtepec"
+    },
+    {
+        "clave": "272",
+        "nombre": "San Miguel Panixtlahuaca"
+    },
+    {
+        "clave": "273",
+        "nombre": "San Miguel Peras"
+    },
+    {
+        "clave": "274",
+        "nombre": "San Miguel Piedras"
+    },
+    {
+        "clave": "275",
+        "nombre": "San Miguel Quetzaltepec"
+    },
+    {
+        "clave": "276",
+        "nombre": "San Miguel Santa Flor"
+    },
+    {
+        "clave": "277",
+        "nombre": "Villa Sola de Vega"
+    },
+    {
+        "clave": "278",
+        "nombre": "San Miguel Soyaltepec"
+    },
+    {
+        "clave": "279",
+        "nombre": "San Miguel Suchixtepec"
+    },
+    {
+        "clave": "280",
+        "nombre": "Villa Talea de Castro"
+    },
+    {
+        "clave": "281",
+        "nombre": "San Miguel Tecomatlán"
+    },
+    {
+        "clave": "282",
+        "nombre": "San Miguel Tenango"
+    },
+    {
+        "clave": "283",
+        "nombre": "San Miguel Tequixtepec"
+    },
+    {
+        "clave": "284",
+        "nombre": "San Miguel Tilquiápam"
+    },
+    {
+        "clave": "285",
+        "nombre": "San Miguel Tlacamama"
+    },
+    {
+        "clave": "286",
+        "nombre": "San Miguel Tlacotepec"
+    },
+    {
+        "clave": "287",
+        "nombre": "San Miguel Tulancingo"
+    },
+    {
+        "clave": "288",
+        "nombre": "San Miguel Yotao"
+    },
+    {
+        "clave": "289",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "290",
+        "nombre": "San Nicolás Hidalgo"
+    },
+    {
+        "clave": "291",
+        "nombre": "San Pablo Coatlán"
+    },
+    {
+        "clave": "292",
+        "nombre": "San Pablo Cuatro Venados"
+    },
+    {
+        "clave": "293",
+        "nombre": "San Pablo Etla"
+    },
+    {
+        "clave": "294",
+        "nombre": "San Pablo Huitzo"
+    },
+    {
+        "clave": "295",
+        "nombre": "San Pablo Huixtepec"
+    },
+    {
+        "clave": "296",
+        "nombre": "San Pablo Macuiltianguis"
+    },
+    {
+        "clave": "297",
+        "nombre": "San Pablo Tijaltepec"
+    },
+    {
+        "clave": "298",
+        "nombre": "San Pablo Villa de Mitla"
+    },
+    {
+        "clave": "299",
+        "nombre": "San Pablo Yaganiza"
+    },
+    {
+        "clave": "300",
+        "nombre": "San Pedro Amuzgos"
+    },
+    {
+        "clave": "301",
+        "nombre": "San Pedro Apóstol"
+    },
+    {
+        "clave": "302",
+        "nombre": "San Pedro Atoyac"
+    },
+    {
+        "clave": "303",
+        "nombre": "San Pedro Cajonos"
+    },
+    {
+        "clave": "304",
+        "nombre": "San Pedro Coxcaltepec Cántaros"
+    },
+    {
+        "clave": "305",
+        "nombre": "San Pedro Comitancillo"
+    },
+    {
+        "clave": "306",
+        "nombre": "San Pedro el Alto"
+    },
+    {
+        "clave": "307",
+        "nombre": "San Pedro Huamelula"
+    },
+    {
+        "clave": "308",
+        "nombre": "San Pedro Huilotepec"
+    },
+    {
+        "clave": "309",
+        "nombre": "San Pedro Ixcatlán"
+    },
+    {
+        "clave": "310",
+        "nombre": "San Pedro Ixtlahuaca"
+    },
+    {
+        "clave": "311",
+        "nombre": "San Pedro Jaltepetongo"
+    },
+    {
+        "clave": "312",
+        "nombre": "San Pedro Jicayán"
+    },
+    {
+        "clave": "313",
+        "nombre": "San Pedro Jocotipac"
+    },
+    {
+        "clave": "314",
+        "nombre": "San Pedro Juchatengo"
+    },
+    {
+        "clave": "315",
+        "nombre": "San Pedro Mártir"
+    },
+    {
+        "clave": "316",
+        "nombre": "San Pedro Mártir Quiechapa"
+    },
+    {
+        "clave": "317",
+        "nombre": "San Pedro Mártir Yucuxaco"
+    },
+    {
+        "clave": "318",
+        "nombre": "San Pedro Mixtepec"
+    },
+    {
+        "clave": "319",
+        "nombre": "San Pedro Mixtepec"
+    },
+    {
+        "clave": "320",
+        "nombre": "San Pedro Molinos"
+    },
+    {
+        "clave": "321",
+        "nombre": "San Pedro Nopala"
+    },
+    {
+        "clave": "322",
+        "nombre": "San Pedro Ocopetatillo"
+    },
+    {
+        "clave": "323",
+        "nombre": "San Pedro Ocotepec"
+    },
+    {
+        "clave": "324",
+        "nombre": "San Pedro Pochutla"
+    },
+    {
+        "clave": "325",
+        "nombre": "San Pedro Quiatoni"
+    },
+    {
+        "clave": "326",
+        "nombre": "San Pedro Sochiápam"
+    },
+    {
+        "clave": "327",
+        "nombre": "San Pedro Tapanatepec"
+    },
+    {
+        "clave": "328",
+        "nombre": "San Pedro Taviche"
+    },
+    {
+        "clave": "329",
+        "nombre": "San Pedro Teozacoalco"
+    },
+    {
+        "clave": "330",
+        "nombre": "San Pedro Teutila"
+    },
+    {
+        "clave": "331",
+        "nombre": "San Pedro Tidaá"
+    },
+    {
+        "clave": "332",
+        "nombre": "San Pedro Topiltepec"
+    },
+    {
+        "clave": "333",
+        "nombre": "San Pedro Totolápam"
+    },
+    {
+        "clave": "334",
+        "nombre": "Villa de Tututepec de Melchor Ocampo"
+    },
+    {
+        "clave": "335",
+        "nombre": "San Pedro Yaneri"
+    },
+    {
+        "clave": "336",
+        "nombre": "San Pedro Yólox"
+    },
+    {
+        "clave": "337",
+        "nombre": "San Pedro y San Pablo Ayutla"
+    },
+    {
+        "clave": "338",
+        "nombre": "Villa de Etla"
+    },
+    {
+        "clave": "339",
+        "nombre": "San Pedro y San Pablo Teposcolula"
+    },
+    {
+        "clave": "340",
+        "nombre": "San Pedro y San Pablo Tequixtepec"
+    },
+    {
+        "clave": "341",
+        "nombre": "San Pedro Yucunama"
+    },
+    {
+        "clave": "342",
+        "nombre": "San Raymundo Jalpan"
+    },
+    {
+        "clave": "343",
+        "nombre": "San Sebastián Abasolo"
+    },
+    {
+        "clave": "344",
+        "nombre": "San Sebastián Coatlán"
+    },
+    {
+        "clave": "345",
+        "nombre": "San Sebastián Ixcapa"
+    },
+    {
+        "clave": "346",
+        "nombre": "San Sebastián Nicananduta"
+    },
+    {
+        "clave": "347",
+        "nombre": "San Sebastián Río Hondo"
+    },
+    {
+        "clave": "348",
+        "nombre": "San Sebastián Tecomaxtlahuaca"
+    },
+    {
+        "clave": "349",
+        "nombre": "San Sebastián Teitipac"
+    },
+    {
+        "clave": "350",
+        "nombre": "San Sebastián Tutla"
+    },
+    {
+        "clave": "351",
+        "nombre": "San Simón Almolongas"
+    },
+    {
+        "clave": "352",
+        "nombre": "San Simón Zahuatlán"
+    },
+    {
+        "clave": "353",
+        "nombre": "Santa Ana"
+    },
+    {
+        "clave": "354",
+        "nombre": "Santa Ana Ateixtlahuaca"
+    },
+    {
+        "clave": "355",
+        "nombre": "Santa Ana Cuauhtémoc"
+    },
+    {
+        "clave": "356",
+        "nombre": "Santa Ana del Valle"
+    },
+    {
+        "clave": "357",
+        "nombre": "Santa Ana Tavela"
+    },
+    {
+        "clave": "358",
+        "nombre": "Santa Ana Tlapacoyan"
+    },
+    {
+        "clave": "359",
+        "nombre": "Santa Ana Yareni"
+    },
+    {
+        "clave": "360",
+        "nombre": "Santa Ana Zegache"
+    },
+    {
+        "clave": "361",
+        "nombre": "Santa Catalina Quierí"
+    },
+    {
+        "clave": "362",
+        "nombre": "Santa Catarina Cuixtla"
+    },
+    {
+        "clave": "363",
+        "nombre": "Santa Catarina Ixtepeji"
+    },
+    {
+        "clave": "364",
+        "nombre": "Santa Catarina Juquila"
+    },
+    {
+        "clave": "365",
+        "nombre": "Santa Catarina Lachatao"
+    },
+    {
+        "clave": "366",
+        "nombre": "Santa Catarina Loxicha"
+    },
+    {
+        "clave": "367",
+        "nombre": "Santa Catarina Mechoacán"
+    },
+    {
+        "clave": "368",
+        "nombre": "Santa Catarina Minas"
+    },
+    {
+        "clave": "369",
+        "nombre": "Santa Catarina Quiané"
+    },
+    {
+        "clave": "370",
+        "nombre": "Santa Catarina Tayata"
+    },
+    {
+        "clave": "371",
+        "nombre": "Santa Catarina Ticuá"
+    },
+    {
+        "clave": "372",
+        "nombre": "Santa Catarina Yosonotú"
+    },
+    {
+        "clave": "373",
+        "nombre": "Santa Catarina Zapoquila"
+    },
+    {
+        "clave": "374",
+        "nombre": "Santa Cruz Acatepec"
+    },
+    {
+        "clave": "375",
+        "nombre": "Santa Cruz Amilpas"
+    },
+    {
+        "clave": "376",
+        "nombre": "Santa Cruz de Bravo"
+    },
+    {
+        "clave": "377",
+        "nombre": "Santa Cruz Itundujia"
+    },
+    {
+        "clave": "378",
+        "nombre": "Santa Cruz Mixtepec"
+    },
+    {
+        "clave": "379",
+        "nombre": "Santa Cruz Nundaco"
+    },
+    {
+        "clave": "380",
+        "nombre": "Santa Cruz Papalutla"
+    },
+    {
+        "clave": "381",
+        "nombre": "Santa Cruz Tacache de Mina"
+    },
+    {
+        "clave": "382",
+        "nombre": "Santa Cruz Tacahua"
+    },
+    {
+        "clave": "383",
+        "nombre": "Santa Cruz Tayata"
+    },
+    {
+        "clave": "384",
+        "nombre": "Santa Cruz Xitla"
+    },
+    {
+        "clave": "385",
+        "nombre": "Santa Cruz Xoxocotlán"
+    },
+    {
+        "clave": "386",
+        "nombre": "Santa Cruz Zenzontepec"
+    },
+    {
+        "clave": "387",
+        "nombre": "Santa Gertrudis"
+    },
+    {
+        "clave": "388",
+        "nombre": "Santa Inés del Monte"
+    },
+    {
+        "clave": "389",
+        "nombre": "Santa Inés Yatzeche"
+    },
+    {
+        "clave": "390",
+        "nombre": "Santa Lucía del Camino"
+    },
+    {
+        "clave": "391",
+        "nombre": "Santa Lucía Miahuatlán"
+    },
+    {
+        "clave": "392",
+        "nombre": "Santa Lucía Monteverde"
+    },
+    {
+        "clave": "393",
+        "nombre": "Santa Lucía Ocotlán"
+    },
+    {
+        "clave": "394",
+        "nombre": "Santa María Alotepec"
+    },
+    {
+        "clave": "395",
+        "nombre": "Santa María Apazco"
+    },
+    {
+        "clave": "396",
+        "nombre": "Santa María la Asunción"
+    },
+    {
+        "clave": "397",
+        "nombre": "Heroica Ciudad de Tlaxiaco"
+    },
+    {
+        "clave": "398",
+        "nombre": "Ayoquezco de Aldama"
+    },
+    {
+        "clave": "399",
+        "nombre": "Santa María Atzompa"
+    },
+    {
+        "clave": "400",
+        "nombre": "Santa María Camotlán"
+    },
+    {
+        "clave": "401",
+        "nombre": "Santa María Colotepec"
+    },
+    {
+        "clave": "402",
+        "nombre": "Santa María Cortijo"
+    },
+    {
+        "clave": "403",
+        "nombre": "Santa María Coyotepec"
+    },
+    {
+        "clave": "404",
+        "nombre": "Santa María Chachoápam"
+    },
+    {
+        "clave": "405",
+        "nombre": "Villa de Chilapa de Díaz"
+    },
+    {
+        "clave": "406",
+        "nombre": "Santa María Chilchotla"
+    },
+    {
+        "clave": "407",
+        "nombre": "Santa María Chimalapa"
+    },
+    {
+        "clave": "408",
+        "nombre": "Santa María del Rosario"
+    },
+    {
+        "clave": "409",
+        "nombre": "Santa María del Tule"
+    },
+    {
+        "clave": "410",
+        "nombre": "Santa María Ecatepec"
+    },
+    {
+        "clave": "411",
+        "nombre": "Santa María Guelacé"
+    },
+    {
+        "clave": "412",
+        "nombre": "Santa María Guienagati"
+    },
+    {
+        "clave": "413",
+        "nombre": "Santa María Huatulco"
+    },
+    {
+        "clave": "414",
+        "nombre": "Santa María Huazolotitlán"
+    },
+    {
+        "clave": "415",
+        "nombre": "Santa María Ipalapa"
+    },
+    {
+        "clave": "416",
+        "nombre": "Santa María Ixcatlán"
+    },
+    {
+        "clave": "417",
+        "nombre": "Santa María Jacatepec"
+    },
+    {
+        "clave": "418",
+        "nombre": "Santa María Jalapa del Marqués"
+    },
+    {
+        "clave": "419",
+        "nombre": "Santa María Jaltianguis"
+    },
+    {
+        "clave": "420",
+        "nombre": "Santa María Lachixío"
+    },
+    {
+        "clave": "421",
+        "nombre": "Santa María Mixtequilla"
+    },
+    {
+        "clave": "422",
+        "nombre": "Santa María Nativitas"
+    },
+    {
+        "clave": "423",
+        "nombre": "Santa María Nduayaco"
+    },
+    {
+        "clave": "424",
+        "nombre": "Santa María Ozolotepec"
+    },
+    {
+        "clave": "425",
+        "nombre": "Santa María Pápalo"
+    },
+    {
+        "clave": "426",
+        "nombre": "Santa María Peñoles"
+    },
+    {
+        "clave": "427",
+        "nombre": "Santa María Petapa"
+    },
+    {
+        "clave": "428",
+        "nombre": "Santa María Quiegolani"
+    },
+    {
+        "clave": "429",
+        "nombre": "Santa María Sola"
+    },
+    {
+        "clave": "430",
+        "nombre": "Santa María Tataltepec"
+    },
+    {
+        "clave": "431",
+        "nombre": "Santa María Tecomavaca"
+    },
+    {
+        "clave": "432",
+        "nombre": "Santa María Temaxcalapa"
+    },
+    {
+        "clave": "433",
+        "nombre": "Santa María Temaxcaltepec"
+    },
+    {
+        "clave": "434",
+        "nombre": "Santa María Teopoxco"
+    },
+    {
+        "clave": "435",
+        "nombre": "Santa María Tepantlali"
+    },
+    {
+        "clave": "436",
+        "nombre": "Santa María Texcatitlán"
+    },
+    {
+        "clave": "437",
+        "nombre": "Santa María Tlahuitoltepec"
+    },
+    {
+        "clave": "438",
+        "nombre": "Santa María Tlalixtac"
+    },
+    {
+        "clave": "439",
+        "nombre": "Santa María Tonameca"
+    },
+    {
+        "clave": "440",
+        "nombre": "Santa María Totolapilla"
+    },
+    {
+        "clave": "441",
+        "nombre": "Santa María Xadani"
+    },
+    {
+        "clave": "442",
+        "nombre": "Santa María Yalina"
+    },
+    {
+        "clave": "443",
+        "nombre": "Santa María Yavesía"
+    },
+    {
+        "clave": "444",
+        "nombre": "Santa María Yolotepec"
+    },
+    {
+        "clave": "445",
+        "nombre": "Santa María Yosoyúa"
+    },
+    {
+        "clave": "446",
+        "nombre": "Santa María Yucuhiti"
+    },
+    {
+        "clave": "447",
+        "nombre": "Santa María Zacatepec"
+    },
+    {
+        "clave": "448",
+        "nombre": "Santa María Zaniza"
+    },
+    {
+        "clave": "449",
+        "nombre": "Santa María Zoquitlán"
+    },
+    {
+        "clave": "450",
+        "nombre": "Santiago Amoltepec"
+    },
+    {
+        "clave": "451",
+        "nombre": "Santiago Apoala"
+    },
+    {
+        "clave": "452",
+        "nombre": "Santiago Apóstol"
+    },
+    {
+        "clave": "453",
+        "nombre": "Santiago Astata"
+    },
+    {
+        "clave": "454",
+        "nombre": "Santiago Atitlán"
+    },
+    {
+        "clave": "455",
+        "nombre": "Santiago Ayuquililla"
+    },
+    {
+        "clave": "456",
+        "nombre": "Santiago Cacaloxtepec"
+    },
+    {
+        "clave": "457",
+        "nombre": "Santiago Camotlán"
+    },
+    {
+        "clave": "458",
+        "nombre": "Santiago Comaltepec"
+    },
+    {
+        "clave": "459",
+        "nombre": "Santiago Chazumba"
+    },
+    {
+        "clave": "460",
+        "nombre": "Santiago Choápam"
+    },
+    {
+        "clave": "461",
+        "nombre": "Santiago del Río"
+    },
+    {
+        "clave": "462",
+        "nombre": "Santiago Huajolotitlán"
+    },
+    {
+        "clave": "463",
+        "nombre": "Santiago Huauclilla"
+    },
+    {
+        "clave": "464",
+        "nombre": "Santiago Ihuitlán Plumas"
+    },
+    {
+        "clave": "465",
+        "nombre": "Santiago Ixcuintepec"
+    },
+    {
+        "clave": "466",
+        "nombre": "Santiago Ixtayutla"
+    },
+    {
+        "clave": "467",
+        "nombre": "Santiago Jamiltepec"
+    },
+    {
+        "clave": "468",
+        "nombre": "Santiago Jocotepec"
+    },
+    {
+        "clave": "469",
+        "nombre": "Santiago Juxtlahuaca"
+    },
+    {
+        "clave": "470",
+        "nombre": "Santiago Lachiguiri"
+    },
+    {
+        "clave": "471",
+        "nombre": "Santiago Lalopa"
+    },
+    {
+        "clave": "472",
+        "nombre": "Santiago Laollaga"
+    },
+    {
+        "clave": "473",
+        "nombre": "Santiago Laxopa"
+    },
+    {
+        "clave": "474",
+        "nombre": "Santiago Llano Grande"
+    },
+    {
+        "clave": "475",
+        "nombre": "Santiago Matatlán"
+    },
+    {
+        "clave": "476",
+        "nombre": "Santiago Miltepec"
+    },
+    {
+        "clave": "477",
+        "nombre": "Santiago Minas"
+    },
+    {
+        "clave": "478",
+        "nombre": "Santiago Nacaltepec"
+    },
+    {
+        "clave": "479",
+        "nombre": "Santiago Nejapilla"
+    },
+    {
+        "clave": "480",
+        "nombre": "Santiago Nundiche"
+    },
+    {
+        "clave": "481",
+        "nombre": "Santiago Nuyoó"
+    },
+    {
+        "clave": "482",
+        "nombre": "Santiago Pinotepa Nacional"
+    },
+    {
+        "clave": "483",
+        "nombre": "Santiago Suchilquitongo"
+    },
+    {
+        "clave": "484",
+        "nombre": "Santiago Tamazola"
+    },
+    {
+        "clave": "485",
+        "nombre": "Santiago Tapextla"
+    },
+    {
+        "clave": "486",
+        "nombre": "Villa Tejúpam de la Unión"
+    },
+    {
+        "clave": "487",
+        "nombre": "Santiago Tenango"
+    },
+    {
+        "clave": "488",
+        "nombre": "Santiago Tepetlapa"
+    },
+    {
+        "clave": "489",
+        "nombre": "Santiago Tetepec"
+    },
+    {
+        "clave": "490",
+        "nombre": "Santiago Texcalcingo"
+    },
+    {
+        "clave": "491",
+        "nombre": "Santiago Textitlán"
+    },
+    {
+        "clave": "492",
+        "nombre": "Santiago Tilantongo"
+    },
+    {
+        "clave": "493",
+        "nombre": "Santiago Tillo"
+    },
+    {
+        "clave": "494",
+        "nombre": "Santiago Tlazoyaltepec"
+    },
+    {
+        "clave": "495",
+        "nombre": "Santiago Xanica"
+    },
+    {
+        "clave": "496",
+        "nombre": "Santiago Xiacuí"
+    },
+    {
+        "clave": "497",
+        "nombre": "Santiago Yaitepec"
+    },
+    {
+        "clave": "498",
+        "nombre": "Santiago Yaveo"
+    },
+    {
+        "clave": "499",
+        "nombre": "Santiago Yolomécatl"
+    },
+    {
+        "clave": "500",
+        "nombre": "Santiago Yosondúa"
+    },
+    {
+        "clave": "501",
+        "nombre": "Santiago Yucuyachi"
+    },
+    {
+        "clave": "502",
+        "nombre": "Santiago Zacatepec"
+    },
+    {
+        "clave": "503",
+        "nombre": "Santiago Zoochila"
+    },
+    {
+        "clave": "504",
+        "nombre": "Nuevo Zoquiápam"
+    },
+    {
+        "clave": "505",
+        "nombre": "Santo Domingo Ingenio"
+    },
+    {
+        "clave": "506",
+        "nombre": "Santo Domingo Albarradas"
+    },
+    {
+        "clave": "507",
+        "nombre": "Santo Domingo Armenta"
+    },
+    {
+        "clave": "508",
+        "nombre": "Santo Domingo Chihuitán"
+    },
+    {
+        "clave": "509",
+        "nombre": "Santo Domingo de Morelos"
+    },
+    {
+        "clave": "510",
+        "nombre": "Santo Domingo Ixcatlán"
+    },
+    {
+        "clave": "511",
+        "nombre": "Santo Domingo Nuxaá"
+    },
+    {
+        "clave": "512",
+        "nombre": "Santo Domingo Ozolotepec"
+    },
+    {
+        "clave": "513",
+        "nombre": "Santo Domingo Petapa"
+    },
+    {
+        "clave": "514",
+        "nombre": "Santo Domingo Roayaga"
+    },
+    {
+        "clave": "515",
+        "nombre": "Santo Domingo Tehuantepec"
+    },
+    {
+        "clave": "516",
+        "nombre": "Santo Domingo Teojomulco"
+    },
+    {
+        "clave": "517",
+        "nombre": "Santo Domingo Tepuxtepec"
+    },
+    {
+        "clave": "518",
+        "nombre": "Santo Domingo Tlatayápam"
+    },
+    {
+        "clave": "519",
+        "nombre": "Santo Domingo Tomaltepec"
+    },
+    {
+        "clave": "520",
+        "nombre": "Santo Domingo Tonalá"
+    },
+    {
+        "clave": "521",
+        "nombre": "Santo Domingo Tonaltepec"
+    },
+    {
+        "clave": "522",
+        "nombre": "Santo Domingo Xagacía"
+    },
+    {
+        "clave": "523",
+        "nombre": "Santo Domingo Yanhuitlán"
+    },
+    {
+        "clave": "524",
+        "nombre": "Santo Domingo Yodohino"
+    },
+    {
+        "clave": "525",
+        "nombre": "Santo Domingo Zanatepec"
+    },
+    {
+        "clave": "526",
+        "nombre": "Santos Reyes Nopala"
+    },
+    {
+        "clave": "527",
+        "nombre": "Santos Reyes Pápalo"
+    },
+    {
+        "clave": "528",
+        "nombre": "Santos Reyes Tepejillo"
+    },
+    {
+        "clave": "529",
+        "nombre": "Santos Reyes Yucuná"
+    },
+    {
+        "clave": "530",
+        "nombre": "Santo Tomás Jalieza"
+    },
+    {
+        "clave": "531",
+        "nombre": "Santo Tomás Mazaltepec"
+    },
+    {
+        "clave": "532",
+        "nombre": "Santo Tomás Ocotepec"
+    },
+    {
+        "clave": "533",
+        "nombre": "Santo Tomás Tamazulapan"
+    },
+    {
+        "clave": "534",
+        "nombre": "San Vicente Coatlán"
+    },
+    {
+        "clave": "535",
+        "nombre": "San Vicente Lachixío"
+    },
+    {
+        "clave": "536",
+        "nombre": "San Vicente Nuñú"
+    },
+    {
+        "clave": "537",
+        "nombre": "Silacayoápam"
+    },
+    {
+        "clave": "538",
+        "nombre": "Sitio de Xitlapehua"
+    },
+    {
+        "clave": "539",
+        "nombre": "Soledad Etla"
+    },
+    {
+        "clave": "540",
+        "nombre": "Villa de Tamazulápam del Progreso"
+    },
+    {
+        "clave": "541",
+        "nombre": "Tanetze de Zaragoza"
+    },
+    {
+        "clave": "542",
+        "nombre": "Taniche"
+    },
+    {
+        "clave": "543",
+        "nombre": "Tataltepec de Valdés"
+    },
+    {
+        "clave": "544",
+        "nombre": "Teococuilco de Marcos Pérez"
+    },
+    {
+        "clave": "545",
+        "nombre": "Teotitlán de Flores Magón"
+    },
+    {
+        "clave": "546",
+        "nombre": "Teotitlán del Valle"
+    },
+    {
+        "clave": "547",
+        "nombre": "Teotongo"
+    },
+    {
+        "clave": "548",
+        "nombre": "Tepelmeme Villa de Morelos"
+    },
+    {
+        "clave": "549",
+        "nombre": "Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca"
+    },
+    {
+        "clave": "550",
+        "nombre": "San Jerónimo Tlacochahuaya"
+    },
+    {
+        "clave": "551",
+        "nombre": "Tlacolula de Matamoros"
+    },
+    {
+        "clave": "552",
+        "nombre": "Tlacotepec Plumas"
+    },
+    {
+        "clave": "553",
+        "nombre": "Tlalixtac de Cabrera"
+    },
+    {
+        "clave": "554",
+        "nombre": "Totontepec Villa de Morelos"
+    },
+    {
+        "clave": "555",
+        "nombre": "Trinidad Zaachila"
+    },
+    {
+        "clave": "556",
+        "nombre": "La Trinidad Vista Hermosa"
+    },
+    {
+        "clave": "557",
+        "nombre": "Unión Hidalgo"
+    },
+    {
+        "clave": "558",
+        "nombre": "Valerio Trujano"
+    },
+    {
+        "clave": "559",
+        "nombre": "San Juan Bautista Valle Nacional"
+    },
+    {
+        "clave": "560",
+        "nombre": "Villa Díaz Ordaz"
+    },
+    {
+        "clave": "561",
+        "nombre": "Yaxe"
+    },
+    {
+        "clave": "562",
+        "nombre": "Magdalena Yodocono de Porfirio Díaz"
+    },
+    {
+        "clave": "563",
+        "nombre": "Yogana"
+    },
+    {
+        "clave": "564",
+        "nombre": "Yutanduchi de Guerrero"
+    },
+    {
+        "clave": "565",
+        "nombre": "Villa de Zaachila"
+    },
+    {
+        "clave": "566",
+        "nombre": "San Mateo Yucutindoo"
+    },
+    {
+        "clave": "567",
+        "nombre": "Zapotitlán Lagunas"
+    },
+    {
+        "clave": "568",
+        "nombre": "Zapotitlán Palmas"
+    },
+    {
+        "clave": "569",
+        "nombre": "Santa Inés de Zaragoza"
+    },
+    {
+        "clave": "570",
+        "nombre": "Zimatlán de Álvarez"
+    }
+]

@@ -1,0 +1,826 @@
+[
+    {
+        "clave": "260250095",
+        "nombre": "San Pablo Dos"
+    },
+    {
+        "clave": "260250256",
+        "nombre": "Ninguno [Abelardo Galáz Preciado]"
+    },
+    {
+        "clave": "260250069",
+        "nombre": "Úrsulo Galván"
+    },
+    {
+        "clave": "260250090",
+        "nombre": "Margarita (Agrícola Omega)"
+    },
+    {
+        "clave": "260250097",
+        "nombre": "San Enrique"
+    },
+    {
+        "clave": "260250102",
+        "nombre": "La Piedrera"
+    },
+    {
+        "clave": "260250131",
+        "nombre": "El Bateve Número Dos"
+    },
+    {
+        "clave": "260250136",
+        "nombre": "Juan Rodríguez"
+    },
+    {
+        "clave": "260250140",
+        "nombre": "San Fernando de Guaymas"
+    },
+    {
+        "clave": "260250145",
+        "nombre": "Cincuenta y Dos"
+    },
+    {
+        "clave": "260250176",
+        "nombre": "Úrsulo Galván"
+    },
+    {
+        "clave": "260250182",
+        "nombre": "Malichita"
+    },
+    {
+        "clave": "260250228",
+        "nombre": "Narciso Mendoza"
+    },
+    {
+        "clave": "260250270",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "260250281",
+        "nombre": "El Morgan"
+    },
+    {
+        "clave": "260250289",
+        "nombre": "Santa María (Pozo Once)"
+    },
+    {
+        "clave": "260250001",
+        "nombre": "Empalme"
+    },
+    {
+        "clave": "260250002",
+        "nombre": "Colonia Adolfo Ruiz Cortines"
+    },
+    {
+        "clave": "260250003",
+        "nombre": "La Aguilita"
+    },
+    {
+        "clave": "260250006",
+        "nombre": "Antonio Rosales"
+    },
+    {
+        "clave": "260250011",
+        "nombre": "El Real"
+    },
+    {
+        "clave": "260250013",
+        "nombre": "Cruz de Piedra"
+    },
+    {
+        "clave": "260250017",
+        "nombre": "Establo Fátima (Agroindustrial Vilo)"
+    },
+    {
+        "clave": "260250018",
+        "nombre": "GAFERSA"
+    },
+    {
+        "clave": "260250024",
+        "nombre": "Campo Nuevo (Heriberto Jara)"
+    },
+    {
+        "clave": "260250025",
+        "nombre": "El Norteño"
+    },
+    {
+        "clave": "260250028",
+        "nombre": "Japonés"
+    },
+    {
+        "clave": "260250029",
+        "nombre": "Junelancahui (El Mezquite)"
+    },
+    {
+        "clave": "260250031",
+        "nombre": "Maytorena"
+    },
+    {
+        "clave": "260250033",
+        "nombre": "Mi Patria es Primero"
+    },
+    {
+        "clave": "260250034",
+        "nombre": "José María Morelos y Pavón (La Atravezada)"
+    },
+    {
+        "clave": "260250035",
+        "nombre": "Narciso Mendoza"
+    },
+    {
+        "clave": "260250037",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "260250039",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "260250040",
+        "nombre": "La Purísima"
+    },
+    {
+        "clave": "260250041",
+        "nombre": "San Antonio Uno"
+    },
+    {
+        "clave": "260250042",
+        "nombre": "San Antonio Dos"
+    },
+    {
+        "clave": "260250043",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "260250047",
+        "nombre": "El Morgan"
+    },
+    {
+        "clave": "260250048",
+        "nombre": "San Ignacio"
+    },
+    {
+        "clave": "260250049",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "260250050",
+        "nombre": "Los Chiltepines (San Juan)"
+    },
+    {
+        "clave": "260250054",
+        "nombre": "Dorados de Villa"
+    },
+    {
+        "clave": "260250055",
+        "nombre": "Santa Cecilia"
+    },
+    {
+        "clave": "260250056",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "260250058",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "260250059",
+        "nombre": "Santa Lucía Uno"
+    },
+    {
+        "clave": "260250060",
+        "nombre": "Santa María de Guaymas"
+    },
+    {
+        "clave": "260250064",
+        "nombre": "Tepeyac"
+    },
+    {
+        "clave": "260250067",
+        "nombre": "El Tomatal"
+    },
+    {
+        "clave": "260250070",
+        "nombre": "Los Venados"
+    },
+    {
+        "clave": "260250074",
+        "nombre": "Zaragoza (Santa Amelia)"
+    },
+    {
+        "clave": "260250076",
+        "nombre": "Santa Anita"
+    },
+    {
+        "clave": "260250078",
+        "nombre": "La Choya Dos"
+    },
+    {
+        "clave": "260250079",
+        "nombre": "El Cincuenta"
+    },
+    {
+        "clave": "260250080",
+        "nombre": "El Cheyene (Los Gordos)"
+    },
+    {
+        "clave": "260250082",
+        "nombre": "Cochórit"
+    },
+    {
+        "clave": "260250085",
+        "nombre": "El Chiltepín"
+    },
+    {
+        "clave": "260250087",
+        "nombre": "El Diez"
+    },
+    {
+        "clave": "260250088",
+        "nombre": "La Florida"
+    },
+    {
+        "clave": "260250096",
+        "nombre": "Sociedad Rubén Jaramillo (Campo Guaymas)"
+    },
+    {
+        "clave": "260250099",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "260250103",
+        "nombre": "Niño San Humberto [Casa Hogar]"
+    },
+    {
+        "clave": "260250107",
+        "nombre": "El Palomar"
+    },
+    {
+        "clave": "260250111",
+        "nombre": "Santo Tomás"
+    },
+    {
+        "clave": "260250113",
+        "nombre": "Santa Leticia"
+    },
+    {
+        "clave": "260250115",
+        "nombre": "Porcina Kilómetro Noventa y Cuatro"
+    },
+    {
+        "clave": "260250121",
+        "nombre": "Santa Teresita"
+    },
+    {
+        "clave": "260250124",
+        "nombre": "Santa Mónica (Mónica)"
+    },
+    {
+        "clave": "260250125",
+        "nombre": "Industria Porcina de Sonora"
+    },
+    {
+        "clave": "260250126",
+        "nombre": "Santa Cecilia"
+    },
+    {
+        "clave": "260250128",
+        "nombre": "Santa Aurora"
+    },
+    {
+        "clave": "260250130",
+        "nombre": "El Bateve"
+    },
+    {
+        "clave": "260250132",
+        "nombre": "El Bateve Número Uno"
+    },
+    {
+        "clave": "260250134",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "260250135",
+        "nombre": "La Choya Uno"
+    },
+    {
+        "clave": "260250137",
+        "nombre": "El Edén (El Mezquite)"
+    },
+    {
+        "clave": "260250139",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "260250141",
+        "nombre": "San Isidro Barcenas"
+    },
+    {
+        "clave": "260250142",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "260250143",
+        "nombre": "El Tres"
+    },
+    {
+        "clave": "260250146",
+        "nombre": "La Escondida (Agua Caliente)"
+    },
+    {
+        "clave": "260250147",
+        "nombre": "La Aguilita"
+    },
+    {
+        "clave": "260250149",
+        "nombre": "Vicente Guerrero"
+    },
+    {
+        "clave": "260250151",
+        "nombre": "Bamory"
+    },
+    {
+        "clave": "260250154",
+        "nombre": "Empalme el Águila (El Ranchito)"
+    },
+    {
+        "clave": "260250156",
+        "nombre": "Fátima"
+    },
+    {
+        "clave": "260250158",
+        "nombre": "Las Margaritas"
+    },
+    {
+        "clave": "260250159",
+        "nombre": "Huerta Maytorena"
+    },
+    {
+        "clave": "260250165",
+        "nombre": "La Purisima"
+    },
+    {
+        "clave": "260250167",
+        "nombre": "Rincón San Lucas"
+    },
+    {
+        "clave": "260250173",
+        "nombre": "Santa Lucía Dos"
+    },
+    {
+        "clave": "260250184",
+        "nombre": "Chon Orduño"
+    },
+    {
+        "clave": "260250187",
+        "nombre": "Santa Lucía (Bellot)"
+    },
+    {
+        "clave": "260250192",
+        "nombre": "Roncalli"
+    },
+    {
+        "clave": "260250195",
+        "nombre": "Porcina Número Dos"
+    },
+    {
+        "clave": "260250198",
+        "nombre": "Pozo Nueve"
+    },
+    {
+        "clave": "260250201",
+        "nombre": "Proyecto Mercurio"
+    },
+    {
+        "clave": "260250203",
+        "nombre": "Playa del Sol"
+    },
+    {
+        "clave": "260250204",
+        "nombre": "El Pozo Veinticuatro"
+    },
+    {
+        "clave": "260250206",
+        "nombre": "Pozo Veintiuno"
+    },
+    {
+        "clave": "260250208",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "260250210",
+        "nombre": "Santa Olga"
+    },
+    {
+        "clave": "260250211",
+        "nombre": "La Candelaria"
+    },
+    {
+        "clave": "260250212",
+        "nombre": "El Chiltepín"
+    },
+    {
+        "clave": "260250213",
+        "nombre": "El Papalote"
+    },
+    {
+        "clave": "260250214",
+        "nombre": "El Remolino"
+    },
+    {
+        "clave": "260250215",
+        "nombre": "El Sinal"
+    },
+    {
+        "clave": "260250216",
+        "nombre": "El Mezquite (Terreno de Junelancahui)"
+    },
+    {
+        "clave": "260250217",
+        "nombre": "Ninguno [Estación Radio Marítima]"
+    },
+    {
+        "clave": "260250218",
+        "nombre": "Criadero el Desierto"
+    },
+    {
+        "clave": "260250222",
+        "nombre": "La Piedra"
+    },
+    {
+        "clave": "260250224",
+        "nombre": "Sociedad Igualitaria"
+    },
+    {
+        "clave": "260250232",
+        "nombre": "Yolanda Laguna"
+    },
+    {
+        "clave": "260250233",
+        "nombre": "Los Hoyos [Centro de Transferencia de Embriones]"
+    },
+    {
+        "clave": "260250235",
+        "nombre": "Complementación Ejido Baca Calderón"
+    },
+    {
+        "clave": "260250236",
+        "nombre": "Colinas del Sol [Fraccionamiento]"
+    },
+    {
+        "clave": "260250237",
+        "nombre": "Gafercita"
+    },
+    {
+        "clave": "260250239",
+        "nombre": "El Pilar"
+    },
+    {
+        "clave": "260250240",
+        "nombre": "Rancho de Germán Ruiz"
+    },
+    {
+        "clave": "260250241",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "260250242",
+        "nombre": "La Casita de Campo [Restaurant]"
+    },
+    {
+        "clave": "260250243",
+        "nombre": "El Caminante [Restaurante]"
+    },
+    {
+        "clave": "260250244",
+        "nombre": "Casilio [Taller]"
+    },
+    {
+        "clave": "260250245",
+        "nombre": "La Aguilita"
+    },
+    {
+        "clave": "260250246",
+        "nombre": "El Cincuenta"
+    },
+    {
+        "clave": "260250247",
+        "nombre": "Ruiz"
+    },
+    {
+        "clave": "260250248",
+        "nombre": "Fraccionamiento Nuevo Empalme"
+    },
+    {
+        "clave": "260250249",
+        "nombre": "Establo Tepeyac"
+    },
+    {
+        "clave": "260250251",
+        "nombre": "El Oasis del Trailero (Proyecto Mercurio)"
+    },
+    {
+        "clave": "260250252",
+        "nombre": "Las Tortolitas"
+    },
+    {
+        "clave": "260250253",
+        "nombre": "Rancho Salazares"
+    },
+    {
+        "clave": "260250254",
+        "nombre": "Balneario Venecia"
+    },
+    {
+        "clave": "260250257",
+        "nombre": "Acapulquito"
+    },
+    {
+        "clave": "260250258",
+        "nombre": "Acuaindustrias del Pacífico"
+    },
+    {
+        "clave": "260250259",
+        "nombre": "Agemar"
+    },
+    {
+        "clave": "260250260",
+        "nombre": "Campo Dieciséis"
+    },
+    {
+        "clave": "260250261",
+        "nombre": "Guadalupe (Colonia Guadalupe)"
+    },
+    {
+        "clave": "260250262",
+        "nombre": "Insumos Proterra"
+    },
+    {
+        "clave": "260250263",
+        "nombre": "Juan Luis Covarrubias"
+    },
+    {
+        "clave": "260250264",
+        "nombre": "Libramiento"
+    },
+    {
+        "clave": "260250265",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "260250266",
+        "nombre": "Núcleo de Producción Xaratanga"
+    },
+    {
+        "clave": "260250267",
+        "nombre": "Pozo Cincuenta y Uno"
+    },
+    {
+        "clave": "260250268",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "260250269",
+        "nombre": "Roberto Soto Soto"
+    },
+    {
+        "clave": "260250271",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "260250272",
+        "nombre": "Avestruces del Noroeste"
+    },
+    {
+        "clave": "260250273",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "260250274",
+        "nombre": "El Cuarenta y Seis"
+    },
+    {
+        "clave": "260250275",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "260250276",
+        "nombre": "Buffalo Packing (Gringo Cebollero)"
+    },
+    {
+        "clave": "260250277",
+        "nombre": "Aeródromo San Martín"
+    },
+    {
+        "clave": "260250278",
+        "nombre": "Campo Oroz"
+    },
+    {
+        "clave": "260250279",
+        "nombre": "El Chanate"
+    },
+    {
+        "clave": "260250280",
+        "nombre": "Los Coyotes"
+    },
+    {
+        "clave": "260250282",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "260250283",
+        "nombre": "El Sahuarito"
+    },
+    {
+        "clave": "260250284",
+        "nombre": "Centro Cristiano DAER AC"
+    },
+    {
+        "clave": "260250285",
+        "nombre": "Cruz de Piedra [Granja Acuícola]"
+    },
+    {
+        "clave": "260250286",
+        "nombre": "Las Cumbres de Sinué"
+    },
+    {
+        "clave": "260250287",
+        "nombre": "Las Palmitas"
+    },
+    {
+        "clave": "260250288",
+        "nombre": "Santa María (Pozo Doce)"
+    },
+    {
+        "clave": "260250290",
+        "nombre": "Parcela el Gato"
+    },
+    {
+        "clave": "260250291",
+        "nombre": "San Judas Tadeo"
+    },
+    {
+        "clave": "260250292",
+        "nombre": "Uriel Moreno"
+    },
+    {
+        "clave": "260250293",
+        "nombre": "Manuel Monge"
+    },
+    {
+        "clave": "260250294",
+        "nombre": "Bamory"
+    },
+    {
+        "clave": "260250295",
+        "nombre": "Santa Inés Villas Sport (Pozo Noventa y Ocho)"
+    },
+    {
+        "clave": "260250296",
+        "nombre": "Ninguno [Ampliación Ejido Sahuaral]"
+    },
+    {
+        "clave": "260250297",
+        "nombre": "Punta Calaveras"
+    },
+    {
+        "clave": "260250298",
+        "nombre": "La Tarántula"
+    },
+    {
+        "clave": "260250299",
+        "nombre": "Luis Durán"
+    },
+    {
+        "clave": "260250300",
+        "nombre": "Carlos Reyes"
+    },
+    {
+        "clave": "260250301",
+        "nombre": "Club Ferrocarrilero Campestre"
+    },
+    {
+        "clave": "260250302",
+        "nombre": "Ninguno [Familia los González]"
+    },
+    {
+        "clave": "260250303",
+        "nombre": "Pozo Número 4"
+    },
+    {
+        "clave": "260250304",
+        "nombre": "Luis Manuel Portillo Vidal"
+    },
+    {
+        "clave": "260250305",
+        "nombre": "Jesús Meza"
+    },
+    {
+        "clave": "260250306",
+        "nombre": "La Piedreña"
+    },
+    {
+        "clave": "260250307",
+        "nombre": "Cerro de la Bandera"
+    },
+    {
+        "clave": "260250308",
+        "nombre": "Cerro del Yasícuri"
+    },
+    {
+        "clave": "260250309",
+        "nombre": "Coplamar"
+    },
+    {
+        "clave": "260250310",
+        "nombre": "La Quinta San Fabián"
+    },
+    {
+        "clave": "260250311",
+        "nombre": "Ninguno [Diego Bojórquez Quezada]"
+    },
+    {
+        "clave": "260250312",
+        "nombre": "Campo 10 Nuevo (Rigoberto Plata Carbajal)"
+    },
+    {
+        "clave": "260250313",
+        "nombre": "Efrén Orduño Félix"
+    },
+    {
+        "clave": "260250314",
+        "nombre": "Noé Ponce Arellano"
+    },
+    {
+        "clave": "260250315",
+        "nombre": "Campo 23"
+    },
+    {
+        "clave": "260250316",
+        "nombre": "Rosario Ramón Ruiz"
+    },
+    {
+        "clave": "260250317",
+        "nombre": "Ninguno [Rancho]"
+    },
+    {
+        "clave": "260250318",
+        "nombre": "La Esmeralda"
+    },
+    {
+        "clave": "260250319",
+        "nombre": "Restaurante Libramiento Km. 3.5"
+    },
+    {
+        "clave": "260250320",
+        "nombre": "Agustín Galaz [Rancho]"
+    },
+    {
+        "clave": "260250321",
+        "nombre": "Pozo Número 1"
+    },
+    {
+        "clave": "260250322",
+        "nombre": "Pozo la Mesteña"
+    },
+    {
+        "clave": "260250323",
+        "nombre": "Luz Marìa [Rancho]"
+    },
+    {
+        "clave": "260250325",
+        "nombre": "Ninguno [Pozo Cea Número 2]"
+    },
+    {
+        "clave": "260250326",
+        "nombre": "El California"
+    },
+    {
+        "clave": "260250327",
+        "nombre": "Six San Fernando"
+    },
+    {
+        "clave": "260250328",
+        "nombre": "Villegas [Rancho]"
+    },
+    {
+        "clave": "260250329",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "260250330",
+        "nombre": "Hipódromo (EL Zancudo)"
+    },
+    {
+        "clave": "260250332",
+        "nombre": "Antena Repetidora de Cumbres de Sinue"
+    },
+    {
+        "clave": "260250333",
+        "nombre": "Corrales San Judas"
+    },
+    {
+        "clave": "260250334",
+        "nombre": "Módulo Ciitev"
+    }
+]

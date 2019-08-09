@@ -1,0 +1,534 @@
+[
+    {
+        "clave": "301500012",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "301500050",
+        "nombre": "La Mar"
+    },
+    {
+        "clave": "301500111",
+        "nombre": "El Jagüey"
+    },
+    {
+        "clave": "301500112",
+        "nombre": "Ejido Solidaridad Dos"
+    },
+    {
+        "clave": "301500001",
+        "nombre": "Tamalín"
+    },
+    {
+        "clave": "301500002",
+        "nombre": "Carmona y Valle"
+    },
+    {
+        "clave": "301500003",
+        "nombre": "Mamey la Mar"
+    },
+    {
+        "clave": "301500004",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "301500007",
+        "nombre": "San Jerónimo (La Guásima)"
+    },
+    {
+        "clave": "301500008",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "301500013",
+        "nombre": "Calmecate"
+    },
+    {
+        "clave": "301500015",
+        "nombre": "La Cebadilla"
+    },
+    {
+        "clave": "301500016",
+        "nombre": "Cerro Santa Catarina"
+    },
+    {
+        "clave": "301500017",
+        "nombre": "El Coyol"
+    },
+    {
+        "clave": "301500018",
+        "nombre": "Escobal (Ejido Escobal)"
+    },
+    {
+        "clave": "301500021",
+        "nombre": "Hacienda Vieja"
+    },
+    {
+        "clave": "301500025",
+        "nombre": "La Merced"
+    },
+    {
+        "clave": "301500026",
+        "nombre": "Palmarillo"
+    },
+    {
+        "clave": "301500031",
+        "nombre": "Las Piedras"
+    },
+    {
+        "clave": "301500033",
+        "nombre": "Los Potreros"
+    },
+    {
+        "clave": "301500035",
+        "nombre": "El Presidio"
+    },
+    {
+        "clave": "301500036",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "301500037",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "301500040",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "301500042",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "301500048",
+        "nombre": "El Cedral (Poblado el Cedral)"
+    },
+    {
+        "clave": "301500049",
+        "nombre": "Ejido el Rincón"
+    },
+    {
+        "clave": "301500054",
+        "nombre": "La Beraca"
+    },
+    {
+        "clave": "301500065",
+        "nombre": "El Herradero"
+    },
+    {
+        "clave": "301500067",
+        "nombre": "El Maguey"
+    },
+    {
+        "clave": "301500075",
+        "nombre": "Piedra Blanca"
+    },
+    {
+        "clave": "301500077",
+        "nombre": "La Riverita"
+    },
+    {
+        "clave": "301500091",
+        "nombre": "Altamira"
+    },
+    {
+        "clave": "301500092",
+        "nombre": "Palo Blanco"
+    },
+    {
+        "clave": "301500100",
+        "nombre": "Ejido Cedral"
+    },
+    {
+        "clave": "301500104",
+        "nombre": "Ejido de la Reforma (La Trinidad)"
+    },
+    {
+        "clave": "301500115",
+        "nombre": "Ampliación Palmarillo"
+    },
+    {
+        "clave": "301500121",
+        "nombre": "El Cinco"
+    },
+    {
+        "clave": "301500135",
+        "nombre": "Subida Alta"
+    },
+    {
+        "clave": "301500136",
+        "nombre": "Ampliación Ejido Rincón"
+    },
+    {
+        "clave": "301500005",
+        "nombre": "Saladero"
+    },
+    {
+        "clave": "301500009",
+        "nombre": "San Judas"
+    },
+    {
+        "clave": "301500019",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "301500024",
+        "nombre": "Kilómetro Cuarenta"
+    },
+    {
+        "clave": "301500027",
+        "nombre": "Paso Cucharas"
+    },
+    {
+        "clave": "301500029",
+        "nombre": "Paso Real"
+    },
+    {
+        "clave": "301500030",
+        "nombre": "La Peña"
+    },
+    {
+        "clave": "301500032",
+        "nombre": "El Placer"
+    },
+    {
+        "clave": "301500038",
+        "nombre": "San Javier"
+    },
+    {
+        "clave": "301500047",
+        "nombre": "El Frijolillo"
+    },
+    {
+        "clave": "301500051",
+        "nombre": "Las Piochas"
+    },
+    {
+        "clave": "301500053",
+        "nombre": "Papatlas"
+    },
+    {
+        "clave": "301500056",
+        "nombre": "El Rey (San Ramón)"
+    },
+    {
+        "clave": "301500058",
+        "nombre": "La Ausencia"
+    },
+    {
+        "clave": "301500059",
+        "nombre": "El Azadón"
+    },
+    {
+        "clave": "301500060",
+        "nombre": "El Carbajal"
+    },
+    {
+        "clave": "301500061",
+        "nombre": "Cristo Rey"
+    },
+    {
+        "clave": "301500063",
+        "nombre": "El Gavilán"
+    },
+    {
+        "clave": "301500064",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "301500068",
+        "nombre": "Los Manueles"
+    },
+    {
+        "clave": "301500069",
+        "nombre": "La Martinica"
+    },
+    {
+        "clave": "301500070",
+        "nombre": "El Prado"
+    },
+    {
+        "clave": "301500071",
+        "nombre": "El Testerazo (Pánuco)"
+    },
+    {
+        "clave": "301500072",
+        "nombre": "La Fuente"
+    },
+    {
+        "clave": "301500073",
+        "nombre": "El Peque"
+    },
+    {
+        "clave": "301500074",
+        "nombre": "El Pescadito"
+    },
+    {
+        "clave": "301500076",
+        "nombre": "Piñonal"
+    },
+    {
+        "clave": "301500078",
+        "nombre": "San Enrique"
+    },
+    {
+        "clave": "301500079",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "301500080",
+        "nombre": "Hacienda San Jerónimo"
+    },
+    {
+        "clave": "301500081",
+        "nombre": "Los Pinos (San Joaquín)"
+    },
+    {
+        "clave": "301500082",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "301500083",
+        "nombre": "San Lucas"
+    },
+    {
+        "clave": "301500084",
+        "nombre": "Santa Clara"
+    },
+    {
+        "clave": "301500085",
+        "nombre": "Tres Hermanos (La Trinidad)"
+    },
+    {
+        "clave": "301500094",
+        "nombre": "El Cascajal"
+    },
+    {
+        "clave": "301500101",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "301500102",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "301500106",
+        "nombre": "El Armadillo"
+    },
+    {
+        "clave": "301500107",
+        "nombre": "San Ramón"
+    },
+    {
+        "clave": "301500108",
+        "nombre": "El Porvenir (El Maguey Dos)"
+    },
+    {
+        "clave": "301500109",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "301500110",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "301500113",
+        "nombre": "El Olivo"
+    },
+    {
+        "clave": "301500114",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "301500116",
+        "nombre": "Batería Número Tres (Tres Hermanos)"
+    },
+    {
+        "clave": "301500117",
+        "nombre": "Bella Vista"
+    },
+    {
+        "clave": "301500118",
+        "nombre": "Bonampak"
+    },
+    {
+        "clave": "301500119",
+        "nombre": "La Caridad"
+    },
+    {
+        "clave": "301500122",
+        "nombre": "El Edén"
+    },
+    {
+        "clave": "301500123",
+        "nombre": "Las Guásimas"
+    },
+    {
+        "clave": "301500124",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "301500125",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "301500126",
+        "nombre": "La Mina Bella Vista"
+    },
+    {
+        "clave": "301500127",
+        "nombre": "La Mina"
+    },
+    {
+        "clave": "301500128",
+        "nombre": "Palma Sola"
+    },
+    {
+        "clave": "301500129",
+        "nombre": "Santa Catarina la Mar"
+    },
+    {
+        "clave": "301500130",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "301500131",
+        "nombre": "Rancho Naranjal"
+    },
+    {
+        "clave": "301500132",
+        "nombre": "San Jerónimo"
+    },
+    {
+        "clave": "301500133",
+        "nombre": "San Cristóbal"
+    },
+    {
+        "clave": "301500134",
+        "nombre": "Santa Laura"
+    },
+    {
+        "clave": "301500137",
+        "nombre": "Los Alazanes"
+    },
+    {
+        "clave": "301500138",
+        "nombre": "El Ojite"
+    },
+    {
+        "clave": "301500139",
+        "nombre": "Boca la Mar"
+    },
+    {
+        "clave": "301500140",
+        "nombre": "El Jaral"
+    },
+    {
+        "clave": "301500141",
+        "nombre": "Las Palmas (Palmarillo)"
+    },
+    {
+        "clave": "301500142",
+        "nombre": "San José"
+    },
+    {
+        "clave": "301500143",
+        "nombre": "El Buitre"
+    },
+    {
+        "clave": "301500144",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "301500145",
+        "nombre": "Chomotla"
+    },
+    {
+        "clave": "301500146",
+        "nombre": "El Crucero"
+    },
+    {
+        "clave": "301500147",
+        "nombre": "Cuatro Hermanos"
+    },
+    {
+        "clave": "301500148",
+        "nombre": "Don Beto"
+    },
+    {
+        "clave": "301500149",
+        "nombre": "Los Gilbertos"
+    },
+    {
+        "clave": "301500150",
+        "nombre": "El Jacube"
+    },
+    {
+        "clave": "301500151",
+        "nombre": "El Mezquite"
+    },
+    {
+        "clave": "301500152",
+        "nombre": "La Nalgada"
+    },
+    {
+        "clave": "301500153",
+        "nombre": "La Peña"
+    },
+    {
+        "clave": "301500154",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "301500155",
+        "nombre": "Rita Herrera"
+    },
+    {
+        "clave": "301500156",
+        "nombre": "El Veinte"
+    },
+    {
+        "clave": "301500157",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "301500158",
+        "nombre": "San Martín las Piedras"
+    },
+    {
+        "clave": "301500159",
+        "nombre": "Los Titos (San Ramón)"
+    },
+    {
+        "clave": "301500160",
+        "nombre": "El Campeón"
+    },
+    {
+        "clave": "301500161",
+        "nombre": "Estrella de Oro"
+    },
+    {
+        "clave": "301500162",
+        "nombre": "Los Manantiales"
+    },
+    {
+        "clave": "301500163",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "301500164",
+        "nombre": "San Enrique"
+    },
+    {
+        "clave": "301500165",
+        "nombre": "Tierra Prieta"
+    },
+    {
+        "clave": "301500166",
+        "nombre": "Feliciano del Ángel Espinoza (Cuatro Hermanos)"
+    },
+    {
+        "clave": "301500167",
+        "nombre": "Dos Aguas"
+    }
+]

@@ -1,0 +1,870 @@
+[
+    {
+        "clave": "40010026",
+        "nombre": "Frente Chucsay"
+    },
+    {
+        "clave": "40010126",
+        "nombre": "El Buen Pastor"
+    },
+    {
+        "clave": "40010134",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "40010150",
+        "nombre": "Anexo San Mateo"
+    },
+    {
+        "clave": "40010155",
+        "nombre": "Colonia Coca-Cola"
+    },
+    {
+        "clave": "40010201",
+        "nombre": "La Fátima (Cocbilín)"
+    },
+    {
+        "clave": "40010233",
+        "nombre": "Yaxhaltún"
+    },
+    {
+        "clave": "40010003",
+        "nombre": "Bacabchén"
+    },
+    {
+        "clave": "40010005",
+        "nombre": "Concepción"
+    },
+    {
+        "clave": "40010006",
+        "nombre": "San Agustín Chunhuás"
+    },
+    {
+        "clave": "40010007",
+        "nombre": "Dzitbalché"
+    },
+    {
+        "clave": "40010008",
+        "nombre": "Nunkiní"
+    },
+    {
+        "clave": "40010009",
+        "nombre": "Pucnachén"
+    },
+    {
+        "clave": "40010010",
+        "nombre": "San Antonio Sahcabchén"
+    },
+    {
+        "clave": "40010011",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "40010012",
+        "nombre": "Santa Cruz Ex-Hacienda"
+    },
+    {
+        "clave": "40010013",
+        "nombre": "Santa Cruz Pueblo"
+    },
+    {
+        "clave": "40010014",
+        "nombre": "Tankuché"
+    },
+    {
+        "clave": "40010015",
+        "nombre": "Tepakán"
+    },
+    {
+        "clave": "40010016",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "40010232",
+        "nombre": "Xkakoch"
+    },
+    {
+        "clave": "40010001",
+        "nombre": "Calkiní"
+    },
+    {
+        "clave": "40010002",
+        "nombre": "Isla Arena"
+    },
+    {
+        "clave": "40010004",
+        "nombre": "Bécal"
+    },
+    {
+        "clave": "40010018",
+        "nombre": "El Remate"
+    },
+    {
+        "clave": "40010021",
+        "nombre": "Cacabahus"
+    },
+    {
+        "clave": "40010025",
+        "nombre": "Chichmuc"
+    },
+    {
+        "clave": "40010038",
+        "nombre": "El Gran Poder"
+    },
+    {
+        "clave": "40010044",
+        "nombre": "San Isidro Kakalmosón"
+    },
+    {
+        "clave": "40010047",
+        "nombre": "Piedras Negras"
+    },
+    {
+        "clave": "40010051",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "40010058",
+        "nombre": "San Dieguito"
+    },
+    {
+        "clave": "40010064",
+        "nombre": "San Joaquín"
+    },
+    {
+        "clave": "40010065",
+        "nombre": "San José"
+    },
+    {
+        "clave": "40010071",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "40010072",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "40010073",
+        "nombre": "San Mateo"
+    },
+    {
+        "clave": "40010083",
+        "nombre": "Santa Lucía"
+    },
+    {
+        "clave": "40010084",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "40010100",
+        "nombre": "San Diego X-Mac"
+    },
+    {
+        "clave": "40010101",
+        "nombre": "Maykekén"
+    },
+    {
+        "clave": "40010103",
+        "nombre": "San Roque Xnolán"
+    },
+    {
+        "clave": "40010105",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "40010111",
+        "nombre": "San Vicente Chucsay"
+    },
+    {
+        "clave": "40010112",
+        "nombre": "El Remolino (Noventa y Medio)"
+    },
+    {
+        "clave": "40010113",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "40010114",
+        "nombre": "Jesús de Nazareno"
+    },
+    {
+        "clave": "40010115",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "40010120",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "40010122",
+        "nombre": "Tres Hermanos"
+    },
+    {
+        "clave": "40010125",
+        "nombre": "San José"
+    },
+    {
+        "clave": "40010135",
+        "nombre": "Colún (San Alberto)"
+    },
+    {
+        "clave": "40010138",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "40010140",
+        "nombre": "El Guadalupano"
+    },
+    {
+        "clave": "40010141",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010142",
+        "nombre": "El Ramonal"
+    },
+    {
+        "clave": "40010143",
+        "nombre": "Sancochadero"
+    },
+    {
+        "clave": "40010144",
+        "nombre": "Calak Tunich"
+    },
+    {
+        "clave": "40010145",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "40010147",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010148",
+        "nombre": "San Diego"
+    },
+    {
+        "clave": "40010149",
+        "nombre": "Los Rosales"
+    },
+    {
+        "clave": "40010151",
+        "nombre": "Santo Domingo"
+    },
+    {
+        "clave": "40010152",
+        "nombre": "Ukuchil"
+    },
+    {
+        "clave": "40010153",
+        "nombre": "Doncella Escondida (Xtacumbil Xu Naam)"
+    },
+    {
+        "clave": "40010154",
+        "nombre": "Bomba"
+    },
+    {
+        "clave": "40010156",
+        "nombre": "El Garrafón"
+    },
+    {
+        "clave": "40010157",
+        "nombre": "La Guadalupana"
+    },
+    {
+        "clave": "40010161",
+        "nombre": "Pozo del Monte"
+    },
+    {
+        "clave": "40010162",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "40010163",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010165",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "40010171",
+        "nombre": "El Gran Poder"
+    },
+    {
+        "clave": "40010172",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010173",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010174",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010175",
+        "nombre": "Las Carolinas"
+    },
+    {
+        "clave": "40010176",
+        "nombre": "Materiales Calkiní"
+    },
+    {
+        "clave": "40010177",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "40010178",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "40010179",
+        "nombre": "San Joaquín de Mosón"
+    },
+    {
+        "clave": "40010181",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "40010182",
+        "nombre": "Ninguno [Basurero Municipal]"
+    },
+    {
+        "clave": "40010183",
+        "nombre": "El Cedral"
+    },
+    {
+        "clave": "40010184",
+        "nombre": "Cerámica Cal-Kin"
+    },
+    {
+        "clave": "40010185",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "40010186",
+        "nombre": "Mayaka'an"
+    },
+    {
+        "clave": "40010187",
+        "nombre": "Cinco Hermanos"
+    },
+    {
+        "clave": "40010188",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010189",
+        "nombre": "Copacabana"
+    },
+    {
+        "clave": "40010190",
+        "nombre": "Localidad Sin Nombre"
+    },
+    {
+        "clave": "40010191",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "40010192",
+        "nombre": "San Antonio Si-Ho"
+    },
+    {
+        "clave": "40010193",
+        "nombre": "San Judas"
+    },
+    {
+        "clave": "40010194",
+        "nombre": "Ninguno [Centro Recreativo Familiar Municipal]"
+    },
+    {
+        "clave": "40010195",
+        "nombre": "Xuch"
+    },
+    {
+        "clave": "40010196",
+        "nombre": "Las Almendras"
+    },
+    {
+        "clave": "40010197",
+        "nombre": "Los Arcos"
+    },
+    {
+        "clave": "40010198",
+        "nombre": "K'an Peepen"
+    },
+    {
+        "clave": "40010199",
+        "nombre": "Los Dos Carnales"
+    },
+    {
+        "clave": "40010200",
+        "nombre": "Escuela Secundaria"
+    },
+    {
+        "clave": "40010202",
+        "nombre": "Ninguno [Granja Porcícola Número Uno]"
+    },
+    {
+        "clave": "40010203",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "40010204",
+        "nombre": "San Miguel Dos"
+    },
+    {
+        "clave": "40010205",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010206",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010207",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "40010208",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010209",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010210",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010211",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010212",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010215",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010216",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010217",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010218",
+        "nombre": "San Diego"
+    },
+    {
+        "clave": "40010220",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010221",
+        "nombre": "Miami"
+    },
+    {
+        "clave": "40010222",
+        "nombre": "Monte de Sión"
+    },
+    {
+        "clave": "40010223",
+        "nombre": "San Antonio Dos"
+    },
+    {
+        "clave": "40010224",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "40010225",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "40010226",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "40010227",
+        "nombre": "San Miguelito"
+    },
+    {
+        "clave": "40010229",
+        "nombre": "Xbilincoc"
+    },
+    {
+        "clave": "40010230",
+        "nombre": "ICAT Número Dos"
+    },
+    {
+        "clave": "40010231",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "40010234",
+        "nombre": "Centro de Desarrollo Infantil Número Cuatro"
+    },
+    {
+        "clave": "40010235",
+        "nombre": "Ninguno [Centro de Desarrollo Médico Indigenista]"
+    },
+    {
+        "clave": "40010236",
+        "nombre": "Los Flamboyanes"
+    },
+    {
+        "clave": "40010237",
+        "nombre": "San Pedro y Pablo"
+    },
+    {
+        "clave": "40010238",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010239",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "40010240",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "40010241",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "40010242",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "40010243",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010244",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010245",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "40010246",
+        "nombre": "Augusta Sportswear"
+    },
+    {
+        "clave": "40010247",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "40010248",
+        "nombre": "San Pablino"
+    },
+    {
+        "clave": "40010249",
+        "nombre": "San Sebastián"
+    },
+    {
+        "clave": "40010250",
+        "nombre": "Tanchí"
+    },
+    {
+        "clave": "40010251",
+        "nombre": "Soriano [Triturado y Derivado]"
+    },
+    {
+        "clave": "40010252",
+        "nombre": "Unidad Número Uno"
+    },
+    {
+        "clave": "40010253",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "40010254",
+        "nombre": "Orrab [Trituradora]"
+    },
+    {
+        "clave": "40010255",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010256",
+        "nombre": "Eben Ezer"
+    },
+    {
+        "clave": "40010257",
+        "nombre": "María Elena"
+    },
+    {
+        "clave": "40010258",
+        "nombre": "ITESCAM"
+    },
+    {
+        "clave": "40010259",
+        "nombre": "Mulhaltún"
+    },
+    {
+        "clave": "40010260",
+        "nombre": "Chacnichén (El Pozo)"
+    },
+    {
+        "clave": "40010261",
+        "nombre": "Arco Maya"
+    },
+    {
+        "clave": "40010262",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010263",
+        "nombre": "La Estrella"
+    },
+    {
+        "clave": "40010264",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010265",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010266",
+        "nombre": "Antonio"
+    },
+    {
+        "clave": "40010267",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010268",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010269",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010270",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010271",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010272",
+        "nombre": "Montecristo Dos"
+    },
+    {
+        "clave": "40010273",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "40010274",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "40010275",
+        "nombre": "San Valentín"
+    },
+    {
+        "clave": "40010276",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "40010277",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "40010278",
+        "nombre": "Koxol"
+    },
+    {
+        "clave": "40010279",
+        "nombre": "La Señal"
+    },
+    {
+        "clave": "40010280",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010281",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010282",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010283",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010284",
+        "nombre": "El Sauce"
+    },
+    {
+        "clave": "40010285",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010286",
+        "nombre": "María Elena"
+    },
+    {
+        "clave": "40010287",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010288",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "40010289",
+        "nombre": "La Finca"
+    },
+    {
+        "clave": "40010290",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010291",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010292",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010293",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010294",
+        "nombre": "Sin T'u'ul Dos"
+    },
+    {
+        "clave": "40010295",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010296",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010297",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010298",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010299",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010300",
+        "nombre": "Los Limonares"
+    },
+    {
+        "clave": "40010301",
+        "nombre": "Los 3 Hermanos"
+    },
+    {
+        "clave": "40010302",
+        "nombre": "Niño de Atocha"
+    },
+    {
+        "clave": "40010303",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "40010304",
+        "nombre": "Los Primos"
+    },
+    {
+        "clave": "40010305",
+        "nombre": "Patrona de México"
+    },
+    {
+        "clave": "40010306",
+        "nombre": "Polar"
+    },
+    {
+        "clave": "40010307",
+        "nombre": "Pobretón"
+    },
+    {
+        "clave": "40010308",
+        "nombre": "San Silverio"
+    },
+    {
+        "clave": "40010309",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "40010310",
+        "nombre": "Colonia Si-Ho"
+    },
+    {
+        "clave": "40010311",
+        "nombre": "Eben-Ezer"
+    },
+    {
+        "clave": "40010312",
+        "nombre": "El Puente [Motel]"
+    },
+    {
+        "clave": "40010313",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "40010314",
+        "nombre": "Los Abuelos"
+    },
+    {
+        "clave": "40010315",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010316",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010317",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010318",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010319",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010320",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "40010321",
+        "nombre": "San Judas Tadeo"
+    },
+    {
+        "clave": "40010322",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "40010323",
+        "nombre": "Santa Karina"
+    }
+]

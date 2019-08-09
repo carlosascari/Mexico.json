@@ -1,0 +1,2426 @@
+[
+    {
+        "clave": "80080009",
+        "nombre": "El Almagre"
+    },
+    {
+        "clave": "80080011",
+        "nombre": "Los Amoles"
+    },
+    {
+        "clave": "80080014",
+        "nombre": "Boca de Arroyo de Santiago"
+    },
+    {
+        "clave": "80080016",
+        "nombre": "Baquimiapan"
+    },
+    {
+        "clave": "80080021",
+        "nombre": "Las Breas"
+    },
+    {
+        "clave": "80080022",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "80080024",
+        "nombre": "La Bufa"
+    },
+    {
+        "clave": "80080038",
+        "nombre": "Casas Viejas"
+    },
+    {
+        "clave": "80080044",
+        "nombre": "Guaypan (Coaypan)"
+    },
+    {
+        "clave": "80080045",
+        "nombre": "Colimas"
+    },
+    {
+        "clave": "80080047",
+        "nombre": "Cururare"
+    },
+    {
+        "clave": "80080049",
+        "nombre": "Coyachique"
+    },
+    {
+        "clave": "80080051",
+        "nombre": "Cuchiverachi"
+    },
+    {
+        "clave": "80080053",
+        "nombre": "El Cuervito"
+    },
+    {
+        "clave": "80080054",
+        "nombre": "El Cuervo"
+    },
+    {
+        "clave": "80080070",
+        "nombre": "Las Fincas"
+    },
+    {
+        "clave": "80080074",
+        "nombre": "La Gavilana"
+    },
+    {
+        "clave": "80080076",
+        "nombre": "Guacayvo"
+    },
+    {
+        "clave": "80080077",
+        "nombre": "Guadalupe Viejo"
+    },
+    {
+        "clave": "80080083",
+        "nombre": "Los Guayabos"
+    },
+    {
+        "clave": "80080090",
+        "nombre": "Isleta de Velarde"
+    },
+    {
+        "clave": "80080093",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "80080107",
+        "nombre": "Mesa de Eguiz"
+    },
+    {
+        "clave": "80080125",
+        "nombre": "Ocorare"
+    },
+    {
+        "clave": "80080129",
+        "nombre": "El Pajarito"
+    },
+    {
+        "clave": "80080133",
+        "nombre": "El Pandito"
+    },
+    {
+        "clave": "80080138",
+        "nombre": "El Peñasco"
+    },
+    {
+        "clave": "80080156",
+        "nombre": "El Realito de los Guerra"
+    },
+    {
+        "clave": "80080172",
+        "nombre": "Ranchería Sahueachi"
+    },
+    {
+        "clave": "80080177",
+        "nombre": "San José de Valenzuela"
+    },
+    {
+        "clave": "80080179",
+        "nombre": "San José de Colima"
+    },
+    {
+        "clave": "80080181",
+        "nombre": "San Juan de Dios (Agua Caliente)"
+    },
+    {
+        "clave": "80080183",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "80080186",
+        "nombre": "Santa Inés"
+    },
+    {
+        "clave": "80080187",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "80080195",
+        "nombre": "Sorichique"
+    },
+    {
+        "clave": "80080197",
+        "nombre": "Subiachi"
+    },
+    {
+        "clave": "80080199",
+        "nombre": "El Tablón"
+    },
+    {
+        "clave": "80080200",
+        "nombre": "Las Tahonas"
+    },
+    {
+        "clave": "80080201",
+        "nombre": "Las Taunas"
+    },
+    {
+        "clave": "80080218",
+        "nombre": "Yagüirachi"
+    },
+    {
+        "clave": "80080219",
+        "nombre": "Mesa de la Yerbabuena"
+    },
+    {
+        "clave": "80080228",
+        "nombre": "El Chicural"
+    },
+    {
+        "clave": "80080235",
+        "nombre": "Chapotillo"
+    },
+    {
+        "clave": "80080238",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "80080271",
+        "nombre": "Baquireachi"
+    },
+    {
+        "clave": "80080315",
+        "nombre": "El Potrero de Castillo"
+    },
+    {
+        "clave": "80080318",
+        "nombre": "Las Canoas"
+    },
+    {
+        "clave": "80080322",
+        "nombre": "Las Papas"
+    },
+    {
+        "clave": "80080323",
+        "nombre": "Arroyo de Guásimas"
+    },
+    {
+        "clave": "80080326",
+        "nombre": "Puerto de la Viga"
+    },
+    {
+        "clave": "80080333",
+        "nombre": "Rocohuachi"
+    },
+    {
+        "clave": "80080344",
+        "nombre": "Cerro Prieto"
+    },
+    {
+        "clave": "80080345",
+        "nombre": "Ranchito de Báez"
+    },
+    {
+        "clave": "80080353",
+        "nombre": "Mesa de Buenavista"
+    },
+    {
+        "clave": "80080354",
+        "nombre": "Recomachi"
+    },
+    {
+        "clave": "80080358",
+        "nombre": "Sipochi"
+    },
+    {
+        "clave": "80080361",
+        "nombre": "Saguarichi"
+    },
+    {
+        "clave": "80080366",
+        "nombre": "Arenal de San José"
+    },
+    {
+        "clave": "80080367",
+        "nombre": "La Higuera"
+    },
+    {
+        "clave": "80080370",
+        "nombre": "Mategorare"
+    },
+    {
+        "clave": "80080375",
+        "nombre": "Conorirare"
+    },
+    {
+        "clave": "80080388",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "80080390",
+        "nombre": "El Palmarito"
+    },
+    {
+        "clave": "80080393",
+        "nombre": "La Cidra"
+    },
+    {
+        "clave": "80080395",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "80080397",
+        "nombre": "La Sierrita de Barraza (Casa Quemada)"
+    },
+    {
+        "clave": "80080398",
+        "nombre": "La Tulita"
+    },
+    {
+        "clave": "80080407",
+        "nombre": "Huatebachi"
+    },
+    {
+        "clave": "80080414",
+        "nombre": "Ranchería Cuesta Colorada"
+    },
+    {
+        "clave": "80080415",
+        "nombre": "Mesa de San José"
+    },
+    {
+        "clave": "80080419",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "80080423",
+        "nombre": "El Encino"
+    },
+    {
+        "clave": "80080424",
+        "nombre": "Las Tinajas"
+    },
+    {
+        "clave": "80080426",
+        "nombre": "Vinata Vieja"
+    },
+    {
+        "clave": "80080429",
+        "nombre": "El Chilicote"
+    },
+    {
+        "clave": "80080430",
+        "nombre": "Los Algodones"
+    },
+    {
+        "clave": "80080437",
+        "nombre": "La Joya (La Joyita)"
+    },
+    {
+        "clave": "80080443",
+        "nombre": "Carboneras"
+    },
+    {
+        "clave": "80080455",
+        "nombre": "Bacanachi"
+    },
+    {
+        "clave": "80080460",
+        "nombre": "Recubirachi"
+    },
+    {
+        "clave": "80080468",
+        "nombre": "Citaburachi"
+    },
+    {
+        "clave": "80080488",
+        "nombre": "El Ojito"
+    },
+    {
+        "clave": "80080491",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "80080518",
+        "nombre": "Bacuseachi"
+    },
+    {
+        "clave": "80080533",
+        "nombre": "Carrizal"
+    },
+    {
+        "clave": "80080536",
+        "nombre": "Arroyo de Yerbabuena"
+    },
+    {
+        "clave": "80080546",
+        "nombre": "Santa Anita"
+    },
+    {
+        "clave": "80080548",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "80080549",
+        "nombre": "Nueva Australia"
+    },
+    {
+        "clave": "80080553",
+        "nombre": "Munerachi"
+    },
+    {
+        "clave": "80080556",
+        "nombre": "Chapatare"
+    },
+    {
+        "clave": "80080564",
+        "nombre": "El Pandito"
+    },
+    {
+        "clave": "80080569",
+        "nombre": "Chinivo"
+    },
+    {
+        "clave": "80080579",
+        "nombre": "La Noria"
+    },
+    {
+        "clave": "80080582",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "80080587",
+        "nombre": "Ranchito de Osorio"
+    },
+    {
+        "clave": "80080597",
+        "nombre": "Aguaje de Pulido"
+    },
+    {
+        "clave": "80080601",
+        "nombre": "El Aguajito"
+    },
+    {
+        "clave": "80080615",
+        "nombre": "Cerro de la Huerta"
+    },
+    {
+        "clave": "80080619",
+        "nombre": "Higuera Seca"
+    },
+    {
+        "clave": "80080624",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "80080634",
+        "nombre": "Puerto de San Juan"
+    },
+    {
+        "clave": "80080636",
+        "nombre": "El Papante"
+    },
+    {
+        "clave": "80080645",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "80080650",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "80080651",
+        "nombre": "Loreto"
+    },
+    {
+        "clave": "80080652",
+        "nombre": "La Feliciana"
+    },
+    {
+        "clave": "80080660",
+        "nombre": "Rincón de Vinateros"
+    },
+    {
+        "clave": "80080661",
+        "nombre": "Rincón de Güichuriza"
+    },
+    {
+        "clave": "80080663",
+        "nombre": "Pedregal de Arriba"
+    },
+    {
+        "clave": "80080665",
+        "nombre": "La Mesa de Papante"
+    },
+    {
+        "clave": "80080667",
+        "nombre": "El Astillero"
+    },
+    {
+        "clave": "80080669",
+        "nombre": "Hauirabo"
+    },
+    {
+        "clave": "80080670",
+        "nombre": "Rekowata"
+    },
+    {
+        "clave": "80080672",
+        "nombre": "Bacorachi"
+    },
+    {
+        "clave": "80080678",
+        "nombre": "Cotehuachi"
+    },
+    {
+        "clave": "80080680",
+        "nombre": "Sapareachi"
+    },
+    {
+        "clave": "80080683",
+        "nombre": "Llano Blanco"
+    },
+    {
+        "clave": "80080686",
+        "nombre": "Cachihuichi"
+    },
+    {
+        "clave": "80080687",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "80080691",
+        "nombre": "Matachique"
+    },
+    {
+        "clave": "80080692",
+        "nombre": "Mariza"
+    },
+    {
+        "clave": "80080693",
+        "nombre": "Churirare"
+    },
+    {
+        "clave": "80080697",
+        "nombre": "Noina"
+    },
+    {
+        "clave": "80080698",
+        "nombre": "Basigochi"
+    },
+    {
+        "clave": "80080699",
+        "nombre": "Chiquihuite"
+    },
+    {
+        "clave": "80080701",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "80080705",
+        "nombre": "La Cebadilla"
+    },
+    {
+        "clave": "80080717",
+        "nombre": "Norihui"
+    },
+    {
+        "clave": "80080719",
+        "nombre": "Güicorachi"
+    },
+    {
+        "clave": "80080721",
+        "nombre": "Remuchuchi"
+    },
+    {
+        "clave": "80080722",
+        "nombre": "Tasajisa"
+    },
+    {
+        "clave": "80080727",
+        "nombre": "Rocaguachi"
+    },
+    {
+        "clave": "80080728",
+        "nombre": "Guacheachi"
+    },
+    {
+        "clave": "80080731",
+        "nombre": "Sireachi"
+    },
+    {
+        "clave": "80080732",
+        "nombre": "Mezquite"
+    },
+    {
+        "clave": "80080734",
+        "nombre": "El Areachi"
+    },
+    {
+        "clave": "80080744",
+        "nombre": "Sapareachi"
+    },
+    {
+        "clave": "80080758",
+        "nombre": "Recanapuchi"
+    },
+    {
+        "clave": "80080762",
+        "nombre": "Chahuiroco"
+    },
+    {
+        "clave": "80080792",
+        "nombre": "Cordón Colorado"
+    },
+    {
+        "clave": "80080794",
+        "nombre": "La Culebra"
+    },
+    {
+        "clave": "80080801",
+        "nombre": "El Saucito"
+    },
+    {
+        "clave": "80080807",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "80080820",
+        "nombre": "La Mina"
+    },
+    {
+        "clave": "80080822",
+        "nombre": "Tabletita de San Juan"
+    },
+    {
+        "clave": "80080829",
+        "nombre": "La Higuerita"
+    },
+    {
+        "clave": "80080831",
+        "nombre": "Rincón del Padalante"
+    },
+    {
+        "clave": "80080840",
+        "nombre": "La Bandera"
+    },
+    {
+        "clave": "80080849",
+        "nombre": "La Boca del Arroyo"
+    },
+    {
+        "clave": "80080858",
+        "nombre": "Guayacancito"
+    },
+    {
+        "clave": "80080887",
+        "nombre": "Satemoba"
+    },
+    {
+        "clave": "80080917",
+        "nombre": "Curachi"
+    },
+    {
+        "clave": "80080929",
+        "nombre": "El Arenal de la Palma"
+    },
+    {
+        "clave": "80080941",
+        "nombre": "La Casita"
+    },
+    {
+        "clave": "80080945",
+        "nombre": "Rincón del Encino"
+    },
+    {
+        "clave": "80080948",
+        "nombre": "Bocoybo (Repogueachi)"
+    },
+    {
+        "clave": "80080976",
+        "nombre": "Carretas"
+    },
+    {
+        "clave": "80080984",
+        "nombre": "El Salto Blanco"
+    },
+    {
+        "clave": "80080986",
+        "nombre": "Papigoche"
+    },
+    {
+        "clave": "80080994",
+        "nombre": "Sonirachi"
+    },
+    {
+        "clave": "80080996",
+        "nombre": "Somarachi"
+    },
+    {
+        "clave": "80081022",
+        "nombre": "El Cajón"
+    },
+    {
+        "clave": "80081026",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "80081028",
+        "nombre": "Las Casitas"
+    },
+    {
+        "clave": "80081029",
+        "nombre": "Cohechi"
+    },
+    {
+        "clave": "80081043",
+        "nombre": "Los Hornos"
+    },
+    {
+        "clave": "80081051",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "80081075",
+        "nombre": "El Rincón Grande"
+    },
+    {
+        "clave": "80081077",
+        "nombre": "Rosanachi"
+    },
+    {
+        "clave": "80081081",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "80081094",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "80081095",
+        "nombre": "Tosanachi"
+    },
+    {
+        "clave": "80081096",
+        "nombre": "Las Tunas"
+    },
+    {
+        "clave": "80081098",
+        "nombre": "El Vadito"
+    },
+    {
+        "clave": "80081105",
+        "nombre": "Ranchería Saguarare"
+    },
+    {
+        "clave": "80081106",
+        "nombre": "Coechi"
+    },
+    {
+        "clave": "80081110",
+        "nombre": "Saguajichi"
+    },
+    {
+        "clave": "80081111",
+        "nombre": "Gentiles"
+    },
+    {
+        "clave": "80081112",
+        "nombre": "Mesa de la Laguna"
+    },
+    {
+        "clave": "80081115",
+        "nombre": "Norigue"
+    },
+    {
+        "clave": "80081116",
+        "nombre": "Aguarare"
+    },
+    {
+        "clave": "80081120",
+        "nombre": "Ranchería Güitochi"
+    },
+    {
+        "clave": "80081123",
+        "nombre": "Aguaje de las Breas"
+    },
+    {
+        "clave": "80081126",
+        "nombre": "Bainoral"
+    },
+    {
+        "clave": "80081127",
+        "nombre": "El Barranco"
+    },
+    {
+        "clave": "80081129",
+        "nombre": "Carache"
+    },
+    {
+        "clave": "80081146",
+        "nombre": "Huimayvo"
+    },
+    {
+        "clave": "80081150",
+        "nombre": "Macauche"
+    },
+    {
+        "clave": "80081152",
+        "nombre": "Mesa de Guacayvo"
+    },
+    {
+        "clave": "80081156",
+        "nombre": "La Mojonera"
+    },
+    {
+        "clave": "80081163",
+        "nombre": "Pedregal de Abajo"
+    },
+    {
+        "clave": "80081166",
+        "nombre": "Pino Solo"
+    },
+    {
+        "clave": "80081172",
+        "nombre": "Rogüerachi"
+    },
+    {
+        "clave": "80081182",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80081185",
+        "nombre": "La Tescalama"
+    },
+    {
+        "clave": "80081193",
+        "nombre": "El Plátano"
+    },
+    {
+        "clave": "80081194",
+        "nombre": "El Chapote"
+    },
+    {
+        "clave": "80081195",
+        "nombre": "Guijorachi"
+    },
+    {
+        "clave": "80081216",
+        "nombre": "El Aguaje del Sauz"
+    },
+    {
+        "clave": "80081220",
+        "nombre": "La Tatema"
+    },
+    {
+        "clave": "80081222",
+        "nombre": "La Tescalama"
+    },
+    {
+        "clave": "80081225",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "80081237",
+        "nombre": "La Cumbre de Guamúchil"
+    },
+    {
+        "clave": "80081239",
+        "nombre": "Maritago"
+    },
+    {
+        "clave": "80081242",
+        "nombre": "Sahue"
+    },
+    {
+        "clave": "80081250",
+        "nombre": "Guayacán"
+    },
+    {
+        "clave": "80081267",
+        "nombre": "Rurinapuchi"
+    },
+    {
+        "clave": "80081271",
+        "nombre": "Puerto de la Ventana"
+    },
+    {
+        "clave": "80081276",
+        "nombre": "Lucianachi"
+    },
+    {
+        "clave": "80081281",
+        "nombre": "Las Higueras"
+    },
+    {
+        "clave": "80081290",
+        "nombre": "Mesa de San Isidro"
+    },
+    {
+        "clave": "80081296",
+        "nombre": "Boca de Arroyo"
+    },
+    {
+        "clave": "80080001",
+        "nombre": "Batopilas"
+    },
+    {
+        "clave": "80080002",
+        "nombre": "Aboreachi"
+    },
+    {
+        "clave": "80080013",
+        "nombre": "El Arreyan"
+    },
+    {
+        "clave": "80080031",
+        "nombre": "El Camuchín"
+    },
+    {
+        "clave": "80080034",
+        "nombre": "Carboneras"
+    },
+    {
+        "clave": "80080037",
+        "nombre": "Casas Coloradas"
+    },
+    {
+        "clave": "80080040",
+        "nombre": "Cerro Colorado"
+    },
+    {
+        "clave": "80080091",
+        "nombre": "Jesús María"
+    },
+    {
+        "clave": "80080094",
+        "nombre": "La Labor"
+    },
+    {
+        "clave": "80080130",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "80080145",
+        "nombre": "Polanco (Ranchería Mineral Polanco)"
+    },
+    {
+        "clave": "80080153",
+        "nombre": "Kirare"
+    },
+    {
+        "clave": "80080155",
+        "nombre": "El Rancho Viejo (Ranchería)"
+    },
+    {
+        "clave": "80080159",
+        "nombre": "El Refugio (Ranchería)"
+    },
+    {
+        "clave": "80080174",
+        "nombre": "San Ignacio"
+    },
+    {
+        "clave": "80080190",
+        "nombre": "Satevó"
+    },
+    {
+        "clave": "80080203",
+        "nombre": "El Tempisque"
+    },
+    {
+        "clave": "80080223",
+        "nombre": "Yoquivo"
+    },
+    {
+        "clave": "80080276",
+        "nombre": "Pitorreal"
+    },
+    {
+        "clave": "80080356",
+        "nombre": "Los Parajes"
+    },
+    {
+        "clave": "80080392",
+        "nombre": "La Caña"
+    },
+    {
+        "clave": "80080416",
+        "nombre": "El Saucito"
+    },
+    {
+        "clave": "80080575",
+        "nombre": "Santo Domingo"
+    },
+    {
+        "clave": "80080577",
+        "nombre": "El Rastro"
+    },
+    {
+        "clave": "80080598",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "80080616",
+        "nombre": "Los Llanitos"
+    },
+    {
+        "clave": "80080621",
+        "nombre": "Sabacalen"
+    },
+    {
+        "clave": "80080662",
+        "nombre": "Vinatería"
+    },
+    {
+        "clave": "80080723",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "80081184",
+        "nombre": "El Tanque"
+    },
+    {
+        "clave": "80081224",
+        "nombre": "Santa Gertrudis"
+    },
+    {
+        "clave": "80081262",
+        "nombre": "El Pochote"
+    },
+    {
+        "clave": "80081263",
+        "nombre": "La Casa Vieja"
+    },
+    {
+        "clave": "80080003",
+        "nombre": "Agua Caliente"
+    },
+    {
+        "clave": "80080006",
+        "nombre": "El Algarín"
+    },
+    {
+        "clave": "80080008",
+        "nombre": "Los Alos"
+    },
+    {
+        "clave": "80080010",
+        "nombre": "Puerto Amarillo"
+    },
+    {
+        "clave": "80080012",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "80080020",
+        "nombre": "La Calerita"
+    },
+    {
+        "clave": "80080028",
+        "nombre": "El Cajón"
+    },
+    {
+        "clave": "80080039",
+        "nombre": "Casas Viejas"
+    },
+    {
+        "clave": "80080042",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "80080048",
+        "nombre": "Los Corralitos"
+    },
+    {
+        "clave": "80080057",
+        "nombre": "El Chalate"
+    },
+    {
+        "clave": "80080058",
+        "nombre": "El Chapote (El Zapote)"
+    },
+    {
+        "clave": "80080060",
+        "nombre": "El Chicural (Chicural de Abajo)"
+    },
+    {
+        "clave": "80080072",
+        "nombre": "Los Frailes"
+    },
+    {
+        "clave": "80080080",
+        "nombre": "Guamuchilito"
+    },
+    {
+        "clave": "80080082",
+        "nombre": "Guásimas"
+    },
+    {
+        "clave": "80080084",
+        "nombre": "Higuera de Esteban"
+    },
+    {
+        "clave": "80080092",
+        "nombre": "Juchimen"
+    },
+    {
+        "clave": "80080095",
+        "nombre": "La Ladrillera"
+    },
+    {
+        "clave": "80080098",
+        "nombre": "Los Limones"
+    },
+    {
+        "clave": "80080106",
+        "nombre": "Mesa del Manzano (El Manzano)"
+    },
+    {
+        "clave": "80080124",
+        "nombre": "Los Novillos"
+    },
+    {
+        "clave": "80080132",
+        "nombre": "Palo Amarillo"
+    },
+    {
+        "clave": "80080135",
+        "nombre": "El Papachal"
+    },
+    {
+        "clave": "80080140",
+        "nombre": "El Pinito"
+    },
+    {
+        "clave": "80080141",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "80080146",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "80080149",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "80080157",
+        "nombre": "El Recodo"
+    },
+    {
+        "clave": "80080166",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "80080178",
+        "nombre": "San José de Cascurriche"
+    },
+    {
+        "clave": "80080204",
+        "nombre": "Los Tepehuajes"
+    },
+    {
+        "clave": "80080209",
+        "nombre": "El Táscate"
+    },
+    {
+        "clave": "80080210",
+        "nombre": "Tres Hermanos"
+    },
+    {
+        "clave": "80080211",
+        "nombre": "Triguito"
+    },
+    {
+        "clave": "80080212",
+        "nombre": "Turivo"
+    },
+    {
+        "clave": "80080214",
+        "nombre": "Bacarán"
+    },
+    {
+        "clave": "80080215",
+        "nombre": "El Arenoso"
+    },
+    {
+        "clave": "80080226",
+        "nombre": "La Zarca"
+    },
+    {
+        "clave": "80080240",
+        "nombre": "San Juan de Dios"
+    },
+    {
+        "clave": "80080254",
+        "nombre": "Chicarabo"
+    },
+    {
+        "clave": "80080259",
+        "nombre": "Buena Vista [Aserradero]"
+    },
+    {
+        "clave": "80080262",
+        "nombre": "El Ojito"
+    },
+    {
+        "clave": "80080293",
+        "nombre": "Palo Dulce"
+    },
+    {
+        "clave": "80080305",
+        "nombre": "Napihuarachi (El Azadón)"
+    },
+    {
+        "clave": "80080313",
+        "nombre": "Corareachi"
+    },
+    {
+        "clave": "80080334",
+        "nombre": "Cutamochi"
+    },
+    {
+        "clave": "80080338",
+        "nombre": "La Vinata"
+    },
+    {
+        "clave": "80080349",
+        "nombre": "El Duraznito"
+    },
+    {
+        "clave": "80080350",
+        "nombre": "Servandeño"
+    },
+    {
+        "clave": "80080386",
+        "nombre": "Cerro Colorado"
+    },
+    {
+        "clave": "80080394",
+        "nombre": "La Haciendita"
+    },
+    {
+        "clave": "80080399",
+        "nombre": "Miramontes"
+    },
+    {
+        "clave": "80080403",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "80080405",
+        "nombre": "Hueleybo"
+    },
+    {
+        "clave": "80080410",
+        "nombre": "El Chalatón"
+    },
+    {
+        "clave": "80080411",
+        "nombre": "Encino Gordo"
+    },
+    {
+        "clave": "80080417",
+        "nombre": "Las Piletas"
+    },
+    {
+        "clave": "80080425",
+        "nombre": "El Revolcadero"
+    },
+    {
+        "clave": "80080427",
+        "nombre": "Potreros Pelones"
+    },
+    {
+        "clave": "80080431",
+        "nombre": "Los Terreros"
+    },
+    {
+        "clave": "80080434",
+        "nombre": "Piedra Redonda"
+    },
+    {
+        "clave": "80080436",
+        "nombre": "El Encinito"
+    },
+    {
+        "clave": "80080453",
+        "nombre": "Los Alisos"
+    },
+    {
+        "clave": "80080478",
+        "nombre": "Igualama"
+    },
+    {
+        "clave": "80080482",
+        "nombre": "Mesa del Yerbanís"
+    },
+    {
+        "clave": "80080493",
+        "nombre": "Quimova Grande"
+    },
+    {
+        "clave": "80080508",
+        "nombre": "San José"
+    },
+    {
+        "clave": "80080515",
+        "nombre": "El Triguito"
+    },
+    {
+        "clave": "80080520",
+        "nombre": "Quimova Chico"
+    },
+    {
+        "clave": "80080522",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "80080524",
+        "nombre": "Tierra Larga"
+    },
+    {
+        "clave": "80080525",
+        "nombre": "Chochomigo"
+    },
+    {
+        "clave": "80080535",
+        "nombre": "Tepeguajal"
+    },
+    {
+        "clave": "80080538",
+        "nombre": "Teboreachi"
+    },
+    {
+        "clave": "80080542",
+        "nombre": "Barbechitos"
+    },
+    {
+        "clave": "80080545",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "80080550",
+        "nombre": "Arroyo del Agua"
+    },
+    {
+        "clave": "80080561",
+        "nombre": "Napachare"
+    },
+    {
+        "clave": "80080566",
+        "nombre": "Huisuchi"
+    },
+    {
+        "clave": "80080573",
+        "nombre": "Jacalón"
+    },
+    {
+        "clave": "80080576",
+        "nombre": "El Alguate"
+    },
+    {
+        "clave": "80080578",
+        "nombre": "El Chalate"
+    },
+    {
+        "clave": "80080581",
+        "nombre": "Chichimoco"
+    },
+    {
+        "clave": "80080584",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "80080586",
+        "nombre": "El Peñasco"
+    },
+    {
+        "clave": "80080588",
+        "nombre": "Tescalama"
+    },
+    {
+        "clave": "80080592",
+        "nombre": "Saucito"
+    },
+    {
+        "clave": "80080594",
+        "nombre": "Sapuche"
+    },
+    {
+        "clave": "80080613",
+        "nombre": "La Morita"
+    },
+    {
+        "clave": "80080618",
+        "nombre": "Los Veranos"
+    },
+    {
+        "clave": "80080632",
+        "nombre": "Camino Viejo"
+    },
+    {
+        "clave": "80080633",
+        "nombre": "La Tulita"
+    },
+    {
+        "clave": "80080635",
+        "nombre": "Las Guásimas"
+    },
+    {
+        "clave": "80080638",
+        "nombre": "Cebadilla"
+    },
+    {
+        "clave": "80080640",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "80080641",
+        "nombre": "La Tableta"
+    },
+    {
+        "clave": "80080644",
+        "nombre": "El Sumido"
+    },
+    {
+        "clave": "80080646",
+        "nombre": "La Cachora"
+    },
+    {
+        "clave": "80080649",
+        "nombre": "Plátano"
+    },
+    {
+        "clave": "80080654",
+        "nombre": "Lagos"
+    },
+    {
+        "clave": "80080659",
+        "nombre": "El Carrizo"
+    },
+    {
+        "clave": "80080671",
+        "nombre": "Sirinapuchi"
+    },
+    {
+        "clave": "80080673",
+        "nombre": "Océsar"
+    },
+    {
+        "clave": "80080675",
+        "nombre": "Chujetare (Buenos Aires)"
+    },
+    {
+        "clave": "80080677",
+        "nombre": "Regeibo"
+    },
+    {
+        "clave": "80080679",
+        "nombre": "Alamitos"
+    },
+    {
+        "clave": "80080685",
+        "nombre": "Citanapuchi"
+    },
+    {
+        "clave": "80080689",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "80080694",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "80080700",
+        "nombre": "Remechi"
+    },
+    {
+        "clave": "80080704",
+        "nombre": "Guaguerachi"
+    },
+    {
+        "clave": "80080710",
+        "nombre": "Remahuacochi"
+    },
+    {
+        "clave": "80080711",
+        "nombre": "Güicorachi"
+    },
+    {
+        "clave": "80080712",
+        "nombre": "El Manzano"
+    },
+    {
+        "clave": "80080713",
+        "nombre": "Cerro Blanco"
+    },
+    {
+        "clave": "80080718",
+        "nombre": "Cumira"
+    },
+    {
+        "clave": "80080720",
+        "nombre": "Las Playas"
+    },
+    {
+        "clave": "80080724",
+        "nombre": "Rayevo"
+    },
+    {
+        "clave": "80080733",
+        "nombre": "Machacas"
+    },
+    {
+        "clave": "80080735",
+        "nombre": "Coreachi"
+    },
+    {
+        "clave": "80080741",
+        "nombre": "Huitochi"
+    },
+    {
+        "clave": "80080756",
+        "nombre": "Cusamoa (Los Coyotitos)"
+    },
+    {
+        "clave": "80080772",
+        "nombre": "El Barbechón"
+    },
+    {
+        "clave": "80080773",
+        "nombre": "El Chalatito"
+    },
+    {
+        "clave": "80080774",
+        "nombre": "Subiachi"
+    },
+    {
+        "clave": "80080778",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "80080786",
+        "nombre": "Amoba"
+    },
+    {
+        "clave": "80080789",
+        "nombre": "Las Carretas"
+    },
+    {
+        "clave": "80080813",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "80080814",
+        "nombre": "La Higuera de Santa Ana"
+    },
+    {
+        "clave": "80080816",
+        "nombre": "Gavilanes"
+    },
+    {
+        "clave": "80080817",
+        "nombre": "Guamuchilera"
+    },
+    {
+        "clave": "80080825",
+        "nombre": "Capa Rosa"
+    },
+    {
+        "clave": "80080827",
+        "nombre": "El Chalate"
+    },
+    {
+        "clave": "80080830",
+        "nombre": "Las Cuevas"
+    },
+    {
+        "clave": "80080834",
+        "nombre": "Calabazas"
+    },
+    {
+        "clave": "80080835",
+        "nombre": "La Cumbre"
+    },
+    {
+        "clave": "80080837",
+        "nombre": "Puerto Oscuro"
+    },
+    {
+        "clave": "80080838",
+        "nombre": "El Terrero"
+    },
+    {
+        "clave": "80080874",
+        "nombre": "El Sauzal"
+    },
+    {
+        "clave": "80080876",
+        "nombre": "Verano Largo"
+    },
+    {
+        "clave": "80080878",
+        "nombre": "Vitorachi"
+    },
+    {
+        "clave": "80080885",
+        "nombre": "Churirare"
+    },
+    {
+        "clave": "80080893",
+        "nombre": "Raragochi (Peche)"
+    },
+    {
+        "clave": "80080897",
+        "nombre": "Killonachi"
+    },
+    {
+        "clave": "80080898",
+        "nombre": "Saguachi"
+    },
+    {
+        "clave": "80080916",
+        "nombre": "Cueva Larga"
+    },
+    {
+        "clave": "80080918",
+        "nombre": "Cuyatavo"
+    },
+    {
+        "clave": "80080920",
+        "nombre": "Maguarichi"
+    },
+    {
+        "clave": "80080927",
+        "nombre": "Recochare"
+    },
+    {
+        "clave": "80080936",
+        "nombre": "La Higuera (La Puerta)"
+    },
+    {
+        "clave": "80080947",
+        "nombre": "Arroyo Hondo"
+    },
+    {
+        "clave": "80080952",
+        "nombre": "La Presa Dos"
+    },
+    {
+        "clave": "80080954",
+        "nombre": "Tejabán"
+    },
+    {
+        "clave": "80080971",
+        "nombre": "Los Mirasoles"
+    },
+    {
+        "clave": "80080972",
+        "nombre": "Los Horcones"
+    },
+    {
+        "clave": "80080973",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "80080974",
+        "nombre": "El Aguaje"
+    },
+    {
+        "clave": "80080977",
+        "nombre": "El Cerro"
+    },
+    {
+        "clave": "80080983",
+        "nombre": "Rincón del Sauz"
+    },
+    {
+        "clave": "80080985",
+        "nombre": "San Jerónimo"
+    },
+    {
+        "clave": "80080988",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "80080993",
+        "nombre": "Repohuarare"
+    },
+    {
+        "clave": "80080997",
+        "nombre": "Nonoava"
+    },
+    {
+        "clave": "80080998",
+        "nombre": "Sajichi"
+    },
+    {
+        "clave": "80081003",
+        "nombre": "El Hechadero"
+    },
+    {
+        "clave": "80081005",
+        "nombre": "Sahuachi"
+    },
+    {
+        "clave": "80081006",
+        "nombre": "Machihuaran"
+    },
+    {
+        "clave": "80081011",
+        "nombre": "Aguaje del Burro"
+    },
+    {
+        "clave": "80081013",
+        "nombre": "Aribo"
+    },
+    {
+        "clave": "80081014",
+        "nombre": "El Arrastradero"
+    },
+    {
+        "clave": "80081015",
+        "nombre": "Arroyo del Horno"
+    },
+    {
+        "clave": "80081016",
+        "nombre": "Arroyo de la Yerbabuena"
+    },
+    {
+        "clave": "80081017",
+        "nombre": "Arroyo de Santiago"
+    },
+    {
+        "clave": "80081018",
+        "nombre": "El Bajío"
+    },
+    {
+        "clave": "80081023",
+        "nombre": "La Calera"
+    },
+    {
+        "clave": "80081024",
+        "nombre": "Calerita"
+    },
+    {
+        "clave": "80081025",
+        "nombre": "La Canojita"
+    },
+    {
+        "clave": "80081027",
+        "nombre": "Carricitos"
+    },
+    {
+        "clave": "80081030",
+        "nombre": "Coreareachi"
+    },
+    {
+        "clave": "80081031",
+        "nombre": "Cordoncito"
+    },
+    {
+        "clave": "80081033",
+        "nombre": "El Ciruelo"
+    },
+    {
+        "clave": "80081035",
+        "nombre": "Chicural de Arriba"
+    },
+    {
+        "clave": "80081037",
+        "nombre": "Los Chiqueros"
+    },
+    {
+        "clave": "80081039",
+        "nombre": "Chuyachi"
+    },
+    {
+        "clave": "80081040",
+        "nombre": "El Frijolar"
+    },
+    {
+        "clave": "80081041",
+        "nombre": "La Gobernadora"
+    },
+    {
+        "clave": "80081042",
+        "nombre": "Gualajirachi"
+    },
+    {
+        "clave": "80081047",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "80081048",
+        "nombre": "Machirachi"
+    },
+    {
+        "clave": "80081049",
+        "nombre": "El Manzanito"
+    },
+    {
+        "clave": "80081050",
+        "nombre": "El Manzano"
+    },
+    {
+        "clave": "80081052",
+        "nombre": "La Mesa Chiquita"
+    },
+    {
+        "clave": "80081055",
+        "nombre": "Mezquital"
+    },
+    {
+        "clave": "80081056",
+        "nombre": "Los Migueles"
+    },
+    {
+        "clave": "80081057",
+        "nombre": "Najigonachi"
+    },
+    {
+        "clave": "80081058",
+        "nombre": "La Nopalera"
+    },
+    {
+        "clave": "80081060",
+        "nombre": "El Ojito"
+    },
+    {
+        "clave": "80081061",
+        "nombre": "Palos Amarillos"
+    },
+    {
+        "clave": "80081062",
+        "nombre": "Palmarito"
+    },
+    {
+        "clave": "80081063",
+        "nombre": "Piedra Bola"
+    },
+    {
+        "clave": "80081064",
+        "nombre": "Pie de la Cuesta"
+    },
+    {
+        "clave": "80081065",
+        "nombre": "Pisachi"
+    },
+    {
+        "clave": "80081066",
+        "nombre": "El Plátano"
+    },
+    {
+        "clave": "80081067",
+        "nombre": "Potrero"
+    },
+    {
+        "clave": "80081068",
+        "nombre": "Puerto Colorado"
+    },
+    {
+        "clave": "80081069",
+        "nombre": "Puerto del Gallo"
+    },
+    {
+        "clave": "80081070",
+        "nombre": "Rancho Blanco"
+    },
+    {
+        "clave": "80081071",
+        "nombre": "La Reforma (Las Chinacas)"
+    },
+    {
+        "clave": "80081074",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "80081079",
+        "nombre": "Salvial"
+    },
+    {
+        "clave": "80081080",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "80081082",
+        "nombre": "Serruchito"
+    },
+    {
+        "clave": "80081088",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "80081091",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "80081093",
+        "nombre": "Tepehuana"
+    },
+    {
+        "clave": "80081097",
+        "nombre": "Turuachi"
+    },
+    {
+        "clave": "80081099",
+        "nombre": "Vado Fuerte"
+    },
+    {
+        "clave": "80081100",
+        "nombre": "La Ventana"
+    },
+    {
+        "clave": "80081101",
+        "nombre": "Yerbabuena"
+    },
+    {
+        "clave": "80081107",
+        "nombre": "Nacabeachi"
+    },
+    {
+        "clave": "80081108",
+        "nombre": "Las Mesas"
+    },
+    {
+        "clave": "80081113",
+        "nombre": "Chiperachi"
+    },
+    {
+        "clave": "80081117",
+        "nombre": "Rajayamuchi"
+    },
+    {
+        "clave": "80081119",
+        "nombre": "La Ventana"
+    },
+    {
+        "clave": "80081121",
+        "nombre": "Somarachi"
+    },
+    {
+        "clave": "80081122",
+        "nombre": "Aguaje del Cedro"
+    },
+    {
+        "clave": "80081124",
+        "nombre": "Aguaje del Limón"
+    },
+    {
+        "clave": "80081125",
+        "nombre": "Arroyo de la Vinata"
+    },
+    {
+        "clave": "80081128",
+        "nombre": "Boreachi"
+    },
+    {
+        "clave": "80081130",
+        "nombre": "Carboneritas"
+    },
+    {
+        "clave": "80081131",
+        "nombre": "Cascabeles"
+    },
+    {
+        "clave": "80081132",
+        "nombre": "La Ceja"
+    },
+    {
+        "clave": "80081133",
+        "nombre": "Cestiadero"
+    },
+    {
+        "clave": "80081134",
+        "nombre": "El Corte de Madera"
+    },
+    {
+        "clave": "80081135",
+        "nombre": "Chicural"
+    },
+    {
+        "clave": "80081136",
+        "nombre": "Chureño"
+    },
+    {
+        "clave": "80081137",
+        "nombre": "Chuyachi"
+    },
+    {
+        "clave": "80081138",
+        "nombre": "El Encino"
+    },
+    {
+        "clave": "80081139",
+        "nombre": "Faldeo los Parajes"
+    },
+    {
+        "clave": "80081140",
+        "nombre": "Guamúchil"
+    },
+    {
+        "clave": "80081141",
+        "nombre": "Guamúchil"
+    },
+    {
+        "clave": "80081142",
+        "nombre": "El Guasimal"
+    },
+    {
+        "clave": "80081143",
+        "nombre": "Guásimas"
+    },
+    {
+        "clave": "80081144",
+        "nombre": "Las Guásimas"
+    },
+    {
+        "clave": "80081145",
+        "nombre": "Guayna"
+    },
+    {
+        "clave": "80081147",
+        "nombre": "La Laja de Abajo"
+    },
+    {
+        "clave": "80081148",
+        "nombre": "Llano Grande"
+    },
+    {
+        "clave": "80081149",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "80081151",
+        "nombre": "El Madroño"
+    },
+    {
+        "clave": "80081153",
+        "nombre": "Mesa del Piloncillo"
+    },
+    {
+        "clave": "80081154",
+        "nombre": "Mezquite"
+    },
+    {
+        "clave": "80081155",
+        "nombre": "Mocho Guache"
+    },
+    {
+        "clave": "80081157",
+        "nombre": "Motorare"
+    },
+    {
+        "clave": "80081159",
+        "nombre": "Napuchi"
+    },
+    {
+        "clave": "80081160",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "80081161",
+        "nombre": "El Ojito"
+    },
+    {
+        "clave": "80081162",
+        "nombre": "El Palomar"
+    },
+    {
+        "clave": "80081164",
+        "nombre": "Piedra Bola"
+    },
+    {
+        "clave": "80081165",
+        "nombre": "El Pinito"
+    },
+    {
+        "clave": "80081168",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "80081169",
+        "nombre": "Reabo"
+    },
+    {
+        "clave": "80081170",
+        "nombre": "Recamoba"
+    },
+    {
+        "clave": "80081171",
+        "nombre": "Rebelión"
+    },
+    {
+        "clave": "80081174",
+        "nombre": "San Lorencito"
+    },
+    {
+        "clave": "80081178",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80081181",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80081183",
+        "nombre": "Sipurachi"
+    },
+    {
+        "clave": "80081186",
+        "nombre": "Las Tierras"
+    },
+    {
+        "clave": "80081188",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "80081192",
+        "nombre": "Las Mesitas"
+    },
+    {
+        "clave": "80081196",
+        "nombre": "Reyampache"
+    },
+    {
+        "clave": "80081197",
+        "nombre": "Urichique"
+    },
+    {
+        "clave": "80081198",
+        "nombre": "Noregachi"
+    },
+    {
+        "clave": "80081199",
+        "nombre": "Reabo"
+    },
+    {
+        "clave": "80081200",
+        "nombre": "Guanasacare"
+    },
+    {
+        "clave": "80081201",
+        "nombre": "Agorare"
+    },
+    {
+        "clave": "80081203",
+        "nombre": "El Chinal"
+    },
+    {
+        "clave": "80081204",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "80081205",
+        "nombre": "La Cruz"
+    },
+    {
+        "clave": "80081206",
+        "nombre": "Los Mezquites"
+    },
+    {
+        "clave": "80081207",
+        "nombre": "El Mango"
+    },
+    {
+        "clave": "80081208",
+        "nombre": "Las Trancas"
+    },
+    {
+        "clave": "80081209",
+        "nombre": "El Chapote"
+    },
+    {
+        "clave": "80081210",
+        "nombre": "Los Alisos"
+    },
+    {
+        "clave": "80081211",
+        "nombre": "El Trigo"
+    },
+    {
+        "clave": "80081212",
+        "nombre": "Guayna"
+    },
+    {
+        "clave": "80081213",
+        "nombre": "El Duraznito"
+    },
+    {
+        "clave": "80081214",
+        "nombre": "La Cueva Larga"
+    },
+    {
+        "clave": "80081215",
+        "nombre": "El Aguajito"
+    },
+    {
+        "clave": "80081217",
+        "nombre": "Vinatería"
+    },
+    {
+        "clave": "80081218",
+        "nombre": "El Palmarito"
+    },
+    {
+        "clave": "80081219",
+        "nombre": "El Chalate"
+    },
+    {
+        "clave": "80081221",
+        "nombre": "El Divisadero"
+    },
+    {
+        "clave": "80081223",
+        "nombre": "Junta de Arroyos"
+    },
+    {
+        "clave": "80081226",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "80081228",
+        "nombre": "Rancho Blanco"
+    },
+    {
+        "clave": "80081229",
+        "nombre": "El Placer"
+    },
+    {
+        "clave": "80081230",
+        "nombre": "La Cumbre"
+    },
+    {
+        "clave": "80081231",
+        "nombre": "Ahuirachi"
+    },
+    {
+        "clave": "80081232",
+        "nombre": "Osachepache"
+    },
+    {
+        "clave": "80081233",
+        "nombre": "Chimetavo"
+    },
+    {
+        "clave": "80081234",
+        "nombre": "Churirare"
+    },
+    {
+        "clave": "80081235",
+        "nombre": "Soohache"
+    },
+    {
+        "clave": "80081236",
+        "nombre": "Recabochi"
+    },
+    {
+        "clave": "80081238",
+        "nombre": "La Cumbre"
+    },
+    {
+        "clave": "80081240",
+        "nombre": "La Cumbre"
+    },
+    {
+        "clave": "80081241",
+        "nombre": "Huajitare"
+    },
+    {
+        "clave": "80081243",
+        "nombre": "Chorivo"
+    },
+    {
+        "clave": "80081244",
+        "nombre": "Huichochi"
+    },
+    {
+        "clave": "80081245",
+        "nombre": "Pechi"
+    },
+    {
+        "clave": "80081246",
+        "nombre": "Güinolosa"
+    },
+    {
+        "clave": "80081247",
+        "nombre": "Mesa Colorada"
+    },
+    {
+        "clave": "80081248",
+        "nombre": "El Aguajito"
+    },
+    {
+        "clave": "80081249",
+        "nombre": "Guamuchilar"
+    },
+    {
+        "clave": "80081251",
+        "nombre": "El Plántano (La Minita)"
+    },
+    {
+        "clave": "80081252",
+        "nombre": "Aguaje la Trinidad"
+    },
+    {
+        "clave": "80081253",
+        "nombre": "La Higuerita"
+    },
+    {
+        "clave": "80081254",
+        "nombre": "El Mezquite"
+    },
+    {
+        "clave": "80081255",
+        "nombre": "El Mezquite del Rayo"
+    },
+    {
+        "clave": "80081256",
+        "nombre": "El Puerto"
+    },
+    {
+        "clave": "80081257",
+        "nombre": "Rancho de Dalia"
+    },
+    {
+        "clave": "80081258",
+        "nombre": "El Vado de Guamúchil"
+    },
+    {
+        "clave": "80081259",
+        "nombre": "Ladrillera Nueva"
+    },
+    {
+        "clave": "80081260",
+        "nombre": "El Barbechón"
+    },
+    {
+        "clave": "80081261",
+        "nombre": "San Gerónimo"
+    },
+    {
+        "clave": "80081264",
+        "nombre": "Guayabitos"
+    },
+    {
+        "clave": "80081265",
+        "nombre": "Sopichichi"
+    },
+    {
+        "clave": "80081266",
+        "nombre": "Huajichi"
+    },
+    {
+        "clave": "80081268",
+        "nombre": "Rojarare"
+    },
+    {
+        "clave": "80081269",
+        "nombre": "Sipurachi"
+    },
+    {
+        "clave": "80081270",
+        "nombre": "Sajohuachi"
+    },
+    {
+        "clave": "80081272",
+        "nombre": "El Alicito"
+    },
+    {
+        "clave": "80081273",
+        "nombre": "La Rosita"
+    },
+    {
+        "clave": "80081274",
+        "nombre": "Sopichichi"
+    },
+    {
+        "clave": "80081275",
+        "nombre": "Baquerachi"
+    },
+    {
+        "clave": "80081277",
+        "nombre": "Mesa de Guicorachi"
+    },
+    {
+        "clave": "80081278",
+        "nombre": "Cachoguichi"
+    },
+    {
+        "clave": "80081279",
+        "nombre": "El Guayparín"
+    },
+    {
+        "clave": "80081280",
+        "nombre": "Cacachila"
+    },
+    {
+        "clave": "80081282",
+        "nombre": "Sitanachi"
+    },
+    {
+        "clave": "80081283",
+        "nombre": "Los Caracoles"
+    },
+    {
+        "clave": "80081284",
+        "nombre": "Vado de Guamúchil"
+    },
+    {
+        "clave": "80081285",
+        "nombre": "El Encino"
+    },
+    {
+        "clave": "80081286",
+        "nombre": "Mesa de los Cóconos"
+    },
+    {
+        "clave": "80081287",
+        "nombre": "Chapote"
+    },
+    {
+        "clave": "80081288",
+        "nombre": "Encino Largo"
+    },
+    {
+        "clave": "80081289",
+        "nombre": "El Peloncito"
+    },
+    {
+        "clave": "80081291",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80081292",
+        "nombre": "Puerto del Aire"
+    },
+    {
+        "clave": "80081293",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80081294",
+        "nombre": "Las Trojitas"
+    },
+    {
+        "clave": "80081295",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "80081297",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80081298",
+        "nombre": "Puerto de la Gallina"
+    },
+    {
+        "clave": "80081299",
+        "nombre": "Coechi"
+    },
+    {
+        "clave": "80081300",
+        "nombre": "La Ladrillera"
+    },
+    {
+        "clave": "80081301",
+        "nombre": "El Campito"
+    }
+]

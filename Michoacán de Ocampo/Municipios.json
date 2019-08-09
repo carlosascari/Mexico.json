@@ -1,0 +1,454 @@
+[
+    {
+        "clave": "1",
+        "nombre": "Acuitzio"
+    },
+    {
+        "clave": "2",
+        "nombre": "Aguililla"
+    },
+    {
+        "clave": "3",
+        "nombre": "Álvaro Obregón"
+    },
+    {
+        "clave": "4",
+        "nombre": "Angamacutiro"
+    },
+    {
+        "clave": "5",
+        "nombre": "Angangueo"
+    },
+    {
+        "clave": "6",
+        "nombre": "Apatzingán"
+    },
+    {
+        "clave": "7",
+        "nombre": "Aporo"
+    },
+    {
+        "clave": "8",
+        "nombre": "Aquila"
+    },
+    {
+        "clave": "9",
+        "nombre": "Ario"
+    },
+    {
+        "clave": "10",
+        "nombre": "Arteaga"
+    },
+    {
+        "clave": "11",
+        "nombre": "Briseñas"
+    },
+    {
+        "clave": "12",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "13",
+        "nombre": "Carácuaro"
+    },
+    {
+        "clave": "14",
+        "nombre": "Coahuayana"
+    },
+    {
+        "clave": "15",
+        "nombre": "Coalcomán de Vázquez Pallares"
+    },
+    {
+        "clave": "16",
+        "nombre": "Coeneo"
+    },
+    {
+        "clave": "17",
+        "nombre": "Contepec"
+    },
+    {
+        "clave": "18",
+        "nombre": "Copándaro"
+    },
+    {
+        "clave": "19",
+        "nombre": "Cotija"
+    },
+    {
+        "clave": "20",
+        "nombre": "Cuitzeo"
+    },
+    {
+        "clave": "21",
+        "nombre": "Charapan"
+    },
+    {
+        "clave": "22",
+        "nombre": "Charo"
+    },
+    {
+        "clave": "23",
+        "nombre": "Chavinda"
+    },
+    {
+        "clave": "24",
+        "nombre": "Cherán"
+    },
+    {
+        "clave": "25",
+        "nombre": "Chilchota"
+    },
+    {
+        "clave": "26",
+        "nombre": "Chinicuila"
+    },
+    {
+        "clave": "27",
+        "nombre": "Chucándiro"
+    },
+    {
+        "clave": "28",
+        "nombre": "Churintzio"
+    },
+    {
+        "clave": "29",
+        "nombre": "Churumuco"
+    },
+    {
+        "clave": "30",
+        "nombre": "Ecuandureo"
+    },
+    {
+        "clave": "31",
+        "nombre": "Epitacio Huerta"
+    },
+    {
+        "clave": "32",
+        "nombre": "Erongarícuaro"
+    },
+    {
+        "clave": "33",
+        "nombre": "Gabriel Zamora"
+    },
+    {
+        "clave": "34",
+        "nombre": "Hidalgo"
+    },
+    {
+        "clave": "35",
+        "nombre": "La Huacana"
+    },
+    {
+        "clave": "36",
+        "nombre": "Huandacareo"
+    },
+    {
+        "clave": "37",
+        "nombre": "Huaniqueo"
+    },
+    {
+        "clave": "38",
+        "nombre": "Huetamo"
+    },
+    {
+        "clave": "39",
+        "nombre": "Huiramba"
+    },
+    {
+        "clave": "40",
+        "nombre": "Indaparapeo"
+    },
+    {
+        "clave": "41",
+        "nombre": "Irimbo"
+    },
+    {
+        "clave": "42",
+        "nombre": "Ixtlán"
+    },
+    {
+        "clave": "43",
+        "nombre": "Jacona"
+    },
+    {
+        "clave": "44",
+        "nombre": "Jiménez"
+    },
+    {
+        "clave": "45",
+        "nombre": "Jiquilpan"
+    },
+    {
+        "clave": "46",
+        "nombre": "Juárez"
+    },
+    {
+        "clave": "47",
+        "nombre": "Jungapeo"
+    },
+    {
+        "clave": "48",
+        "nombre": "Lagunillas"
+    },
+    {
+        "clave": "49",
+        "nombre": "Madero"
+    },
+    {
+        "clave": "50",
+        "nombre": "Maravatío"
+    },
+    {
+        "clave": "51",
+        "nombre": "Marcos Castellanos"
+    },
+    {
+        "clave": "52",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "53",
+        "nombre": "Morelia"
+    },
+    {
+        "clave": "54",
+        "nombre": "Morelos"
+    },
+    {
+        "clave": "55",
+        "nombre": "Múgica"
+    },
+    {
+        "clave": "56",
+        "nombre": "Nahuatzen"
+    },
+    {
+        "clave": "57",
+        "nombre": "Nocupétaro"
+    },
+    {
+        "clave": "58",
+        "nombre": "Nuevo Parangaricutiro"
+    },
+    {
+        "clave": "59",
+        "nombre": "Nuevo Urecho"
+    },
+    {
+        "clave": "60",
+        "nombre": "Numarán"
+    },
+    {
+        "clave": "61",
+        "nombre": "Ocampo"
+    },
+    {
+        "clave": "62",
+        "nombre": "Pajacuarán"
+    },
+    {
+        "clave": "63",
+        "nombre": "Panindícuaro"
+    },
+    {
+        "clave": "64",
+        "nombre": "Parácuaro"
+    },
+    {
+        "clave": "65",
+        "nombre": "Paracho"
+    },
+    {
+        "clave": "66",
+        "nombre": "Pátzcuaro"
+    },
+    {
+        "clave": "67",
+        "nombre": "Penjamillo"
+    },
+    {
+        "clave": "68",
+        "nombre": "Peribán"
+    },
+    {
+        "clave": "69",
+        "nombre": "La Piedad"
+    },
+    {
+        "clave": "70",
+        "nombre": "Purépero"
+    },
+    {
+        "clave": "71",
+        "nombre": "Puruándiro"
+    },
+    {
+        "clave": "72",
+        "nombre": "Queréndaro"
+    },
+    {
+        "clave": "73",
+        "nombre": "Quiroga"
+    },
+    {
+        "clave": "74",
+        "nombre": "Cojumatlán de Régules"
+    },
+    {
+        "clave": "75",
+        "nombre": "Los Reyes"
+    },
+    {
+        "clave": "76",
+        "nombre": "Sahuayo"
+    },
+    {
+        "clave": "77",
+        "nombre": "San Lucas"
+    },
+    {
+        "clave": "78",
+        "nombre": "Santa Ana Maya"
+    },
+    {
+        "clave": "79",
+        "nombre": "Salvador Escalante"
+    },
+    {
+        "clave": "80",
+        "nombre": "Senguio"
+    },
+    {
+        "clave": "81",
+        "nombre": "Susupuato"
+    },
+    {
+        "clave": "82",
+        "nombre": "Tacámbaro"
+    },
+    {
+        "clave": "83",
+        "nombre": "Tancítaro"
+    },
+    {
+        "clave": "84",
+        "nombre": "Tangamandapio"
+    },
+    {
+        "clave": "85",
+        "nombre": "Tangancícuaro"
+    },
+    {
+        "clave": "86",
+        "nombre": "Tanhuato"
+    },
+    {
+        "clave": "87",
+        "nombre": "Taretan"
+    },
+    {
+        "clave": "88",
+        "nombre": "Tarímbaro"
+    },
+    {
+        "clave": "89",
+        "nombre": "Tepalcatepec"
+    },
+    {
+        "clave": "90",
+        "nombre": "Tingambato"
+    },
+    {
+        "clave": "91",
+        "nombre": "Tingüindín"
+    },
+    {
+        "clave": "92",
+        "nombre": "Tiquicheo de Nicolás Romero"
+    },
+    {
+        "clave": "93",
+        "nombre": "Tlalpujahua"
+    },
+    {
+        "clave": "94",
+        "nombre": "Tlazazalca"
+    },
+    {
+        "clave": "95",
+        "nombre": "Tocumbo"
+    },
+    {
+        "clave": "96",
+        "nombre": "Tumbiscatío"
+    },
+    {
+        "clave": "97",
+        "nombre": "Turicato"
+    },
+    {
+        "clave": "98",
+        "nombre": "Tuxpan"
+    },
+    {
+        "clave": "99",
+        "nombre": "Tuzantla"
+    },
+    {
+        "clave": "100",
+        "nombre": "Tzintzuntzan"
+    },
+    {
+        "clave": "101",
+        "nombre": "Tzitzio"
+    },
+    {
+        "clave": "102",
+        "nombre": "Uruapan"
+    },
+    {
+        "clave": "103",
+        "nombre": "Venustiano Carranza"
+    },
+    {
+        "clave": "104",
+        "nombre": "Villamar"
+    },
+    {
+        "clave": "105",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "106",
+        "nombre": "Yurécuaro"
+    },
+    {
+        "clave": "107",
+        "nombre": "Zacapu"
+    },
+    {
+        "clave": "108",
+        "nombre": "Zamora"
+    },
+    {
+        "clave": "109",
+        "nombre": "Zináparo"
+    },
+    {
+        "clave": "110",
+        "nombre": "Zinapécuaro"
+    },
+    {
+        "clave": "111",
+        "nombre": "Ziracuaretiro"
+    },
+    {
+        "clave": "112",
+        "nombre": "Zitácuaro"
+    },
+    {
+        "clave": "113",
+        "nombre": "José Sixto Verduzco"
+    }
+]

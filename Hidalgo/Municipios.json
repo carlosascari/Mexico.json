@@ -1,0 +1,338 @@
+[
+    {
+        "clave": "1",
+        "nombre": "Acatlán"
+    },
+    {
+        "clave": "2",
+        "nombre": "Acaxochitlán"
+    },
+    {
+        "clave": "3",
+        "nombre": "Actopan"
+    },
+    {
+        "clave": "4",
+        "nombre": "Agua Blanca de Iturbide"
+    },
+    {
+        "clave": "5",
+        "nombre": "Ajacuba"
+    },
+    {
+        "clave": "6",
+        "nombre": "Alfajayucan"
+    },
+    {
+        "clave": "7",
+        "nombre": "Almoloya"
+    },
+    {
+        "clave": "8",
+        "nombre": "Apan"
+    },
+    {
+        "clave": "9",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "10",
+        "nombre": "Atitalaquia"
+    },
+    {
+        "clave": "11",
+        "nombre": "Atlapexco"
+    },
+    {
+        "clave": "12",
+        "nombre": "Atotonilco el Grande"
+    },
+    {
+        "clave": "13",
+        "nombre": "Atotonilco de Tula"
+    },
+    {
+        "clave": "14",
+        "nombre": "Calnali"
+    },
+    {
+        "clave": "15",
+        "nombre": "Cardonal"
+    },
+    {
+        "clave": "16",
+        "nombre": "Cuautepec de Hinojosa"
+    },
+    {
+        "clave": "17",
+        "nombre": "Chapantongo"
+    },
+    {
+        "clave": "18",
+        "nombre": "Chapulhuacán"
+    },
+    {
+        "clave": "19",
+        "nombre": "Chilcuautla"
+    },
+    {
+        "clave": "20",
+        "nombre": "Eloxochitlán"
+    },
+    {
+        "clave": "21",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "22",
+        "nombre": "Epazoyucan"
+    },
+    {
+        "clave": "23",
+        "nombre": "Francisco I. Madero"
+    },
+    {
+        "clave": "24",
+        "nombre": "Huasca de Ocampo"
+    },
+    {
+        "clave": "25",
+        "nombre": "Huautla"
+    },
+    {
+        "clave": "26",
+        "nombre": "Huazalingo"
+    },
+    {
+        "clave": "27",
+        "nombre": "Huehuetla"
+    },
+    {
+        "clave": "28",
+        "nombre": "Huejutla de Reyes"
+    },
+    {
+        "clave": "29",
+        "nombre": "Huichapan"
+    },
+    {
+        "clave": "30",
+        "nombre": "Ixmiquilpan"
+    },
+    {
+        "clave": "31",
+        "nombre": "Jacala de Ledezma"
+    },
+    {
+        "clave": "32",
+        "nombre": "Jaltocán"
+    },
+    {
+        "clave": "33",
+        "nombre": "Juárez Hidalgo"
+    },
+    {
+        "clave": "34",
+        "nombre": "Lolotla"
+    },
+    {
+        "clave": "35",
+        "nombre": "Metepec"
+    },
+    {
+        "clave": "36",
+        "nombre": "San Agustín Metzquititlán"
+    },
+    {
+        "clave": "37",
+        "nombre": "Metztitlán"
+    },
+    {
+        "clave": "38",
+        "nombre": "Mineral del Chico"
+    },
+    {
+        "clave": "39",
+        "nombre": "Mineral del Monte"
+    },
+    {
+        "clave": "40",
+        "nombre": "La Misión"
+    },
+    {
+        "clave": "41",
+        "nombre": "Mixquiahuala de Juárez"
+    },
+    {
+        "clave": "42",
+        "nombre": "Molango de Escamilla"
+    },
+    {
+        "clave": "43",
+        "nombre": "Nicolás Flores"
+    },
+    {
+        "clave": "44",
+        "nombre": "Nopala de Villagrán"
+    },
+    {
+        "clave": "45",
+        "nombre": "Omitlán de Juárez"
+    },
+    {
+        "clave": "46",
+        "nombre": "San Felipe Orizatlán"
+    },
+    {
+        "clave": "47",
+        "nombre": "Pacula"
+    },
+    {
+        "clave": "48",
+        "nombre": "Pachuca de Soto"
+    },
+    {
+        "clave": "49",
+        "nombre": "Pisaflores"
+    },
+    {
+        "clave": "50",
+        "nombre": "Progreso de Obregón"
+    },
+    {
+        "clave": "51",
+        "nombre": "Mineral de la Reforma"
+    },
+    {
+        "clave": "52",
+        "nombre": "San Agustín Tlaxiaca"
+    },
+    {
+        "clave": "53",
+        "nombre": "San Bartolo Tutotepec"
+    },
+    {
+        "clave": "54",
+        "nombre": "San Salvador"
+    },
+    {
+        "clave": "55",
+        "nombre": "Santiago de Anaya"
+    },
+    {
+        "clave": "56",
+        "nombre": "Santiago Tulantepec de Lugo Guerrero"
+    },
+    {
+        "clave": "57",
+        "nombre": "Singuilucan"
+    },
+    {
+        "clave": "58",
+        "nombre": "Tasquillo"
+    },
+    {
+        "clave": "59",
+        "nombre": "Tecozautla"
+    },
+    {
+        "clave": "60",
+        "nombre": "Tenango de Doria"
+    },
+    {
+        "clave": "61",
+        "nombre": "Tepeapulco"
+    },
+    {
+        "clave": "62",
+        "nombre": "Tepehuacán de Guerrero"
+    },
+    {
+        "clave": "63",
+        "nombre": "Tepeji del Río de Ocampo"
+    },
+    {
+        "clave": "64",
+        "nombre": "Tepetitlán"
+    },
+    {
+        "clave": "65",
+        "nombre": "Tetepango"
+    },
+    {
+        "clave": "66",
+        "nombre": "Villa de Tezontepec"
+    },
+    {
+        "clave": "67",
+        "nombre": "Tezontepec de Aldama"
+    },
+    {
+        "clave": "68",
+        "nombre": "Tianguistengo"
+    },
+    {
+        "clave": "69",
+        "nombre": "Tizayuca"
+    },
+    {
+        "clave": "70",
+        "nombre": "Tlahuelilpan"
+    },
+    {
+        "clave": "71",
+        "nombre": "Tlahuiltepa"
+    },
+    {
+        "clave": "72",
+        "nombre": "Tlanalapa"
+    },
+    {
+        "clave": "73",
+        "nombre": "Tlanchinol"
+    },
+    {
+        "clave": "74",
+        "nombre": "Tlaxcoapan"
+    },
+    {
+        "clave": "75",
+        "nombre": "Tolcayuca"
+    },
+    {
+        "clave": "76",
+        "nombre": "Tula de Allende"
+    },
+    {
+        "clave": "77",
+        "nombre": "Tulancingo de Bravo"
+    },
+    {
+        "clave": "78",
+        "nombre": "Xochiatipan"
+    },
+    {
+        "clave": "79",
+        "nombre": "Xochicoatlán"
+    },
+    {
+        "clave": "80",
+        "nombre": "Yahualica"
+    },
+    {
+        "clave": "81",
+        "nombre": "Zacualtipán de Ángeles"
+    },
+    {
+        "clave": "82",
+        "nombre": "Zapotlán de Juárez"
+    },
+    {
+        "clave": "83",
+        "nombre": "Zempoala"
+    },
+    {
+        "clave": "84",
+        "nombre": "Zimapán"
+    }
+]

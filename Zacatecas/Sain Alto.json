@@ -1,0 +1,406 @@
+[
+    {
+        "clave": "320400045",
+        "nombre": "Rancho Nuevo (El Ranchito)"
+    },
+    {
+        "clave": "320400055",
+        "nombre": "La Pimienta"
+    },
+    {
+        "clave": "320400079",
+        "nombre": "El Nuevo Saucillo"
+    },
+    {
+        "clave": "320400005",
+        "nombre": "Atotonilco"
+    },
+    {
+        "clave": "320400010",
+        "nombre": "Cañas"
+    },
+    {
+        "clave": "320400014",
+        "nombre": "La Cruz de Santa Rita"
+    },
+    {
+        "clave": "320400016",
+        "nombre": "Emiliano Zapata (San José)"
+    },
+    {
+        "clave": "320400018",
+        "nombre": "El Fresno"
+    },
+    {
+        "clave": "320400022",
+        "nombre": "Laguna Blanca (La Laguna Blanca)"
+    },
+    {
+        "clave": "320400023",
+        "nombre": "El Lindero"
+    },
+    {
+        "clave": "320400027",
+        "nombre": "Mercurio (Mina Mercurio)"
+    },
+    {
+        "clave": "320400030",
+        "nombre": "La Muralla"
+    },
+    {
+        "clave": "320400031",
+        "nombre": "Nicolás Bravo (San Nicolás)"
+    },
+    {
+        "clave": "320400032",
+        "nombre": "Quince de Septiembre (Santa Rosa)"
+    },
+    {
+        "clave": "320400033",
+        "nombre": "Río de Medina"
+    },
+    {
+        "clave": "320400035",
+        "nombre": "San Antonio del Álamo"
+    },
+    {
+        "clave": "320400037",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "320400040",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "320400043",
+        "nombre": "El Capadero"
+    },
+    {
+        "clave": "320400057",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "320400066",
+        "nombre": "El Molino"
+    },
+    {
+        "clave": "320400076",
+        "nombre": "Santa Eduviges"
+    },
+    {
+        "clave": "320400092",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "320400001",
+        "nombre": "Sain Alto"
+    },
+    {
+        "clave": "320400006",
+        "nombre": "Barrancas"
+    },
+    {
+        "clave": "320400009",
+        "nombre": "Cantuna"
+    },
+    {
+        "clave": "320400011",
+        "nombre": "El Castro"
+    },
+    {
+        "clave": "320400012",
+        "nombre": "El Cazadero"
+    },
+    {
+        "clave": "320400015",
+        "nombre": "Mesa de la Cruz (La Cruz)"
+    },
+    {
+        "clave": "320400017",
+        "nombre": "Francisco I. Madero (San Isidro)"
+    },
+    {
+        "clave": "320400019",
+        "nombre": "Huajotita"
+    },
+    {
+        "clave": "320400020",
+        "nombre": "José María Morelos (Santa Mónica)"
+    },
+    {
+        "clave": "320400021",
+        "nombre": "La Laborcita"
+    },
+    {
+        "clave": "320400024",
+        "nombre": "Luis Moya"
+    },
+    {
+        "clave": "320400025",
+        "nombre": "La Manga"
+    },
+    {
+        "clave": "320400026",
+        "nombre": "Martiniano Natera (Las Bolitas)"
+    },
+    {
+        "clave": "320400028",
+        "nombre": "Miguel Hidalgo (Las Cuevas)"
+    },
+    {
+        "clave": "320400034",
+        "nombre": "Saín Bajo"
+    },
+    {
+        "clave": "320400036",
+        "nombre": "La Sandía"
+    },
+    {
+        "clave": "320400038",
+        "nombre": "Santa Mónica"
+    },
+    {
+        "clave": "320400039",
+        "nombre": "San Tadeo de los Sauces (Los Sauces)"
+    },
+    {
+        "clave": "320400041",
+        "nombre": "El Varal"
+    },
+    {
+        "clave": "320400042",
+        "nombre": "La Ventura (Antonio Ramírez Handam)"
+    },
+    {
+        "clave": "320400044",
+        "nombre": "La Haciendita"
+    },
+    {
+        "clave": "320400046",
+        "nombre": "Rancho Redondo"
+    },
+    {
+        "clave": "320400047",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "320400049",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "320400050",
+        "nombre": "El Frayle"
+    },
+    {
+        "clave": "320400051",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "320400052",
+        "nombre": "La Cementera"
+    },
+    {
+        "clave": "320400053",
+        "nombre": "José Julián"
+    },
+    {
+        "clave": "320400054",
+        "nombre": "San Antonio de Peñitas"
+    },
+    {
+        "clave": "320400058",
+        "nombre": "Valparaíso"
+    },
+    {
+        "clave": "320400059",
+        "nombre": "Cantuna [Estación]"
+    },
+    {
+        "clave": "320400060",
+        "nombre": "Saín Alto [Estación]"
+    },
+    {
+        "clave": "320400061",
+        "nombre": "El Encino (Rancho Eliseo García)"
+    },
+    {
+        "clave": "320400062",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "320400064",
+        "nombre": "El Cortijo"
+    },
+    {
+        "clave": "320400065",
+        "nombre": "Rancho los Reyes"
+    },
+    {
+        "clave": "320400067",
+        "nombre": "Las Marías"
+    },
+    {
+        "clave": "320400068",
+        "nombre": "San Miguel del Refugio"
+    },
+    {
+        "clave": "320400070",
+        "nombre": "El Eje"
+    },
+    {
+        "clave": "320400072",
+        "nombre": "Rancho Pobre"
+    },
+    {
+        "clave": "320400073",
+        "nombre": "Río Frío"
+    },
+    {
+        "clave": "320400077",
+        "nombre": "La Cruz Verde"
+    },
+    {
+        "clave": "320400078",
+        "nombre": "Trece de Mayo"
+    },
+    {
+        "clave": "320400082",
+        "nombre": "San José (El Ranchito)"
+    },
+    {
+        "clave": "320400083",
+        "nombre": "El Alamillo"
+    },
+    {
+        "clave": "320400084",
+        "nombre": "El Arroyo Colorado"
+    },
+    {
+        "clave": "320400085",
+        "nombre": "La Calzada (Mónico Huerta Huerta)"
+    },
+    {
+        "clave": "320400086",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "320400087",
+        "nombre": "La Loma (La Loma Alta)"
+    },
+    {
+        "clave": "320400088",
+        "nombre": "El Ojo de Agua del Bronce"
+    },
+    {
+        "clave": "320400089",
+        "nombre": "El Ojo de Agua del Carbonero"
+    },
+    {
+        "clave": "320400090",
+        "nombre": "El Oliván"
+    },
+    {
+        "clave": "320400091",
+        "nombre": "La Pipianera (José González)"
+    },
+    {
+        "clave": "320400093",
+        "nombre": "Anastasio Castañeda Solano"
+    },
+    {
+        "clave": "320400094",
+        "nombre": "Antonio Gómez Zúñiga"
+    },
+    {
+        "clave": "320400096",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "320400097",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "320400098",
+        "nombre": "Ermita de Guadalupe"
+    },
+    {
+        "clave": "320400099",
+        "nombre": "Santa Ana"
+    },
+    {
+        "clave": "320400100",
+        "nombre": "Cañada Larga"
+    },
+    {
+        "clave": "320400101",
+        "nombre": "Los Güeros [Rancho]"
+    },
+    {
+        "clave": "320400102",
+        "nombre": "Atotonilco"
+    },
+    {
+        "clave": "320400103",
+        "nombre": "Cerro del Chivo"
+    },
+    {
+        "clave": "320400104",
+        "nombre": "Entronque a Cañitas (Amador Longoria Ibarra)"
+    },
+    {
+        "clave": "320400105",
+        "nombre": "El Chepinque"
+    },
+    {
+        "clave": "320400106",
+        "nombre": "Las Iglesias"
+    },
+    {
+        "clave": "320400107",
+        "nombre": "El Matorral"
+    },
+    {
+        "clave": "320400108",
+        "nombre": "La Mesa de los Pozos"
+    },
+    {
+        "clave": "320400109",
+        "nombre": "La Providencia (Adolfo Serna Velázquez)"
+    },
+    {
+        "clave": "320400110",
+        "nombre": "La Y Griega"
+    },
+    {
+        "clave": "320400111",
+        "nombre": "Fracción de San Rafael [Francisco Alvarado Goytia]"
+    },
+    {
+        "clave": "320400112",
+        "nombre": "Bajío de Pajaritos (Jesús María Moctezuma L.)"
+    },
+    {
+        "clave": "320400113",
+        "nombre": "Jesús Montañez Alonso"
+    },
+    {
+        "clave": "320400114",
+        "nombre": "Ambrosio Montañez Montañez"
+    },
+    {
+        "clave": "320400115",
+        "nombre": "El Pino (Magdaleno Gómez Martínez)"
+    },
+    {
+        "clave": "320400116",
+        "nombre": "El Cordón de San Isidro (Joaquín Carlos M.)"
+    },
+    {
+        "clave": "320400117",
+        "nombre": "Rincón de las Tablas (Las Tablas)"
+    },
+    {
+        "clave": "320400118",
+        "nombre": "Doce de Diciembre"
+    }
+]

@@ -1,0 +1,874 @@
+[
+    {
+        "clave": "190020306",
+        "nombre": "Raúl Molina"
+    },
+    {
+        "clave": "190020001",
+        "nombre": "Agualeguas"
+    },
+    {
+        "clave": "190020004",
+        "nombre": "Agua Blanca"
+    },
+    {
+        "clave": "190020009",
+        "nombre": "Tres Hermanos"
+    },
+    {
+        "clave": "190020012",
+        "nombre": "Cieneguitas"
+    },
+    {
+        "clave": "190020014",
+        "nombre": "Charco Escondido"
+    },
+    {
+        "clave": "190020017",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "190020020",
+        "nombre": "El Maguey"
+    },
+    {
+        "clave": "190020021",
+        "nombre": "Los Garza"
+    },
+    {
+        "clave": "190020022",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "190020027",
+        "nombre": "Lagunillas (San José Lagunillas)"
+    },
+    {
+        "clave": "190020030",
+        "nombre": "Los Martínez"
+    },
+    {
+        "clave": "190020031",
+        "nombre": "El Mezquital"
+    },
+    {
+        "clave": "190020033",
+        "nombre": "El Milagro"
+    },
+    {
+        "clave": "190020034",
+        "nombre": "Los Náufragos"
+    },
+    {
+        "clave": "190020035",
+        "nombre": "El Nogal"
+    },
+    {
+        "clave": "190020036",
+        "nombre": "Los Nogales"
+    },
+    {
+        "clave": "190020037",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "190020038",
+        "nombre": "Los Olmos"
+    },
+    {
+        "clave": "190020041",
+        "nombre": "El Papalote"
+    },
+    {
+        "clave": "190020042",
+        "nombre": "La Parra"
+    },
+    {
+        "clave": "190020044",
+        "nombre": "La Ponderosa"
+    },
+    {
+        "clave": "190020045",
+        "nombre": "El Prieto"
+    },
+    {
+        "clave": "190020047",
+        "nombre": "La Purísima"
+    },
+    {
+        "clave": "190020048",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "190020051",
+        "nombre": "Las Palmitas"
+    },
+    {
+        "clave": "190020053",
+        "nombre": "San Antonio (Los Landa)"
+    },
+    {
+        "clave": "190020054",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "190020055",
+        "nombre": "San José de la Reforma"
+    },
+    {
+        "clave": "190020056",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "190020059",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "190020060",
+        "nombre": "Los Vázquez"
+    },
+    {
+        "clave": "190020061",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "190020062",
+        "nombre": "El Pulgarcito"
+    },
+    {
+        "clave": "190020066",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "190020070",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "190020076",
+        "nombre": "El Recodo"
+    },
+    {
+        "clave": "190020077",
+        "nombre": "Isauro Chapa"
+    },
+    {
+        "clave": "190020080",
+        "nombre": "Conrado Alvarado"
+    },
+    {
+        "clave": "190020081",
+        "nombre": "Chucho González"
+    },
+    {
+        "clave": "190020086",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "190020087",
+        "nombre": "Rancho Seco"
+    },
+    {
+        "clave": "190020089",
+        "nombre": "San José"
+    },
+    {
+        "clave": "190020090",
+        "nombre": "Puerta las Ovejas"
+    },
+    {
+        "clave": "190020091",
+        "nombre": "Minerva"
+    },
+    {
+        "clave": "190020093",
+        "nombre": "El Huizache (Elizandro Jáuregui)"
+    },
+    {
+        "clave": "190020097",
+        "nombre": "Los Robles"
+    },
+    {
+        "clave": "190020100",
+        "nombre": "San Rafael Uno"
+    },
+    {
+        "clave": "190020102",
+        "nombre": "La Atravesada"
+    },
+    {
+        "clave": "190020103",
+        "nombre": "Los Álamos"
+    },
+    {
+        "clave": "190020111",
+        "nombre": "San José"
+    },
+    {
+        "clave": "190020115",
+        "nombre": "Santa Isabel"
+    },
+    {
+        "clave": "190020119",
+        "nombre": "Las Delicias"
+    },
+    {
+        "clave": "190020120",
+        "nombre": "Don Jesús"
+    },
+    {
+        "clave": "190020121",
+        "nombre": "La Esmeralda"
+    },
+    {
+        "clave": "190020122",
+        "nombre": "Genoveva"
+    },
+    {
+        "clave": "190020123",
+        "nombre": "La Morita"
+    },
+    {
+        "clave": "190020124",
+        "nombre": "El Mortero"
+    },
+    {
+        "clave": "190020125",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "190020126",
+        "nombre": "La Perla"
+    },
+    {
+        "clave": "190020127",
+        "nombre": "Las Peñitas"
+    },
+    {
+        "clave": "190020128",
+        "nombre": "El Recuerdo"
+    },
+    {
+        "clave": "190020130",
+        "nombre": "La Rosita"
+    },
+    {
+        "clave": "190020131",
+        "nombre": "San Andrés (Marín de Porras)"
+    },
+    {
+        "clave": "190020133",
+        "nombre": "El Sapo"
+    },
+    {
+        "clave": "190020134",
+        "nombre": "Tío Mario"
+    },
+    {
+        "clave": "190020136",
+        "nombre": "Piedra Parada"
+    },
+    {
+        "clave": "190020139",
+        "nombre": "Bojinetes"
+    },
+    {
+        "clave": "190020140",
+        "nombre": "La Brisa"
+    },
+    {
+        "clave": "190020143",
+        "nombre": "Las Comas"
+    },
+    {
+        "clave": "190020144",
+        "nombre": "Las Abejas (Los Villarreal)"
+    },
+    {
+        "clave": "190020145",
+        "nombre": "Palo Blanco"
+    },
+    {
+        "clave": "190020147",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "190020148",
+        "nombre": "Doroteo García"
+    },
+    {
+        "clave": "190020149",
+        "nombre": "El Texano"
+    },
+    {
+        "clave": "190020150",
+        "nombre": "Marrubio"
+    },
+    {
+        "clave": "190020151",
+        "nombre": "Abdón Madrigal"
+    },
+    {
+        "clave": "190020152",
+        "nombre": "El Cadillal"
+    },
+    {
+        "clave": "190020153",
+        "nombre": "Chapa Ramos Uno"
+    },
+    {
+        "clave": "190020154",
+        "nombre": "Chapa Ramos Dos"
+    },
+    {
+        "clave": "190020155",
+        "nombre": "Chapotes Uno"
+    },
+    {
+        "clave": "190020156",
+        "nombre": "Chapotes Dos"
+    },
+    {
+        "clave": "190020157",
+        "nombre": "Las Encinas Dos"
+    },
+    {
+        "clave": "190020158",
+        "nombre": "Los Guerra"
+    },
+    {
+        "clave": "190020159",
+        "nombre": "José Guerra"
+    },
+    {
+        "clave": "190020160",
+        "nombre": "María Guadalupe"
+    },
+    {
+        "clave": "190020163",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "190020164",
+        "nombre": "Armando Barrientos"
+    },
+    {
+        "clave": "190020165",
+        "nombre": "Rogelio Jaime"
+    },
+    {
+        "clave": "190020166",
+        "nombre": "San Cristóbal"
+    },
+    {
+        "clave": "190020167",
+        "nombre": "Santo Niño"
+    },
+    {
+        "clave": "190020168",
+        "nombre": "Osvaldo Villarreal"
+    },
+    {
+        "clave": "190020169",
+        "nombre": "Ignacio Castellano (Encinos del Arroyo Pajuelos)"
+    },
+    {
+        "clave": "190020170",
+        "nombre": "Los Mezquites"
+    },
+    {
+        "clave": "190020172",
+        "nombre": "El Apache"
+    },
+    {
+        "clave": "190020173",
+        "nombre": "El Derrame"
+    },
+    {
+        "clave": "190020174",
+        "nombre": "La Margarita"
+    },
+    {
+        "clave": "190020176",
+        "nombre": "Sagrado Corazón (Los Gutiérrez)"
+    },
+    {
+        "clave": "190020177",
+        "nombre": "El Chamizal"
+    },
+    {
+        "clave": "190020178",
+        "nombre": "El Pilón"
+    },
+    {
+        "clave": "190020179",
+        "nombre": "Dos R"
+    },
+    {
+        "clave": "190020180",
+        "nombre": "La Conchita"
+    },
+    {
+        "clave": "190020181",
+        "nombre": "La Barreta"
+    },
+    {
+        "clave": "190020182",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "190020183",
+        "nombre": "Simón Cantú"
+    },
+    {
+        "clave": "190020184",
+        "nombre": "Armando Cantú"
+    },
+    {
+        "clave": "190020186",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "190020187",
+        "nombre": "El Tequileño"
+    },
+    {
+        "clave": "190020189",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "190020190",
+        "nombre": "Julio Enrique"
+    },
+    {
+        "clave": "190020191",
+        "nombre": "Ignacio Chapa (Las Palmitas)"
+    },
+    {
+        "clave": "190020192",
+        "nombre": "Oscar Salinas"
+    },
+    {
+        "clave": "190020194",
+        "nombre": "La Pinta"
+    },
+    {
+        "clave": "190020195",
+        "nombre": "Fructuoso Alvarado"
+    },
+    {
+        "clave": "190020197",
+        "nombre": "Don Ovando"
+    },
+    {
+        "clave": "190020199",
+        "nombre": "Vidal Molina"
+    },
+    {
+        "clave": "190020200",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "190020202",
+        "nombre": "Los Salazar"
+    },
+    {
+        "clave": "190020204",
+        "nombre": "El Guajolote"
+    },
+    {
+        "clave": "190020205",
+        "nombre": "La Purísima Concepción"
+    },
+    {
+        "clave": "190020206",
+        "nombre": "Armando Cantú"
+    },
+    {
+        "clave": "190020207",
+        "nombre": "Los Mogotes"
+    },
+    {
+        "clave": "190020208",
+        "nombre": "Nato Maldonado"
+    },
+    {
+        "clave": "190020209",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190020210",
+        "nombre": "El Pretexto"
+    },
+    {
+        "clave": "190020211",
+        "nombre": "Víctor Gómez"
+    },
+    {
+        "clave": "190020212",
+        "nombre": "La Tía Chabela (Roberto Maldonado)"
+    },
+    {
+        "clave": "190020213",
+        "nombre": "Los Molina"
+    },
+    {
+        "clave": "190020214",
+        "nombre": "José Ramos"
+    },
+    {
+        "clave": "190020215",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "190020216",
+        "nombre": "Roel Barrientos"
+    },
+    {
+        "clave": "190020217",
+        "nombre": "La Barretita"
+    },
+    {
+        "clave": "190020218",
+        "nombre": "El Corral"
+    },
+    {
+        "clave": "190020219",
+        "nombre": "Ruperto Quiroga Landa"
+    },
+    {
+        "clave": "190020220",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "190020221",
+        "nombre": "San José"
+    },
+    {
+        "clave": "190020222",
+        "nombre": "Las Peñas"
+    },
+    {
+        "clave": "190020223",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "190020224",
+        "nombre": "La Esmeralda"
+    },
+    {
+        "clave": "190020225",
+        "nombre": "Las Palomas"
+    },
+    {
+        "clave": "190020226",
+        "nombre": "Tío Chonito"
+    },
+    {
+        "clave": "190020227",
+        "nombre": "Gerardo Villarreal"
+    },
+    {
+        "clave": "190020228",
+        "nombre": "Los Elizondo Número Uno"
+    },
+    {
+        "clave": "190020230",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "190020231",
+        "nombre": "El Gallo Jorobado"
+    },
+    {
+        "clave": "190020232",
+        "nombre": "El Encino Solo"
+    },
+    {
+        "clave": "190020233",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "190020234",
+        "nombre": "Santa Gertrudis"
+    },
+    {
+        "clave": "190020235",
+        "nombre": "José María Vela (La Perla)"
+    },
+    {
+        "clave": "190020236",
+        "nombre": "Alicia"
+    },
+    {
+        "clave": "190020237",
+        "nombre": "Las Comas"
+    },
+    {
+        "clave": "190020238",
+        "nombre": "Serapio Guajardo"
+    },
+    {
+        "clave": "190020239",
+        "nombre": "Remigio Chapa"
+    },
+    {
+        "clave": "190020240",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190020241",
+        "nombre": "San Roberto"
+    },
+    {
+        "clave": "190020242",
+        "nombre": "Santos Valadez (Piedra Parada)"
+    },
+    {
+        "clave": "190020243",
+        "nombre": "Verde"
+    },
+    {
+        "clave": "190020244",
+        "nombre": "Veintisiete de Octubre"
+    },
+    {
+        "clave": "190020245",
+        "nombre": "Los Mogotes"
+    },
+    {
+        "clave": "190020246",
+        "nombre": "Lázaro Maldonado"
+    },
+    {
+        "clave": "190020247",
+        "nombre": "Las Dos Rosas"
+    },
+    {
+        "clave": "190020248",
+        "nombre": "El Chulo"
+    },
+    {
+        "clave": "190020249",
+        "nombre": "AJ"
+    },
+    {
+        "clave": "190020250",
+        "nombre": "El Quemado"
+    },
+    {
+        "clave": "190020251",
+        "nombre": "El Quemado"
+    },
+    {
+        "clave": "190020252",
+        "nombre": "La Rosita"
+    },
+    {
+        "clave": "190020253",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190020254",
+        "nombre": "El Calvario"
+    },
+    {
+        "clave": "190020255",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "190020256",
+        "nombre": "Luis Lauro Ayala (El Meladito)"
+    },
+    {
+        "clave": "190020257",
+        "nombre": "Rancho Cadena (Jesús Lozano)"
+    },
+    {
+        "clave": "190020258",
+        "nombre": "La Rosita"
+    },
+    {
+        "clave": "190020259",
+        "nombre": "Agualeguas"
+    },
+    {
+        "clave": "190020260",
+        "nombre": "Agualeguas"
+    },
+    {
+        "clave": "190020261",
+        "nombre": "Agualeguas"
+    },
+    {
+        "clave": "190020262",
+        "nombre": "Agualeguas"
+    },
+    {
+        "clave": "190020263",
+        "nombre": "Agualeguas"
+    },
+    {
+        "clave": "190020264",
+        "nombre": "Agualeguas"
+    },
+    {
+        "clave": "190020265",
+        "nombre": "La Pau"
+    },
+    {
+        "clave": "190020266",
+        "nombre": "Don Jesús"
+    },
+    {
+        "clave": "190020267",
+        "nombre": "Ciriaco González"
+    },
+    {
+        "clave": "190020268",
+        "nombre": "Maximiano Gutiérrez"
+    },
+    {
+        "clave": "190020269",
+        "nombre": "Arroyo las Alazanas [Pedrera]"
+    },
+    {
+        "clave": "190020270",
+        "nombre": "José Luis Mayo"
+    },
+    {
+        "clave": "190020271",
+        "nombre": "Antonio García"
+    },
+    {
+        "clave": "190020272",
+        "nombre": "Los Lirios"
+    },
+    {
+        "clave": "190020273",
+        "nombre": "Rubén Cantú"
+    },
+    {
+        "clave": "190020274",
+        "nombre": "Agualeguas"
+    },
+    {
+        "clave": "190020275",
+        "nombre": "Reynaldo Canales"
+    },
+    {
+        "clave": "190020276",
+        "nombre": "José Guadalupe"
+    },
+    {
+        "clave": "190020277",
+        "nombre": "Agualeguas [Aeropuerto Regional]"
+    },
+    {
+        "clave": "190020278",
+        "nombre": "Neo"
+    },
+    {
+        "clave": "190020279",
+        "nombre": "La Amistad"
+    },
+    {
+        "clave": "190020280",
+        "nombre": "Parque Recreativo el Nogalar"
+    },
+    {
+        "clave": "190020281",
+        "nombre": "Los Encinitos"
+    },
+    {
+        "clave": "190020282",
+        "nombre": "El Tironeo Uno"
+    },
+    {
+        "clave": "190020283",
+        "nombre": "El Abuelo"
+    },
+    {
+        "clave": "190020284",
+        "nombre": "Los Girasoles"
+    },
+    {
+        "clave": "190020285",
+        "nombre": "La Gotera"
+    },
+    {
+        "clave": "190020286",
+        "nombre": "Juan Reyna"
+    },
+    {
+        "clave": "190020287",
+        "nombre": "Loma de Enmedio"
+    },
+    {
+        "clave": "190020288",
+        "nombre": "María Vela (El Bolillo)"
+    },
+    {
+        "clave": "190020289",
+        "nombre": "Los Mogotes Tres"
+    },
+    {
+        "clave": "190020290",
+        "nombre": "Rancho Dionisio"
+    },
+    {
+        "clave": "190020291",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190020292",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "190020293",
+        "nombre": "La Retama"
+    },
+    {
+        "clave": "190020294",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "190020295",
+        "nombre": "Vicente Canales"
+    },
+    {
+        "clave": "190020296",
+        "nombre": "El Chapeño"
+    },
+    {
+        "clave": "190020297",
+        "nombre": "Dermy"
+    },
+    {
+        "clave": "190020298",
+        "nombre": "Los Dos Papalotes"
+    },
+    {
+        "clave": "190020300",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190020302",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190020303",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190020304",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190020305",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "190020307",
+        "nombre": "San José (La Principala)"
+    }
+]

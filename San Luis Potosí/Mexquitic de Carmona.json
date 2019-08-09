@@ -1,0 +1,522 @@
+[
+    {
+        "clave": "240210064",
+        "nombre": "Rivera"
+    },
+    {
+        "clave": "240210076",
+        "nombre": "Temaxcalillo"
+    },
+    {
+        "clave": "240210126",
+        "nombre": "Tanque Grande (Las Mesas)"
+    },
+    {
+        "clave": "240210139",
+        "nombre": "La Matanza"
+    },
+    {
+        "clave": "240210002",
+        "nombre": "Agua Prieta"
+    },
+    {
+        "clave": "240210003",
+        "nombre": "Agua Señora"
+    },
+    {
+        "clave": "240210004",
+        "nombre": "El Arbolito"
+    },
+    {
+        "clave": "240210005",
+        "nombre": "Barbecho"
+    },
+    {
+        "clave": "240210007",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "240210008",
+        "nombre": "La Cabra"
+    },
+    {
+        "clave": "240210009",
+        "nombre": "La Campana"
+    },
+    {
+        "clave": "240210010",
+        "nombre": "Cañada Grande"
+    },
+    {
+        "clave": "240210013",
+        "nombre": "Cenicera"
+    },
+    {
+        "clave": "240210014",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "240210016",
+        "nombre": "Cerrito de Maravillas"
+    },
+    {
+        "clave": "240210017",
+        "nombre": "Cerro Prieto"
+    },
+    {
+        "clave": "240210018",
+        "nombre": "Colonia Álvaro Obregón"
+    },
+    {
+        "clave": "240210019",
+        "nombre": "Colonia Emiliano Zapata (El Chamizal)"
+    },
+    {
+        "clave": "240210020",
+        "nombre": "Ejido Miguel Hidalgo"
+    },
+    {
+        "clave": "240210022",
+        "nombre": "Contreras"
+    },
+    {
+        "clave": "240210024",
+        "nombre": "Comunidad de Corte Segundo"
+    },
+    {
+        "clave": "240210025",
+        "nombre": "Derramaderos"
+    },
+    {
+        "clave": "240210027",
+        "nombre": "Ranchería de Guadalupe"
+    },
+    {
+        "clave": "240210028",
+        "nombre": "Colonia Guadalupes"
+    },
+    {
+        "clave": "240210029",
+        "nombre": "Guadalupe Victoria"
+    },
+    {
+        "clave": "240210031",
+        "nombre": "Huizachillos"
+    },
+    {
+        "clave": "240210032",
+        "nombre": "Ignacio Allende"
+    },
+    {
+        "clave": "240210036",
+        "nombre": "Los Jiménez"
+    },
+    {
+        "clave": "240210038",
+        "nombre": "Lagunillas"
+    },
+    {
+        "clave": "240210039",
+        "nombre": "Lechuguillas"
+    },
+    {
+        "clave": "240210045",
+        "nombre": "Matancillas"
+    },
+    {
+        "clave": "240210046",
+        "nombre": "Milpillas"
+    },
+    {
+        "clave": "240210049",
+        "nombre": "Las Moras"
+    },
+    {
+        "clave": "240210050",
+        "nombre": "Morelos"
+    },
+    {
+        "clave": "240210052",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "240210053",
+        "nombre": "Fracción Ojo de Pinto"
+    },
+    {
+        "clave": "240210054",
+        "nombre": "Ojo Zarco de Arista"
+    },
+    {
+        "clave": "240210055",
+        "nombre": "El Palmar Primero"
+    },
+    {
+        "clave": "240210056",
+        "nombre": "Palmar Segundo"
+    },
+    {
+        "clave": "240210058",
+        "nombre": "Paso Blanco"
+    },
+    {
+        "clave": "240210059",
+        "nombre": "La Presita"
+    },
+    {
+        "clave": "240210060",
+        "nombre": "Puerto de Providencia"
+    },
+    {
+        "clave": "240210061",
+        "nombre": "Los Retes"
+    },
+    {
+        "clave": "240210066",
+        "nombre": "Los Rodríguez"
+    },
+    {
+        "clave": "240210067",
+        "nombre": "Fracción Salitrera"
+    },
+    {
+        "clave": "240210069",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "240210070",
+        "nombre": "San Francisco (Lomas de San Francisco)"
+    },
+    {
+        "clave": "240210072",
+        "nombre": "San Pedro Ojo Zarco"
+    },
+    {
+        "clave": "240210073",
+        "nombre": "Suspiro Picacho"
+    },
+    {
+        "clave": "240210074",
+        "nombre": "Tanque Grande"
+    },
+    {
+        "clave": "240210075",
+        "nombre": "La Tapona"
+    },
+    {
+        "clave": "240210077",
+        "nombre": "El Tepozán"
+    },
+    {
+        "clave": "240210078",
+        "nombre": "Los Uribe"
+    },
+    {
+        "clave": "240210079",
+        "nombre": "Valle Umbroso"
+    },
+    {
+        "clave": "240210080",
+        "nombre": "Los Vázquez"
+    },
+    {
+        "clave": "240210081",
+        "nombre": "Venadito"
+    },
+    {
+        "clave": "240210083",
+        "nombre": "Estancita"
+    },
+    {
+        "clave": "240210084",
+        "nombre": "Los Coronado"
+    },
+    {
+        "clave": "240210085",
+        "nombre": "Los Hernández"
+    },
+    {
+        "clave": "240210086",
+        "nombre": "Jacalillos"
+    },
+    {
+        "clave": "240210087",
+        "nombre": "Los Rojas"
+    },
+    {
+        "clave": "240210088",
+        "nombre": "Los Vanegas"
+    },
+    {
+        "clave": "240210090",
+        "nombre": "Colonia Progreso"
+    },
+    {
+        "clave": "240210091",
+        "nombre": "Salitrillo"
+    },
+    {
+        "clave": "240210092",
+        "nombre": "Ejido Milpillas"
+    },
+    {
+        "clave": "240210093",
+        "nombre": "Rincón de San José"
+    },
+    {
+        "clave": "240210095",
+        "nombre": "Colonia Primero de Enero"
+    },
+    {
+        "clave": "240210104",
+        "nombre": "San Salvador"
+    },
+    {
+        "clave": "240210105",
+        "nombre": "Pollitos"
+    },
+    {
+        "clave": "240210107",
+        "nombre": "Cañaditas"
+    },
+    {
+        "clave": "240210111",
+        "nombre": "Las Mangas Dos"
+    },
+    {
+        "clave": "240210112",
+        "nombre": "El Olmo"
+    },
+    {
+        "clave": "240210115",
+        "nombre": "El Carrillo"
+    },
+    {
+        "clave": "240210116",
+        "nombre": "Los Órganos"
+    },
+    {
+        "clave": "240210117",
+        "nombre": "Colonia Molino del Carmen"
+    },
+    {
+        "clave": "240210118",
+        "nombre": "Los Pérez"
+    },
+    {
+        "clave": "240210122",
+        "nombre": "Ejido de Moras"
+    },
+    {
+        "clave": "240210124",
+        "nombre": "Cerrito de Estanzuela"
+    },
+    {
+        "clave": "240210125",
+        "nombre": "La Jacoba"
+    },
+    {
+        "clave": "240210127",
+        "nombre": "Puerta de Tinajuela"
+    },
+    {
+        "clave": "240210131",
+        "nombre": "Juan Manuel"
+    },
+    {
+        "clave": "240210135",
+        "nombre": "Los Puertecitos"
+    },
+    {
+        "clave": "240210137",
+        "nombre": "Tanque las Tortugas"
+    },
+    {
+        "clave": "240210141",
+        "nombre": "Cruces y Carmona"
+    },
+    {
+        "clave": "240210143",
+        "nombre": "Colonia Bellavista"
+    },
+    {
+        "clave": "240210144",
+        "nombre": "Román Hernández Jacobo"
+    },
+    {
+        "clave": "240210145",
+        "nombre": "Cañón de Ojo Zarco"
+    },
+    {
+        "clave": "240210001",
+        "nombre": "Mexquitic de Carmona"
+    },
+    {
+        "clave": "240210006",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "240210012",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "240210015",
+        "nombre": "Cerrito de Jaral"
+    },
+    {
+        "clave": "240210021",
+        "nombre": "La Colorada"
+    },
+    {
+        "clave": "240210023",
+        "nombre": "Comunidad Corte Primero"
+    },
+    {
+        "clave": "240210026",
+        "nombre": "Estanzuela"
+    },
+    {
+        "clave": "240210033",
+        "nombre": "Paisanos"
+    },
+    {
+        "clave": "240210035",
+        "nombre": "El Jaralito"
+    },
+    {
+        "clave": "240210037",
+        "nombre": "Estación Justino"
+    },
+    {
+        "clave": "240210041",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "240210042",
+        "nombre": "Los López"
+    },
+    {
+        "clave": "240210043",
+        "nombre": "El Llanito"
+    },
+    {
+        "clave": "240210044",
+        "nombre": "Maravillas"
+    },
+    {
+        "clave": "240210047",
+        "nombre": "Monte Obscuro"
+    },
+    {
+        "clave": "240210051",
+        "nombre": "Los Moreno"
+    },
+    {
+        "clave": "240210062",
+        "nombre": "Rincón del Porvenir"
+    },
+    {
+        "clave": "240210065",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "240210068",
+        "nombre": "Salitrillo"
+    },
+    {
+        "clave": "240210071",
+        "nombre": "San Marcos (San Marcos Carmona)"
+    },
+    {
+        "clave": "240210096",
+        "nombre": "Laguna del Pato"
+    },
+    {
+        "clave": "240210097",
+        "nombre": "La Cruz"
+    },
+    {
+        "clave": "240210098",
+        "nombre": "Puerta de en medio"
+    },
+    {
+        "clave": "240210099",
+        "nombre": "Tanque la Pintada"
+    },
+    {
+        "clave": "240210102",
+        "nombre": "Puerta Vieja"
+    },
+    {
+        "clave": "240210103",
+        "nombre": "El Bravo"
+    },
+    {
+        "clave": "240210114",
+        "nombre": "Iglesia del Desierto"
+    },
+    {
+        "clave": "240210119",
+        "nombre": "Colonia Orilla del Río"
+    },
+    {
+        "clave": "240210121",
+        "nombre": "La Playa"
+    },
+    {
+        "clave": "240210128",
+        "nombre": "Los Sánchez"
+    },
+    {
+        "clave": "240210129",
+        "nombre": "La Cueva"
+    },
+    {
+        "clave": "240210130",
+        "nombre": "Goteras"
+    },
+    {
+        "clave": "240210132",
+        "nombre": "La Loma de la Cruz"
+    },
+    {
+        "clave": "240210133",
+        "nombre": "La Placa"
+    },
+    {
+        "clave": "240210134",
+        "nombre": "Ejido los Rodríguez (Potrero el Chaparral)"
+    },
+    {
+        "clave": "240210136",
+        "nombre": "Mexquitic de Carmona (Juana Esquivel)"
+    },
+    {
+        "clave": "240210138",
+        "nombre": "El Entronque"
+    },
+    {
+        "clave": "240210140",
+        "nombre": "Mexquitic [Zoológico]"
+    },
+    {
+        "clave": "240210142",
+        "nombre": "Jarillas"
+    },
+    {
+        "clave": "240210146",
+        "nombre": "Mexquitic de Carmona (Jaime Pacheco Ramírez)"
+    },
+    {
+        "clave": "240210147",
+        "nombre": "La Cuenca"
+    },
+    {
+        "clave": "240210148",
+        "nombre": "Colonia el Llanito"
+    },
+    {
+        "clave": "240210149",
+        "nombre": "San Marcos Carmona"
+    }
+]

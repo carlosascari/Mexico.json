@@ -1,0 +1,742 @@
+[
+    {
+        "clave": "301780015",
+        "nombre": "Bodeguillas"
+    },
+    {
+        "clave": "301780016",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "301780031",
+        "nombre": "Consolación"
+    },
+    {
+        "clave": "301780032",
+        "nombre": "La Corriente"
+    },
+    {
+        "clave": "301780050",
+        "nombre": "Loma de Chumiapa"
+    },
+    {
+        "clave": "301780059",
+        "nombre": "Mata de Chile"
+    },
+    {
+        "clave": "301780082",
+        "nombre": "La Puente"
+    },
+    {
+        "clave": "301780087",
+        "nombre": "Ejido el Saladito"
+    },
+    {
+        "clave": "301780103",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "301780104",
+        "nombre": "Santa Rosalía"
+    },
+    {
+        "clave": "301780109",
+        "nombre": "Tierra Nueva (Ejido el Zapotal)"
+    },
+    {
+        "clave": "301780112",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "301780125",
+        "nombre": "Hacienda Vieja"
+    },
+    {
+        "clave": "301780136",
+        "nombre": "Playa de las Águilas (La Vuelta del Águila)"
+    },
+    {
+        "clave": "301780138",
+        "nombre": "El Zapotal (Puente)"
+    },
+    {
+        "clave": "301780147",
+        "nombre": "Los Jobos Altos (Sal Si Puedes)"
+    },
+    {
+        "clave": "301780181",
+        "nombre": "Las Canillas"
+    },
+    {
+        "clave": "301780187",
+        "nombre": "Cerro de la Gallarda"
+    },
+    {
+        "clave": "301780201",
+        "nombre": "El Jarocho (El Hatillo)"
+    },
+    {
+        "clave": "301780206",
+        "nombre": "Alicia Aguirre Rodríguez"
+    },
+    {
+        "clave": "301780208",
+        "nombre": "Chinalco"
+    },
+    {
+        "clave": "301780209",
+        "nombre": "El Ciruelo"
+    },
+    {
+        "clave": "301780215",
+        "nombre": "Laguna Verde"
+    },
+    {
+        "clave": "301780223",
+        "nombre": "Tres Bocas"
+    },
+    {
+        "clave": "301780004",
+        "nombre": "Las Amapolas"
+    },
+    {
+        "clave": "301780006",
+        "nombre": "Arroyo de la Barranca (Colonia los Cobos)"
+    },
+    {
+        "clave": "301780008",
+        "nombre": "La Barranca"
+    },
+    {
+        "clave": "301780009",
+        "nombre": "El Vergel (La Berenjena)"
+    },
+    {
+        "clave": "301780010",
+        "nombre": "Boca del Barco (Boca de San Juan)"
+    },
+    {
+        "clave": "301780013",
+        "nombre": "Boca de San Miguel"
+    },
+    {
+        "clave": "301780017",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "301780023",
+        "nombre": "La Carbonera"
+    },
+    {
+        "clave": "301780024",
+        "nombre": "Casas Viejas"
+    },
+    {
+        "clave": "301780028",
+        "nombre": "El Ciruelo"
+    },
+    {
+        "clave": "301780034",
+        "nombre": "Chapultepec (Chapultes)"
+    },
+    {
+        "clave": "301780036",
+        "nombre": "La Punta del Dormido"
+    },
+    {
+        "clave": "301780038",
+        "nombre": "El Espinal"
+    },
+    {
+        "clave": "301780041",
+        "nombre": "La Gallarda"
+    },
+    {
+        "clave": "301780045",
+        "nombre": "El Hornero (Francisco J. Moreno)"
+    },
+    {
+        "clave": "301780049",
+        "nombre": "El Limón (San José de Cházaro)"
+    },
+    {
+        "clave": "301780051",
+        "nombre": "La Magdalena"
+    },
+    {
+        "clave": "301780053",
+        "nombre": "Mano Perdida (La Nueva Reforma)"
+    },
+    {
+        "clave": "301780056",
+        "nombre": "El Marqués"
+    },
+    {
+        "clave": "301780065",
+        "nombre": "Mundo Nuevo"
+    },
+    {
+        "clave": "301780067",
+        "nombre": "El Nacaste"
+    },
+    {
+        "clave": "301780070",
+        "nombre": "Palma Sola"
+    },
+    {
+        "clave": "301780071",
+        "nombre": "Palo Alto (Barranca del Limón)"
+    },
+    {
+        "clave": "301780077",
+        "nombre": "Pérez y Jiménez"
+    },
+    {
+        "clave": "301780079",
+        "nombre": "Playa de la Gloria"
+    },
+    {
+        "clave": "301780080",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "301780084",
+        "nombre": "Remolino de Paván"
+    },
+    {
+        "clave": "301780085",
+        "nombre": "Remolino de Aguilera"
+    },
+    {
+        "clave": "301780088",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "301780089",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "301780094",
+        "nombre": "San José de Cházaro"
+    },
+    {
+        "clave": "301780095",
+        "nombre": "San Modesto"
+    },
+    {
+        "clave": "301780097",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "301780099",
+        "nombre": "San Ruperto"
+    },
+    {
+        "clave": "301780101",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "301780102",
+        "nombre": "Santa Julia"
+    },
+    {
+        "clave": "301780105",
+        "nombre": "Seis de Enero"
+    },
+    {
+        "clave": "301780107",
+        "nombre": "El Súchil Dos"
+    },
+    {
+        "clave": "301780113",
+        "nombre": "Los Zapotillos"
+    },
+    {
+        "clave": "301780114",
+        "nombre": "Los Amates"
+    },
+    {
+        "clave": "301780118",
+        "nombre": "Bugambilia"
+    },
+    {
+        "clave": "301780120",
+        "nombre": "La Candelaria"
+    },
+    {
+        "clave": "301780121",
+        "nombre": "La Cerquilla"
+    },
+    {
+        "clave": "301780124",
+        "nombre": "Nueva Era"
+    },
+    {
+        "clave": "301780129",
+        "nombre": "Linda Vista"
+    },
+    {
+        "clave": "301780134",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "301780137",
+        "nombre": "Playa Martínez"
+    },
+    {
+        "clave": "301780139",
+        "nombre": "San Jerónimo"
+    },
+    {
+        "clave": "301780149",
+        "nombre": "El Pájaro"
+    },
+    {
+        "clave": "301780155",
+        "nombre": "El Rincón de Gertrudis"
+    },
+    {
+        "clave": "301780156",
+        "nombre": "San Joaquín"
+    },
+    {
+        "clave": "301780161",
+        "nombre": "El Súchil Uno"
+    },
+    {
+        "clave": "301780164",
+        "nombre": "El Volantín"
+    },
+    {
+        "clave": "301780188",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "301780189",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "301780190",
+        "nombre": "La Patrona"
+    },
+    {
+        "clave": "301780204",
+        "nombre": "La Paz (Poblado Grupo la Paz)"
+    },
+    {
+        "clave": "301780207",
+        "nombre": "Boca de Martintela"
+    },
+    {
+        "clave": "301780217",
+        "nombre": "La Palmita"
+    },
+    {
+        "clave": "301780240",
+        "nombre": "San Mateo"
+    },
+    {
+        "clave": "301780243",
+        "nombre": "Vuelta de Piotitán"
+    },
+    {
+        "clave": "301780001",
+        "nombre": "Tlacotalpan"
+    },
+    {
+        "clave": "301780002",
+        "nombre": "Agotopal"
+    },
+    {
+        "clave": "301780005",
+        "nombre": "Antón Vicente"
+    },
+    {
+        "clave": "301780007",
+        "nombre": "Barranca de Limón"
+    },
+    {
+        "clave": "301780019",
+        "nombre": "La Calaverna"
+    },
+    {
+        "clave": "301780020",
+        "nombre": "La Caldera"
+    },
+    {
+        "clave": "301780021",
+        "nombre": "California"
+    },
+    {
+        "clave": "301780022",
+        "nombre": "La Candelaria"
+    },
+    {
+        "clave": "301780029",
+        "nombre": "La Cocina"
+    },
+    {
+        "clave": "301780030",
+        "nombre": "Los Cocos"
+    },
+    {
+        "clave": "301780033",
+        "nombre": "Cuajimalpa"
+    },
+    {
+        "clave": "301780035",
+        "nombre": "Doña Celia"
+    },
+    {
+        "clave": "301780037",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "301780039",
+        "nombre": "El Estero"
+    },
+    {
+        "clave": "301780040",
+        "nombre": "Fuente Bella"
+    },
+    {
+        "clave": "301780044",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "301780046",
+        "nombre": "El Hueso"
+    },
+    {
+        "clave": "301780048",
+        "nombre": "El Jobo"
+    },
+    {
+        "clave": "301780052",
+        "nombre": "El Maneadero"
+    },
+    {
+        "clave": "301780054",
+        "nombre": "María Elvira"
+    },
+    {
+        "clave": "301780055",
+        "nombre": "María Ofelia"
+    },
+    {
+        "clave": "301780057",
+        "nombre": "El Benusto (Mata Cabresto)"
+    },
+    {
+        "clave": "301780058",
+        "nombre": "Mata de Caña"
+    },
+    {
+        "clave": "301780062",
+        "nombre": "Melchor"
+    },
+    {
+        "clave": "301780063",
+        "nombre": "Milpero"
+    },
+    {
+        "clave": "301780064",
+        "nombre": "La Mulata"
+    },
+    {
+        "clave": "301780069",
+        "nombre": "Loma del Paité"
+    },
+    {
+        "clave": "301780074",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "301780076",
+        "nombre": "El Pepe"
+    },
+    {
+        "clave": "301780078",
+        "nombre": "El Piotitán"
+    },
+    {
+        "clave": "301780081",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "301780083",
+        "nombre": "La Quinta María"
+    },
+    {
+        "clave": "301780093",
+        "nombre": "San Joaquín"
+    },
+    {
+        "clave": "301780096",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "301780098",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "301780100",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "301780106",
+        "nombre": "Sombrerete"
+    },
+    {
+        "clave": "301780119",
+        "nombre": "Camarilla"
+    },
+    {
+        "clave": "301780128",
+        "nombre": "La Lechería"
+    },
+    {
+        "clave": "301780133",
+        "nombre": "La Morelos"
+    },
+    {
+        "clave": "301780140",
+        "nombre": "Boca de San Antonio"
+    },
+    {
+        "clave": "301780143",
+        "nombre": "Boca de Paredes"
+    },
+    {
+        "clave": "301780146",
+        "nombre": "La Galera"
+    },
+    {
+        "clave": "301780148",
+        "nombre": "Montepío"
+    },
+    {
+        "clave": "301780150",
+        "nombre": "La Paloma"
+    },
+    {
+        "clave": "301780151",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "301780152",
+        "nombre": "Tamos Aguilera"
+    },
+    {
+        "clave": "301780153",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "301780154",
+        "nombre": "Paván"
+    },
+    {
+        "clave": "301780157",
+        "nombre": "San Julián"
+    },
+    {
+        "clave": "301780162",
+        "nombre": "Tabaco"
+    },
+    {
+        "clave": "301780163",
+        "nombre": "Triana"
+    },
+    {
+        "clave": "301780165",
+        "nombre": "La Vuelta de San Mateo"
+    },
+    {
+        "clave": "301780171",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "301780172",
+        "nombre": "El Cable"
+    },
+    {
+        "clave": "301780174",
+        "nombre": "San Bernardino"
+    },
+    {
+        "clave": "301780175",
+        "nombre": "Las Conchas"
+    },
+    {
+        "clave": "301780177",
+        "nombre": "La Paciencia"
+    },
+    {
+        "clave": "301780178",
+        "nombre": "Lina Aguirre Pérez"
+    },
+    {
+        "clave": "301780179",
+        "nombre": "La Discordia"
+    },
+    {
+        "clave": "301780180",
+        "nombre": "Cerro de la Calaverna"
+    },
+    {
+        "clave": "301780182",
+        "nombre": "Cerro Grande"
+    },
+    {
+        "clave": "301780184",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "301780185",
+        "nombre": "El Calabozo"
+    },
+    {
+        "clave": "301780186",
+        "nombre": "Naolinco"
+    },
+    {
+        "clave": "301780191",
+        "nombre": "Boca de la Ciénega"
+    },
+    {
+        "clave": "301780192",
+        "nombre": "La Majagua"
+    },
+    {
+        "clave": "301780200",
+        "nombre": "San Rodrigo"
+    },
+    {
+        "clave": "301780203",
+        "nombre": "El Jobo"
+    },
+    {
+        "clave": "301780205",
+        "nombre": "El Bajo"
+    },
+    {
+        "clave": "301780210",
+        "nombre": "David Zamudio Mora"
+    },
+    {
+        "clave": "301780211",
+        "nombre": "La Escuincla"
+    },
+    {
+        "clave": "301780212",
+        "nombre": "Felipe Zamudio Mora"
+    },
+    {
+        "clave": "301780213",
+        "nombre": "San Francisco los Cocos (La Guadalupe)"
+    },
+    {
+        "clave": "301780214",
+        "nombre": "Isleta del Gavilán"
+    },
+    {
+        "clave": "301780216",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "301780218",
+        "nombre": "Samuel Zamudio Mora"
+    },
+    {
+        "clave": "301780219",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "301780220",
+        "nombre": "Santa Ana"
+    },
+    {
+        "clave": "301780221",
+        "nombre": "Boca del Sauce"
+    },
+    {
+        "clave": "301780222",
+        "nombre": "Tierra Nueva"
+    },
+    {
+        "clave": "301780224",
+        "nombre": "El Triunfo (Camarón)"
+    },
+    {
+        "clave": "301780226",
+        "nombre": "Buen País"
+    },
+    {
+        "clave": "301780227",
+        "nombre": "El Esterillo"
+    },
+    {
+        "clave": "301780228",
+        "nombre": "La Flecha"
+    },
+    {
+        "clave": "301780229",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "301780230",
+        "nombre": "Martín Delgado"
+    },
+    {
+        "clave": "301780231",
+        "nombre": "Los Mezquites"
+    },
+    {
+        "clave": "301780232",
+        "nombre": "Paraíso de la Silva"
+    },
+    {
+        "clave": "301780233",
+        "nombre": "La Playa"
+    },
+    {
+        "clave": "301780234",
+        "nombre": "Rancho Bonito (Casa Blanca)"
+    },
+    {
+        "clave": "301780235",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "301780236",
+        "nombre": "Rodolfo Muñoz Montalvo"
+    },
+    {
+        "clave": "301780237",
+        "nombre": "El Sacrificio"
+    },
+    {
+        "clave": "301780238",
+        "nombre": "San Bernardo (Camino Real)"
+    },
+    {
+        "clave": "301780239",
+        "nombre": "San Joaquín"
+    },
+    {
+        "clave": "301780241",
+        "nombre": "Santo Cristo"
+    },
+    {
+        "clave": "301780242",
+        "nombre": "La Vuelta de la Iguana"
+    },
+    {
+        "clave": "301780244",
+        "nombre": "San Francisco de los Cocos"
+    },
+    {
+        "clave": "301780245",
+        "nombre": "La Candelaria"
+    }
+]

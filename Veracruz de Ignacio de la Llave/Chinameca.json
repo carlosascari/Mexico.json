@@ -1,0 +1,578 @@
+[
+    {
+        "clave": "300590100",
+        "nombre": "Puente Chacalapa"
+    },
+    {
+        "clave": "300590106",
+        "nombre": "La Araña"
+    },
+    {
+        "clave": "300590113",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "300590122",
+        "nombre": "San José"
+    },
+    {
+        "clave": "300590138",
+        "nombre": "Valerio"
+    },
+    {
+        "clave": "300590142",
+        "nombre": "Los Mayos"
+    },
+    {
+        "clave": "300590206",
+        "nombre": "El Manantial [Centro de Población Agrícola y Ganadera]"
+    },
+    {
+        "clave": "300590002",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "300590004",
+        "nombre": "Ateponta"
+    },
+    {
+        "clave": "300590005",
+        "nombre": "Los Aztecas"
+    },
+    {
+        "clave": "300590010",
+        "nombre": "Los Cerritos"
+    },
+    {
+        "clave": "300590011",
+        "nombre": "Chacalapa"
+    },
+    {
+        "clave": "300590012",
+        "nombre": "El Chapopote"
+    },
+    {
+        "clave": "300590022",
+        "nombre": "Las Lomas Cerritos"
+    },
+    {
+        "clave": "300590031",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "300590033",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "300590036",
+        "nombre": "San José Tilapa"
+    },
+    {
+        "clave": "300590038",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "300590052",
+        "nombre": "Desviación Chapopote [Taller Viejo]"
+    },
+    {
+        "clave": "300590056",
+        "nombre": "La Calamita"
+    },
+    {
+        "clave": "300590061",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "300590067",
+        "nombre": "Salinas"
+    },
+    {
+        "clave": "300590092",
+        "nombre": "Agua Zarca"
+    },
+    {
+        "clave": "300590112",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "300590114",
+        "nombre": "El Marañón"
+    },
+    {
+        "clave": "300590116",
+        "nombre": "Kilómetro Catorce"
+    },
+    {
+        "clave": "300590121",
+        "nombre": "Las Lomas"
+    },
+    {
+        "clave": "300590140",
+        "nombre": "El Suspiro"
+    },
+    {
+        "clave": "300590159",
+        "nombre": "Camino a los Aztecas"
+    },
+    {
+        "clave": "300590184",
+        "nombre": "Alto Lucero"
+    },
+    {
+        "clave": "300590001",
+        "nombre": "Chinameca"
+    },
+    {
+        "clave": "300590008",
+        "nombre": "El Cafetal (La Gravera)"
+    },
+    {
+        "clave": "300590028",
+        "nombre": "El Nuevo Porvenir (El Papayal)"
+    },
+    {
+        "clave": "300590039",
+        "nombre": "Tres Reyes"
+    },
+    {
+        "clave": "300590043",
+        "nombre": "Zúñiga"
+    },
+    {
+        "clave": "300590044",
+        "nombre": "Las Palomas"
+    },
+    {
+        "clave": "300590045",
+        "nombre": "Kilómetro Dieciséis"
+    },
+    {
+        "clave": "300590046",
+        "nombre": "Las Golondrinas"
+    },
+    {
+        "clave": "300590047",
+        "nombre": "Bocatoma"
+    },
+    {
+        "clave": "300590048",
+        "nombre": "El Cascabel"
+    },
+    {
+        "clave": "300590049",
+        "nombre": "El Centavo"
+    },
+    {
+        "clave": "300590051",
+        "nombre": "Las Chinampas"
+    },
+    {
+        "clave": "300590053",
+        "nombre": "Finca San Ramón (Garduza)"
+    },
+    {
+        "clave": "300590055",
+        "nombre": "El Jaguar"
+    },
+    {
+        "clave": "300590057",
+        "nombre": "María Asunción"
+    },
+    {
+        "clave": "300590058",
+        "nombre": "El Maguey (Ernesto Betancourt)"
+    },
+    {
+        "clave": "300590060",
+        "nombre": "Mundo Nuevo"
+    },
+    {
+        "clave": "300590062",
+        "nombre": "Santa Rosa de Padua"
+    },
+    {
+        "clave": "300590064",
+        "nombre": "La Peseta"
+    },
+    {
+        "clave": "300590065",
+        "nombre": "Juan Aguilar"
+    },
+    {
+        "clave": "300590066",
+        "nombre": "El Retazo"
+    },
+    {
+        "clave": "300590068",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "300590069",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "300590070",
+        "nombre": "Monte Sabina"
+    },
+    {
+        "clave": "300590073",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "300590074",
+        "nombre": "Tilapa Viejo"
+    },
+    {
+        "clave": "300590075",
+        "nombre": "El Mangal (Totuapa)"
+    },
+    {
+        "clave": "300590076",
+        "nombre": "Tres Hermanos"
+    },
+    {
+        "clave": "300590083",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "300590086",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "300590087",
+        "nombre": "La Lagunilla"
+    },
+    {
+        "clave": "300590090",
+        "nombre": "Mundo Nuevo Dos"
+    },
+    {
+        "clave": "300590095",
+        "nombre": "Bulmaro Soto"
+    },
+    {
+        "clave": "300590098",
+        "nombre": "Cosme Zúñiga"
+    },
+    {
+        "clave": "300590102",
+        "nombre": "Los Cedros"
+    },
+    {
+        "clave": "300590105",
+        "nombre": "El Yoale"
+    },
+    {
+        "clave": "300590109",
+        "nombre": "Paraíso del Edén"
+    },
+    {
+        "clave": "300590111",
+        "nombre": "Santa Mónica"
+    },
+    {
+        "clave": "300590115",
+        "nombre": "La Aurora"
+    },
+    {
+        "clave": "300590117",
+        "nombre": "Desviación Coscapa"
+    },
+    {
+        "clave": "300590118",
+        "nombre": "El Chacalapa"
+    },
+    {
+        "clave": "300590120",
+        "nombre": "El Manantial"
+    },
+    {
+        "clave": "300590123",
+        "nombre": "El Canario"
+    },
+    {
+        "clave": "300590124",
+        "nombre": "Bartolo Vidal Hernández"
+    },
+    {
+        "clave": "300590128",
+        "nombre": "Expadinal (Diego Zúñiga)"
+    },
+    {
+        "clave": "300590133",
+        "nombre": "Rancho Bocatoma"
+    },
+    {
+        "clave": "300590134",
+        "nombre": "El Jícaro"
+    },
+    {
+        "clave": "300590135",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "300590137",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "300590139",
+        "nombre": "Orel"
+    },
+    {
+        "clave": "300590141",
+        "nombre": "Santos Corona"
+    },
+    {
+        "clave": "300590143",
+        "nombre": "Parada Ochinapa"
+    },
+    {
+        "clave": "300590144",
+        "nombre": "Las Amapolas (El Búfalo)"
+    },
+    {
+        "clave": "300590145",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "300590147",
+        "nombre": "Tío Casiano"
+    },
+    {
+        "clave": "300590149",
+        "nombre": "Gasteasoro Noval [Materiales]"
+    },
+    {
+        "clave": "300590151",
+        "nombre": "La Palma [Granja Avícola Olmeca]"
+    },
+    {
+        "clave": "300590152",
+        "nombre": "El Manantial"
+    },
+    {
+        "clave": "300590153",
+        "nombre": "Abraham Ramos"
+    },
+    {
+        "clave": "300590154",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "300590156",
+        "nombre": "La Bloquera"
+    },
+    {
+        "clave": "300590157",
+        "nombre": "Las Bugambilias"
+    },
+    {
+        "clave": "300590158",
+        "nombre": "Rancho Aldama"
+    },
+    {
+        "clave": "300590160",
+        "nombre": "Agua Fría [Centros Avícolas]"
+    },
+    {
+        "clave": "300590161",
+        "nombre": "Colonia la Sabana"
+    },
+    {
+        "clave": "300590162",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "300590163",
+        "nombre": "Cuevas Miranda"
+    },
+    {
+        "clave": "300590164",
+        "nombre": "Desviación Coscapa"
+    },
+    {
+        "clave": "300590165",
+        "nombre": "Chacalapa (Estación Tres FFCC)"
+    },
+    {
+        "clave": "300590166",
+        "nombre": "Framboyán"
+    },
+    {
+        "clave": "300590167",
+        "nombre": "Gravas del Sureste"
+    },
+    {
+        "clave": "300590168",
+        "nombre": "La Gravera Mundo Nuevo"
+    },
+    {
+        "clave": "300590169",
+        "nombre": "Kilómetro Diecisiete"
+    },
+    {
+        "clave": "300590170",
+        "nombre": "Kilómetro Diecisiete y Medio (Las Gardenias)"
+    },
+    {
+        "clave": "300590171",
+        "nombre": "Laguna Sauzal"
+    },
+    {
+        "clave": "300590172",
+        "nombre": "Los Limones (Los Pinos)"
+    },
+    {
+        "clave": "300590173",
+        "nombre": "Ochinapa"
+    },
+    {
+        "clave": "300590174",
+        "nombre": "Las Piedras"
+    },
+    {
+        "clave": "300590175",
+        "nombre": "Pozolapa (El Rompido)"
+    },
+    {
+        "clave": "300590176",
+        "nombre": "Enrique Jara Lemus"
+    },
+    {
+        "clave": "300590177",
+        "nombre": "Rancho LM"
+    },
+    {
+        "clave": "300590178",
+        "nombre": "Los Ñañitos"
+    },
+    {
+        "clave": "300590179",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "300590180",
+        "nombre": "El Salto"
+    },
+    {
+        "clave": "300590181",
+        "nombre": "Taurino Cervantes López"
+    },
+    {
+        "clave": "300590182",
+        "nombre": "La Libertad II"
+    },
+    {
+        "clave": "300590185",
+        "nombre": "Bartolo Rueda Hernández"
+    },
+    {
+        "clave": "300590186",
+        "nombre": "Bernardo Castro Rivera"
+    },
+    {
+        "clave": "300590187",
+        "nombre": "Crispín Vargas"
+    },
+    {
+        "clave": "300590188",
+        "nombre": "Dos Hermanos"
+    },
+    {
+        "clave": "300590189",
+        "nombre": "Emilio Tirado Morales"
+    },
+    {
+        "clave": "300590190",
+        "nombre": "Juan García"
+    },
+    {
+        "clave": "300590191",
+        "nombre": "El Mangal"
+    },
+    {
+        "clave": "300590192",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "300590193",
+        "nombre": "Odón Morales Cruz"
+    },
+    {
+        "clave": "300590194",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "300590195",
+        "nombre": "Agustín Bozada"
+    },
+    {
+        "clave": "300590196",
+        "nombre": "Martín Luria"
+    },
+    {
+        "clave": "300590197",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "300590198",
+        "nombre": "Las Amapolas"
+    },
+    {
+        "clave": "300590199",
+        "nombre": "Poblado Remembranza a Emiliano Zapata"
+    },
+    {
+        "clave": "300590200",
+        "nombre": "Los Camotes"
+    },
+    {
+        "clave": "300590201",
+        "nombre": "Los Jorges"
+    },
+    {
+        "clave": "300590202",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "300590203",
+        "nombre": "Los Manantiales"
+    },
+    {
+        "clave": "300590204",
+        "nombre": "María Conchita"
+    },
+    {
+        "clave": "300590205",
+        "nombre": "El Platanal"
+    },
+    {
+        "clave": "300590207",
+        "nombre": "El Trébol"
+    },
+    {
+        "clave": "300590208",
+        "nombre": "Fraccionamiento del Fonden (El Arenal)"
+    },
+    {
+        "clave": "300590209",
+        "nombre": "Las Tres Marías"
+    },
+    {
+        "clave": "300590210",
+        "nombre": "El Abuelo"
+    },
+    {
+        "clave": "300590211",
+        "nombre": "El Mangal (Leobardo Trujillo Cruz)"
+    },
+    {
+        "clave": "300590212",
+        "nombre": "Rancho Gelacio"
+    },
+    {
+        "clave": "300590213",
+        "nombre": "Don Candido"
+    }
+]

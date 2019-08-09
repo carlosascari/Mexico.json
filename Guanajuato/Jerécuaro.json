@@ -1,0 +1,790 @@
+[
+    {
+        "clave": "110190002",
+        "nombre": "El Agostadero"
+    },
+    {
+        "clave": "110190035",
+        "nombre": "La Joya de Puruagua"
+    },
+    {
+        "clave": "110190036",
+        "nombre": "El Juguete (La Presa del Ángel)"
+    },
+    {
+        "clave": "110190037",
+        "nombre": "Lagunilla de Agustinos"
+    },
+    {
+        "clave": "110190112",
+        "nombre": "La Cantera"
+    },
+    {
+        "clave": "110190150",
+        "nombre": "La Joya del Clarín"
+    },
+    {
+        "clave": "110190160",
+        "nombre": "El Puertecito"
+    },
+    {
+        "clave": "110190162",
+        "nombre": "Rancho de Nieves"
+    },
+    {
+        "clave": "110190205",
+        "nombre": "Los Llanos de San Lucas"
+    },
+    {
+        "clave": "110190216",
+        "nombre": "Rincón de San Isidro (Coyotera)"
+    },
+    {
+        "clave": "110190220",
+        "nombre": "La Soledad (El Siete)"
+    },
+    {
+        "clave": "110190231",
+        "nombre": "El Paderón (Potrero de Guadalupe)"
+    },
+    {
+        "clave": "110190003",
+        "nombre": "Altamira"
+    },
+    {
+        "clave": "110190004",
+        "nombre": "Arroyo Hondo del Fresno"
+    },
+    {
+        "clave": "110190006",
+        "nombre": "El Banco"
+    },
+    {
+        "clave": "110190007",
+        "nombre": "San Francisco Javier de la Barranca"
+    },
+    {
+        "clave": "110190008",
+        "nombre": "Benítez"
+    },
+    {
+        "clave": "110190009",
+        "nombre": "La Cajeta"
+    },
+    {
+        "clave": "110190010",
+        "nombre": "Candelas"
+    },
+    {
+        "clave": "110190011",
+        "nombre": "Canoas"
+    },
+    {
+        "clave": "110190012",
+        "nombre": "El Carrizo"
+    },
+    {
+        "clave": "110190013",
+        "nombre": "Casas Blancas"
+    },
+    {
+        "clave": "110190014",
+        "nombre": "La Ceja"
+    },
+    {
+        "clave": "110190015",
+        "nombre": "Cieneguilla de Alzati"
+    },
+    {
+        "clave": "110190016",
+        "nombre": "El Clarín"
+    },
+    {
+        "clave": "110190017",
+        "nombre": "Corrales de la Ordeña"
+    },
+    {
+        "clave": "110190018",
+        "nombre": "Las Crucitas"
+    },
+    {
+        "clave": "110190019",
+        "nombre": "El Cucurucho"
+    },
+    {
+        "clave": "110190020",
+        "nombre": "La Cueva (La Cueva de Puruagua)"
+    },
+    {
+        "clave": "110190022",
+        "nombre": "Chilarillo"
+    },
+    {
+        "clave": "110190023",
+        "nombre": "La Enredadora (El Jitomatal)"
+    },
+    {
+        "clave": "110190024",
+        "nombre": "La Esquina"
+    },
+    {
+        "clave": "110190025",
+        "nombre": "La Estancia (La Presa)"
+    },
+    {
+        "clave": "110190026",
+        "nombre": "Estanzuela de Razo"
+    },
+    {
+        "clave": "110190027",
+        "nombre": "Estanzuela de Romero"
+    },
+    {
+        "clave": "110190028",
+        "nombre": "La Finca"
+    },
+    {
+        "clave": "110190029",
+        "nombre": "El Fresno"
+    },
+    {
+        "clave": "110190030",
+        "nombre": "El Gatal"
+    },
+    {
+        "clave": "110190032",
+        "nombre": "El Huizache"
+    },
+    {
+        "clave": "110190033",
+        "nombre": "Jiménez"
+    },
+    {
+        "clave": "110190034",
+        "nombre": "La Joya de Sánchez"
+    },
+    {
+        "clave": "110190038",
+        "nombre": "Lagunilla de Puruagua"
+    },
+    {
+        "clave": "110190040",
+        "nombre": "Loma Blanca"
+    },
+    {
+        "clave": "110190041",
+        "nombre": "La Luz de Juárez"
+    },
+    {
+        "clave": "110190042",
+        "nombre": "La Luz de Peña"
+    },
+    {
+        "clave": "110190043",
+        "nombre": "Llanos de San Francisco"
+    },
+    {
+        "clave": "110190044",
+        "nombre": "Manzanares del Fresno"
+    },
+    {
+        "clave": "110190045",
+        "nombre": "La Mesa del Tepozán (Los Sánchez)"
+    },
+    {
+        "clave": "110190046",
+        "nombre": "La Mina"
+    },
+    {
+        "clave": "110190047",
+        "nombre": "La Mora del Capulín"
+    },
+    {
+        "clave": "110190048",
+        "nombre": "La Mora de Ruices"
+    },
+    {
+        "clave": "110190049",
+        "nombre": "Las Moras de Tacambarillo"
+    },
+    {
+        "clave": "110190051",
+        "nombre": "El Novillo"
+    },
+    {
+        "clave": "110190052",
+        "nombre": "Ojo de Agua de la Ordeña"
+    },
+    {
+        "clave": "110190053",
+        "nombre": "Ojo de Agua de Mendoza"
+    },
+    {
+        "clave": "110190054",
+        "nombre": "Ojo Seco"
+    },
+    {
+        "clave": "110190055",
+        "nombre": "Haciendita de la Ordeña"
+    },
+    {
+        "clave": "110190056",
+        "nombre": "Las Palmas (San Miguel de las Palmas)"
+    },
+    {
+        "clave": "110190057",
+        "nombre": "La Pastora"
+    },
+    {
+        "clave": "110190058",
+        "nombre": "Petemoro"
+    },
+    {
+        "clave": "110190059",
+        "nombre": "Piedras de Lumbre"
+    },
+    {
+        "clave": "110190060",
+        "nombre": "Las Pilas de la Salitrera"
+    },
+    {
+        "clave": "110190061",
+        "nombre": "Las Pilas de Puruagua"
+    },
+    {
+        "clave": "110190063",
+        "nombre": "Puerta del Sauz de Puruagua"
+    },
+    {
+        "clave": "110190064",
+        "nombre": "El Puerto de Sabanilla"
+    },
+    {
+        "clave": "110190065",
+        "nombre": "Puriantzícuaro"
+    },
+    {
+        "clave": "110190066",
+        "nombre": "Purísima de la Barranca (Rancho Nuevo)"
+    },
+    {
+        "clave": "110190067",
+        "nombre": "Purísima del Zapote"
+    },
+    {
+        "clave": "110190068",
+        "nombre": "Puruagua"
+    },
+    {
+        "clave": "110190069",
+        "nombre": "Puruagüita"
+    },
+    {
+        "clave": "110190071",
+        "nombre": "El Refugio (El Bordo Colorado)"
+    },
+    {
+        "clave": "110190072",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "110190073",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "110190074",
+        "nombre": "Los Ruices"
+    },
+    {
+        "clave": "110190077",
+        "nombre": "La Salitrera"
+    },
+    {
+        "clave": "110190078",
+        "nombre": "El Saltillo (La Hacienda)"
+    },
+    {
+        "clave": "110190079",
+        "nombre": "Salto de Peña"
+    },
+    {
+        "clave": "110190080",
+        "nombre": "San Antonio Corrales"
+    },
+    {
+        "clave": "110190081",
+        "nombre": "San Antonio de la Presa (El Fresno)"
+    },
+    {
+        "clave": "110190082",
+        "nombre": "San Antonio del Varal"
+    },
+    {
+        "clave": "110190084",
+        "nombre": "San Ignacio (San Ignacio Mártir)"
+    },
+    {
+        "clave": "110190086",
+        "nombre": "San José de Peña"
+    },
+    {
+        "clave": "110190087",
+        "nombre": "San Juan de Peña"
+    },
+    {
+        "clave": "110190088",
+        "nombre": "San Lucas"
+    },
+    {
+        "clave": "110190089",
+        "nombre": "San Miguel del Salto"
+    },
+    {
+        "clave": "110190090",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "110190091",
+        "nombre": "San Pedro de los Agustinos"
+    },
+    {
+        "clave": "110190093",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "110190094",
+        "nombre": "El Sarampión"
+    },
+    {
+        "clave": "110190096",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "110190097",
+        "nombre": "Tacambarillo"
+    },
+    {
+        "clave": "110190098",
+        "nombre": "Tejocote de Puriantzícuaro"
+    },
+    {
+        "clave": "110190100",
+        "nombre": "El Tepozán"
+    },
+    {
+        "clave": "110190101",
+        "nombre": "El Terrero"
+    },
+    {
+        "clave": "110190102",
+        "nombre": "Tierras Coloradas"
+    },
+    {
+        "clave": "110190103",
+        "nombre": "La Tomasa"
+    },
+    {
+        "clave": "110190104",
+        "nombre": "Vallecillo"
+    },
+    {
+        "clave": "110190105",
+        "nombre": "La Virgen"
+    },
+    {
+        "clave": "110190106",
+        "nombre": "La Viuda"
+    },
+    {
+        "clave": "110190107",
+        "nombre": "La Yerbabuena"
+    },
+    {
+        "clave": "110190108",
+        "nombre": "El Zapote del Salto"
+    },
+    {
+        "clave": "110190109",
+        "nombre": "Zatemaye"
+    },
+    {
+        "clave": "110190110",
+        "nombre": "Zomayo (La Tronera)"
+    },
+    {
+        "clave": "110190111",
+        "nombre": "El Arbolito"
+    },
+    {
+        "clave": "110190122",
+        "nombre": "Palos Colorados"
+    },
+    {
+        "clave": "110190123",
+        "nombre": "Las Pilas del Sauz de Peña"
+    },
+    {
+        "clave": "110190126",
+        "nombre": "Santa María (La Sanguijuela)"
+    },
+    {
+        "clave": "110190132",
+        "nombre": "Cerro Prieto Centro (Tierra Fría)"
+    },
+    {
+        "clave": "110190135",
+        "nombre": "El Saucito"
+    },
+    {
+        "clave": "110190136",
+        "nombre": "El Tanquecito"
+    },
+    {
+        "clave": "110190138",
+        "nombre": "Purísima de Cervantes"
+    },
+    {
+        "clave": "110190142",
+        "nombre": "Santa Teresa de Tacambarillo"
+    },
+    {
+        "clave": "110190145",
+        "nombre": "San Felipe de Jesús"
+    },
+    {
+        "clave": "110190147",
+        "nombre": "La Cantera"
+    },
+    {
+        "clave": "110190148",
+        "nombre": "Rancho de Guadalupe"
+    },
+    {
+        "clave": "110190152",
+        "nombre": "La Redonda"
+    },
+    {
+        "clave": "110190159",
+        "nombre": "Potrero de la Campana"
+    },
+    {
+        "clave": "110190161",
+        "nombre": "El Tejocote de Puruagua"
+    },
+    {
+        "clave": "110190164",
+        "nombre": "El Atorón"
+    },
+    {
+        "clave": "110190165",
+        "nombre": "La Poza"
+    },
+    {
+        "clave": "110190172",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "110190187",
+        "nombre": "Arroyo del Fresno"
+    },
+    {
+        "clave": "110190191",
+        "nombre": "Buenavista (La Piedad Buenavista)"
+    },
+    {
+        "clave": "110190195",
+        "nombre": "Cerrito de la Cruz"
+    },
+    {
+        "clave": "110190198",
+        "nombre": "La Cueva"
+    },
+    {
+        "clave": "110190204",
+        "nombre": "La Lagunita"
+    },
+    {
+        "clave": "110190206",
+        "nombre": "La Loma de la Naranjilla (El Chivato)"
+    },
+    {
+        "clave": "110190207",
+        "nombre": "La Loma (Las Tres Esquinas)"
+    },
+    {
+        "clave": "110190208",
+        "nombre": "Los Magueycitos (El Piloncillo)"
+    },
+    {
+        "clave": "110190214",
+        "nombre": "La Purísima"
+    },
+    {
+        "clave": "110190217",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "110190218",
+        "nombre": "Santa Teresa del Fresno"
+    },
+    {
+        "clave": "110190219",
+        "nombre": "La Sangradera (José Benítez Tinajero)"
+    },
+    {
+        "clave": "110190228",
+        "nombre": "El Cerrito (Las Palmas)"
+    },
+    {
+        "clave": "110190234",
+        "nombre": "Las Tinajitas"
+    },
+    {
+        "clave": "110190236",
+        "nombre": "El Padre"
+    },
+    {
+        "clave": "110190245",
+        "nombre": "La Cueva de San Isidro"
+    },
+    {
+        "clave": "110190249",
+        "nombre": "La Poza"
+    },
+    {
+        "clave": "110190250",
+        "nombre": "Ismael Soto"
+    },
+    {
+        "clave": "110190251",
+        "nombre": "Los Cerritos de San Juan"
+    },
+    {
+        "clave": "110190001",
+        "nombre": "Jerécuaro"
+    },
+    {
+        "clave": "110190005",
+        "nombre": "Arroyo Hondo de Puruagua"
+    },
+    {
+        "clave": "110190070",
+        "nombre": "Rancho Nuevo (Los Ruices)"
+    },
+    {
+        "clave": "110190075",
+        "nombre": "La Sabanilla (San José de la Sabanilla)"
+    },
+    {
+        "clave": "110190076",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "110190092",
+        "nombre": "Santa Isabel"
+    },
+    {
+        "clave": "110190124",
+        "nombre": "La Poza"
+    },
+    {
+        "clave": "110190127",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "110190133",
+        "nombre": "La Morita"
+    },
+    {
+        "clave": "110190139",
+        "nombre": "La Cuchilla"
+    },
+    {
+        "clave": "110190141",
+        "nombre": "Tepetates"
+    },
+    {
+        "clave": "110190154",
+        "nombre": "San Juan Viejo"
+    },
+    {
+        "clave": "110190163",
+        "nombre": "La Quebradora"
+    },
+    {
+        "clave": "110190166",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "110190168",
+        "nombre": "Las Joyas de Puriantzícuaro"
+    },
+    {
+        "clave": "110190170",
+        "nombre": "Garambullo"
+    },
+    {
+        "clave": "110190175",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "110190188",
+        "nombre": "San Antonio [Balneario]"
+    },
+    {
+        "clave": "110190189",
+        "nombre": "Los Barriles"
+    },
+    {
+        "clave": "110190190",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "110190194",
+        "nombre": "Las Cebollas"
+    },
+    {
+        "clave": "110190196",
+        "nombre": "Los Correa"
+    },
+    {
+        "clave": "110190199",
+        "nombre": "Los Duraznos"
+    },
+    {
+        "clave": "110190200",
+        "nombre": "Ebodio Sánchez Hernández"
+    },
+    {
+        "clave": "110190201",
+        "nombre": "La Estaquería"
+    },
+    {
+        "clave": "110190202",
+        "nombre": "Ninguno [Gasolinera]"
+    },
+    {
+        "clave": "110190203",
+        "nombre": "Los González"
+    },
+    {
+        "clave": "110190209",
+        "nombre": "Margarito Vega"
+    },
+    {
+        "clave": "110190211",
+        "nombre": "El Puertecito"
+    },
+    {
+        "clave": "110190212",
+        "nombre": "El Puerto"
+    },
+    {
+        "clave": "110190213",
+        "nombre": "El Purgatorio"
+    },
+    {
+        "clave": "110190215",
+        "nombre": "Rincón de la Esperanza"
+    },
+    {
+        "clave": "110190222",
+        "nombre": "Las Trojes de San Lucas"
+    },
+    {
+        "clave": "110190223",
+        "nombre": "Unión de Ejidos Artículo 27 Constitucional"
+    },
+    {
+        "clave": "110190225",
+        "nombre": "Petemoro [Centro Recreativo]"
+    },
+    {
+        "clave": "110190226",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "110190227",
+        "nombre": "El Bordito"
+    },
+    {
+        "clave": "110190229",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "110190230",
+        "nombre": "El Mezquital"
+    },
+    {
+        "clave": "110190232",
+        "nombre": "El Potrero de San Miguel"
+    },
+    {
+        "clave": "110190233",
+        "nombre": "Los Tepetates"
+    },
+    {
+        "clave": "110190235",
+        "nombre": "Salvador Jiménez Jaime"
+    },
+    {
+        "clave": "110190237",
+        "nombre": "Las Peñitas"
+    },
+    {
+        "clave": "110190238",
+        "nombre": "Los Laureles"
+    },
+    {
+        "clave": "110190239",
+        "nombre": "El Zapatero"
+    },
+    {
+        "clave": "110190240",
+        "nombre": "Rancho el Pozo"
+    },
+    {
+        "clave": "110190242",
+        "nombre": "El Socorro"
+    },
+    {
+        "clave": "110190243",
+        "nombre": "Ex-hacienda Zatemaye"
+    },
+    {
+        "clave": "110190244",
+        "nombre": "Lagunilla del Clarín"
+    },
+    {
+        "clave": "110190246",
+        "nombre": "Rancho el Potrero"
+    },
+    {
+        "clave": "110190247",
+        "nombre": "Rancho el Gran Chaparral"
+    },
+    {
+        "clave": "110190248",
+        "nombre": "La Lagunilla"
+    },
+    {
+        "clave": "110190252",
+        "nombre": "Rancho San José"
+    },
+    {
+        "clave": "110190253",
+        "nombre": "Potrero de Santa Teresa"
+    },
+    {
+        "clave": "110190254",
+        "nombre": "Rancho los Morales"
+    },
+    {
+        "clave": "110190255",
+        "nombre": "El Potrero Grande"
+    },
+    {
+        "clave": "110190256",
+        "nombre": "Santana"
+    }
+]

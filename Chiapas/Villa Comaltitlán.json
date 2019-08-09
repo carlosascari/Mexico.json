@@ -1,0 +1,698 @@
+[
+    {
+        "clave": "70710020",
+        "nombre": "La Flor Lote Dos"
+    },
+    {
+        "clave": "70710021",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "70710038",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "70710050",
+        "nombre": "Fracción la Unidad Número Dos"
+    },
+    {
+        "clave": "70710062",
+        "nombre": "Medio Camino"
+    },
+    {
+        "clave": "70710082",
+        "nombre": "El Trébol"
+    },
+    {
+        "clave": "70710088",
+        "nombre": "Cantón los Tocayos"
+    },
+    {
+        "clave": "70710128",
+        "nombre": "La Lima"
+    },
+    {
+        "clave": "70710131",
+        "nombre": "Quince de Junio"
+    },
+    {
+        "clave": "70710133",
+        "nombre": "El Cimbra"
+    },
+    {
+        "clave": "70710136",
+        "nombre": "California"
+    },
+    {
+        "clave": "70710162",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "70710167",
+        "nombre": "La Esperancita"
+    },
+    {
+        "clave": "70710178",
+        "nombre": "Monte Florido"
+    },
+    {
+        "clave": "70710201",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "70710203",
+        "nombre": "El Cayuco"
+    },
+    {
+        "clave": "70710219",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "70710231",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "70710001",
+        "nombre": "Villa Comaltitlán"
+    },
+    {
+        "clave": "70710002",
+        "nombre": "Vado Ancho"
+    },
+    {
+        "clave": "70710004",
+        "nombre": "Cantón Chalaca"
+    },
+    {
+        "clave": "70710006",
+        "nombre": "Nuevo Brasil"
+    },
+    {
+        "clave": "70710008",
+        "nombre": "Cantón las Brisas"
+    },
+    {
+        "clave": "70710009",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "70710016",
+        "nombre": "Emiliano Zapata (Los Cocos)"
+    },
+    {
+        "clave": "70710017",
+        "nombre": "La Flor Lote Uno"
+    },
+    {
+        "clave": "70710022",
+        "nombre": "Hidalgo"
+    },
+    {
+        "clave": "70710023",
+        "nombre": "Cantón Ignacio Zaragoza"
+    },
+    {
+        "clave": "70710026",
+        "nombre": "Manuel Ávila Camacho"
+    },
+    {
+        "clave": "70710027",
+        "nombre": "Monte Flor Abajo"
+    },
+    {
+        "clave": "70710028",
+        "nombre": "Monte Flor Arriba"
+    },
+    {
+        "clave": "70710030",
+        "nombre": "El Mulatal"
+    },
+    {
+        "clave": "70710031",
+        "nombre": "Santander (Buenos Aires)"
+    },
+    {
+        "clave": "70710032",
+        "nombre": "Cantón el Progreso"
+    },
+    {
+        "clave": "70710033",
+        "nombre": "Providencia"
+    },
+    {
+        "clave": "70710036",
+        "nombre": "Río Arriba Salvación"
+    },
+    {
+        "clave": "70710039",
+        "nombre": "Cantón Santa Cruz la Unión"
+    },
+    {
+        "clave": "70710041",
+        "nombre": "Santo Domingo Uno"
+    },
+    {
+        "clave": "70710042",
+        "nombre": "Teziutlán"
+    },
+    {
+        "clave": "70710043",
+        "nombre": "Unión Costa Rica"
+    },
+    {
+        "clave": "70710044",
+        "nombre": "Vicente Guerrero"
+    },
+    {
+        "clave": "70710045",
+        "nombre": "Zacualpa"
+    },
+    {
+        "clave": "70710046",
+        "nombre": "Barrio Nuevo (Guardianía)"
+    },
+    {
+        "clave": "70710049",
+        "nombre": "Fracción la Unidad Número Uno (Piedra Blanca)"
+    },
+    {
+        "clave": "70710053",
+        "nombre": "Xochicalco"
+    },
+    {
+        "clave": "70710054",
+        "nombre": "Unión Hermosillo"
+    },
+    {
+        "clave": "70710059",
+        "nombre": "El Escobo"
+    },
+    {
+        "clave": "70710063",
+        "nombre": "Cantón el Porvenir"
+    },
+    {
+        "clave": "70710065",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "70710076",
+        "nombre": "Zapaluta"
+    },
+    {
+        "clave": "70710085",
+        "nombre": "Las Murallas"
+    },
+    {
+        "clave": "70710087",
+        "nombre": "Cinco de Marzo (Santa Rosa)"
+    },
+    {
+        "clave": "70710101",
+        "nombre": "Libertad"
+    },
+    {
+        "clave": "70710102",
+        "nombre": "Miguel Hidalgo y Costilla (Santo Domingo Dos)"
+    },
+    {
+        "clave": "70710110",
+        "nombre": "Lindavista"
+    },
+    {
+        "clave": "70710116",
+        "nombre": "Los Laureles"
+    },
+    {
+        "clave": "70710120",
+        "nombre": "San José"
+    },
+    {
+        "clave": "70710134",
+        "nombre": "Las Calandrias"
+    },
+    {
+        "clave": "70710143",
+        "nombre": "Saltillito"
+    },
+    {
+        "clave": "70710156",
+        "nombre": "Guapinol"
+    },
+    {
+        "clave": "70710161",
+        "nombre": "Bruno Gómez (Acacia)"
+    },
+    {
+        "clave": "70710163",
+        "nombre": "El Campamento"
+    },
+    {
+        "clave": "70710164",
+        "nombre": "Chapingo"
+    },
+    {
+        "clave": "70710174",
+        "nombre": "El Jardín"
+    },
+    {
+        "clave": "70710180",
+        "nombre": "Poblado Xochicalco"
+    },
+    {
+        "clave": "70710189",
+        "nombre": "Siete Piedras"
+    },
+    {
+        "clave": "70710191",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "70710193",
+        "nombre": "Zapote Mocho"
+    },
+    {
+        "clave": "70710194",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "70710195",
+        "nombre": "Miguel Hidalgo"
+    },
+    {
+        "clave": "70710197",
+        "nombre": "Paxtal"
+    },
+    {
+        "clave": "70710198",
+        "nombre": "23 de Enero"
+    },
+    {
+        "clave": "70710202",
+        "nombre": "Doctor Francisco Rellero (Nuevo Milenio)"
+    },
+    {
+        "clave": "70710211",
+        "nombre": "Santa Elena (Teziutlán)"
+    },
+    {
+        "clave": "70710213",
+        "nombre": "Cantón Ignacio Zaragoza II"
+    },
+    {
+        "clave": "70710214",
+        "nombre": "El Recuerdo"
+    },
+    {
+        "clave": "70710220",
+        "nombre": "15 de Enero"
+    },
+    {
+        "clave": "70710221",
+        "nombre": "Altamira uno"
+    },
+    {
+        "clave": "70710230",
+        "nombre": "Rosario Malpaso"
+    },
+    {
+        "clave": "70710233",
+        "nombre": "Marcos López Hernández"
+    },
+    {
+        "clave": "70710234",
+        "nombre": "Nuevo Horizonte"
+    },
+    {
+        "clave": "70710235",
+        "nombre": "El Huapinol"
+    },
+    {
+        "clave": "70710003",
+        "nombre": "Don Olivio (Los Martínez)"
+    },
+    {
+        "clave": "70710011",
+        "nombre": "El Ciprés"
+    },
+    {
+        "clave": "70710012",
+        "nombre": "Córcega"
+    },
+    {
+        "clave": "70710013",
+        "nombre": "El Corralito"
+    },
+    {
+        "clave": "70710014",
+        "nombre": "El Chorro"
+    },
+    {
+        "clave": "70710018",
+        "nombre": "La Esmeralda"
+    },
+    {
+        "clave": "70710025",
+        "nombre": "Palma Técnica"
+    },
+    {
+        "clave": "70710037",
+        "nombre": "San Jacinto"
+    },
+    {
+        "clave": "70710060",
+        "nombre": "Los Carlos"
+    },
+    {
+        "clave": "70710061",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "70710079",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "70710080",
+        "nombre": "La Fortuna"
+    },
+    {
+        "clave": "70710081",
+        "nombre": "Las Conchitas"
+    },
+    {
+        "clave": "70710083",
+        "nombre": "Cantón Benito Juárez"
+    },
+    {
+        "clave": "70710084",
+        "nombre": "Guapinol"
+    },
+    {
+        "clave": "70710089",
+        "nombre": "El Recreo"
+    },
+    {
+        "clave": "70710090",
+        "nombre": "Socaire"
+    },
+    {
+        "clave": "70710093",
+        "nombre": "San José"
+    },
+    {
+        "clave": "70710095",
+        "nombre": "El Marfil"
+    },
+    {
+        "clave": "70710096",
+        "nombre": "California"
+    },
+    {
+        "clave": "70710098",
+        "nombre": "San Nicolás las Morenas"
+    },
+    {
+        "clave": "70710100",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "70710103",
+        "nombre": "Valle Verde"
+    },
+    {
+        "clave": "70710105",
+        "nombre": "El Jícaro"
+    },
+    {
+        "clave": "70710111",
+        "nombre": "San Jorge"
+    },
+    {
+        "clave": "70710112",
+        "nombre": "Piedra Partida"
+    },
+    {
+        "clave": "70710113",
+        "nombre": "Bugambilias"
+    },
+    {
+        "clave": "70710117",
+        "nombre": "Betania"
+    },
+    {
+        "clave": "70710119",
+        "nombre": "Santa Sofía"
+    },
+    {
+        "clave": "70710121",
+        "nombre": "Dos Arbolitos"
+    },
+    {
+        "clave": "70710122",
+        "nombre": "Los Girasoles"
+    },
+    {
+        "clave": "70710123",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "70710124",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "70710126",
+        "nombre": "El Escobo"
+    },
+    {
+        "clave": "70710127",
+        "nombre": "Agua Caliente"
+    },
+    {
+        "clave": "70710129",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "70710130",
+        "nombre": "La Chiripa"
+    },
+    {
+        "clave": "70710132",
+        "nombre": "El Cauca"
+    },
+    {
+        "clave": "70710137",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "70710138",
+        "nombre": "La Purísima"
+    },
+    {
+        "clave": "70710141",
+        "nombre": "La Lagunilla"
+    },
+    {
+        "clave": "70710144",
+        "nombre": "El Relicario"
+    },
+    {
+        "clave": "70710151",
+        "nombre": "La Negrita"
+    },
+    {
+        "clave": "70710158",
+        "nombre": "El Garzal"
+    },
+    {
+        "clave": "70710159",
+        "nombre": "Nueva Ampliación las Brisas"
+    },
+    {
+        "clave": "70710165",
+        "nombre": "La Chinita"
+    },
+    {
+        "clave": "70710166",
+        "nombre": "Seis Hermanos"
+    },
+    {
+        "clave": "70710168",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "70710169",
+        "nombre": "La Fortuna"
+    },
+    {
+        "clave": "70710170",
+        "nombre": "La Garrafa"
+    },
+    {
+        "clave": "70710171",
+        "nombre": "Grano de Oro"
+    },
+    {
+        "clave": "70710172",
+        "nombre": "Guadacanal"
+    },
+    {
+        "clave": "70710173",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "70710175",
+        "nombre": "San Francisco los Laureles"
+    },
+    {
+        "clave": "70710176",
+        "nombre": "Maragato"
+    },
+    {
+        "clave": "70710181",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "70710182",
+        "nombre": "El Relicario"
+    },
+    {
+        "clave": "70710183",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "70710184",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "70710185",
+        "nombre": "San José"
+    },
+    {
+        "clave": "70710186",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "70710187",
+        "nombre": "Santa Julia"
+    },
+    {
+        "clave": "70710188",
+        "nombre": "Santa Herlinda"
+    },
+    {
+        "clave": "70710190",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "70710192",
+        "nombre": "La Victoria"
+    },
+    {
+        "clave": "70710196",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "70710199",
+        "nombre": "El Castaño"
+    },
+    {
+        "clave": "70710200",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "70710204",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "70710205",
+        "nombre": "Marandú"
+    },
+    {
+        "clave": "70710206",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "70710207",
+        "nombre": "Rincón Vaquero"
+    },
+    {
+        "clave": "70710208",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "70710209",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "70710210",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "70710212",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "70710215",
+        "nombre": "Las Lluvias"
+    },
+    {
+        "clave": "70710216",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "70710217",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "70710218",
+        "nombre": "13 de Abril"
+    },
+    {
+        "clave": "70710222",
+        "nombre": "Tres Hermanas"
+    },
+    {
+        "clave": "70710223",
+        "nombre": "Las Amapolas"
+    },
+    {
+        "clave": "70710224",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "70710225",
+        "nombre": "La Flor"
+    },
+    {
+        "clave": "70710226",
+        "nombre": "El Manantial"
+    },
+    {
+        "clave": "70710227",
+        "nombre": "Las Marías"
+    },
+    {
+        "clave": "70710228",
+        "nombre": "El Recuerdo"
+    },
+    {
+        "clave": "70710229",
+        "nombre": "El Recuerdo"
+    },
+    {
+        "clave": "70710232",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "70710236",
+        "nombre": "Cantón San Nicolás"
+    },
+    {
+        "clave": "70710237",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "70710238",
+        "nombre": "Santa Martha"
+    }
+]

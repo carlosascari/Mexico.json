@@ -1,0 +1,994 @@
+[
+    {
+        "clave": "240540014",
+        "nombre": "Cerro Quemado"
+    },
+    {
+        "clave": "240540020",
+        "nombre": "El Chalahuite"
+    },
+    {
+        "clave": "240540031",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "240540041",
+        "nombre": "La Palizada"
+    },
+    {
+        "clave": "240540054",
+        "nombre": "La Primavera"
+    },
+    {
+        "clave": "240540059",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "240540060",
+        "nombre": "Rincón de la Barranca"
+    },
+    {
+        "clave": "240540102",
+        "nombre": "Manteco"
+    },
+    {
+        "clave": "240540125",
+        "nombre": "Agua Fierro"
+    },
+    {
+        "clave": "240540126",
+        "nombre": "Agua de la Peña"
+    },
+    {
+        "clave": "240540131",
+        "nombre": "Rancho los Barbechos"
+    },
+    {
+        "clave": "240540143",
+        "nombre": "Joyita del Tres"
+    },
+    {
+        "clave": "240540163",
+        "nombre": "Quirámbaro"
+    },
+    {
+        "clave": "240540164",
+        "nombre": "Ranchito la Silleta"
+    },
+    {
+        "clave": "240540182",
+        "nombre": "El Cedral"
+    },
+    {
+        "clave": "240540193",
+        "nombre": "El Granado"
+    },
+    {
+        "clave": "240540199",
+        "nombre": "La Ladera"
+    },
+    {
+        "clave": "240540203",
+        "nombre": "Loma San Isidro"
+    },
+    {
+        "clave": "240540231",
+        "nombre": "Xocoyo"
+    },
+    {
+        "clave": "240540239",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "240540240",
+        "nombre": "Xiliátl"
+    },
+    {
+        "clave": "240540248",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "240540252",
+        "nombre": "La Curva"
+    },
+    {
+        "clave": "240540274",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "240540276",
+        "nombre": "Chupanátl"
+    },
+    {
+        "clave": "240540277",
+        "nombre": "Cucharájatl"
+    },
+    {
+        "clave": "240540281",
+        "nombre": "Las Adjuntas"
+    },
+    {
+        "clave": "240540002",
+        "nombre": "Ahuayo"
+    },
+    {
+        "clave": "240540003",
+        "nombre": "Ahuacatlán de Jesús"
+    },
+    {
+        "clave": "240540004",
+        "nombre": "Ahuehueyo"
+    },
+    {
+        "clave": "240540006",
+        "nombre": "Amayo de Zaragoza (Puerto de Amayo)"
+    },
+    {
+        "clave": "240540008",
+        "nombre": "Apetzco"
+    },
+    {
+        "clave": "240540009",
+        "nombre": "Arroyo Seco"
+    },
+    {
+        "clave": "240540010",
+        "nombre": "El Balcón"
+    },
+    {
+        "clave": "240540012",
+        "nombre": "Ixtacamel Buenos Aires"
+    },
+    {
+        "clave": "240540013",
+        "nombre": "El Cañón"
+    },
+    {
+        "clave": "240540016",
+        "nombre": "La Conchita"
+    },
+    {
+        "clave": "240540018",
+        "nombre": "Cruztitla"
+    },
+    {
+        "clave": "240540021",
+        "nombre": "Chichimixtitla"
+    },
+    {
+        "clave": "240540022",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "240540024",
+        "nombre": "Iztacapa"
+    },
+    {
+        "clave": "240540025",
+        "nombre": "Los Jarros (Ahuacatlán)"
+    },
+    {
+        "clave": "240540026",
+        "nombre": "El Jobo"
+    },
+    {
+        "clave": "240540028",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "240540030",
+        "nombre": "Las Joyas"
+    },
+    {
+        "clave": "240540032",
+        "nombre": "Ejido Peña Blanca Limontitla"
+    },
+    {
+        "clave": "240540035",
+        "nombre": "Miramar Viejo"
+    },
+    {
+        "clave": "240540036",
+        "nombre": "El Nacimiento"
+    },
+    {
+        "clave": "240540037",
+        "nombre": "El Naranjal (La Ceiba)"
+    },
+    {
+        "clave": "240540038",
+        "nombre": "Cuartillo Nuevo"
+    },
+    {
+        "clave": "240540039",
+        "nombre": "Ollita del Pino"
+    },
+    {
+        "clave": "240540040",
+        "nombre": "Otlaxhuayo"
+    },
+    {
+        "clave": "240540043",
+        "nombre": "Pemoxco"
+    },
+    {
+        "clave": "240540044",
+        "nombre": "Peña Blanca"
+    },
+    {
+        "clave": "240540045",
+        "nombre": "Petatillo"
+    },
+    {
+        "clave": "240540046",
+        "nombre": "Pilateno"
+    },
+    {
+        "clave": "240540047",
+        "nombre": "Pitzóatl"
+    },
+    {
+        "clave": "240540049",
+        "nombre": "Plan de Juárez"
+    },
+    {
+        "clave": "240540050",
+        "nombre": "Huachichila (Barrio los Pocitos)"
+    },
+    {
+        "clave": "240540051",
+        "nombre": "Los Pocitos"
+    },
+    {
+        "clave": "240540052",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "240540053",
+        "nombre": "Poxtla (La Empresa)"
+    },
+    {
+        "clave": "240540055",
+        "nombre": "Puerto de Belén"
+    },
+    {
+        "clave": "240540056",
+        "nombre": "Puerto de la Victoria"
+    },
+    {
+        "clave": "240540057",
+        "nombre": "Quilicalco"
+    },
+    {
+        "clave": "240540058",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "240540062",
+        "nombre": "El Sabino"
+    },
+    {
+        "clave": "240540063",
+        "nombre": "San Antonio Huitzquilico (Barrio Centro)"
+    },
+    {
+        "clave": "240540065",
+        "nombre": "San Antonio Xalcuayo Dos"
+    },
+    {
+        "clave": "240540066",
+        "nombre": "San Pedro Huitzquilico"
+    },
+    {
+        "clave": "240540067",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "240540069",
+        "nombre": "Sierra Chiquita"
+    },
+    {
+        "clave": "240540070",
+        "nombre": "Sierra Mojada"
+    },
+    {
+        "clave": "240540071",
+        "nombre": "La Silleta"
+    },
+    {
+        "clave": "240540073",
+        "nombre": "Soledad de Zaragoza"
+    },
+    {
+        "clave": "240540074",
+        "nombre": "Suchiayo"
+    },
+    {
+        "clave": "240540075",
+        "nombre": "Tepetzintla"
+    },
+    {
+        "clave": "240540076",
+        "nombre": "Tierra Blanca Fracción"
+    },
+    {
+        "clave": "240540077",
+        "nombre": "Tierra Blanca Ejido"
+    },
+    {
+        "clave": "240540078",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "240540079",
+        "nombre": "Tlacuapa (Temascal)"
+    },
+    {
+        "clave": "240540080",
+        "nombre": "Puerto Tlaletla"
+    },
+    {
+        "clave": "240540082",
+        "nombre": "Tlamimil"
+    },
+    {
+        "clave": "240540083",
+        "nombre": "Tres Pozos"
+    },
+    {
+        "clave": "240540084",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "240540085",
+        "nombre": "La Victoria"
+    },
+    {
+        "clave": "240540086",
+        "nombre": "Ejido Xilitlilla"
+    },
+    {
+        "clave": "240540087",
+        "nombre": "Xiloxochico (El Chico)"
+    },
+    {
+        "clave": "240540088",
+        "nombre": "Zacatipa"
+    },
+    {
+        "clave": "240540089",
+        "nombre": "Zapuyo"
+    },
+    {
+        "clave": "240540098",
+        "nombre": "Agua Puerca"
+    },
+    {
+        "clave": "240540103",
+        "nombre": "La Barranca"
+    },
+    {
+        "clave": "240540105",
+        "nombre": "Tlahuilapa"
+    },
+    {
+        "clave": "240540106",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "240540107",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "240540108",
+        "nombre": "El Túnel"
+    },
+    {
+        "clave": "240540109",
+        "nombre": "Los Pemoches (Puerto Rico)"
+    },
+    {
+        "clave": "240540110",
+        "nombre": "El Mamey"
+    },
+    {
+        "clave": "240540111",
+        "nombre": "Las Crucitas"
+    },
+    {
+        "clave": "240540112",
+        "nombre": "Uxtuapan"
+    },
+    {
+        "clave": "240540114",
+        "nombre": "La Escalera"
+    },
+    {
+        "clave": "240540117",
+        "nombre": "La Florida"
+    },
+    {
+        "clave": "240540118",
+        "nombre": "Encinal Uno"
+    },
+    {
+        "clave": "240540119",
+        "nombre": "El Retén"
+    },
+    {
+        "clave": "240540120",
+        "nombre": "Tlapexmecayo"
+    },
+    {
+        "clave": "240540122",
+        "nombre": "Cuartillo Viejo"
+    },
+    {
+        "clave": "240540123",
+        "nombre": "Pilahuehueyo"
+    },
+    {
+        "clave": "240540127",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "240540128",
+        "nombre": "Las Arganas"
+    },
+    {
+        "clave": "240540130",
+        "nombre": "El Arrozal"
+    },
+    {
+        "clave": "240540132",
+        "nombre": "El Barrio"
+    },
+    {
+        "clave": "240540133",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "240540134",
+        "nombre": "El Corazón de María (El Campamento)"
+    },
+    {
+        "clave": "240540137",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "240540141",
+        "nombre": "Joya del Durazno"
+    },
+    {
+        "clave": "240540144",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "240540145",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "240540146",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "240540147",
+        "nombre": "Barrio San Isidro"
+    },
+    {
+        "clave": "240540148",
+        "nombre": "Manteyo"
+    },
+    {
+        "clave": "240540150",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "240540151",
+        "nombre": "La Mora"
+    },
+    {
+        "clave": "240540152",
+        "nombre": "Nuevo Miramar"
+    },
+    {
+        "clave": "240540153",
+        "nombre": "Paguayo"
+    },
+    {
+        "clave": "240540154",
+        "nombre": "La Palangana"
+    },
+    {
+        "clave": "240540155",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "240540156",
+        "nombre": "Petatillo"
+    },
+    {
+        "clave": "240540160",
+        "nombre": "Puerto las Flores"
+    },
+    {
+        "clave": "240540161",
+        "nombre": "Puerto Tres Cruces (San Antonio Xalcuayo Uno)"
+    },
+    {
+        "clave": "240540165",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "240540166",
+        "nombre": "Santa Anita"
+    },
+    {
+        "clave": "240540167",
+        "nombre": "Tenepanco"
+    },
+    {
+        "clave": "240540169",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "240540170",
+        "nombre": "Uhaxuco"
+    },
+    {
+        "clave": "240540171",
+        "nombre": "Uhaxuquito"
+    },
+    {
+        "clave": "240540172",
+        "nombre": "Villa de Guadalupe"
+    },
+    {
+        "clave": "240540173",
+        "nombre": "Xaltipa"
+    },
+    {
+        "clave": "240540174",
+        "nombre": "Xilitlilla"
+    },
+    {
+        "clave": "240540175",
+        "nombre": "Agua de Cuayo"
+    },
+    {
+        "clave": "240540176",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "240540178",
+        "nombre": "Cafetales"
+    },
+    {
+        "clave": "240540179",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "240540181",
+        "nombre": "Cerro Quebrado"
+    },
+    {
+        "clave": "240540183",
+        "nombre": "La Ciénaga"
+    },
+    {
+        "clave": "240540184",
+        "nombre": "Barrio de Cristo Rey (Apetzco)"
+    },
+    {
+        "clave": "240540185",
+        "nombre": "La Cueva"
+    },
+    {
+        "clave": "240540186",
+        "nombre": "La Cueva"
+    },
+    {
+        "clave": "240540187",
+        "nombre": "La Cuesta"
+    },
+    {
+        "clave": "240540189",
+        "nombre": "La Chaca"
+    },
+    {
+        "clave": "240540190",
+        "nombre": "El Encinal"
+    },
+    {
+        "clave": "240540192",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "240540194",
+        "nombre": "La Hacienda"
+    },
+    {
+        "clave": "240540197",
+        "nombre": "Los Jarros (Xilitlilla)"
+    },
+    {
+        "clave": "240540198",
+        "nombre": "La Joya de Tlaletla"
+    },
+    {
+        "clave": "240540200",
+        "nombre": "El Lagarto"
+    },
+    {
+        "clave": "240540201",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "240540202",
+        "nombre": "El Limoncito"
+    },
+    {
+        "clave": "240540205",
+        "nombre": "Manteco"
+    },
+    {
+        "clave": "240540206",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "240540207",
+        "nombre": "Moloxco"
+    },
+    {
+        "clave": "240540208",
+        "nombre": "El Naranjal Dos"
+    },
+    {
+        "clave": "240540209",
+        "nombre": "Los Otates"
+    },
+    {
+        "clave": "240540211",
+        "nombre": "Papatlal"
+    },
+    {
+        "clave": "240540212",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "240540215",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "240540216",
+        "nombre": "La Puerta de la Esperanza"
+    },
+    {
+        "clave": "240540217",
+        "nombre": "Puerto del Durazno"
+    },
+    {
+        "clave": "240540218",
+        "nombre": "Puerto Encinal"
+    },
+    {
+        "clave": "240540219",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "240540220",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "240540221",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "240540222",
+        "nombre": "El Rincón de Zacatipa"
+    },
+    {
+        "clave": "240540223",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "240540224",
+        "nombre": "Rincón la Joya"
+    },
+    {
+        "clave": "240540225",
+        "nombre": "San José"
+    },
+    {
+        "clave": "240540226",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "240540227",
+        "nombre": "La Targea"
+    },
+    {
+        "clave": "240540228",
+        "nombre": "Temascales"
+    },
+    {
+        "clave": "240540229",
+        "nombre": "Las Tiendas"
+    },
+    {
+        "clave": "240540230",
+        "nombre": "Tres Pozos (San Antonio Xalcuayo Uno)"
+    },
+    {
+        "clave": "240540232",
+        "nombre": "El Zancudo"
+    },
+    {
+        "clave": "240540235",
+        "nombre": "Cuáhuatl"
+    },
+    {
+        "clave": "240540245",
+        "nombre": "Barrio del Ajuate"
+    },
+    {
+        "clave": "240540246",
+        "nombre": "Barrio la Escuela"
+    },
+    {
+        "clave": "240540247",
+        "nombre": "Barrio San Pedro"
+    },
+    {
+        "clave": "240540249",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "240540251",
+        "nombre": "La Curva"
+    },
+    {
+        "clave": "240540253",
+        "nombre": "El Encino"
+    },
+    {
+        "clave": "240540254",
+        "nombre": "La Finca"
+    },
+    {
+        "clave": "240540258",
+        "nombre": "La Mojonera"
+    },
+    {
+        "clave": "240540262",
+        "nombre": "Pozo Tapado"
+    },
+    {
+        "clave": "240540263",
+        "nombre": "Puerto de la Joya del Durazno"
+    },
+    {
+        "clave": "240540265",
+        "nombre": "El Puerto de Potrerillos"
+    },
+    {
+        "clave": "240540267",
+        "nombre": "El Raizal"
+    },
+    {
+        "clave": "240540268",
+        "nombre": "Rincón de Paguayo"
+    },
+    {
+        "clave": "240540269",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "240540271",
+        "nombre": "Tecaya Uno"
+    },
+    {
+        "clave": "240540272",
+        "nombre": "Tierras Coloradas"
+    },
+    {
+        "clave": "240540273",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "240540279",
+        "nombre": "Tecaya Dos"
+    },
+    {
+        "clave": "240540280",
+        "nombre": "La Nueva Independencia"
+    },
+    {
+        "clave": "240540284",
+        "nombre": "Francisco I. Madero"
+    },
+    {
+        "clave": "240540285",
+        "nombre": "Tierra y Libertad"
+    },
+    {
+        "clave": "240540287",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "240540288",
+        "nombre": "Tlacuapa Primera Sección"
+    },
+    {
+        "clave": "240540001",
+        "nombre": "Xilitla"
+    },
+    {
+        "clave": "240540007",
+        "nombre": "Angostura"
+    },
+    {
+        "clave": "240540027",
+        "nombre": "La Joya del Paraíso"
+    },
+    {
+        "clave": "240540064",
+        "nombre": "La Curva (San Antonio Xalcuayo Uno)"
+    },
+    {
+        "clave": "240540068",
+        "nombre": "Santa Mónica"
+    },
+    {
+        "clave": "240540081",
+        "nombre": "Tlamaya"
+    },
+    {
+        "clave": "240540100",
+        "nombre": "Honduras"
+    },
+    {
+        "clave": "240540121",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "240540124",
+        "nombre": "Agua Buena"
+    },
+    {
+        "clave": "240540129",
+        "nombre": "El Jobo"
+    },
+    {
+        "clave": "240540136",
+        "nombre": "Los Cuisillos"
+    },
+    {
+        "clave": "240540138",
+        "nombre": "La Hacienda"
+    },
+    {
+        "clave": "240540140",
+        "nombre": "Joya del Agua"
+    },
+    {
+        "clave": "240540149",
+        "nombre": "La Mina"
+    },
+    {
+        "clave": "240540157",
+        "nombre": "La Planada"
+    },
+    {
+        "clave": "240540158",
+        "nombre": "Puerto Colorado"
+    },
+    {
+        "clave": "240540159",
+        "nombre": "Puerto la Minita (Tres Cruces)"
+    },
+    {
+        "clave": "240540177",
+        "nombre": "Los Cajones"
+    },
+    {
+        "clave": "240540180",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "240540191",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "240540195",
+        "nombre": "Hacienda de Suchiayo"
+    },
+    {
+        "clave": "240540196",
+        "nombre": "Hacienda de Huitzmolotitla"
+    },
+    {
+        "clave": "240540210",
+        "nombre": "La Pagua"
+    },
+    {
+        "clave": "240540213",
+        "nombre": "Plan de Amayo"
+    },
+    {
+        "clave": "240540233",
+        "nombre": "Los Sótanos"
+    },
+    {
+        "clave": "240540236",
+        "nombre": "El Tule"
+    },
+    {
+        "clave": "240540238",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "240540242",
+        "nombre": "Sorianito"
+    },
+    {
+        "clave": "240540243",
+        "nombre": "Agua Buenita"
+    },
+    {
+        "clave": "240540250",
+        "nombre": "Cerro del Jagüey"
+    },
+    {
+        "clave": "240540255",
+        "nombre": "El Jagüey Colorado"
+    },
+    {
+        "clave": "240540256",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "240540257",
+        "nombre": "Matlaltipa"
+    },
+    {
+        "clave": "240540259",
+        "nombre": "Los Almárcigos (El Molcajete)"
+    },
+    {
+        "clave": "240540260",
+        "nombre": "Plan de la Laja"
+    },
+    {
+        "clave": "240540261",
+        "nombre": "Las Pozas"
+    },
+    {
+        "clave": "240540264",
+        "nombre": "Puerto de la Laguna"
+    },
+    {
+        "clave": "240540266",
+        "nombre": "Puerto de San Juan"
+    },
+    {
+        "clave": "240540270",
+        "nombre": "Sierra Mojada (Roberto Martínez Andablo)"
+    },
+    {
+        "clave": "240540275",
+        "nombre": "El Bordo"
+    },
+    {
+        "clave": "240540278",
+        "nombre": "Plan Chico"
+    },
+    {
+        "clave": "240540282",
+        "nombre": "Rancho la Gloria"
+    },
+    {
+        "clave": "240540283",
+        "nombre": "Puerto de los Barrenos"
+    }
+]

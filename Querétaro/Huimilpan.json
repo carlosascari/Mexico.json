@@ -1,0 +1,610 @@
+[
+    {
+        "clave": "220080091",
+        "nombre": "Los Timoteo"
+    },
+    {
+        "clave": "220080002",
+        "nombre": "Apapátaro"
+    },
+    {
+        "clave": "220080004",
+        "nombre": "Los Bordos"
+    },
+    {
+        "clave": "220080006",
+        "nombre": "Huitrón"
+    },
+    {
+        "clave": "220080008",
+        "nombre": "Carranza (San Antonio)"
+    },
+    {
+        "clave": "220080010",
+        "nombre": "Los Cues"
+    },
+    {
+        "clave": "220080011",
+        "nombre": "La Cuesta"
+    },
+    {
+        "clave": "220080012",
+        "nombre": "El Fresno"
+    },
+    {
+        "clave": "220080013",
+        "nombre": "El Granjeno"
+    },
+    {
+        "clave": "220080014",
+        "nombre": "Guadalupe Primero"
+    },
+    {
+        "clave": "220080015",
+        "nombre": "La Haciendita"
+    },
+    {
+        "clave": "220080017",
+        "nombre": "Lagunillas"
+    },
+    {
+        "clave": "220080018",
+        "nombre": "El Milagro"
+    },
+    {
+        "clave": "220080019",
+        "nombre": "Las Monjas"
+    },
+    {
+        "clave": "220080020",
+        "nombre": "Nevería II"
+    },
+    {
+        "clave": "220080021",
+        "nombre": "La Noria"
+    },
+    {
+        "clave": "220080022",
+        "nombre": "Paniagua"
+    },
+    {
+        "clave": "220080023",
+        "nombre": "La Peña"
+    },
+    {
+        "clave": "220080024",
+        "nombre": "El Peral"
+    },
+    {
+        "clave": "220080026",
+        "nombre": "Puerta del Tepozán"
+    },
+    {
+        "clave": "220080028",
+        "nombre": "San Antonio la Galera"
+    },
+    {
+        "clave": "220080031",
+        "nombre": "San Pedrito"
+    },
+    {
+        "clave": "220080032",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "220080034",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "220080035",
+        "nombre": "Las Taponas"
+    },
+    {
+        "clave": "220080036",
+        "nombre": "San José Tepuzas"
+    },
+    {
+        "clave": "220080037",
+        "nombre": "El Vegil"
+    },
+    {
+        "clave": "220080038",
+        "nombre": "El Zorrillo (Santa Cruz)"
+    },
+    {
+        "clave": "220080040",
+        "nombre": "Guadalupe Segundo Fracción Tres"
+    },
+    {
+        "clave": "220080041",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "220080042",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "220080044",
+        "nombre": "Rancho la Cascada"
+    },
+    {
+        "clave": "220080045",
+        "nombre": "El Garruñal (San Felipe de Jesús)"
+    },
+    {
+        "clave": "220080049",
+        "nombre": "El Salto de la Cantera"
+    },
+    {
+        "clave": "220080052",
+        "nombre": "Pío XII"
+    },
+    {
+        "clave": "220080055",
+        "nombre": "La Mesita Lagunillas"
+    },
+    {
+        "clave": "220080077",
+        "nombre": "Rancho la Mora"
+    },
+    {
+        "clave": "220080083",
+        "nombre": "La Bomba"
+    },
+    {
+        "clave": "220080089",
+        "nombre": "Guadalupe Segundo Fracción Primera"
+    },
+    {
+        "clave": "220080092",
+        "nombre": "El Mogote"
+    },
+    {
+        "clave": "220080103",
+        "nombre": "Nuevo Apapátaro"
+    },
+    {
+        "clave": "220080125",
+        "nombre": "San Pedro Sector Norte"
+    },
+    {
+        "clave": "220080131",
+        "nombre": "Al Noreste de las Taponas"
+    },
+    {
+        "clave": "220080135",
+        "nombre": "La Ceja"
+    },
+    {
+        "clave": "220080138",
+        "nombre": "Los Corrales"
+    },
+    {
+        "clave": "220080142",
+        "nombre": "Sección Norte de Lagunillas"
+    },
+    {
+        "clave": "220080145",
+        "nombre": "El Centenario"
+    },
+    {
+        "clave": "220080001",
+        "nombre": "Huimilpan"
+    },
+    {
+        "clave": "220080003",
+        "nombre": "El Bimbalete"
+    },
+    {
+        "clave": "220080005",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "220080007",
+        "nombre": "Capula"
+    },
+    {
+        "clave": "220080009",
+        "nombre": "Ceja de Bravo"
+    },
+    {
+        "clave": "220080016",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "220080025",
+        "nombre": "Piedras Lisas"
+    },
+    {
+        "clave": "220080027",
+        "nombre": "El Salitrillo"
+    },
+    {
+        "clave": "220080029",
+        "nombre": "San Francisco (San Francisco Nevería)"
+    },
+    {
+        "clave": "220080030",
+        "nombre": "San Ignacio"
+    },
+    {
+        "clave": "220080033",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "220080043",
+        "nombre": "El Salto"
+    },
+    {
+        "clave": "220080046",
+        "nombre": "Guadalupe Segundo Fracción 2 (La Peña Colorada)"
+    },
+    {
+        "clave": "220080047",
+        "nombre": "La Presita (Palo Blanco)"
+    },
+    {
+        "clave": "220080050",
+        "nombre": "La Nueva Joya"
+    },
+    {
+        "clave": "220080051",
+        "nombre": "La Trasquila"
+    },
+    {
+        "clave": "220080053",
+        "nombre": "San Antonio del Puente"
+    },
+    {
+        "clave": "220080054",
+        "nombre": "Rancho el Patol"
+    },
+    {
+        "clave": "220080057",
+        "nombre": "Ex-hacienda San Antonio de la Galera"
+    },
+    {
+        "clave": "220080058",
+        "nombre": "Las Lupitas"
+    },
+    {
+        "clave": "220080059",
+        "nombre": "Rancho el Milagro"
+    },
+    {
+        "clave": "220080060",
+        "nombre": "Rancho el Salto"
+    },
+    {
+        "clave": "220080061",
+        "nombre": "Rancho Cerro de San Pedro"
+    },
+    {
+        "clave": "220080062",
+        "nombre": "Rancho el Cid"
+    },
+    {
+        "clave": "220080063",
+        "nombre": "El Paliacate"
+    },
+    {
+        "clave": "220080064",
+        "nombre": "Localidad Sin Nombre (Familia Ayala)"
+    },
+    {
+        "clave": "220080065",
+        "nombre": "Familia Durán"
+    },
+    {
+        "clave": "220080066",
+        "nombre": "El Saltito"
+    },
+    {
+        "clave": "220080067",
+        "nombre": "Localidad Sin Nombre (Hilario Olvera)"
+    },
+    {
+        "clave": "220080068",
+        "nombre": "La Ceja (José Luis Olvera)"
+    },
+    {
+        "clave": "220080069",
+        "nombre": "La Ceja (Zona Limítrofe)"
+    },
+    {
+        "clave": "220080070",
+        "nombre": "Granja Cruz de Mayo"
+    },
+    {
+        "clave": "220080071",
+        "nombre": "Ranchito los Niños"
+    },
+    {
+        "clave": "220080072",
+        "nombre": "Rancho el Lagartijero"
+    },
+    {
+        "clave": "220080073",
+        "nombre": "Familia Borja"
+    },
+    {
+        "clave": "220080074",
+        "nombre": "Localidad Sin Nombre (Familia Durán)"
+    },
+    {
+        "clave": "220080075",
+        "nombre": "Barrio de las Cruces"
+    },
+    {
+        "clave": "220080076",
+        "nombre": "Finca Nuestra Señora del Carmen"
+    },
+    {
+        "clave": "220080078",
+        "nombre": "Rancho Santa Teresa"
+    },
+    {
+        "clave": "220080079",
+        "nombre": "Localidad Sin Nombre"
+    },
+    {
+        "clave": "220080080",
+        "nombre": "La Tierra Blanca"
+    },
+    {
+        "clave": "220080081",
+        "nombre": "Ex-Hacienda la Galera (La Troje)"
+    },
+    {
+        "clave": "220080082",
+        "nombre": "La Dichosa Choza"
+    },
+    {
+        "clave": "220080084",
+        "nombre": "Las Bugambilias"
+    },
+    {
+        "clave": "220080085",
+        "nombre": "Rancho la Rana"
+    },
+    {
+        "clave": "220080086",
+        "nombre": "Localidad Sin Nombre (Familia González)"
+    },
+    {
+        "clave": "220080087",
+        "nombre": "Roberto de Alba [Granja]"
+    },
+    {
+        "clave": "220080088",
+        "nombre": "Granja el Mirador"
+    },
+    {
+        "clave": "220080090",
+        "nombre": "Avícola Gala"
+    },
+    {
+        "clave": "220080093",
+        "nombre": "Rancho el Milagro (El Llano)"
+    },
+    {
+        "clave": "220080094",
+        "nombre": "Rancho la Soledad"
+    },
+    {
+        "clave": "220080095",
+        "nombre": "Rancho Familia Tellez"
+    },
+    {
+        "clave": "220080096",
+        "nombre": "San Judas"
+    },
+    {
+        "clave": "220080097",
+        "nombre": "Cañada de la Virgen"
+    },
+    {
+        "clave": "220080098",
+        "nombre": "El Charco Prieto"
+    },
+    {
+        "clave": "220080099",
+        "nombre": "Rancho las Delicias"
+    },
+    {
+        "clave": "220080100",
+        "nombre": "Los Cabrera"
+    },
+    {
+        "clave": "220080101",
+        "nombre": "Rancho el Palomar"
+    },
+    {
+        "clave": "220080102",
+        "nombre": "La Meseta de las Abejas"
+    },
+    {
+        "clave": "220080104",
+        "nombre": "El Mitaño"
+    },
+    {
+        "clave": "220080105",
+        "nombre": "Rancho el Novillo"
+    },
+    {
+        "clave": "220080106",
+        "nombre": "Rancho el Pajarito"
+    },
+    {
+        "clave": "220080107",
+        "nombre": "Rancho El Salto"
+    },
+    {
+        "clave": "220080108",
+        "nombre": "Rancho La Alborada"
+    },
+    {
+        "clave": "220080109",
+        "nombre": "Rancho los Betos"
+    },
+    {
+        "clave": "220080110",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "220080111",
+        "nombre": "Los Arrayanes"
+    },
+    {
+        "clave": "220080112",
+        "nombre": "Banco de Material"
+    },
+    {
+        "clave": "220080113",
+        "nombre": "Los Peques"
+    },
+    {
+        "clave": "220080114",
+        "nombre": "El Cascabel (El Pozo)"
+    },
+    {
+        "clave": "220080116",
+        "nombre": "Cumbres del Cimatario"
+    },
+    {
+        "clave": "220080117",
+        "nombre": "Campestre Bosques del Sur [Fraccionamiento]"
+    },
+    {
+        "clave": "220080118",
+        "nombre": "Los González"
+    },
+    {
+        "clave": "220080119",
+        "nombre": "Nevería Sector Norte (Neverías los Martínez)"
+    },
+    {
+        "clave": "220080120",
+        "nombre": "Rancho New Holland"
+    },
+    {
+        "clave": "220080121",
+        "nombre": "Rancho los Martínez"
+    },
+    {
+        "clave": "220080122",
+        "nombre": "Rancho los Seis Amigos"
+    },
+    {
+        "clave": "220080123",
+        "nombre": "La Chicalota (Ganadería los Cues)"
+    },
+    {
+        "clave": "220080124",
+        "nombre": "El Riscal"
+    },
+    {
+        "clave": "220080126",
+        "nombre": "Familia Cornejo García"
+    },
+    {
+        "clave": "220080127",
+        "nombre": "Rancho los 3 Venados"
+    },
+    {
+        "clave": "220080128",
+        "nombre": "Mi Pequeño Ranchito"
+    },
+    {
+        "clave": "220080129",
+        "nombre": "La Carambada"
+    },
+    {
+        "clave": "220080130",
+        "nombre": "Casa de Campo (Don Mario)"
+    },
+    {
+        "clave": "220080132",
+        "nombre": "La Bomba"
+    },
+    {
+        "clave": "220080133",
+        "nombre": "La Magueyada"
+    },
+    {
+        "clave": "220080134",
+        "nombre": "Rancho la Montaña"
+    },
+    {
+        "clave": "220080136",
+        "nombre": "El Pequeño Ranchito del Señor de la Misericordia"
+    },
+    {
+        "clave": "220080137",
+        "nombre": "Rancho los Cuates"
+    },
+    {
+        "clave": "220080139",
+        "nombre": "Quinta Santiago"
+    },
+    {
+        "clave": "220080140",
+        "nombre": "Rancho Antonio Herrera"
+    },
+    {
+        "clave": "220080141",
+        "nombre": "Rancho el Pinturero"
+    },
+    {
+        "clave": "220080143",
+        "nombre": "La Ladera (Presa Nueva)"
+    },
+    {
+        "clave": "220080144",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "220080146",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "220080147",
+        "nombre": "Madre Tierra"
+    },
+    {
+        "clave": "220080148",
+        "nombre": "El Sueño [Granja]"
+    },
+    {
+        "clave": "220080149",
+        "nombre": "Familia Rincón Nava"
+    },
+    {
+        "clave": "220080150",
+        "nombre": "Finca Agua Prieta"
+    },
+    {
+        "clave": "220080151",
+        "nombre": "La Boquilla [Pozo Uno]"
+    },
+    {
+        "clave": "220080152",
+        "nombre": "La Terquedad"
+    },
+    {
+        "clave": "220080153",
+        "nombre": "Los Siete Venados"
+    },
+    {
+        "clave": "220080154",
+        "nombre": "Rancho el Alba"
+    },
+    {
+        "clave": "220080155",
+        "nombre": "Rancho Moral"
+    },
+    {
+        "clave": "220080156",
+        "nombre": "Rancho Santander"
+    }
+]

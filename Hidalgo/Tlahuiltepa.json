@@ -1,0 +1,554 @@
+[
+    {
+        "clave": "130710005",
+        "nombre": "Barrio de Guadalupe"
+    },
+    {
+        "clave": "130710009",
+        "nombre": "Cerro Chato"
+    },
+    {
+        "clave": "130710017",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "130710020",
+        "nombre": "Nuevo Reynosa (Cinco Palos)"
+    },
+    {
+        "clave": "130710022",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "130710026",
+        "nombre": "Santo Domingo"
+    },
+    {
+        "clave": "130710032",
+        "nombre": "Yerbabuena (El Puerto)"
+    },
+    {
+        "clave": "130710048",
+        "nombre": "Cerro Grande"
+    },
+    {
+        "clave": "130710053",
+        "nombre": "El Fresno"
+    },
+    {
+        "clave": "130710055",
+        "nombre": "El Fresno"
+    },
+    {
+        "clave": "130710056",
+        "nombre": "Cangui"
+    },
+    {
+        "clave": "130710062",
+        "nombre": "Xilitla"
+    },
+    {
+        "clave": "130710075",
+        "nombre": "Media Luna"
+    },
+    {
+        "clave": "130710089",
+        "nombre": "La Ventana"
+    },
+    {
+        "clave": "130710090",
+        "nombre": "Las Canoas (Vado Hondo)"
+    },
+    {
+        "clave": "130710092",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "130710100",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "130710101",
+        "nombre": "Barranca del Cerro del Águila (Barranca Seca)"
+    },
+    {
+        "clave": "130710102",
+        "nombre": "La Barranca (El Somerial)"
+    },
+    {
+        "clave": "130710111",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "130710119",
+        "nombre": "Manuel Cruz Barrera"
+    },
+    {
+        "clave": "130710123",
+        "nombre": "Rancho de la Loma"
+    },
+    {
+        "clave": "130710003",
+        "nombre": "Agua del Cuervo"
+    },
+    {
+        "clave": "130710004",
+        "nombre": "Agua Tapada"
+    },
+    {
+        "clave": "130710006",
+        "nombre": "Boca de León"
+    },
+    {
+        "clave": "130710007",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "130710008",
+        "nombre": "Camarones"
+    },
+    {
+        "clave": "130710010",
+        "nombre": "Cerro del Águila"
+    },
+    {
+        "clave": "130710011",
+        "nombre": "La Concordia"
+    },
+    {
+        "clave": "130710012",
+        "nombre": "Coyocala"
+    },
+    {
+        "clave": "130710013",
+        "nombre": "Chichicaxtla"
+    },
+    {
+        "clave": "130710014",
+        "nombre": "Dominí"
+    },
+    {
+        "clave": "130710015",
+        "nombre": "Profesor Raciel Salcedo Rangel (El Duraznito)"
+    },
+    {
+        "clave": "130710016",
+        "nombre": "Itztamichapa"
+    },
+    {
+        "clave": "130710018",
+        "nombre": "Las Manzanas"
+    },
+    {
+        "clave": "130710019",
+        "nombre": "Nuevo Morelos"
+    },
+    {
+        "clave": "130710021",
+        "nombre": "Palo Perdido"
+    },
+    {
+        "clave": "130710024",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "130710025",
+        "nombre": "Santiago"
+    },
+    {
+        "clave": "130710027",
+        "nombre": "Tlaxcantitla"
+    },
+    {
+        "clave": "130710028",
+        "nombre": "Tolantongo"
+    },
+    {
+        "clave": "130710029",
+        "nombre": "El Venado"
+    },
+    {
+        "clave": "130710030",
+        "nombre": "Xilocuatitla (El Puerto de Xilocuatitla)"
+    },
+    {
+        "clave": "130710033",
+        "nombre": "Zaragoza"
+    },
+    {
+        "clave": "130710034",
+        "nombre": "El Ocotal"
+    },
+    {
+        "clave": "130710036",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "130710037",
+        "nombre": "Nuevo Monterrey"
+    },
+    {
+        "clave": "130710038",
+        "nombre": "El Palmar"
+    },
+    {
+        "clave": "130710040",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "130710041",
+        "nombre": "Xiopa"
+    },
+    {
+        "clave": "130710046",
+        "nombre": "El Somerial"
+    },
+    {
+        "clave": "130710049",
+        "nombre": "Los Tigres"
+    },
+    {
+        "clave": "130710054",
+        "nombre": "Agua Grande"
+    },
+    {
+        "clave": "130710057",
+        "nombre": "Amajac (La Maroma)"
+    },
+    {
+        "clave": "130710058",
+        "nombre": "El Aviadero"
+    },
+    {
+        "clave": "130710060",
+        "nombre": "Agua Zarca"
+    },
+    {
+        "clave": "130710061",
+        "nombre": "La Yesca"
+    },
+    {
+        "clave": "130710063",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "130710066",
+        "nombre": "Calderones"
+    },
+    {
+        "clave": "130710067",
+        "nombre": "Demañi"
+    },
+    {
+        "clave": "130710068",
+        "nombre": "El Dominí"
+    },
+    {
+        "clave": "130710069",
+        "nombre": "El Duraznito"
+    },
+    {
+        "clave": "130710073",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "130710078",
+        "nombre": "La Nueva Era"
+    },
+    {
+        "clave": "130710079",
+        "nombre": "Nuevo Zacatlán (El Zacate)"
+    },
+    {
+        "clave": "130710080",
+        "nombre": "El Orégano"
+    },
+    {
+        "clave": "130710081",
+        "nombre": "Piedra Parada"
+    },
+    {
+        "clave": "130710083",
+        "nombre": "La Rinconada"
+    },
+    {
+        "clave": "130710084",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "130710094",
+        "nombre": "Lindavista"
+    },
+    {
+        "clave": "130710095",
+        "nombre": "San Jerónimo"
+    },
+    {
+        "clave": "130710097",
+        "nombre": "Xuchiatipa"
+    },
+    {
+        "clave": "130710098",
+        "nombre": "El Tejocote"
+    },
+    {
+        "clave": "130710099",
+        "nombre": "El Zancudo"
+    },
+    {
+        "clave": "130710110",
+        "nombre": "El Conizal"
+    },
+    {
+        "clave": "130710113",
+        "nombre": "El Garabato"
+    },
+    {
+        "clave": "130710116",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "130710120",
+        "nombre": "Las Manzanitas"
+    },
+    {
+        "clave": "130710121",
+        "nombre": "El Encinalito"
+    },
+    {
+        "clave": "130710125",
+        "nombre": "El Palmillar"
+    },
+    {
+        "clave": "130710139",
+        "nombre": "El Embocadero"
+    },
+    {
+        "clave": "130710140",
+        "nombre": "Piedra Colorada"
+    },
+    {
+        "clave": "130710142",
+        "nombre": "Barrio el Mirador (La Capilla)"
+    },
+    {
+        "clave": "130710001",
+        "nombre": "Tlahuiltepa"
+    },
+    {
+        "clave": "130710002",
+        "nombre": "Acapa (Santiago Acapa)"
+    },
+    {
+        "clave": "130710023",
+        "nombre": "San Andrés Miraflores"
+    },
+    {
+        "clave": "130710035",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "130710042",
+        "nombre": "Catí"
+    },
+    {
+        "clave": "130710043",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "130710045",
+        "nombre": "Cajete"
+    },
+    {
+        "clave": "130710047",
+        "nombre": "El Picacho"
+    },
+    {
+        "clave": "130710051",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "130710052",
+        "nombre": "Nemixi"
+    },
+    {
+        "clave": "130710059",
+        "nombre": "Agua del Capulín (El Capulín)"
+    },
+    {
+        "clave": "130710064",
+        "nombre": "Agua del Ocote"
+    },
+    {
+        "clave": "130710065",
+        "nombre": "El Borbollón"
+    },
+    {
+        "clave": "130710070",
+        "nombre": "La Era"
+    },
+    {
+        "clave": "130710071",
+        "nombre": "La Guayaba"
+    },
+    {
+        "clave": "130710072",
+        "nombre": "Jilguero"
+    },
+    {
+        "clave": "130710074",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "130710076",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "130710077",
+        "nombre": "El Nenfi"
+    },
+    {
+        "clave": "130710082",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "130710085",
+        "nombre": "El Sarro"
+    },
+    {
+        "clave": "130710086",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "130710087",
+        "nombre": "Tenango"
+    },
+    {
+        "clave": "130710088",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "130710091",
+        "nombre": "El Magani"
+    },
+    {
+        "clave": "130710093",
+        "nombre": "El Ocote"
+    },
+    {
+        "clave": "130710096",
+        "nombre": "Rancho Nuevo (Xiopa)"
+    },
+    {
+        "clave": "130710103",
+        "nombre": "La Barranca"
+    },
+    {
+        "clave": "130710104",
+        "nombre": "El Bexu"
+    },
+    {
+        "clave": "130710105",
+        "nombre": "El Boto"
+    },
+    {
+        "clave": "130710106",
+        "nombre": "Las Canoas"
+    },
+    {
+        "clave": "130710107",
+        "nombre": "Cerro del León (El Cerrito)"
+    },
+    {
+        "clave": "130710108",
+        "nombre": "La Chirimoya"
+    },
+    {
+        "clave": "130710109",
+        "nombre": "La Ciruela"
+    },
+    {
+        "clave": "130710112",
+        "nombre": "Los Frijolares"
+    },
+    {
+        "clave": "130710114",
+        "nombre": "Agua Fría (La Laguna)"
+    },
+    {
+        "clave": "130710115",
+        "nombre": "El Limoncito"
+    },
+    {
+        "clave": "130710117",
+        "nombre": "El Maguey"
+    },
+    {
+        "clave": "130710118",
+        "nombre": "Majua"
+    },
+    {
+        "clave": "130710122",
+        "nombre": "Naranjalito"
+    },
+    {
+        "clave": "130710124",
+        "nombre": "El Palmar"
+    },
+    {
+        "clave": "130710126",
+        "nombre": "Agua Fría (El Guayabal)"
+    },
+    {
+        "clave": "130710127",
+        "nombre": "Pie de la Cuesta"
+    },
+    {
+        "clave": "130710128",
+        "nombre": "El Puerto"
+    },
+    {
+        "clave": "130710129",
+        "nombre": "Puerto el Paichle"
+    },
+    {
+        "clave": "130710130",
+        "nombre": "Rancho Viejo (Rancho Nuevo)"
+    },
+    {
+        "clave": "130710131",
+        "nombre": "La Rinconada"
+    },
+    {
+        "clave": "130710132",
+        "nombre": "San Antonio (El Ojo de Agua)"
+    },
+    {
+        "clave": "130710135",
+        "nombre": "Los Tigres (Antíoco Morales Velázquez)"
+    },
+    {
+        "clave": "130710136",
+        "nombre": "Tonchi"
+    },
+    {
+        "clave": "130710137",
+        "nombre": "El Álamo"
+    },
+    {
+        "clave": "130710138",
+        "nombre": "El Bordo (Manzana Chata)"
+    },
+    {
+        "clave": "130710141",
+        "nombre": "San Andresito"
+    },
+    {
+        "clave": "130710143",
+        "nombre": "La Nueva Reforma"
+    },
+    {
+        "clave": "130710144",
+        "nombre": "Tierra Seca"
+    }
+]

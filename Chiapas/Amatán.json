@@ -1,0 +1,558 @@
+[
+    {
+        "clave": "70050005",
+        "nombre": "Berlín"
+    },
+    {
+        "clave": "70050021",
+        "nombre": "Cerro del Zapotal"
+    },
+    {
+        "clave": "70050022",
+        "nombre": "Tierra Morada"
+    },
+    {
+        "clave": "70050024",
+        "nombre": "Constitución"
+    },
+    {
+        "clave": "70050029",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "70050033",
+        "nombre": "Esquipulas"
+    },
+    {
+        "clave": "70050048",
+        "nombre": "Lindavista"
+    },
+    {
+        "clave": "70050056",
+        "nombre": "Miguel Hidalgo"
+    },
+    {
+        "clave": "70050057",
+        "nombre": "El Mirador (Berlín)"
+    },
+    {
+        "clave": "70050059",
+        "nombre": "Morelia"
+    },
+    {
+        "clave": "70050069",
+        "nombre": "San José Puyacatengo"
+    },
+    {
+        "clave": "70050072",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "70050081",
+        "nombre": "Rosario 1ra. Sección"
+    },
+    {
+        "clave": "70050102",
+        "nombre": "San Sebastián"
+    },
+    {
+        "clave": "70050103",
+        "nombre": "Santa Cruz el Azufre"
+    },
+    {
+        "clave": "70050105",
+        "nombre": "Sumidero"
+    },
+    {
+        "clave": "70050113",
+        "nombre": "Valentín de la Sierra"
+    },
+    {
+        "clave": "70050116",
+        "nombre": "Nanchital"
+    },
+    {
+        "clave": "70050118",
+        "nombre": "Chaspa"
+    },
+    {
+        "clave": "70050120",
+        "nombre": "Flor del Río"
+    },
+    {
+        "clave": "70050121",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "70050123",
+        "nombre": "Acapulco"
+    },
+    {
+        "clave": "70050125",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "70050129",
+        "nombre": "Mazantic"
+    },
+    {
+        "clave": "70050146",
+        "nombre": "San José la Loma"
+    },
+    {
+        "clave": "70050150",
+        "nombre": "Rosario 2da. Sección"
+    },
+    {
+        "clave": "70050154",
+        "nombre": "Lindavista (Palestina)"
+    },
+    {
+        "clave": "70050160",
+        "nombre": "El Platanar"
+    },
+    {
+        "clave": "70050170",
+        "nombre": "Nuevo Terán"
+    },
+    {
+        "clave": "70050171",
+        "nombre": "Arroyo Seco"
+    },
+    {
+        "clave": "70050175",
+        "nombre": "Lonchén"
+    },
+    {
+        "clave": "70050180",
+        "nombre": "San Andrés"
+    },
+    {
+        "clave": "70050195",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "70050207",
+        "nombre": "Anexo las Margaritas (San Martín)"
+    },
+    {
+        "clave": "70050213",
+        "nombre": "Cerro Colorado"
+    },
+    {
+        "clave": "70050240",
+        "nombre": "El Limón 2da. Sección"
+    },
+    {
+        "clave": "70050241",
+        "nombre": "Nueva York"
+    },
+    {
+        "clave": "70050243",
+        "nombre": "La Maravilla"
+    },
+    {
+        "clave": "70050244",
+        "nombre": "Nuevo Arenal 1ra. Sección"
+    },
+    {
+        "clave": "70050245",
+        "nombre": "Rosario Tercera Sección"
+    },
+    {
+        "clave": "70050247",
+        "nombre": "Francisco I. Madero Ampliación"
+    },
+    {
+        "clave": "70050251",
+        "nombre": "Nuevo Acapulco"
+    },
+    {
+        "clave": "70050252",
+        "nombre": "El Porvenir Tres Picos 2da. Sección"
+    },
+    {
+        "clave": "70050256",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "70050257",
+        "nombre": "Valentín de la Sierra (Sección Buenavista)"
+    },
+    {
+        "clave": "70050259",
+        "nombre": "Los Hernández"
+    },
+    {
+        "clave": "70050260",
+        "nombre": "Cerro Azul (Rancho)"
+    },
+    {
+        "clave": "70050261",
+        "nombre": "San Sebastián 2da. Sección"
+    },
+    {
+        "clave": "70050263",
+        "nombre": "San Miguel 3 Picos"
+    },
+    {
+        "clave": "70050001",
+        "nombre": "Amatán"
+    },
+    {
+        "clave": "70050002",
+        "nombre": "Adolfo López Mateos"
+    },
+    {
+        "clave": "70050011",
+        "nombre": "El Calvario"
+    },
+    {
+        "clave": "70050020",
+        "nombre": "Carmen Jucuma"
+    },
+    {
+        "clave": "70050023",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "70050026",
+        "nombre": "El Chinal"
+    },
+    {
+        "clave": "70050032",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "70050040",
+        "nombre": "Francisco I. Madero"
+    },
+    {
+        "clave": "70050041",
+        "nombre": "Guadalupe Victoria"
+    },
+    {
+        "clave": "70050047",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "70050050",
+        "nombre": "Congregación la Loma 2da. Sección"
+    },
+    {
+        "clave": "70050055",
+        "nombre": "Mazatlán"
+    },
+    {
+        "clave": "70050058",
+        "nombre": "Monterrey"
+    },
+    {
+        "clave": "70050061",
+        "nombre": "El Naranjo 2da. Sección"
+    },
+    {
+        "clave": "70050067",
+        "nombre": "El Porvenir Tres Picos"
+    },
+    {
+        "clave": "70050075",
+        "nombre": "Reforma y Planada"
+    },
+    {
+        "clave": "70050077",
+        "nombre": "El Remolino"
+    },
+    {
+        "clave": "70050088",
+        "nombre": "San Antonio Tres Picos"
+    },
+    {
+        "clave": "70050091",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "70050094",
+        "nombre": "San José (Bartolo)"
+    },
+    {
+        "clave": "70050096",
+        "nombre": "Sonora"
+    },
+    {
+        "clave": "70050098",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "70050115",
+        "nombre": "Villa Luz"
+    },
+    {
+        "clave": "70050122",
+        "nombre": "Los Olivares"
+    },
+    {
+        "clave": "70050151",
+        "nombre": "Puyacatengo"
+    },
+    {
+        "clave": "70050158",
+        "nombre": "Escalón 1ra. Fracción (El Baril)"
+    },
+    {
+        "clave": "70050164",
+        "nombre": "San José Buenavista"
+    },
+    {
+        "clave": "70050169",
+        "nombre": "Piedra Blanca"
+    },
+    {
+        "clave": "70050172",
+        "nombre": "Buenos Aires (Limoncito)"
+    },
+    {
+        "clave": "70050178",
+        "nombre": "Nueva Estrella"
+    },
+    {
+        "clave": "70050179",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "70050182",
+        "nombre": "Cerro Blanco"
+    },
+    {
+        "clave": "70050190",
+        "nombre": "Morelos"
+    },
+    {
+        "clave": "70050202",
+        "nombre": "Primavera"
+    },
+    {
+        "clave": "70050209",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "70050210",
+        "nombre": "El Santuario"
+    },
+    {
+        "clave": "70050215",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "70050216",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "70050217",
+        "nombre": "Esquipulas"
+    },
+    {
+        "clave": "70050219",
+        "nombre": "La Loma 1ra. Sección"
+    },
+    {
+        "clave": "70050220",
+        "nombre": "Nuevo San Lorenzo (La Choza)"
+    },
+    {
+        "clave": "70050221",
+        "nombre": "Pueblo Nuevo de la Nueva Constitución"
+    },
+    {
+        "clave": "70050222",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "70050236",
+        "nombre": "La Lomita"
+    },
+    {
+        "clave": "70050237",
+        "nombre": "Los Méndez"
+    },
+    {
+        "clave": "70050238",
+        "nombre": "La Estrella (Miguel Alamilla)"
+    },
+    {
+        "clave": "70050239",
+        "nombre": "El Belén"
+    },
+    {
+        "clave": "70050242",
+        "nombre": "La Candelaria"
+    },
+    {
+        "clave": "70050246",
+        "nombre": "Anexo Amatán"
+    },
+    {
+        "clave": "70050248",
+        "nombre": "Linda Vista Arroyo Grande"
+    },
+    {
+        "clave": "70050249",
+        "nombre": "Morelia 2da. Sección"
+    },
+    {
+        "clave": "70050250",
+        "nombre": "Morelos los Chávez"
+    },
+    {
+        "clave": "70050253",
+        "nombre": "San Andrés Tres Picos"
+    },
+    {
+        "clave": "70050254",
+        "nombre": "Anexo la Loma"
+    },
+    {
+        "clave": "70050258",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "70050262",
+        "nombre": "Lindavista 1ra. Sección"
+    },
+    {
+        "clave": "70050009",
+        "nombre": "El Cajón"
+    },
+    {
+        "clave": "70050030",
+        "nombre": "Escalón"
+    },
+    {
+        "clave": "70050036",
+        "nombre": "Estrella"
+    },
+    {
+        "clave": "70050074",
+        "nombre": "El Recibimiento"
+    },
+    {
+        "clave": "70050114",
+        "nombre": "Villaflores"
+    },
+    {
+        "clave": "70050137",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "70050144",
+        "nombre": "La Concordia"
+    },
+    {
+        "clave": "70050147",
+        "nombre": "Rayo de Alba"
+    },
+    {
+        "clave": "70050153",
+        "nombre": "Esmeralda"
+    },
+    {
+        "clave": "70050157",
+        "nombre": "Zapotal"
+    },
+    {
+        "clave": "70050161",
+        "nombre": "Piedra Redonda"
+    },
+    {
+        "clave": "70050165",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "70050167",
+        "nombre": "El Naranjo 1ra."
+    },
+    {
+        "clave": "70050173",
+        "nombre": "Las Gardenias"
+    },
+    {
+        "clave": "70050183",
+        "nombre": "Tres Hermanos"
+    },
+    {
+        "clave": "70050184",
+        "nombre": "Las Delicias"
+    },
+    {
+        "clave": "70050187",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "70050188",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "70050193",
+        "nombre": "La Maravilla"
+    },
+    {
+        "clave": "70050197",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "70050198",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "70050199",
+        "nombre": "Cuatro Milpas"
+    },
+    {
+        "clave": "70050201",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "70050204",
+        "nombre": "La Selva"
+    },
+    {
+        "clave": "70050214",
+        "nombre": "La Planada (El Palmar)"
+    },
+    {
+        "clave": "70050223",
+        "nombre": "La Esmeralda"
+    },
+    {
+        "clave": "70050224",
+        "nombre": "La Esperancita"
+    },
+    {
+        "clave": "70050225",
+        "nombre": "Adolfo López Mateos"
+    },
+    {
+        "clave": "70050226",
+        "nombre": "Primavera (El Suspiro)"
+    },
+    {
+        "clave": "70050229",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "70050230",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "70050233",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "70050235",
+        "nombre": "Nuevo Arenal 2da. Sección (La Esperanza)"
+    },
+    {
+        "clave": "70050255",
+        "nombre": "Benito Juárez"
+    }
+]

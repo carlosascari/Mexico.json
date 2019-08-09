@@ -1,0 +1,610 @@
+[
+    {
+        "clave": "140440041",
+        "nombre": "Los Troncones"
+    },
+    {
+        "clave": "140440042",
+        "nombre": "El Varal"
+    },
+    {
+        "clave": "140440058",
+        "nombre": "Villa Socorro"
+    },
+    {
+        "clave": "140440018",
+        "nombre": "San Isidro (El Aguacate)"
+    },
+    {
+        "clave": "140440019",
+        "nombre": "San José"
+    },
+    {
+        "clave": "140440028",
+        "nombre": "Los Olivos [Granja]"
+    },
+    {
+        "clave": "140440033",
+        "nombre": "Haciendas del Lago"
+    },
+    {
+        "clave": "140440043",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "140440060",
+        "nombre": "El Tepehuaje"
+    },
+    {
+        "clave": "140440068",
+        "nombre": "El Caracol Amezcua"
+    },
+    {
+        "clave": "140440077",
+        "nombre": "Conos de Cedros"
+    },
+    {
+        "clave": "140440092",
+        "nombre": "Los Hornitos"
+    },
+    {
+        "clave": "140440096",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "140440099",
+        "nombre": "Las Maravillas"
+    },
+    {
+        "clave": "140440110",
+        "nombre": "Paraíso Escondido"
+    },
+    {
+        "clave": "140440137",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "140440144",
+        "nombre": "Lomas de Atequiza"
+    },
+    {
+        "clave": "140440154",
+        "nombre": "El Porvenir [Granja]"
+    },
+    {
+        "clave": "140440155",
+        "nombre": "San Francisco [Granja]"
+    },
+    {
+        "clave": "140440001",
+        "nombre": "Ixtlahuacán de los Membrillos"
+    },
+    {
+        "clave": "140440002",
+        "nombre": "Atequiza"
+    },
+    {
+        "clave": "140440003",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "140440004",
+        "nombre": "La Cañada"
+    },
+    {
+        "clave": "140440005",
+        "nombre": "La Capilla del Refugio"
+    },
+    {
+        "clave": "140440006",
+        "nombre": "Los Cedros"
+    },
+    {
+        "clave": "140440007",
+        "nombre": "Huerta Vieja"
+    },
+    {
+        "clave": "140440008",
+        "nombre": "Los Laureles"
+    },
+    {
+        "clave": "140440009",
+        "nombre": "Miravalle"
+    },
+    {
+        "clave": "140440010",
+        "nombre": "Los Olivos"
+    },
+    {
+        "clave": "140440011",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "140440012",
+        "nombre": "Santa Rosa (La Hacienda de Santa Rosa)"
+    },
+    {
+        "clave": "140440013",
+        "nombre": "La Ilusión"
+    },
+    {
+        "clave": "140440014",
+        "nombre": "La Membrillera"
+    },
+    {
+        "clave": "140440015",
+        "nombre": "El Costeñito"
+    },
+    {
+        "clave": "140440016",
+        "nombre": "Las Aguilillas"
+    },
+    {
+        "clave": "140440020",
+        "nombre": "La Campanilla"
+    },
+    {
+        "clave": "140440026",
+        "nombre": "San Mateo"
+    },
+    {
+        "clave": "140440027",
+        "nombre": "Las Alazanas"
+    },
+    {
+        "clave": "140440030",
+        "nombre": "San Carlos (El Carmen)"
+    },
+    {
+        "clave": "140440031",
+        "nombre": "Palomas"
+    },
+    {
+        "clave": "140440032",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "140440034",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "140440035",
+        "nombre": "El Sacrificio"
+    },
+    {
+        "clave": "140440038",
+        "nombre": "Agua Escondida"
+    },
+    {
+        "clave": "140440044",
+        "nombre": "Los Guayabitos"
+    },
+    {
+        "clave": "140440045",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "140440048",
+        "nombre": "Rancho los Alfredos"
+    },
+    {
+        "clave": "140440049",
+        "nombre": "La Arena"
+    },
+    {
+        "clave": "140440050",
+        "nombre": "Altamira"
+    },
+    {
+        "clave": "140440051",
+        "nombre": "La Curva"
+    },
+    {
+        "clave": "140440052",
+        "nombre": "El Chancharrero"
+    },
+    {
+        "clave": "140440054",
+        "nombre": "Los Freseros (Los Sabinos)"
+    },
+    {
+        "clave": "140440055",
+        "nombre": "Mezquite Redondo"
+    },
+    {
+        "clave": "140440056",
+        "nombre": "Quinta Sofía"
+    },
+    {
+        "clave": "140440057",
+        "nombre": "La Calerita (El Reniego)"
+    },
+    {
+        "clave": "140440059",
+        "nombre": "Las Humedades"
+    },
+    {
+        "clave": "140440061",
+        "nombre": "El Agua Escondida"
+    },
+    {
+        "clave": "140440062",
+        "nombre": "Los Arcos"
+    },
+    {
+        "clave": "140440064",
+        "nombre": "La Bomba"
+    },
+    {
+        "clave": "140440065",
+        "nombre": "Las Calabazas"
+    },
+    {
+        "clave": "140440066",
+        "nombre": "Los Camichines"
+    },
+    {
+        "clave": "140440067",
+        "nombre": "La Cañita"
+    },
+    {
+        "clave": "140440069",
+        "nombre": "Carboneras"
+    },
+    {
+        "clave": "140440070",
+        "nombre": "Los Tubos [Fraccionamiento]"
+    },
+    {
+        "clave": "140440071",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "140440072",
+        "nombre": "Cerro de la Culebra"
+    },
+    {
+        "clave": "140440073",
+        "nombre": "Chapala Haciendas"
+    },
+    {
+        "clave": "140440074",
+        "nombre": "La Curva"
+    },
+    {
+        "clave": "140440075",
+        "nombre": "La Cinco"
+    },
+    {
+        "clave": "140440076",
+        "nombre": "La Cofradía"
+    },
+    {
+        "clave": "140440078",
+        "nombre": "El Cortijo"
+    },
+    {
+        "clave": "140440079",
+        "nombre": "Crucero de Cedros"
+    },
+    {
+        "clave": "140440080",
+        "nombre": "La Cuatro"
+    },
+    {
+        "clave": "140440081",
+        "nombre": "La Cuchilla"
+    },
+    {
+        "clave": "140440082",
+        "nombre": "Las Defensas"
+    },
+    {
+        "clave": "140440083",
+        "nombre": "La Diez"
+    },
+    {
+        "clave": "140440084",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "140440085",
+        "nombre": "La Estancia"
+    },
+    {
+        "clave": "140440086",
+        "nombre": "Los Fresnos"
+    },
+    {
+        "clave": "140440087",
+        "nombre": "Gallinas"
+    },
+    {
+        "clave": "140440088",
+        "nombre": "El Rodeo [Granja]"
+    },
+    {
+        "clave": "140440089",
+        "nombre": "El Guajolote Chico"
+    },
+    {
+        "clave": "140440091",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "140440093",
+        "nombre": "Gosa [Industrias]"
+    },
+    {
+        "clave": "140440094",
+        "nombre": "Las Limas"
+    },
+    {
+        "clave": "140440095",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "140440097",
+        "nombre": "Loma Linda"
+    },
+    {
+        "clave": "140440098",
+        "nombre": "La Manga (Rancho de los Cerritos)"
+    },
+    {
+        "clave": "140440101",
+        "nombre": "Cuesta I y II [Microondas]"
+    },
+    {
+        "clave": "140440102",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "140440103",
+        "nombre": "Los Molineros (Rancho el Chubasco)"
+    },
+    {
+        "clave": "140440104",
+        "nombre": "El Molino"
+    },
+    {
+        "clave": "140440105",
+        "nombre": "La Nueve"
+    },
+    {
+        "clave": "140440106",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "140440107",
+        "nombre": "Ojo de Agüita (Rancho el Mezquite)"
+    },
+    {
+        "clave": "140440109",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "140440112",
+        "nombre": "El Cactus [Planta de Tratamiento de Aguas Residuales]"
+    },
+    {
+        "clave": "140440113",
+        "nombre": "La Playa (El Sobaco)"
+    },
+    {
+        "clave": "140440114",
+        "nombre": "La Playa (Rancho Santa María)"
+    },
+    {
+        "clave": "140440115",
+        "nombre": "La Polvorilla"
+    },
+    {
+        "clave": "140440116",
+        "nombre": "Potrero de las Coloradas"
+    },
+    {
+        "clave": "140440117",
+        "nombre": "Potrero del Carmen"
+    },
+    {
+        "clave": "140440119",
+        "nombre": "Potrero la Huizachera"
+    },
+    {
+        "clave": "140440120",
+        "nombre": "La Presita"
+    },
+    {
+        "clave": "140440121",
+        "nombre": "Puerta del Monte"
+    },
+    {
+        "clave": "140440123",
+        "nombre": "Rancho Baruqui"
+    },
+    {
+        "clave": "140440124",
+        "nombre": "Rancho la Cacahuata (Rancho del Cerdo)"
+    },
+    {
+        "clave": "140440125",
+        "nombre": "Rancho la Presa"
+    },
+    {
+        "clave": "140440126",
+        "nombre": "Rancho Villanueva"
+    },
+    {
+        "clave": "140440127",
+        "nombre": "El Rodadillo"
+    },
+    {
+        "clave": "140440128",
+        "nombre": "El Zalate"
+    },
+    {
+        "clave": "140440129",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "140440130",
+        "nombre": "Santa Ana de Cedros"
+    },
+    {
+        "clave": "140440131",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "140440134",
+        "nombre": "La Siete y la Ocho"
+    },
+    {
+        "clave": "140440135",
+        "nombre": "El Tepache"
+    },
+    {
+        "clave": "140440136",
+        "nombre": "El Bajío (Tierra Negra)"
+    },
+    {
+        "clave": "140440138",
+        "nombre": "La Trece (La Treinta)"
+    },
+    {
+        "clave": "140440139",
+        "nombre": "La Treinta"
+    },
+    {
+        "clave": "140440140",
+        "nombre": "El Verde"
+    },
+    {
+        "clave": "140440141",
+        "nombre": "El Verde (Rincón de Mariana)"
+    },
+    {
+        "clave": "140440142",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "140440143",
+        "nombre": "El Zihuetl (Mina del Cerro el Zihuetl)"
+    },
+    {
+        "clave": "140440145",
+        "nombre": "Misión San Pablo"
+    },
+    {
+        "clave": "140440146",
+        "nombre": "Rancho Guzmán"
+    },
+    {
+        "clave": "140440147",
+        "nombre": "Las Carretas"
+    },
+    {
+        "clave": "140440148",
+        "nombre": "Báscula San Mateo"
+    },
+    {
+        "clave": "140440149",
+        "nombre": "El Llano [Granja]"
+    },
+    {
+        "clave": "140440150",
+        "nombre": "Ninguno [Embotelladora de Occidente]"
+    },
+    {
+        "clave": "140440151",
+        "nombre": "Pegaso [Gas]"
+    },
+    {
+        "clave": "140440152",
+        "nombre": "Granja Alexis"
+    },
+    {
+        "clave": "140440153",
+        "nombre": "Charco [Granja]"
+    },
+    {
+        "clave": "140440156",
+        "nombre": "San Miguel [Granja]"
+    },
+    {
+        "clave": "140440157",
+        "nombre": "La Querencia"
+    },
+    {
+        "clave": "140440158",
+        "nombre": "Planta Gatorade"
+    },
+    {
+        "clave": "140440159",
+        "nombre": "Prodimex"
+    },
+    {
+        "clave": "140440160",
+        "nombre": "Rancho Gálvez (La Gigantera)"
+    },
+    {
+        "clave": "140440161",
+        "nombre": "Rancho González (Catem)"
+    },
+    {
+        "clave": "140440162",
+        "nombre": "Rancho la Consentida"
+    },
+    {
+        "clave": "140440163",
+        "nombre": "Rancho los Garañones"
+    },
+    {
+        "clave": "140440164",
+        "nombre": "Rancho San Carlos"
+    },
+    {
+        "clave": "140440165",
+        "nombre": "Rancho Velázquez"
+    },
+    {
+        "clave": "140440166",
+        "nombre": "Orientes [Restaurante]"
+    },
+    {
+        "clave": "140440167",
+        "nombre": "La Calera [Oxxo]"
+    },
+    {
+        "clave": "140440168",
+        "nombre": "Rancho los Villanueva"
+    },
+    {
+        "clave": "140440169",
+        "nombre": "Rinconada la Loma [Fraccionamiento]"
+    },
+    {
+        "clave": "140440170",
+        "nombre": "Huerta Vieja [Fraccionamiento]"
+    },
+    {
+        "clave": "140440171",
+        "nombre": "Puerta del Sol [Fraccionamiento]"
+    },
+    {
+        "clave": "140440172",
+        "nombre": "Valle de los Girasoles [Fraccionamiento]"
+    },
+    {
+        "clave": "140440173",
+        "nombre": "Lomas de la Capilla"
+    },
+    {
+        "clave": "140440174",
+        "nombre": "Rancho Cázares"
+    },
+    {
+        "clave": "140440175",
+        "nombre": "La Florida"
+    }
+]

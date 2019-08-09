@@ -1,0 +1,426 @@
+[
+    {
+        "clave": "70720007",
+        "nombre": "Aurora Ermita"
+    },
+    {
+        "clave": "70720032",
+        "nombre": "La Laja"
+    },
+    {
+        "clave": "70720044",
+        "nombre": "Plan Lázaro Cárdenas"
+    },
+    {
+        "clave": "70720051",
+        "nombre": "La Rebelión"
+    },
+    {
+        "clave": "70720053",
+        "nombre": "Las Delicias (Reforma Comeapillas)"
+    },
+    {
+        "clave": "70720060",
+        "nombre": "Emiliano Zapata (San Jerónimo)"
+    },
+    {
+        "clave": "70720064",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "70720090",
+        "nombre": "Shutal"
+    },
+    {
+        "clave": "70720111",
+        "nombre": "Belén Buenavista"
+    },
+    {
+        "clave": "70720126",
+        "nombre": "Cerro las Nubes"
+    },
+    {
+        "clave": "70720128",
+        "nombre": "Las Láminas (Yucatenango)"
+    },
+    {
+        "clave": "70720131",
+        "nombre": "Los Portillos"
+    },
+    {
+        "clave": "70720143",
+        "nombre": "Nuevo Ocotal"
+    },
+    {
+        "clave": "70720144",
+        "nombre": "El Rinconcito"
+    },
+    {
+        "clave": "70720146",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "70720147",
+        "nombre": "El Triunfo"
+    },
+    {
+        "clave": "70720150",
+        "nombre": "El Campamento (Cerro Blanco)"
+    },
+    {
+        "clave": "70720164",
+        "nombre": "Las Playas"
+    },
+    {
+        "clave": "70720170",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "70720177",
+        "nombre": "San Isidro Cieneguilla"
+    },
+    {
+        "clave": "70720200",
+        "nombre": "Río Colorado (La Laguna)"
+    },
+    {
+        "clave": "70720201",
+        "nombre": "La Planada San Luis"
+    },
+    {
+        "clave": "70720202",
+        "nombre": "El Tarayito"
+    },
+    {
+        "clave": "70720209",
+        "nombre": "Nuevo Poblado el Progreso"
+    },
+    {
+        "clave": "70720213",
+        "nombre": "San Antonio los Pinos"
+    },
+    {
+        "clave": "70720001",
+        "nombre": "Pueblo Nuevo Solistahuacán"
+    },
+    {
+        "clave": "70720003",
+        "nombre": "Palo Blanco (Anáhuac)"
+    },
+    {
+        "clave": "70720004",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "70720005",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "70720006",
+        "nombre": "Arroyo Grande"
+    },
+    {
+        "clave": "70720008",
+        "nombre": "Nuevo Soconusco el Avellano"
+    },
+    {
+        "clave": "70720010",
+        "nombre": "Los Lotes"
+    },
+    {
+        "clave": "70720011",
+        "nombre": "Cacateal"
+    },
+    {
+        "clave": "70720022",
+        "nombre": "Delirio"
+    },
+    {
+        "clave": "70720024",
+        "nombre": "Esquipulas"
+    },
+    {
+        "clave": "70720025",
+        "nombre": "El Estoraque"
+    },
+    {
+        "clave": "70720026",
+        "nombre": "La Florida"
+    },
+    {
+        "clave": "70720028",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "70720033",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "70720037",
+        "nombre": "Monte Olivo"
+    },
+    {
+        "clave": "70720046",
+        "nombre": "Año de Juárez"
+    },
+    {
+        "clave": "70720049",
+        "nombre": "Puerto Rico"
+    },
+    {
+        "clave": "70720054",
+        "nombre": "Rincón Chamula"
+    },
+    {
+        "clave": "70720057",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "70720061",
+        "nombre": "San José Chapayal"
+    },
+    {
+        "clave": "70720065",
+        "nombre": "San Pedro Buenavista"
+    },
+    {
+        "clave": "70720067",
+        "nombre": "San Pedro la Grandeza"
+    },
+    {
+        "clave": "70720074",
+        "nombre": "Soconusco"
+    },
+    {
+        "clave": "70720076",
+        "nombre": "Sonora"
+    },
+    {
+        "clave": "70720085",
+        "nombre": "La Sidra"
+    },
+    {
+        "clave": "70720093",
+        "nombre": "Lindavista"
+    },
+    {
+        "clave": "70720127",
+        "nombre": "El Progreso (Nuevo Horizonte)"
+    },
+    {
+        "clave": "70720129",
+        "nombre": "Buenavista la Montaña"
+    },
+    {
+        "clave": "70720136",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "70720138",
+        "nombre": "Nuevo Ocotal (Buenavista)"
+    },
+    {
+        "clave": "70720149",
+        "nombre": "Avellano Buenavista"
+    },
+    {
+        "clave": "70720165",
+        "nombre": "El Berdún"
+    },
+    {
+        "clave": "70720172",
+        "nombre": "Progreso"
+    },
+    {
+        "clave": "70720173",
+        "nombre": "El Campanario"
+    },
+    {
+        "clave": "70720175",
+        "nombre": "San Antonio la Quinta"
+    },
+    {
+        "clave": "70720178",
+        "nombre": "Aurora el Duraznal"
+    },
+    {
+        "clave": "70720183",
+        "nombre": "Plan de Ayala"
+    },
+    {
+        "clave": "70720193",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "70720196",
+        "nombre": "La Frontera"
+    },
+    {
+        "clave": "70720197",
+        "nombre": "El Jardín"
+    },
+    {
+        "clave": "70720204",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "70720207",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "70720208",
+        "nombre": "San Juanito Chapayal"
+    },
+    {
+        "clave": "70720009",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "70720017",
+        "nombre": "El Cedral"
+    },
+    {
+        "clave": "70720023",
+        "nombre": "El Duraznal"
+    },
+    {
+        "clave": "70720031",
+        "nombre": "Yerbabuena"
+    },
+    {
+        "clave": "70720034",
+        "nombre": "Colegio Lindavista"
+    },
+    {
+        "clave": "70720036",
+        "nombre": "La Loma Montecristo"
+    },
+    {
+        "clave": "70720040",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "70720043",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "70720068",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "70720083",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "70720084",
+        "nombre": "Plan Redondo (Buenos Aires)"
+    },
+    {
+        "clave": "70720091",
+        "nombre": "Potrerito"
+    },
+    {
+        "clave": "70720124",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "70720140",
+        "nombre": "La Cabaña (La Majada)"
+    },
+    {
+        "clave": "70720141",
+        "nombre": "Las Limas Uno"
+    },
+    {
+        "clave": "70720142",
+        "nombre": "Santiago"
+    },
+    {
+        "clave": "70720152",
+        "nombre": "El Girasol (El Zapote)"
+    },
+    {
+        "clave": "70720153",
+        "nombre": "La Perla"
+    },
+    {
+        "clave": "70720159",
+        "nombre": "Santa Anita"
+    },
+    {
+        "clave": "70720171",
+        "nombre": "Villaflores"
+    },
+    {
+        "clave": "70720182",
+        "nombre": "Lindavista"
+    },
+    {
+        "clave": "70720185",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "70720186",
+        "nombre": "El Reflejo"
+    },
+    {
+        "clave": "70720188",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "70720190",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "70720191",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "70720192",
+        "nombre": "Monterrey"
+    },
+    {
+        "clave": "70720194",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "70720195",
+        "nombre": "Concepción Urania"
+    },
+    {
+        "clave": "70720198",
+        "nombre": "El Manguito"
+    },
+    {
+        "clave": "70720199",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "70720203",
+        "nombre": "La Nueva Unión"
+    },
+    {
+        "clave": "70720206",
+        "nombre": "La Concepción"
+    },
+    {
+        "clave": "70720210",
+        "nombre": "El Carrizo"
+    },
+    {
+        "clave": "70720211",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "70720212",
+        "nombre": "Tejeria 2"
+    },
+    {
+        "clave": "70720214",
+        "nombre": "Rinconcito Uno"
+    },
+    {
+        "clave": "70720215",
+        "nombre": "La Esperanza"
+    }
+]

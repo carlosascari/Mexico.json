@@ -1,0 +1,402 @@
+[
+    {
+        "clave": "160220006",
+        "nombre": "Barranca del Agua"
+    },
+    {
+        "clave": "160220015",
+        "nombre": "El Epazote"
+    },
+    {
+        "clave": "160220024",
+        "nombre": "Las Majadas"
+    },
+    {
+        "clave": "160220058",
+        "nombre": "El Limoncito"
+    },
+    {
+        "clave": "160220095",
+        "nombre": "Las Canteras"
+    },
+    {
+        "clave": "160220002",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "160220004",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "160220005",
+        "nombre": "Arúmbaro"
+    },
+    {
+        "clave": "160220008",
+        "nombre": "Las Canoas (El Puente)"
+    },
+    {
+        "clave": "160220010",
+        "nombre": "Los Cimientos"
+    },
+    {
+        "clave": "160220013",
+        "nombre": "El Cuervo"
+    },
+    {
+        "clave": "160220014",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "160220016",
+        "nombre": "La Escalera"
+    },
+    {
+        "clave": "160220023",
+        "nombre": "Los Llanos"
+    },
+    {
+        "clave": "160220026",
+        "nombre": "Las Mesas"
+    },
+    {
+        "clave": "160220027",
+        "nombre": "El Palmar"
+    },
+    {
+        "clave": "160220029",
+        "nombre": "Peña Cargada"
+    },
+    {
+        "clave": "160220031",
+        "nombre": "Pitorreal (Pino Real)"
+    },
+    {
+        "clave": "160220035",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "160220038",
+        "nombre": "Los Triguillos"
+    },
+    {
+        "clave": "160220039",
+        "nombre": "Las Trojes [Colonia]"
+    },
+    {
+        "clave": "160220042",
+        "nombre": "Uña de Gato"
+    },
+    {
+        "clave": "160220043",
+        "nombre": "El Vado"
+    },
+    {
+        "clave": "160220044",
+        "nombre": "El Vaquerito"
+    },
+    {
+        "clave": "160220045",
+        "nombre": "La Yerbabuena"
+    },
+    {
+        "clave": "160220066",
+        "nombre": "Los Cantiles"
+    },
+    {
+        "clave": "160220067",
+        "nombre": "El Álamo"
+    },
+    {
+        "clave": "160220071",
+        "nombre": "Kilómetro 23"
+    },
+    {
+        "clave": "160220072",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "160220076",
+        "nombre": "El Zapote (El Zapotito)"
+    },
+    {
+        "clave": "160220091",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "160220100",
+        "nombre": "Villas del Fresno [Fraccionamiento]"
+    },
+    {
+        "clave": "160220106",
+        "nombre": "Los Girasoles [Fraccionamiento]"
+    },
+    {
+        "clave": "160220116",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "160220119",
+        "nombre": "Comunidad Girasoles de Charo"
+    },
+    {
+        "clave": "160220001",
+        "nombre": "Charo"
+    },
+    {
+        "clave": "160220009",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "160220012",
+        "nombre": "San Antonio Corrales (Nuevo Coronillas)"
+    },
+    {
+        "clave": "160220018",
+        "nombre": "Francisco I. Madero (El Pantano)"
+    },
+    {
+        "clave": "160220019",
+        "nombre": "La Goleta"
+    },
+    {
+        "clave": "160220021",
+        "nombre": "Irapeo"
+    },
+    {
+        "clave": "160220022",
+        "nombre": "Jaripeo"
+    },
+    {
+        "clave": "160220025",
+        "nombre": "El Mastranto"
+    },
+    {
+        "clave": "160220028",
+        "nombre": "Peña Blanca"
+    },
+    {
+        "clave": "160220030",
+        "nombre": "Pie de la Mesa"
+    },
+    {
+        "clave": "160220032",
+        "nombre": "Platanito"
+    },
+    {
+        "clave": "160220034",
+        "nombre": "Pontezuelas"
+    },
+    {
+        "clave": "160220036",
+        "nombre": "El Temazcal"
+    },
+    {
+        "clave": "160220040",
+        "nombre": "Bosques de Altavista (Los Ucuares)"
+    },
+    {
+        "clave": "160220041",
+        "nombre": "Unión de Progreso (Lomas de Irapeo)"
+    },
+    {
+        "clave": "160220046",
+        "nombre": "Zurumbeneo"
+    },
+    {
+        "clave": "160220048",
+        "nombre": "El Bosque"
+    },
+    {
+        "clave": "160220049",
+        "nombre": "Los Cajones"
+    },
+    {
+        "clave": "160220052",
+        "nombre": "La Mora"
+    },
+    {
+        "clave": "160220054",
+        "nombre": "La Torre"
+    },
+    {
+        "clave": "160220056",
+        "nombre": "El Violín"
+    },
+    {
+        "clave": "160220057",
+        "nombre": "La Presa"
+    },
+    {
+        "clave": "160220059",
+        "nombre": "El Cuartel"
+    },
+    {
+        "clave": "160220062",
+        "nombre": "El Café"
+    },
+    {
+        "clave": "160220063",
+        "nombre": "Los Fresnos (Santa Marillal)"
+    },
+    {
+        "clave": "160220064",
+        "nombre": "La Polvilla"
+    },
+    {
+        "clave": "160220069",
+        "nombre": "Carácuatas"
+    },
+    {
+        "clave": "160220070",
+        "nombre": "El Campamento"
+    },
+    {
+        "clave": "160220073",
+        "nombre": "Rosas de Guadalupe [Kilómetro Catorce]"
+    },
+    {
+        "clave": "160220074",
+        "nombre": "Once Palmas (El Cuervo)"
+    },
+    {
+        "clave": "160220079",
+        "nombre": "Las Águilas"
+    },
+    {
+        "clave": "160220081",
+        "nombre": "Puerto del Naipe (La Huerta)"
+    },
+    {
+        "clave": "160220082",
+        "nombre": "La Galera (La Resinera)"
+    },
+    {
+        "clave": "160220083",
+        "nombre": "Puerto de la Zorra"
+    },
+    {
+        "clave": "160220086",
+        "nombre": "Los Llanos (El Banco)"
+    },
+    {
+        "clave": "160220087",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "160220088",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "160220089",
+        "nombre": "La Mina"
+    },
+    {
+        "clave": "160220090",
+        "nombre": "Ninguno [Nuevo CERESO]"
+    },
+    {
+        "clave": "160220092",
+        "nombre": "Lavadero de Zanahoria"
+    },
+    {
+        "clave": "160220093",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "160220094",
+        "nombre": "Ailes Dos"
+    },
+    {
+        "clave": "160220096",
+        "nombre": "El Zapote [Entrada a las Mesas]"
+    },
+    {
+        "clave": "160220098",
+        "nombre": "Puente Irapeo"
+    },
+    {
+        "clave": "160220099",
+        "nombre": "Crucero de Irapeo [Kilómetro Dieciséis]"
+    },
+    {
+        "clave": "160220101",
+        "nombre": "Charo Cinco"
+    },
+    {
+        "clave": "160220102",
+        "nombre": "La Casa del Encanto"
+    },
+    {
+        "clave": "160220103",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "160220104",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "160220105",
+        "nombre": "Las Encinillas"
+    },
+    {
+        "clave": "160220107",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "160220108",
+        "nombre": "La Mora"
+    },
+    {
+        "clave": "160220109",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "160220110",
+        "nombre": "Santa Mónica"
+    },
+    {
+        "clave": "160220111",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "160220112",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "160220113",
+        "nombre": "Bosques del Paraíso"
+    },
+    {
+        "clave": "160220114",
+        "nombre": "El Columpio"
+    },
+    {
+        "clave": "160220115",
+        "nombre": "Las Vegas"
+    },
+    {
+        "clave": "160220117",
+        "nombre": "Piletas de Jaripeo"
+    },
+    {
+        "clave": "160220118",
+        "nombre": "Paseo de las Nubes"
+    },
+    {
+        "clave": "160220120",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "160220121",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "160220122",
+        "nombre": "Puerto Pascual Ortíz Rubio"
+    },
+    {
+        "clave": "160220123",
+        "nombre": "El Clarín"
+    }
+]

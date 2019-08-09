@@ -1,0 +1,506 @@
+[
+    {
+        "clave": "204060002",
+        "nombre": "Agua de Paxtle"
+    },
+    {
+        "clave": "204060005",
+        "nombre": "San José Cañaltepec"
+    },
+    {
+        "clave": "204060008",
+        "nombre": "Clemencia"
+    },
+    {
+        "clave": "204060010",
+        "nombre": "El Edén"
+    },
+    {
+        "clave": "204060011",
+        "nombre": "Santa María Guadalupe"
+    },
+    {
+        "clave": "204060014",
+        "nombre": "María Luisa"
+    },
+    {
+        "clave": "204060015",
+        "nombre": "Monte Sinaí"
+    },
+    {
+        "clave": "204060017",
+        "nombre": "Patio Iglesia"
+    },
+    {
+        "clave": "204060019",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "204060023",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "204060026",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "204060027",
+        "nombre": "San Julio"
+    },
+    {
+        "clave": "204060029",
+        "nombre": "San Miguel Nuevo"
+    },
+    {
+        "clave": "204060031",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "204060036",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "204060037",
+        "nombre": "Voladero"
+    },
+    {
+        "clave": "204060038",
+        "nombre": "Zongolica"
+    },
+    {
+        "clave": "204060040",
+        "nombre": "La Chicharra"
+    },
+    {
+        "clave": "204060041",
+        "nombre": "El Pacífico"
+    },
+    {
+        "clave": "204060042",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "204060043",
+        "nombre": "Villa Azueta"
+    },
+    {
+        "clave": "204060044",
+        "nombre": "Joya Sola"
+    },
+    {
+        "clave": "204060048",
+        "nombre": "Santa Herminia"
+    },
+    {
+        "clave": "204060049",
+        "nombre": "Amatlán de los Reyes"
+    },
+    {
+        "clave": "204060050",
+        "nombre": "Barranca Seca"
+    },
+    {
+        "clave": "204060052",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "204060053",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "204060054",
+        "nombre": "Monte de los Olivos"
+    },
+    {
+        "clave": "204060056",
+        "nombre": "Monte Cristo"
+    },
+    {
+        "clave": "204060057",
+        "nombre": "Cerro Potrero"
+    },
+    {
+        "clave": "204060058",
+        "nombre": "Piedra Ancha"
+    },
+    {
+        "clave": "204060059",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "204060060",
+        "nombre": "Río Lodo"
+    },
+    {
+        "clave": "204060062",
+        "nombre": "Río Seco"
+    },
+    {
+        "clave": "204060064",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "204060067",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "204060068",
+        "nombre": "Loma Limón"
+    },
+    {
+        "clave": "204060069",
+        "nombre": "Paso Cocuyo"
+    },
+    {
+        "clave": "204060070",
+        "nombre": "Cerro Palma"
+    },
+    {
+        "clave": "204060073",
+        "nombre": "Piedra de Fierro"
+    },
+    {
+        "clave": "204060074",
+        "nombre": "Loma Alta"
+    },
+    {
+        "clave": "204060075",
+        "nombre": "Cinco de Mayo"
+    },
+    {
+        "clave": "204060076",
+        "nombre": "Colonia San Miguel (La Colonia)"
+    },
+    {
+        "clave": "204060077",
+        "nombre": "La Paz"
+    },
+    {
+        "clave": "204060078",
+        "nombre": "Lote 31"
+    },
+    {
+        "clave": "204060080",
+        "nombre": "Santa Eustolia"
+    },
+    {
+        "clave": "204060081",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "204060087",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "204060088",
+        "nombre": "San Martín Río Petlapa"
+    },
+    {
+        "clave": "204060089",
+        "nombre": "Villa de Flores"
+    },
+    {
+        "clave": "204060091",
+        "nombre": "Hungaria"
+    },
+    {
+        "clave": "204060092",
+        "nombre": "Loma Verde"
+    },
+    {
+        "clave": "204060093",
+        "nombre": "Santa Cecilia"
+    },
+    {
+        "clave": "204060094",
+        "nombre": "Rancho Cacao"
+    },
+    {
+        "clave": "204060095",
+        "nombre": "Loma Grande"
+    },
+    {
+        "clave": "204060096",
+        "nombre": "Loma Larga"
+    },
+    {
+        "clave": "204060097",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "204060098",
+        "nombre": "Loma Mango"
+    },
+    {
+        "clave": "204060099",
+        "nombre": "Arroyo Venado"
+    },
+    {
+        "clave": "204060101",
+        "nombre": "San Telésforo"
+    },
+    {
+        "clave": "204060105",
+        "nombre": "Ricardo Flores Magón"
+    },
+    {
+        "clave": "204060106",
+        "nombre": "El Nuevo Pacífico"
+    },
+    {
+        "clave": "204060109",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "204060110",
+        "nombre": "Dolores Primera Sección"
+    },
+    {
+        "clave": "204060113",
+        "nombre": "Agua de Niño"
+    },
+    {
+        "clave": "204060115",
+        "nombre": "La Cordillera"
+    },
+    {
+        "clave": "204060116",
+        "nombre": "Cueva Blanca"
+    },
+    {
+        "clave": "204060117",
+        "nombre": "Llano de Insurgentes"
+    },
+    {
+        "clave": "204060119",
+        "nombre": "Loma Verde"
+    },
+    {
+        "clave": "204060121",
+        "nombre": "La Paz"
+    },
+    {
+        "clave": "204060123",
+        "nombre": "Agua de Cueva"
+    },
+    {
+        "clave": "204060125",
+        "nombre": "San Julio"
+    },
+    {
+        "clave": "204060126",
+        "nombre": "Tierra Colorada"
+    },
+    {
+        "clave": "204060127",
+        "nombre": "Villa Alta"
+    },
+    {
+        "clave": "204060130",
+        "nombre": "Barrio San Antonio"
+    },
+    {
+        "clave": "204060131",
+        "nombre": "Cerro Carlota (Santa Carlota)"
+    },
+    {
+        "clave": "204060132",
+        "nombre": "Cerro Quemado"
+    },
+    {
+        "clave": "204060134",
+        "nombre": "El Paraíso [Rancho]"
+    },
+    {
+        "clave": "204060135",
+        "nombre": "Villa Hermosa"
+    },
+    {
+        "clave": "204060136",
+        "nombre": "Xochitlalpam [Congregación]"
+    },
+    {
+        "clave": "204060137",
+        "nombre": "Loma Palma"
+    },
+    {
+        "clave": "204060138",
+        "nombre": "Santa Herminia Primera Sección"
+    },
+    {
+        "clave": "204060139",
+        "nombre": "Francisco I. Madero [Congregación]"
+    },
+    {
+        "clave": "204060140",
+        "nombre": "Monte Carmelo"
+    },
+    {
+        "clave": "204060142",
+        "nombre": "El Calvario"
+    },
+    {
+        "clave": "204060143",
+        "nombre": "Cerro Potrero Primera Sección"
+    },
+    {
+        "clave": "204060001",
+        "nombre": "Santa María Chilchotla"
+    },
+    {
+        "clave": "204060004",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "204060007",
+        "nombre": "Cerro Ocote"
+    },
+    {
+        "clave": "204060009",
+        "nombre": "Cuauhtémoc"
+    },
+    {
+        "clave": "204060013",
+        "nombre": "La Luz"
+    },
+    {
+        "clave": "204060018",
+        "nombre": "Peña Quemada"
+    },
+    {
+        "clave": "204060025",
+        "nombre": "San José Lindavista"
+    },
+    {
+        "clave": "204060032",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "204060035",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "204060039",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "204060047",
+        "nombre": "San Martín de Porres"
+    },
+    {
+        "clave": "204060051",
+        "nombre": "Joya María"
+    },
+    {
+        "clave": "204060061",
+        "nombre": "Río Sapo"
+    },
+    {
+        "clave": "204060063",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "204060071",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "204060086",
+        "nombre": "Monte Calvario"
+    },
+    {
+        "clave": "204060090",
+        "nombre": "La Raya"
+    },
+    {
+        "clave": "204060100",
+        "nombre": "Arroyo Zontle"
+    },
+    {
+        "clave": "204060103",
+        "nombre": "La Revolución"
+    },
+    {
+        "clave": "204060104",
+        "nombre": "El Cedro"
+    },
+    {
+        "clave": "204060107",
+        "nombre": "Monte Horeb"
+    },
+    {
+        "clave": "204060111",
+        "nombre": "Rancho de Oro"
+    },
+    {
+        "clave": "204060112",
+        "nombre": "Agua de Gancho"
+    },
+    {
+        "clave": "204060114",
+        "nombre": "Colonia Guadalupe"
+    },
+    {
+        "clave": "204060120",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "204060122",
+        "nombre": "San Gregorio"
+    },
+    {
+        "clave": "204060133",
+        "nombre": "Liquidámbar"
+    },
+    {
+        "clave": "204060141",
+        "nombre": "Barrio Santa Lucía"
+    },
+    {
+        "clave": "204060066",
+        "nombre": "Rancho Santiago"
+    },
+    {
+        "clave": "204060079",
+        "nombre": "San Martín Caballero"
+    },
+    {
+        "clave": "204060108",
+        "nombre": "Paraíso"
+    },
+    {
+        "clave": "204060118",
+        "nombre": "Loma Nazareno"
+    },
+    {
+        "clave": "204060144",
+        "nombre": "Barranca Honda"
+    },
+    {
+        "clave": "204060145",
+        "nombre": "1a. Sección del Ejido San José Linda Vista"
+    },
+    {
+        "clave": "204060146",
+        "nombre": "Loma Estrella"
+    },
+    {
+        "clave": "204060147",
+        "nombre": "Monte Sión"
+    },
+    {
+        "clave": "204060148",
+        "nombre": "Agua de Hierba"
+    },
+    {
+        "clave": "204060149",
+        "nombre": "Dolores Segunda Sección"
+    },
+    {
+        "clave": "204060150",
+        "nombre": "Rancho Sabila"
+    },
+    {
+        "clave": "204060151",
+        "nombre": "San Isidro [Barrio]"
+    }
+]

@@ -1,0 +1,582 @@
+[
+    {
+        "clave": "201710002",
+        "nombre": "Aguacatitla"
+    },
+    {
+        "clave": "201710003",
+        "nombre": "Agua Colorada"
+    },
+    {
+        "clave": "201710004",
+        "nombre": "Agua Ciénega"
+    },
+    {
+        "clave": "201710005",
+        "nombre": "Agua de Golondrina"
+    },
+    {
+        "clave": "201710006",
+        "nombre": "Agua Pescadito"
+    },
+    {
+        "clave": "201710007",
+        "nombre": "Altamira"
+    },
+    {
+        "clave": "201710008",
+        "nombre": "Cañada de Mamey"
+    },
+    {
+        "clave": "201710009",
+        "nombre": "Cerro Central"
+    },
+    {
+        "clave": "201710010",
+        "nombre": "Cerro Otate"
+    },
+    {
+        "clave": "201710012",
+        "nombre": "Pozo de Águila"
+    },
+    {
+        "clave": "201710013",
+        "nombre": "Puerto Buenavista"
+    },
+    {
+        "clave": "201710015",
+        "nombre": "Santa Catarina"
+    },
+    {
+        "clave": "201710016",
+        "nombre": "Sitio Caballero"
+    },
+    {
+        "clave": "201710017",
+        "nombre": "Sitio Iglesia"
+    },
+    {
+        "clave": "201710019",
+        "nombre": "Unión de Hidalgo"
+    },
+    {
+        "clave": "201710020",
+        "nombre": "Cerro Rabón"
+    },
+    {
+        "clave": "201710021",
+        "nombre": "Agua de Cedro"
+    },
+    {
+        "clave": "201710027",
+        "nombre": "Agua de Aceite"
+    },
+    {
+        "clave": "201710028",
+        "nombre": "Las Ruinas"
+    },
+    {
+        "clave": "201710030",
+        "nombre": "Palo Plumaje"
+    },
+    {
+        "clave": "201710033",
+        "nombre": "Agua de Grillo"
+    },
+    {
+        "clave": "201710034",
+        "nombre": "Agua Platanillo"
+    },
+    {
+        "clave": "201710036",
+        "nombre": "Agua Tinta (Pozo de Águila)"
+    },
+    {
+        "clave": "201710037",
+        "nombre": "Rancho González"
+    },
+    {
+        "clave": "201710038",
+        "nombre": "Camino de Yeso"
+    },
+    {
+        "clave": "201710039",
+        "nombre": "Cerro Liquidámbar"
+    },
+    {
+        "clave": "201710040",
+        "nombre": "Cerro Palmera"
+    },
+    {
+        "clave": "201710041",
+        "nombre": "Cerro Trueno"
+    },
+    {
+        "clave": "201710042",
+        "nombre": "Mina de Arena"
+    },
+    {
+        "clave": "201710043",
+        "nombre": "Cerro Álamo"
+    },
+    {
+        "clave": "201710044",
+        "nombre": "Rancho Hernández"
+    },
+    {
+        "clave": "201710045",
+        "nombre": "Plan de Guadalupe"
+    },
+    {
+        "clave": "201710046",
+        "nombre": "Rancho Herrera"
+    },
+    {
+        "clave": "201710048",
+        "nombre": "Agua Pumarosa"
+    },
+    {
+        "clave": "201710050",
+        "nombre": "Agua Calabaza (Agua Tortuga)"
+    },
+    {
+        "clave": "201710052",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "201710053",
+        "nombre": "Agua Pared"
+    },
+    {
+        "clave": "201710054",
+        "nombre": "Peña Blanca"
+    },
+    {
+        "clave": "201710055",
+        "nombre": "Agua Caballo"
+    },
+    {
+        "clave": "201710056",
+        "nombre": "Agua Vista"
+    },
+    {
+        "clave": "201710057",
+        "nombre": "Agua Sótano (Puerto Buenavista)"
+    },
+    {
+        "clave": "201710058",
+        "nombre": "Agua Dulce"
+    },
+    {
+        "clave": "201710060",
+        "nombre": "Cerro Negro"
+    },
+    {
+        "clave": "201710062",
+        "nombre": "Génova Nuevo Progreso"
+    },
+    {
+        "clave": "201710064",
+        "nombre": "Piedra Ancha"
+    },
+    {
+        "clave": "201710065",
+        "nombre": "Rancho García Central"
+    },
+    {
+        "clave": "201710067",
+        "nombre": "Tierra Colorada (Agua Colorada)"
+    },
+    {
+        "clave": "201710069",
+        "nombre": "Agua de Rayo"
+    },
+    {
+        "clave": "201710070",
+        "nombre": "Plan de Laguna"
+    },
+    {
+        "clave": "201710074",
+        "nombre": "Rancho Nuevo Pescadito"
+    },
+    {
+        "clave": "201710075",
+        "nombre": "Rancho Pantoja"
+    },
+    {
+        "clave": "201710076",
+        "nombre": "Rancho Avendaño"
+    },
+    {
+        "clave": "201710077",
+        "nombre": "San Martín Caballero"
+    },
+    {
+        "clave": "201710078",
+        "nombre": "Los Naranjos"
+    },
+    {
+        "clave": "201710079",
+        "nombre": "Agua Camarón (San Martín)"
+    },
+    {
+        "clave": "201710080",
+        "nombre": "Rancho Morelos"
+    },
+    {
+        "clave": "201710081",
+        "nombre": "Loma Alta Cerro Central"
+    },
+    {
+        "clave": "201710083",
+        "nombre": "Rancho Pineda"
+    },
+    {
+        "clave": "201710085",
+        "nombre": "Rancho Peinecillo"
+    },
+    {
+        "clave": "201710086",
+        "nombre": "Agua Jabalí"
+    },
+    {
+        "clave": "201710087",
+        "nombre": "Cañada Grande"
+    },
+    {
+        "clave": "201710088",
+        "nombre": "Cerro Yerba de Pollo"
+    },
+    {
+        "clave": "201710090",
+        "nombre": "Cerro Alto"
+    },
+    {
+        "clave": "201710091",
+        "nombre": "Cerro Frío"
+    },
+    {
+        "clave": "201710092",
+        "nombre": "Cerro Palmaje"
+    },
+    {
+        "clave": "201710093",
+        "nombre": "Agua de la Fuente"
+    },
+    {
+        "clave": "201710094",
+        "nombre": "Cerro de la Cruz (Puerto Buenavista)"
+    },
+    {
+        "clave": "201710095",
+        "nombre": "Agua de Palo"
+    },
+    {
+        "clave": "201710096",
+        "nombre": "Agua Iglesia"
+    },
+    {
+        "clave": "201710097",
+        "nombre": "Agua Murciélago"
+    },
+    {
+        "clave": "201710098",
+        "nombre": "Cerro Grande"
+    },
+    {
+        "clave": "201710100",
+        "nombre": "Patio Viejo"
+    },
+    {
+        "clave": "201710101",
+        "nombre": "Agua Camarón (Pozo de Águila)"
+    },
+    {
+        "clave": "201710102",
+        "nombre": "Barrio San Jerónimo"
+    },
+    {
+        "clave": "201710108",
+        "nombre": "Cerro Caballero"
+    },
+    {
+        "clave": "201710109",
+        "nombre": "Palo Gordo"
+    },
+    {
+        "clave": "201710110",
+        "nombre": "Cerro Ocote"
+    },
+    {
+        "clave": "201710111",
+        "nombre": "Rancho Martínez Central"
+    },
+    {
+        "clave": "201710113",
+        "nombre": "Cerro Chiquito"
+    },
+    {
+        "clave": "201710115",
+        "nombre": "Agua Obscura"
+    },
+    {
+        "clave": "201710119",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "201710120",
+        "nombre": "Cerro Liquidámbar Árnica"
+    },
+    {
+        "clave": "201710121",
+        "nombre": "Rancho Quiroga"
+    },
+    {
+        "clave": "201710122",
+        "nombre": "Cerro de la Raya"
+    },
+    {
+        "clave": "201710124",
+        "nombre": "Cerro Papel"
+    },
+    {
+        "clave": "201710125",
+        "nombre": "Agua Sitio Iglesia"
+    },
+    {
+        "clave": "201710127",
+        "nombre": "Agua Fuerte"
+    },
+    {
+        "clave": "201710128",
+        "nombre": "Piedra de la Luz"
+    },
+    {
+        "clave": "201710129",
+        "nombre": "Llano Nuevo de la Cruz"
+    },
+    {
+        "clave": "201710131",
+        "nombre": "Cerro Buena Vista"
+    },
+    {
+        "clave": "201710132",
+        "nombre": "Cerro de Maíz"
+    },
+    {
+        "clave": "201710133",
+        "nombre": "Agua Caracol Buena Vista"
+    },
+    {
+        "clave": "201710134",
+        "nombre": "Palo Zorrillo"
+    },
+    {
+        "clave": "201710136",
+        "nombre": "Loma Alta Tierra Colorada"
+    },
+    {
+        "clave": "201710137",
+        "nombre": "Agua Pólvora"
+    },
+    {
+        "clave": "201710138",
+        "nombre": "Agua Lejos San Martín"
+    },
+    {
+        "clave": "201710145",
+        "nombre": "Agua Apestosa"
+    },
+    {
+        "clave": "201710146",
+        "nombre": "Cerro Relámpago"
+    },
+    {
+        "clave": "201710147",
+        "nombre": "Cerro Alto"
+    },
+    {
+        "clave": "201710151",
+        "nombre": "Nuevo Maldonado (Altamira)"
+    },
+    {
+        "clave": "201710153",
+        "nombre": "Rancho Carrera (Altamira)"
+    },
+    {
+        "clave": "201710155",
+        "nombre": "Rancho Meseta"
+    },
+    {
+        "clave": "201710156",
+        "nombre": "Rancho Miranda (Altamira)"
+    },
+    {
+        "clave": "201710157",
+        "nombre": "Agua Canoa"
+    },
+    {
+        "clave": "201710158",
+        "nombre": "Agua San José"
+    },
+    {
+        "clave": "201710160",
+        "nombre": "Llano de Naranjo"
+    },
+    {
+        "clave": "201710161",
+        "nombre": "Rancho Antonio"
+    },
+    {
+        "clave": "201710162",
+        "nombre": "Rancho Dávila"
+    },
+    {
+        "clave": "201710164",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "201710165",
+        "nombre": "Cabeza de Tierra"
+    },
+    {
+        "clave": "201710166",
+        "nombre": "Cerro Totomoxtle"
+    },
+    {
+        "clave": "201710167",
+        "nombre": "Loma de la Cruz"
+    },
+    {
+        "clave": "201710168",
+        "nombre": "Piedra de Arena"
+    },
+    {
+        "clave": "201710169",
+        "nombre": "Piedra del Sol"
+    },
+    {
+        "clave": "201710170",
+        "nombre": "Rancho Rivera"
+    },
+    {
+        "clave": "201710171",
+        "nombre": "Peña Grande"
+    },
+    {
+        "clave": "201710172",
+        "nombre": "Rancho Guadalupe"
+    },
+    {
+        "clave": "201710173",
+        "nombre": "Agua Platanillo Uno"
+    },
+    {
+        "clave": "201710001",
+        "nombre": "San José Tenango"
+    },
+    {
+        "clave": "201710011",
+        "nombre": "Llano de Árnica"
+    },
+    {
+        "clave": "201710018",
+        "nombre": "Teocuatlán"
+    },
+    {
+        "clave": "201710022",
+        "nombre": "Piedra del Sol"
+    },
+    {
+        "clave": "201710025",
+        "nombre": "San Jorge Buena Vista"
+    },
+    {
+        "clave": "201710026",
+        "nombre": "Agua Caballero"
+    },
+    {
+        "clave": "201710029",
+        "nombre": "Piedras Negras"
+    },
+    {
+        "clave": "201710061",
+        "nombre": "Agua Otate"
+    },
+    {
+        "clave": "201710072",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "201710073",
+        "nombre": "Agua Cuchara"
+    },
+    {
+        "clave": "201710107",
+        "nombre": "Agua Pescado"
+    },
+    {
+        "clave": "201710118",
+        "nombre": "Agua Sótano"
+    },
+    {
+        "clave": "201710149",
+        "nombre": "Agua Verde"
+    },
+    {
+        "clave": "201710035",
+        "nombre": "Cerro de Cueva"
+    },
+    {
+        "clave": "201710049",
+        "nombre": "Agua Urraca"
+    },
+    {
+        "clave": "201710051",
+        "nombre": "La Laguna de Cerro Palmera"
+    },
+    {
+        "clave": "201710103",
+        "nombre": "Agua de Cedro"
+    },
+    {
+        "clave": "201710130",
+        "nombre": "Agua de Luna"
+    },
+    {
+        "clave": "201710139",
+        "nombre": "Cerro de los Pinos"
+    },
+    {
+        "clave": "201710143",
+        "nombre": "Agua Rayón"
+    },
+    {
+        "clave": "201710144",
+        "nombre": "Cerro Verde [Rancho]"
+    },
+    {
+        "clave": "201710152",
+        "nombre": "Plan de la Salida"
+    },
+    {
+        "clave": "201710159",
+        "nombre": "Agua Teopoxco"
+    },
+    {
+        "clave": "201710163",
+        "nombre": "Rancho González Segunda Sección"
+    },
+    {
+        "clave": "201710174",
+        "nombre": "Agua Golondrina Sección II"
+    },
+    {
+        "clave": "201710175",
+        "nombre": "Las Maravillas"
+    },
+    {
+        "clave": "201710176",
+        "nombre": "Rancho Cerqueda"
+    }
+]

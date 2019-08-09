@@ -1,0 +1,954 @@
+[
+    {
+        "clave": "250020002",
+        "nombre": "Acatita de los Castro"
+    },
+    {
+        "clave": "250020010",
+        "nombre": "Batamotos"
+    },
+    {
+        "clave": "250020090",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "250020110",
+        "nombre": "Toberi"
+    },
+    {
+        "clave": "250020121",
+        "nombre": "Cerro de los Sánchez"
+    },
+    {
+        "clave": "250020179",
+        "nombre": "Guayparime"
+    },
+    {
+        "clave": "250020221",
+        "nombre": "El Molino"
+    },
+    {
+        "clave": "250020245",
+        "nombre": "Corea"
+    },
+    {
+        "clave": "250020331",
+        "nombre": "Paraíso (La Cochera) [Agrícola]"
+    },
+    {
+        "clave": "250020001",
+        "nombre": "Angostura"
+    },
+    {
+        "clave": "250020005",
+        "nombre": "Agustina Ramírez"
+    },
+    {
+        "clave": "250020007",
+        "nombre": "Alhuey"
+    },
+    {
+        "clave": "250020009",
+        "nombre": "El Batallón (El Batallón de los Payanes)"
+    },
+    {
+        "clave": "250020012",
+        "nombre": "Batury"
+    },
+    {
+        "clave": "250020014",
+        "nombre": "Bruno Beltrán García"
+    },
+    {
+        "clave": "250020017",
+        "nombre": "Campo Gaxiola"
+    },
+    {
+        "clave": "250020018",
+        "nombre": "Campo el General"
+    },
+    {
+        "clave": "250020019",
+        "nombre": "Campo Ciento Veintinueve"
+    },
+    {
+        "clave": "250020021",
+        "nombre": "Capomones"
+    },
+    {
+        "clave": "250020022",
+        "nombre": "Capomos"
+    },
+    {
+        "clave": "250020028",
+        "nombre": "La Cercada"
+    },
+    {
+        "clave": "250020029",
+        "nombre": "Cerro de en Medio"
+    },
+    {
+        "clave": "250020030",
+        "nombre": "Cerro Segundo"
+    },
+    {
+        "clave": "250020031",
+        "nombre": "Colonia Independencia (Chinitos)"
+    },
+    {
+        "clave": "250020032",
+        "nombre": "Colonia Agrícola México (Palmitas)"
+    },
+    {
+        "clave": "250020033",
+        "nombre": "Colonia Agrícola Sinaloa"
+    },
+    {
+        "clave": "250020034",
+        "nombre": "La Colorada"
+    },
+    {
+        "clave": "250020035",
+        "nombre": "Costa Azul"
+    },
+    {
+        "clave": "250020037",
+        "nombre": "Chumpilihuiztle"
+    },
+    {
+        "clave": "250020038",
+        "nombre": "La Choya"
+    },
+    {
+        "clave": "250020040",
+        "nombre": "Dámaso Cárdenas"
+    },
+    {
+        "clave": "250020041",
+        "nombre": "El Ébano"
+    },
+    {
+        "clave": "250020042",
+        "nombre": "El Encanto"
+    },
+    {
+        "clave": "250020043",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "250020044",
+        "nombre": "Estación Acatita"
+    },
+    {
+        "clave": "250020045",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "250020048",
+        "nombre": "El Fuerte"
+    },
+    {
+        "clave": "250020052",
+        "nombre": "Los Gatones"
+    },
+    {
+        "clave": "250020054",
+        "nombre": "Valentín Gómez Farías (El Muerto)"
+    },
+    {
+        "clave": "250020055",
+        "nombre": "Gustavo Díaz Ordaz [Campo Plata]"
+    },
+    {
+        "clave": "250020056",
+        "nombre": "Ignacio Allende"
+    },
+    {
+        "clave": "250020058",
+        "nombre": "Ejido Independencia"
+    },
+    {
+        "clave": "250020059",
+        "nombre": "Las Infamias"
+    },
+    {
+        "clave": "250020060",
+        "nombre": "La Isleta"
+    },
+    {
+        "clave": "250020064",
+        "nombre": "Juan de la Barrera Número Dos"
+    },
+    {
+        "clave": "250020065",
+        "nombre": "Laguna del Monte"
+    },
+    {
+        "clave": "250020067",
+        "nombre": "Leopoldo Sánchez Celis (El Gato de Lara)"
+    },
+    {
+        "clave": "250020069",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "250020071",
+        "nombre": "Mojolo"
+    },
+    {
+        "clave": "250020072",
+        "nombre": "Nacozari"
+    },
+    {
+        "clave": "250020073",
+        "nombre": "La Nanchi"
+    },
+    {
+        "clave": "250020075",
+        "nombre": "Norotal"
+    },
+    {
+        "clave": "250020076",
+        "nombre": "Nuevo Laredo"
+    },
+    {
+        "clave": "250020079",
+        "nombre": "El Ostional"
+    },
+    {
+        "clave": "250020080",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "250020082",
+        "nombre": "Palos Verdes"
+    },
+    {
+        "clave": "250020084",
+        "nombre": "Playa Colorada"
+    },
+    {
+        "clave": "250020086",
+        "nombre": "El Playón"
+    },
+    {
+        "clave": "250020088",
+        "nombre": "La Primavera"
+    },
+    {
+        "clave": "250020089",
+        "nombre": "Protomártir de Sinaloa"
+    },
+    {
+        "clave": "250020091",
+        "nombre": "Rafael Buelna"
+    },
+    {
+        "clave": "250020093",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "250020095",
+        "nombre": "La Rosita"
+    },
+    {
+        "clave": "250020096",
+        "nombre": "La Sábila"
+    },
+    {
+        "clave": "250020097",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "250020100",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "250020101",
+        "nombre": "San Luciano"
+    },
+    {
+        "clave": "250020105",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "250020106",
+        "nombre": "El Saucito"
+    },
+    {
+        "clave": "250020109",
+        "nombre": "Los Tesitos"
+    },
+    {
+        "clave": "250020111",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "250020112",
+        "nombre": "Vinaterías"
+    },
+    {
+        "clave": "250020114",
+        "nombre": "Santa María del Playón"
+    },
+    {
+        "clave": "250020117",
+        "nombre": "Doce de Octubre (La Sonrisa)"
+    },
+    {
+        "clave": "250020118",
+        "nombre": "El Nuevo Ostional"
+    },
+    {
+        "clave": "250020123",
+        "nombre": "El Norteño"
+    },
+    {
+        "clave": "250020124",
+        "nombre": "Campo Zanaria"
+    },
+    {
+        "clave": "250020125",
+        "nombre": "Las Tatemitas"
+    },
+    {
+        "clave": "250020126",
+        "nombre": "18 de Diciembre"
+    },
+    {
+        "clave": "250020135",
+        "nombre": "El Bonete"
+    },
+    {
+        "clave": "250020136",
+        "nombre": "San Alberto"
+    },
+    {
+        "clave": "250020141",
+        "nombre": "Tepeyac [Planta de Fertilizantes]"
+    },
+    {
+        "clave": "250020145",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "250020147",
+        "nombre": "Alhueycito"
+    },
+    {
+        "clave": "250020151",
+        "nombre": "Llano Grande"
+    },
+    {
+        "clave": "250020154",
+        "nombre": "El Cachorón (La Esmeralda)"
+    },
+    {
+        "clave": "250020155",
+        "nombre": "Mascareño (Siboney)"
+    },
+    {
+        "clave": "250020156",
+        "nombre": "El Pitahayal"
+    },
+    {
+        "clave": "250020161",
+        "nombre": "El Dique de la Cacachila"
+    },
+    {
+        "clave": "250020162",
+        "nombre": "Las Tunas"
+    },
+    {
+        "clave": "250020166",
+        "nombre": "El Huizache"
+    },
+    {
+        "clave": "250020167",
+        "nombre": "Campo el Sabinal"
+    },
+    {
+        "clave": "250020168",
+        "nombre": "Campo San Pedro"
+    },
+    {
+        "clave": "250020170",
+        "nombre": "Caseta Ciento Veintidós"
+    },
+    {
+        "clave": "250020172",
+        "nombre": "Cerro Angostura"
+    },
+    {
+        "clave": "250020175",
+        "nombre": "Las Crucitas"
+    },
+    {
+        "clave": "250020178",
+        "nombre": "El Guayacanal"
+    },
+    {
+        "clave": "250020180",
+        "nombre": "El Hijito"
+    },
+    {
+        "clave": "250020181",
+        "nombre": "La Ilama"
+    },
+    {
+        "clave": "250020183",
+        "nombre": "La Otra Banda"
+    },
+    {
+        "clave": "250020184",
+        "nombre": "Las Palmitas"
+    },
+    {
+        "clave": "250020185",
+        "nombre": "Palo de Asta (Los Laureles)"
+    },
+    {
+        "clave": "250020186",
+        "nombre": "La Presita"
+    },
+    {
+        "clave": "250020188",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "250020189",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "250020194",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "250020195",
+        "nombre": "Villa del Carmen"
+    },
+    {
+        "clave": "250020200",
+        "nombre": "Santa Clara"
+    },
+    {
+        "clave": "250020201",
+        "nombre": "El Ebanito"
+    },
+    {
+        "clave": "250020202",
+        "nombre": "Rancho Chapo Arce"
+    },
+    {
+        "clave": "250020203",
+        "nombre": "Caseta de Sección 37"
+    },
+    {
+        "clave": "250020207",
+        "nombre": "La Gallera"
+    },
+    {
+        "clave": "250020209",
+        "nombre": "Procesadora de Cacahuate del Évora"
+    },
+    {
+        "clave": "250020211",
+        "nombre": "Rancho Alfonso Castro"
+    },
+    {
+        "clave": "250020212",
+        "nombre": "Haras del Évora [Rancho de Benjamín]"
+    },
+    {
+        "clave": "250020213",
+        "nombre": "Rancho Contreras"
+    },
+    {
+        "clave": "250020214",
+        "nombre": "El Álamo"
+    },
+    {
+        "clave": "250020215",
+        "nombre": "Rancho de Isabel Rodríguez"
+    },
+    {
+        "clave": "250020216",
+        "nombre": "Rancho Medardo Armenta"
+    },
+    {
+        "clave": "250020217",
+        "nombre": "Campo Niño Gastón"
+    },
+    {
+        "clave": "250020218",
+        "nombre": "Los Pozos"
+    },
+    {
+        "clave": "250020220",
+        "nombre": "Granja San Manuel"
+    },
+    {
+        "clave": "250020222",
+        "nombre": "Rancho Roberto Castro"
+    },
+    {
+        "clave": "250020223",
+        "nombre": "La Pocita"
+    },
+    {
+        "clave": "250020224",
+        "nombre": "Torocohui (La Florida)"
+    },
+    {
+        "clave": "250020226",
+        "nombre": "El Esterón (El Ejido)"
+    },
+    {
+        "clave": "250020227",
+        "nombre": "Rancho Rosario Romo"
+    },
+    {
+        "clave": "250020228",
+        "nombre": "Empaque San Agustín"
+    },
+    {
+        "clave": "250020229",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "250020230",
+        "nombre": "Patolandia"
+    },
+    {
+        "clave": "250020235",
+        "nombre": "Reginaldo Montoya (El Tranquilino)"
+    },
+    {
+        "clave": "250020236",
+        "nombre": "Vinoramal"
+    },
+    {
+        "clave": "250020237",
+        "nombre": "Campo Agrícola Cupira"
+    },
+    {
+        "clave": "250020238",
+        "nombre": "Campo Bacamopita"
+    },
+    {
+        "clave": "250020239",
+        "nombre": "Campo Héctor Salazar"
+    },
+    {
+        "clave": "250020240",
+        "nombre": "Campo las Maravillas"
+    },
+    {
+        "clave": "250020241",
+        "nombre": "Campo San Manuel"
+    },
+    {
+        "clave": "250020242",
+        "nombre": "Campo San Miguel"
+    },
+    {
+        "clave": "250020243",
+        "nombre": "Caseta de cobro Alhuey"
+    },
+    {
+        "clave": "250020244",
+        "nombre": "Caseta Número Dos"
+    },
+    {
+        "clave": "250020246",
+        "nombre": "Cuba"
+    },
+    {
+        "clave": "250020247",
+        "nombre": "San Manuel [Empaque]"
+    },
+    {
+        "clave": "250020248",
+        "nombre": "La Ramada [Entronque a San Isidro]"
+    },
+    {
+        "clave": "250020249",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "250020250",
+        "nombre": "Bacapora"
+    },
+    {
+        "clave": "250020251",
+        "nombre": "Rancho de Panchón"
+    },
+    {
+        "clave": "250020252",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "250020253",
+        "nombre": "Rancho sin Nombre"
+    },
+    {
+        "clave": "250020254",
+        "nombre": "La Lapara"
+    },
+    {
+        "clave": "250020255",
+        "nombre": "Rancho Víctor González"
+    },
+    {
+        "clave": "250020256",
+        "nombre": "El Gato Negro [Zona de Tolerancia]"
+    },
+    {
+        "clave": "250020257",
+        "nombre": "Punta el Esterón"
+    },
+    {
+        "clave": "250020258",
+        "nombre": "Isla Melendres"
+    },
+    {
+        "clave": "250020259",
+        "nombre": "La Loma Burra (Isla Altamura)"
+    },
+    {
+        "clave": "250020260",
+        "nombre": "El Guamúchil"
+    },
+    {
+        "clave": "250020261",
+        "nombre": "Punta del Guadarón (Isla Saliaca)"
+    },
+    {
+        "clave": "250020262",
+        "nombre": "Punta Chichirigote (Isla Talchichilte)"
+    },
+    {
+        "clave": "250020263",
+        "nombre": "Rancho Nico (Isla Talchichilte)"
+    },
+    {
+        "clave": "250020264",
+        "nombre": "Paredón Colorado"
+    },
+    {
+        "clave": "250020265",
+        "nombre": "La Risión (Isla Altamura)"
+    },
+    {
+        "clave": "250020266",
+        "nombre": "La Vuelta Grande (Isla Altamura)"
+    },
+    {
+        "clave": "250020267",
+        "nombre": "Campo Mexia"
+    },
+    {
+        "clave": "250020268",
+        "nombre": "Las Cuarenta"
+    },
+    {
+        "clave": "250020270",
+        "nombre": "Campo Morelia"
+    },
+    {
+        "clave": "250020271",
+        "nombre": "Caseta Recursos"
+    },
+    {
+        "clave": "250020272",
+        "nombre": "El Ciento Treinta"
+    },
+    {
+        "clave": "250020274",
+        "nombre": "Granja de Raymundo Osuna"
+    },
+    {
+        "clave": "250020275",
+        "nombre": "Granja Sin Nombre"
+    },
+    {
+        "clave": "250020276",
+        "nombre": "Rancho de Lupío"
+    },
+    {
+        "clave": "250020277",
+        "nombre": "El Niño Jesús"
+    },
+    {
+        "clave": "250020278",
+        "nombre": "Rancho Mercedes"
+    },
+    {
+        "clave": "250020279",
+        "nombre": "Restaurant el Hangar"
+    },
+    {
+        "clave": "250020280",
+        "nombre": "El Beceraje"
+    },
+    {
+        "clave": "250020281",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "250020282",
+        "nombre": "Los Tres Pinitos"
+    },
+    {
+        "clave": "250020283",
+        "nombre": "El Varal"
+    },
+    {
+        "clave": "250020284",
+        "nombre": "San Felipe [Empaque]"
+    },
+    {
+        "clave": "250020285",
+        "nombre": "Hacienda Agrícola Santa Teresa"
+    },
+    {
+        "clave": "250020286",
+        "nombre": "La Agustinita Loca"
+    },
+    {
+        "clave": "250020287",
+        "nombre": "Campo de los Espinoza"
+    },
+    {
+        "clave": "250020288",
+        "nombre": "Campo Santa Rómula"
+    },
+    {
+        "clave": "250020289",
+        "nombre": "El Gavilán"
+    },
+    {
+        "clave": "250020290",
+        "nombre": "El Corralón"
+    },
+    {
+        "clave": "250020291",
+        "nombre": "San Francisco [Empaque]"
+    },
+    {
+        "clave": "250020292",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "250020293",
+        "nombre": "Huerta Baldemar Montoya"
+    },
+    {
+        "clave": "250020294",
+        "nombre": "Huerta Guillermo Flores"
+    },
+    {
+        "clave": "250020295",
+        "nombre": "Isla el Otatito"
+    },
+    {
+        "clave": "250020296",
+        "nombre": "La Isleta"
+    },
+    {
+        "clave": "250020297",
+        "nombre": "Rancho Bernardo Castro"
+    },
+    {
+        "clave": "250020298",
+        "nombre": "Rancho Isac Pineda"
+    },
+    {
+        "clave": "250020299",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "250020300",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "250020301",
+        "nombre": "El Rastro Municipal"
+    },
+    {
+        "clave": "250020302",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "250020303",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250020304",
+        "nombre": "Localidad Sin Nombre"
+    },
+    {
+        "clave": "250020305",
+        "nombre": "Soyopa"
+    },
+    {
+        "clave": "250020306",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "250020307",
+        "nombre": "La Batosa"
+    },
+    {
+        "clave": "250020308",
+        "nombre": "Los Achires"
+    },
+    {
+        "clave": "250020309",
+        "nombre": "San Eligio"
+    },
+    {
+        "clave": "250020310",
+        "nombre": "Los Cedritos"
+    },
+    {
+        "clave": "250020311",
+        "nombre": "El Delirio"
+    },
+    {
+        "clave": "250020312",
+        "nombre": "El Coyote"
+    },
+    {
+        "clave": "250020313",
+        "nombre": "El Campito"
+    },
+    {
+        "clave": "250020314",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250020315",
+        "nombre": "El Rincón del Sapo"
+    },
+    {
+        "clave": "250020316",
+        "nombre": "La Palapa"
+    },
+    {
+        "clave": "250020317",
+        "nombre": "Granos y Forrajes Medina"
+    },
+    {
+        "clave": "250020318",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "250020319",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "250020320",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250020321",
+        "nombre": "Entronque Carretera Angostura-Reforma"
+    },
+    {
+        "clave": "250020322",
+        "nombre": "Pista del Camarón"
+    },
+    {
+        "clave": "250020323",
+        "nombre": "La Gastritis"
+    },
+    {
+        "clave": "250020324",
+        "nombre": "El Alacrán"
+    },
+    {
+        "clave": "250020325",
+        "nombre": "Cuatro Milpas"
+    },
+    {
+        "clave": "250020326",
+        "nombre": "Copales"
+    },
+    {
+        "clave": "250020327",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "250020328",
+        "nombre": "El Tejabán de los Téllez"
+    },
+    {
+        "clave": "250020329",
+        "nombre": "El Varalito"
+    },
+    {
+        "clave": "250020330",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250020332",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250020333",
+        "nombre": "Bigotes [Rancho]"
+    },
+    {
+        "clave": "250020334",
+        "nombre": "El Avión"
+    },
+    {
+        "clave": "250020335",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "250020336",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "250020337",
+        "nombre": "Elías Mascareño [Invernadero]"
+    },
+    {
+        "clave": "250020338",
+        "nombre": "Gustavo Angulo [Agrícola]"
+    },
+    {
+        "clave": "250020339",
+        "nombre": "Los Pozoles [Agrícola]"
+    },
+    {
+        "clave": "250020340",
+        "nombre": "Ninguno [Agrofusión]"
+    },
+    {
+        "clave": "250020341",
+        "nombre": "Ninguno [Caseta de Jefes de Sección Rogelio Zamora Espitia]"
+    },
+    {
+        "clave": "250020342",
+        "nombre": "Ninguno [Lavadora de Carros]"
+    },
+    {
+        "clave": "250020344",
+        "nombre": "Patrón [Bodega de Granos]"
+    },
+    {
+        "clave": "250020345",
+        "nombre": "Rancho del Évora"
+    },
+    {
+        "clave": "250020346",
+        "nombre": "Conceir [Agrícola]"
+    },
+    {
+        "clave": "250020347",
+        "nombre": "Ninguno [Caseta del Módulo de Riego]"
+    }
+]

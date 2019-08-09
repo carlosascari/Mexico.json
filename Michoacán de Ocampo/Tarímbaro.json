@@ -1,0 +1,618 @@
+[
+    {
+        "clave": "160880011",
+        "nombre": "Las Coronillas"
+    },
+    {
+        "clave": "160880169",
+        "nombre": "Wenceslao Victoria Soto"
+    },
+    {
+        "clave": "160880005",
+        "nombre": "Cañada del Herrero"
+    },
+    {
+        "clave": "160880006",
+        "nombre": "Cañada de los Sauces"
+    },
+    {
+        "clave": "160880008",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "160880009",
+        "nombre": "El Colegio"
+    },
+    {
+        "clave": "160880010",
+        "nombre": "La Concepción (La Conchita)"
+    },
+    {
+        "clave": "160880015",
+        "nombre": "Cuparátaro"
+    },
+    {
+        "clave": "160880016",
+        "nombre": "El Curiro"
+    },
+    {
+        "clave": "160880017",
+        "nombre": "Cuto del Porvenir"
+    },
+    {
+        "clave": "160880020",
+        "nombre": "Colonia Independencia"
+    },
+    {
+        "clave": "160880021",
+        "nombre": "Jamaica (Arindeo)"
+    },
+    {
+        "clave": "160880022",
+        "nombre": "El Lometón"
+    },
+    {
+        "clave": "160880025",
+        "nombre": "La Noria"
+    },
+    {
+        "clave": "160880034",
+        "nombre": "Santa Ana del Arco"
+    },
+    {
+        "clave": "160880035",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "160880047",
+        "nombre": "El Puesto"
+    },
+    {
+        "clave": "160880050",
+        "nombre": "Felipe Ángeles"
+    },
+    {
+        "clave": "160880077",
+        "nombre": "La Colmena (El Garbanzo)"
+    },
+    {
+        "clave": "160880087",
+        "nombre": "Colonia el Paraíso"
+    },
+    {
+        "clave": "160880100",
+        "nombre": "Kilómetro Doce"
+    },
+    {
+        "clave": "160880118",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "160880141",
+        "nombre": "Fraccionamiento Fray Bernabé de J. Montoya (La Ladera)"
+    },
+    {
+        "clave": "160880157",
+        "nombre": "Colonia Verónica López"
+    },
+    {
+        "clave": "160880161",
+        "nombre": "Ampliación Torreón Nuevo"
+    },
+    {
+        "clave": "160880165",
+        "nombre": "Ejido Jesús del Monte"
+    },
+    {
+        "clave": "160880001",
+        "nombre": "Tarímbaro"
+    },
+    {
+        "clave": "160880003",
+        "nombre": "Bellavista"
+    },
+    {
+        "clave": "160880012",
+        "nombre": "Cotzio"
+    },
+    {
+        "clave": "160880013",
+        "nombre": "El Cuitzillo Chico"
+    },
+    {
+        "clave": "160880014",
+        "nombre": "El Cuitzillo Grande"
+    },
+    {
+        "clave": "160880018",
+        "nombre": "Ex-hacienda de Guadalupe"
+    },
+    {
+        "clave": "160880019",
+        "nombre": "Colonia Miguel Hidalgo"
+    },
+    {
+        "clave": "160880024",
+        "nombre": "Mesón Nuevo (Cañada de la Magdalena)"
+    },
+    {
+        "clave": "160880026",
+        "nombre": "La Palma (Las Palmas)"
+    },
+    {
+        "clave": "160880027",
+        "nombre": "Peña del Panal"
+    },
+    {
+        "clave": "160880028",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "160880030",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "160880031",
+        "nombre": "San José de las Cerquillas"
+    },
+    {
+        "clave": "160880032",
+        "nombre": "San José de la Trinidad"
+    },
+    {
+        "clave": "160880033",
+        "nombre": "San Pedro de los Sauces"
+    },
+    {
+        "clave": "160880036",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "160880037",
+        "nombre": "Santo Domingo"
+    },
+    {
+        "clave": "160880038",
+        "nombre": "Téjaro de los Izquierdo"
+    },
+    {
+        "clave": "160880039",
+        "nombre": "Uruétaro"
+    },
+    {
+        "clave": "160880049",
+        "nombre": "Hacienda de la Capellanía (El Pozo)"
+    },
+    {
+        "clave": "160880051",
+        "nombre": "La Magdalena (Ex-hacienda de la Magdalena)"
+    },
+    {
+        "clave": "160880052",
+        "nombre": "Fraccionamiento los Ángeles (Francisco Villa)"
+    },
+    {
+        "clave": "160880053",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "160880054",
+        "nombre": "El Jagüey"
+    },
+    {
+        "clave": "160880057",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "160880058",
+        "nombre": "Francisca (Hacienda del Ingeniero J. Ángeles) [Granja]"
+    },
+    {
+        "clave": "160880059",
+        "nombre": "Hacienda Ponce de León"
+    },
+    {
+        "clave": "160880060",
+        "nombre": "La Mora (Hacienda del Profesor)"
+    },
+    {
+        "clave": "160880061",
+        "nombre": "Rancho Magdalena"
+    },
+    {
+        "clave": "160880062",
+        "nombre": "San Pedro (Hacienda de Daniel)"
+    },
+    {
+        "clave": "160880063",
+        "nombre": "Campestre Erandeni [Club]"
+    },
+    {
+        "clave": "160880065",
+        "nombre": "Conjunto Habitacional el Trébol"
+    },
+    {
+        "clave": "160880066",
+        "nombre": "Escuela Veterinaria (La Posta)"
+    },
+    {
+        "clave": "160880067",
+        "nombre": "Los Álamos"
+    },
+    {
+        "clave": "160880069",
+        "nombre": "Colonia Asociación Tres de Agosto"
+    },
+    {
+        "clave": "160880070",
+        "nombre": "Hacienda la Goleta"
+    },
+    {
+        "clave": "160880071",
+        "nombre": "Corralón Federal"
+    },
+    {
+        "clave": "160880072",
+        "nombre": "San Andrés"
+    },
+    {
+        "clave": "160880073",
+        "nombre": "Real Valladolid"
+    },
+    {
+        "clave": "160880074",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "160880075",
+        "nombre": "El Establo (Hacienda del Ingeniero Cruz García)"
+    },
+    {
+        "clave": "160880076",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "160880078",
+        "nombre": "Fraccionamiento Villa Tzipekua (Fraccionamiento Erandeni 3)"
+    },
+    {
+        "clave": "160880079",
+        "nombre": "Army [Granja]"
+    },
+    {
+        "clave": "160880080",
+        "nombre": "El Mezquite [Granja]"
+    },
+    {
+        "clave": "160880081",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "160880082",
+        "nombre": "Fraccionamiento Bugambilias"
+    },
+    {
+        "clave": "160880083",
+        "nombre": "Rancho Eréndira"
+    },
+    {
+        "clave": "160880084",
+        "nombre": "Rancho el Capricho"
+    },
+    {
+        "clave": "160880085",
+        "nombre": "Ampliación Jamaica"
+    },
+    {
+        "clave": "160880086",
+        "nombre": "Camino Viejo"
+    },
+    {
+        "clave": "160880088",
+        "nombre": "Colonia Lázaro Cárdenas"
+    },
+    {
+        "clave": "160880089",
+        "nombre": "Colonia San Miguel"
+    },
+    {
+        "clave": "160880090",
+        "nombre": "Cuto del Porvenir Uno"
+    },
+    {
+        "clave": "160880091",
+        "nombre": "Mesa de la Bembericua"
+    },
+    {
+        "clave": "160880092",
+        "nombre": "La Mora"
+    },
+    {
+        "clave": "160880093",
+        "nombre": "Palo Blanco"
+    },
+    {
+        "clave": "160880094",
+        "nombre": "Rancho del Señor Tapia"
+    },
+    {
+        "clave": "160880095",
+        "nombre": "Los Postes"
+    },
+    {
+        "clave": "160880096",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "160880097",
+        "nombre": "Santo Entierro"
+    },
+    {
+        "clave": "160880098",
+        "nombre": "Potrero el Sauz"
+    },
+    {
+        "clave": "160880102",
+        "nombre": "Uruétaro Uno"
+    },
+    {
+        "clave": "160880103",
+        "nombre": "Quinta Blasita"
+    },
+    {
+        "clave": "160880104",
+        "nombre": "El Banco de Tepetate"
+    },
+    {
+        "clave": "160880105",
+        "nombre": "Colonia Buenos Aires"
+    },
+    {
+        "clave": "160880106",
+        "nombre": "El Chirimoyo"
+    },
+    {
+        "clave": "160880107",
+        "nombre": "Lomas de la Aldea"
+    },
+    {
+        "clave": "160880108",
+        "nombre": "El Mastrante"
+    },
+    {
+        "clave": "160880109",
+        "nombre": "Potrero Nuevo"
+    },
+    {
+        "clave": "160880110",
+        "nombre": "Los Pingüinos"
+    },
+    {
+        "clave": "160880111",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "160880112",
+        "nombre": "El Sabino"
+    },
+    {
+        "clave": "160880113",
+        "nombre": "La Salle Morelia [Universidad]"
+    },
+    {
+        "clave": "160880114",
+        "nombre": "Real Hacienda (Metrópolis)"
+    },
+    {
+        "clave": "160880115",
+        "nombre": "Colonia Cueva del Coyote"
+    },
+    {
+        "clave": "160880116",
+        "nombre": "Colonia San Miguel Arcángel"
+    },
+    {
+        "clave": "160880117",
+        "nombre": "La Coronilla"
+    },
+    {
+        "clave": "160880119",
+        "nombre": "Ampl. Torreón Nvo. 6 (Laminadora de Cantera)"
+    },
+    {
+        "clave": "160880120",
+        "nombre": "Centro Estatal de Salud Mental"
+    },
+    {
+        "clave": "160880121",
+        "nombre": "Fraccionamiento Erandeni"
+    },
+    {
+        "clave": "160880122",
+        "nombre": "Colonia Recursos Hidráulicos"
+    },
+    {
+        "clave": "160880123",
+        "nombre": "Fraccionamiento Erandeni I, II y IV"
+    },
+    {
+        "clave": "160880124",
+        "nombre": "Fraccionamiento Galaxia Tarímbaro"
+    },
+    {
+        "clave": "160880125",
+        "nombre": "Fraccionamiento Jardín Morelia"
+    },
+    {
+        "clave": "160880126",
+        "nombre": "Fraccionamiento la Cantera"
+    },
+    {
+        "clave": "160880127",
+        "nombre": "Fraccionamiento Laureles Eréndira"
+    },
+    {
+        "clave": "160880128",
+        "nombre": "Fraccionamiento Mirador de las Monarcas"
+    },
+    {
+        "clave": "160880129",
+        "nombre": "Fraccionamiento Mirador de las Palmas"
+    },
+    {
+        "clave": "160880130",
+        "nombre": "Fraccionamiento Paseo del Erandeni"
+    },
+    {
+        "clave": "160880131",
+        "nombre": "Fraccionamiento Privadas del Sol"
+    },
+    {
+        "clave": "160880132",
+        "nombre": "Fraccionamiento Puerta del Sol"
+    },
+    {
+        "clave": "160880133",
+        "nombre": "Fraccionamiento Real Erandeni"
+    },
+    {
+        "clave": "160880134",
+        "nombre": "Fraccionamiento San José de la Palma"
+    },
+    {
+        "clave": "160880135",
+        "nombre": "Fraccionamiento Valle Real"
+    },
+    {
+        "clave": "160880136",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "160880137",
+        "nombre": "Puerta del Sol [Motel]"
+    },
+    {
+        "clave": "160880138",
+        "nombre": "Villa Natura"
+    },
+    {
+        "clave": "160880139",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "160880140",
+        "nombre": "Campestre Tarímbaro"
+    },
+    {
+        "clave": "160880142",
+        "nombre": "Fraccionamiento Paraíso Escondido Etapa I, II y III"
+    },
+    {
+        "clave": "160880143",
+        "nombre": "Fraccionamiento Paseos del Valle"
+    },
+    {
+        "clave": "160880144",
+        "nombre": "Fraccionamiento Paseo Santa Fe"
+    },
+    {
+        "clave": "160880145",
+        "nombre": "Fraccionamiento Metrópolis II"
+    },
+    {
+        "clave": "160880146",
+        "nombre": "Rinconada de los Sauces"
+    },
+    {
+        "clave": "160880147",
+        "nombre": "San Bernabé de las Canteras"
+    },
+    {
+        "clave": "160880148",
+        "nombre": "Terranova"
+    },
+    {
+        "clave": "160880149",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "160880150",
+        "nombre": "Ex-Hacienda de Uruétaro"
+    },
+    {
+        "clave": "160880151",
+        "nombre": "Fraccionamiento Vista Bella"
+    },
+    {
+        "clave": "160880152",
+        "nombre": "La Charca"
+    },
+    {
+        "clave": "160880153",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "160880154",
+        "nombre": "Las Morenas"
+    },
+    {
+        "clave": "160880155",
+        "nombre": "Terranova II"
+    },
+    {
+        "clave": "160880156",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "160880158",
+        "nombre": "Fraccionamiento Ex-hacienda San José"
+    },
+    {
+        "clave": "160880159",
+        "nombre": "Fraccionamiento la Luna"
+    },
+    {
+        "clave": "160880160",
+        "nombre": "El Vallado"
+    },
+    {
+        "clave": "160880162",
+        "nombre": "Fraccionamiento Hacienda el Encanto"
+    },
+    {
+        "clave": "160880163",
+        "nombre": "Fraccionamiento el Sendero"
+    },
+    {
+        "clave": "160880164",
+        "nombre": "Fraccionamiento Hacienda del Sol"
+    },
+    {
+        "clave": "160880166",
+        "nombre": "Fraccionamiento las Espigas"
+    },
+    {
+        "clave": "160880167",
+        "nombre": "La Capellanía"
+    },
+    {
+        "clave": "160880168",
+        "nombre": "Los Ruiseñores"
+    },
+    {
+        "clave": "160880170",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "160880171",
+        "nombre": "Colinas de la Palma"
+    },
+    {
+        "clave": "160880172",
+        "nombre": "Villa Sofía"
+    },
+    {
+        "clave": "160880173",
+        "nombre": "Monarca [Fraccionamiento Campestre]"
+    }
+]

@@ -1,0 +1,898 @@
+[
+    {
+        "clave": "270120055",
+        "nombre": "Guadalupe Victoria"
+    },
+    {
+        "clave": "270120083",
+        "nombre": "Los Naranjos 1ra. Sección"
+    },
+    {
+        "clave": "270120140",
+        "nombre": "Límbano Blandín 2da. Sección"
+    },
+    {
+        "clave": "270120169",
+        "nombre": "El Guanal"
+    },
+    {
+        "clave": "270120174",
+        "nombre": "El Güiro"
+    },
+    {
+        "clave": "270120237",
+        "nombre": "Los Gurría"
+    },
+    {
+        "clave": "270120271",
+        "nombre": "Las Lomas de Caparroso"
+    },
+    {
+        "clave": "270120003",
+        "nombre": "Abasolo"
+    },
+    {
+        "clave": "270120005",
+        "nombre": "Tulijá Sección Chinal"
+    },
+    {
+        "clave": "270120006",
+        "nombre": "Alto Tulijá 2da. Sección (Paredón)"
+    },
+    {
+        "clave": "270120007",
+        "nombre": "Álvaro Obregón"
+    },
+    {
+        "clave": "270120009",
+        "nombre": "Allende Alto 2da. Sección"
+    },
+    {
+        "clave": "270120010",
+        "nombre": "Allende Bajo 2da. Sección"
+    },
+    {
+        "clave": "270120012",
+        "nombre": "Bajo Tulijá"
+    },
+    {
+        "clave": "270120013",
+        "nombre": "Barrial"
+    },
+    {
+        "clave": "270120015",
+        "nombre": "El Bayo 2da. Sección"
+    },
+    {
+        "clave": "270120019",
+        "nombre": "Bitzal 1ra. Sección"
+    },
+    {
+        "clave": "270120020",
+        "nombre": "Bitzal 2da. Sección"
+    },
+    {
+        "clave": "270120021",
+        "nombre": "Bitzal 3ra. Sección"
+    },
+    {
+        "clave": "270120022",
+        "nombre": "Bitzal 4ta. Sección"
+    },
+    {
+        "clave": "270120023",
+        "nombre": "Bitzal 5ta. Sección"
+    },
+    {
+        "clave": "270120024",
+        "nombre": "Bitzal 6ta. Sección"
+    },
+    {
+        "clave": "270120026",
+        "nombre": "Bonanza 2da. Sección"
+    },
+    {
+        "clave": "270120030",
+        "nombre": "Las Campanas"
+    },
+    {
+        "clave": "270120031",
+        "nombre": "Carlos Greene 2da. Sección"
+    },
+    {
+        "clave": "270120032",
+        "nombre": "Carmen Serdán"
+    },
+    {
+        "clave": "270120033",
+        "nombre": "Castro y Güiro"
+    },
+    {
+        "clave": "270120034",
+        "nombre": "Clemente Reyes 1ra. Sección"
+    },
+    {
+        "clave": "270120035",
+        "nombre": "Rovirosa"
+    },
+    {
+        "clave": "270120036",
+        "nombre": "El Congo"
+    },
+    {
+        "clave": "270120037",
+        "nombre": "Corralillo 1ra. Sección (Nopalapa)"
+    },
+    {
+        "clave": "270120038",
+        "nombre": "Cuauhtémoc"
+    },
+    {
+        "clave": "270120040",
+        "nombre": "Chilapilla 1ra. Sección"
+    },
+    {
+        "clave": "270120041",
+        "nombre": "Chivalito 2da. Sección"
+    },
+    {
+        "clave": "270120043",
+        "nombre": "Emiliano Zapata 1ra. Sección"
+    },
+    {
+        "clave": "270120044",
+        "nombre": "Emiliano Zapata 2da. Sección"
+    },
+    {
+        "clave": "270120046",
+        "nombre": "Francisco Bates"
+    },
+    {
+        "clave": "270120047",
+        "nombre": "Francisco I. Madero Alto 1ra. Sección"
+    },
+    {
+        "clave": "270120048",
+        "nombre": "Francisco I. Madero Alto 2da. Sección"
+    },
+    {
+        "clave": "270120049",
+        "nombre": "Francisco I. Madero Bajo"
+    },
+    {
+        "clave": "270120050",
+        "nombre": "Francisco Javier Mina (El Coco)"
+    },
+    {
+        "clave": "270120052",
+        "nombre": "Morelos"
+    },
+    {
+        "clave": "270120053",
+        "nombre": "Gregorio Méndez 2da. Sección (Pataztal)"
+    },
+    {
+        "clave": "270120054",
+        "nombre": "Gregorio Méndez 1ra. Sección"
+    },
+    {
+        "clave": "270120056",
+        "nombre": "Guillermo Prieto"
+    },
+    {
+        "clave": "270120057",
+        "nombre": "Gustavo A. Madero"
+    },
+    {
+        "clave": "270120058",
+        "nombre": "Miguel Hidalgo 1ra. Sección"
+    },
+    {
+        "clave": "270120059",
+        "nombre": "Ignacio Manuel Altamirano 1ra. Sección"
+    },
+    {
+        "clave": "270120060",
+        "nombre": "Ignacio Manuel Altamirano 2da. Sección"
+    },
+    {
+        "clave": "270120062",
+        "nombre": "La Isla 1ra. Sección"
+    },
+    {
+        "clave": "270120063",
+        "nombre": "La Isla 2da. Sección"
+    },
+    {
+        "clave": "270120065",
+        "nombre": "José María Pino Suárez"
+    },
+    {
+        "clave": "270120068",
+        "nombre": "Lázaro Cárdenas 1ra. Sección"
+    },
+    {
+        "clave": "270120069",
+        "nombre": "Lerdo de Tejada 1ra. Sección"
+    },
+    {
+        "clave": "270120070",
+        "nombre": "Lerdo de Tejada 2da. Sección"
+    },
+    {
+        "clave": "270120072",
+        "nombre": "Licenciado Juan César Becerra Bates"
+    },
+    {
+        "clave": "270120075",
+        "nombre": "Limón 2da. Sección Sector A"
+    },
+    {
+        "clave": "270120076",
+        "nombre": "El Maluco 1ra. Sección"
+    },
+    {
+        "clave": "270120077",
+        "nombre": "Melchor Ocampo 1ra. Sección"
+    },
+    {
+        "clave": "270120078",
+        "nombre": "Miguel Allende"
+    },
+    {
+        "clave": "270120079",
+        "nombre": "Miguel Orrico de los Llanos"
+    },
+    {
+        "clave": "270120081",
+        "nombre": "Monte Largo 1ra. Sección"
+    },
+    {
+        "clave": "270120082",
+        "nombre": "Morelos"
+    },
+    {
+        "clave": "270120084",
+        "nombre": "Narciso Mendoza 1ra. Sección"
+    },
+    {
+        "clave": "270120085",
+        "nombre": "Nicolás Bravo"
+    },
+    {
+        "clave": "270120086",
+        "nombre": "Nueva División del Bayo (Guatemala)"
+    },
+    {
+        "clave": "270120087",
+        "nombre": "Palomas"
+    },
+    {
+        "clave": "270120089",
+        "nombre": "Pedro A. González"
+    },
+    {
+        "clave": "270120090",
+        "nombre": "Pedro C. Colorado 1ra. Sección"
+    },
+    {
+        "clave": "270120092",
+        "nombre": "Pitahaya"
+    },
+    {
+        "clave": "270120093",
+        "nombre": "Playas de las Jiménez"
+    },
+    {
+        "clave": "270120094",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "270120095",
+        "nombre": "Profesor Caparroso 1ra. Sección"
+    },
+    {
+        "clave": "270120096",
+        "nombre": "Profesor Caparroso 2da. Sección"
+    },
+    {
+        "clave": "270120098",
+        "nombre": "Ramón Grande"
+    },
+    {
+        "clave": "270120099",
+        "nombre": "Reforma 1ra. Sección"
+    },
+    {
+        "clave": "270120101",
+        "nombre": "Santos Degollado 2da. Sección"
+    },
+    {
+        "clave": "270120102",
+        "nombre": "Santuario 1ra. Sección (Estación Macuspana)"
+    },
+    {
+        "clave": "270120103",
+        "nombre": "Santuario 2da. Sección"
+    },
+    {
+        "clave": "270120105",
+        "nombre": "Tierra Colorada"
+    },
+    {
+        "clave": "270120106",
+        "nombre": "El Triunfo 1ra. Sección"
+    },
+    {
+        "clave": "270120107",
+        "nombre": "Unión y Libertad"
+    },
+    {
+        "clave": "270120108",
+        "nombre": "Venustiano Carranza (La Alianza)"
+    },
+    {
+        "clave": "270120109",
+        "nombre": "Vernet 1ra. Sección"
+    },
+    {
+        "clave": "270120111",
+        "nombre": "Vernet 3ra. Sección"
+    },
+    {
+        "clave": "270120112",
+        "nombre": "Vernet 4ta. Sección (Juan Salas)"
+    },
+    {
+        "clave": "270120113",
+        "nombre": "Vernet 5ta. Sección (Corozal)"
+    },
+    {
+        "clave": "270120114",
+        "nombre": "Vernet 6ta. Sección (San Lorenzo)"
+    },
+    {
+        "clave": "270120115",
+        "nombre": "Vicente Guerrero 1ra. Sección"
+    },
+    {
+        "clave": "270120116",
+        "nombre": "Virginio Chan 3ra. Sección"
+    },
+    {
+        "clave": "270120117",
+        "nombre": "Virginio Chan 2da. Sección"
+    },
+    {
+        "clave": "270120118",
+        "nombre": "Zopo Norte"
+    },
+    {
+        "clave": "270120119",
+        "nombre": "Allende Bajo 1ra. Sección (San Joaquín)"
+    },
+    {
+        "clave": "270120120",
+        "nombre": "Allende Bajo 2da. Sección (San Diego)"
+    },
+    {
+        "clave": "270120121",
+        "nombre": "Bitzal 7ma. Sección"
+    },
+    {
+        "clave": "270120125",
+        "nombre": "Bayona"
+    },
+    {
+        "clave": "270120126",
+        "nombre": "Corralillo 1ra. Sección"
+    },
+    {
+        "clave": "270120127",
+        "nombre": "Chilapilla 2da. Sección"
+    },
+    {
+        "clave": "270120128",
+        "nombre": "Miguel Hidalgo 2da. Sección"
+    },
+    {
+        "clave": "270120129",
+        "nombre": "Lázaro Cárdenas 2da. Sección"
+    },
+    {
+        "clave": "270120131",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "270120134",
+        "nombre": "Melchor Ocampo 2da. Sección"
+    },
+    {
+        "clave": "270120136",
+        "nombre": "Mariano Matamoros"
+    },
+    {
+        "clave": "270120137",
+        "nombre": "Veinte de Noviembre"
+    },
+    {
+        "clave": "270120138",
+        "nombre": "Nuevo Progreso (La Candelaria)"
+    },
+    {
+        "clave": "270120139",
+        "nombre": "Chivalito 4ta. Sección"
+    },
+    {
+        "clave": "270120141",
+        "nombre": "La Escalera"
+    },
+    {
+        "clave": "270120142",
+        "nombre": "Simón Sarlat"
+    },
+    {
+        "clave": "270120143",
+        "nombre": "Pedro C. Colorado 2da. Sección (Orizaba)"
+    },
+    {
+        "clave": "270120146",
+        "nombre": "Limón 1ra. Sección Sector B"
+    },
+    {
+        "clave": "270120150",
+        "nombre": "El Triunfo 2da. Sección"
+    },
+    {
+        "clave": "270120152",
+        "nombre": "Chiquihuite"
+    },
+    {
+        "clave": "270120153",
+        "nombre": "Progreso (Guaruma)"
+    },
+    {
+        "clave": "270120155",
+        "nombre": "Zopo Sur"
+    },
+    {
+        "clave": "270120160",
+        "nombre": "Allende Alto 1ra. Sección"
+    },
+    {
+        "clave": "270120161",
+        "nombre": "Arroyo Hondo (Vicente Guerrero 2da. Sección)"
+    },
+    {
+        "clave": "270120162",
+        "nombre": "Alto Tulijá 1ra. Sección (Lechugal)"
+    },
+    {
+        "clave": "270120163",
+        "nombre": "El Bayo 1ra. Sección (Granada)"
+    },
+    {
+        "clave": "270120165",
+        "nombre": "Cacahuatalillo"
+    },
+    {
+        "clave": "270120166",
+        "nombre": "La Candelaria (El Barrial)"
+    },
+    {
+        "clave": "270120170",
+        "nombre": "Corozo"
+    },
+    {
+        "clave": "270120178",
+        "nombre": "Otatal"
+    },
+    {
+        "clave": "270120180",
+        "nombre": "Benito Juárez Sección Panzillal"
+    },
+    {
+        "clave": "270120185",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "270120188",
+        "nombre": "San Lucas"
+    },
+    {
+        "clave": "270120195",
+        "nombre": "Tierra Colorada (Vicente Guerrero 3ra. Sección)"
+    },
+    {
+        "clave": "270120196",
+        "nombre": "Veinte de Noviembre"
+    },
+    {
+        "clave": "270120197",
+        "nombre": "Xicotencatl"
+    },
+    {
+        "clave": "270120198",
+        "nombre": "La Y Griega"
+    },
+    {
+        "clave": "270120199",
+        "nombre": "José López Portillo"
+    },
+    {
+        "clave": "270120206",
+        "nombre": "Corralillo 2da. Sección (La Princesa)"
+    },
+    {
+        "clave": "270120208",
+        "nombre": "Tomás Garrido Canabal"
+    },
+    {
+        "clave": "270120209",
+        "nombre": "Las Ferias"
+    },
+    {
+        "clave": "270120210",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "270120211",
+        "nombre": "El Mango"
+    },
+    {
+        "clave": "270120214",
+        "nombre": "Narciso Mendoza 2da. Sección"
+    },
+    {
+        "clave": "270120215",
+        "nombre": "Sitio Nuevo"
+    },
+    {
+        "clave": "270120216",
+        "nombre": "Buena Vista (Puxcatán)"
+    },
+    {
+        "clave": "270120217",
+        "nombre": "Ampliación Morelos (Los Morales)"
+    },
+    {
+        "clave": "270120219",
+        "nombre": "Nabor Cornelio"
+    },
+    {
+        "clave": "270120220",
+        "nombre": "Andrés García"
+    },
+    {
+        "clave": "270120222",
+        "nombre": "Guacamaya"
+    },
+    {
+        "clave": "270120223",
+        "nombre": "Trinidad Malpica Hernández"
+    },
+    {
+        "clave": "270120224",
+        "nombre": "El Venadito"
+    },
+    {
+        "clave": "270120225",
+        "nombre": "Celia González de Rovirosa"
+    },
+    {
+        "clave": "270120226",
+        "nombre": "Melchor Ocampo 3ra. Sección"
+    },
+    {
+        "clave": "270120228",
+        "nombre": "Tierra Colorada (El Indio)"
+    },
+    {
+        "clave": "270120229",
+        "nombre": "Belén Monte Largo 3ra. Sección (Tronchadero)"
+    },
+    {
+        "clave": "270120230",
+        "nombre": "Ignacio Zaragoza (Los Ateos)"
+    },
+    {
+        "clave": "270120231",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "270120232",
+        "nombre": "El Regocijo"
+    },
+    {
+        "clave": "270120233",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "270120234",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "270120235",
+        "nombre": "Monte Largo 2da. Sección"
+    },
+    {
+        "clave": "270120238",
+        "nombre": "Vernet Sierra de Guadalupe"
+    },
+    {
+        "clave": "270120241",
+        "nombre": "Los Güiros"
+    },
+    {
+        "clave": "270120242",
+        "nombre": "Los Naranjos 2da. Sección (Sección Pichalito)"
+    },
+    {
+        "clave": "270120244",
+        "nombre": "Vernet 1ra. Sección (Los Venados)"
+    },
+    {
+        "clave": "270120245",
+        "nombre": "Limón 1ra. Sección Sector C"
+    },
+    {
+        "clave": "270120246",
+        "nombre": "Limón 2da. Sección Sector B"
+    },
+    {
+        "clave": "270120248",
+        "nombre": "Carmen Serdán"
+    },
+    {
+        "clave": "270120251",
+        "nombre": "El Triunfo 3ra. Sección"
+    },
+    {
+        "clave": "270120252",
+        "nombre": "Clemente Reyes 2da. Sección"
+    },
+    {
+        "clave": "270120254",
+        "nombre": "Abasolo 1ra. Sección"
+    },
+    {
+        "clave": "270120255",
+        "nombre": "Bajo Allende 1ra. Sección"
+    },
+    {
+        "clave": "270120256",
+        "nombre": "San José"
+    },
+    {
+        "clave": "270120261",
+        "nombre": "Linda Vista"
+    },
+    {
+        "clave": "270120262",
+        "nombre": "Santa Lucía"
+    },
+    {
+        "clave": "270120266",
+        "nombre": "Abasolo 2da. Sección"
+    },
+    {
+        "clave": "270120267",
+        "nombre": "Carlos Greene 1ra. Sección"
+    },
+    {
+        "clave": "270120268",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "270120269",
+        "nombre": "Simón Sarlat 2da. Sección (San Martín)"
+    },
+    {
+        "clave": "270120272",
+        "nombre": "Narciso Mendoza (Chilapilla 1ra. Sección)"
+    },
+    {
+        "clave": "270120001",
+        "nombre": "Macuspana"
+    },
+    {
+        "clave": "270120004",
+        "nombre": "Alcalde Mayor"
+    },
+    {
+        "clave": "270120011",
+        "nombre": "Aquiles Serdán (San Fernando)"
+    },
+    {
+        "clave": "270120014",
+        "nombre": "Santos Degollado 1ra. Sección (El Bayo)"
+    },
+    {
+        "clave": "270120016",
+        "nombre": "Belén"
+    },
+    {
+        "clave": "270120018",
+        "nombre": "Benito Juárez (San Carlos)"
+    },
+    {
+        "clave": "270120025",
+        "nombre": "Bonanza 1ra. Sección"
+    },
+    {
+        "clave": "270120028",
+        "nombre": "Buena Vista (Apasco)"
+    },
+    {
+        "clave": "270120029",
+        "nombre": "Buergos"
+    },
+    {
+        "clave": "270120039",
+        "nombre": "La Curva"
+    },
+    {
+        "clave": "270120045",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "270120051",
+        "nombre": "Hermenegildo Galeana (Chiveros)"
+    },
+    {
+        "clave": "270120064",
+        "nombre": "José Colomo"
+    },
+    {
+        "clave": "270120071",
+        "nombre": "Adolfo López Mateos (Corral Nuevo)"
+    },
+    {
+        "clave": "270120073",
+        "nombre": "Límbano Blandín 1ra. Sección"
+    },
+    {
+        "clave": "270120074",
+        "nombre": "Limón 1ra. Sección Sector A"
+    },
+    {
+        "clave": "270120080",
+        "nombre": "Monte Adentro"
+    },
+    {
+        "clave": "270120088",
+        "nombre": "Paraíso"
+    },
+    {
+        "clave": "270120091",
+        "nombre": "Pemex (Ciudad Pemex)"
+    },
+    {
+        "clave": "270120104",
+        "nombre": "Tepetitán"
+    },
+    {
+        "clave": "270120110",
+        "nombre": "Vernet 2da. Sección"
+    },
+    {
+        "clave": "270120124",
+        "nombre": "Encrucijada"
+    },
+    {
+        "clave": "270120132",
+        "nombre": "Virginio Chan 1ra. Sección"
+    },
+    {
+        "clave": "270120133",
+        "nombre": "El Chinalito"
+    },
+    {
+        "clave": "270120135",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "270120145",
+        "nombre": "Maluco 2da. Sección (Juan Vaquero)"
+    },
+    {
+        "clave": "270120151",
+        "nombre": "El Corchal"
+    },
+    {
+        "clave": "270120167",
+        "nombre": "Clemente Reyes 2da. Sección (Cantemoc)"
+    },
+    {
+        "clave": "270120176",
+        "nombre": "Maculizal"
+    },
+    {
+        "clave": "270120179",
+        "nombre": "El Pajaral"
+    },
+    {
+        "clave": "270120183",
+        "nombre": "Ramoncito"
+    },
+    {
+        "clave": "270120184",
+        "nombre": "Reforma 2da. Sección"
+    },
+    {
+        "clave": "270120189",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "270120192",
+        "nombre": "La Sombra"
+    },
+    {
+        "clave": "270120193",
+        "nombre": "Tasiste"
+    },
+    {
+        "clave": "270120194",
+        "nombre": "Tepetitán (Emporio)"
+    },
+    {
+        "clave": "270120212",
+        "nombre": "El Reventón"
+    },
+    {
+        "clave": "270120218",
+        "nombre": "Ampliación Morelos"
+    },
+    {
+        "clave": "270120227",
+        "nombre": "Santa Ana"
+    },
+    {
+        "clave": "270120236",
+        "nombre": "San Juan de Ismate"
+    },
+    {
+        "clave": "270120239",
+        "nombre": "San Juan Bautista"
+    },
+    {
+        "clave": "270120240",
+        "nombre": "Los Arbolitos"
+    },
+    {
+        "clave": "270120243",
+        "nombre": "Huapacal"
+    },
+    {
+        "clave": "270120257",
+        "nombre": "El Chinal"
+    },
+    {
+        "clave": "270120258",
+        "nombre": "Aquiles Serdán"
+    },
+    {
+        "clave": "270120259",
+        "nombre": "García"
+    },
+    {
+        "clave": "270120260",
+        "nombre": "La Curva Uno"
+    },
+    {
+        "clave": "270120263",
+        "nombre": "La Curva Dos"
+    },
+    {
+        "clave": "270120265",
+        "nombre": "Independencia"
+    },
+    {
+        "clave": "270120270",
+        "nombre": "Independencia Uno"
+    },
+    {
+        "clave": "270120273",
+        "nombre": "La Providencia"
+    }
+]

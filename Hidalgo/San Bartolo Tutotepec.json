@@ -1,0 +1,574 @@
+[
+    {
+        "clave": "130530003",
+        "nombre": "Agua Escondida"
+    },
+    {
+        "clave": "130530004",
+        "nombre": "Agua Grande"
+    },
+    {
+        "clave": "130530005",
+        "nombre": "Agua Hedionda"
+    },
+    {
+        "clave": "130530006",
+        "nombre": "Los Álamos"
+    },
+    {
+        "clave": "130530007",
+        "nombre": "El Banco"
+    },
+    {
+        "clave": "130530010",
+        "nombre": "La Campana"
+    },
+    {
+        "clave": "130530013",
+        "nombre": "La Cerca"
+    },
+    {
+        "clave": "130530014",
+        "nombre": "Cerro de Buena Vista"
+    },
+    {
+        "clave": "130530015",
+        "nombre": "Cerro Macho"
+    },
+    {
+        "clave": "130530016",
+        "nombre": "Cerro Pelón"
+    },
+    {
+        "clave": "130530017",
+        "nombre": "Cerro Verde"
+    },
+    {
+        "clave": "130530021",
+        "nombre": "La Cueva"
+    },
+    {
+        "clave": "130530023",
+        "nombre": "Chicamole"
+    },
+    {
+        "clave": "130530025",
+        "nombre": "El Encinal"
+    },
+    {
+        "clave": "130530026",
+        "nombre": "El Hongo"
+    },
+    {
+        "clave": "130530028",
+        "nombre": "Huasquilla"
+    },
+    {
+        "clave": "130530029",
+        "nombre": "El Jicote"
+    },
+    {
+        "clave": "130530030",
+        "nombre": "El Jovión"
+    },
+    {
+        "clave": "130530034",
+        "nombre": "Loma Larga"
+    },
+    {
+        "clave": "130530035",
+        "nombre": "Llano Grande"
+    },
+    {
+        "clave": "130530036",
+        "nombre": "El Mahuaquite"
+    },
+    {
+        "clave": "130530038",
+        "nombre": "Medio Monte"
+    },
+    {
+        "clave": "130530039",
+        "nombre": "Milpa Larga"
+    },
+    {
+        "clave": "130530041",
+        "nombre": "Monte Grande"
+    },
+    {
+        "clave": "130530043",
+        "nombre": "El Mundhó"
+    },
+    {
+        "clave": "130530046",
+        "nombre": "El Nanjo"
+    },
+    {
+        "clave": "130530048",
+        "nombre": "El Naranjal"
+    },
+    {
+        "clave": "130530049",
+        "nombre": "El Nenjo"
+    },
+    {
+        "clave": "130530050",
+        "nombre": "El Ñundo"
+    },
+    {
+        "clave": "130530052",
+        "nombre": "Palo Gordo"
+    },
+    {
+        "clave": "130530053",
+        "nombre": "El Paraíso de Tierra Fuerte"
+    },
+    {
+        "clave": "130530054",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "130530057",
+        "nombre": "Pie del Cerro"
+    },
+    {
+        "clave": "130530058",
+        "nombre": "Piedra Ancha"
+    },
+    {
+        "clave": "130530060",
+        "nombre": "Los Planes"
+    },
+    {
+        "clave": "130530061",
+        "nombre": "El Popotillo Grande"
+    },
+    {
+        "clave": "130530063",
+        "nombre": "El Progreso"
+    },
+    {
+        "clave": "130530066",
+        "nombre": "Juntas del Río"
+    },
+    {
+        "clave": "130530068",
+        "nombre": "San Jerónimo"
+    },
+    {
+        "clave": "130530072",
+        "nombre": "San Sebastián"
+    },
+    {
+        "clave": "130530073",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "130530075",
+        "nombre": "Santiaguito"
+    },
+    {
+        "clave": "130530079",
+        "nombre": "Tenantitlán"
+    },
+    {
+        "clave": "130530081",
+        "nombre": "Tierra Fuerte"
+    },
+    {
+        "clave": "130530083",
+        "nombre": "Rincón de Cerro Macho"
+    },
+    {
+        "clave": "130530084",
+        "nombre": "El Cojolite"
+    },
+    {
+        "clave": "130530085",
+        "nombre": "El Veinte"
+    },
+    {
+        "clave": "130530086",
+        "nombre": "La Venta"
+    },
+    {
+        "clave": "130530090",
+        "nombre": "La Vereda"
+    },
+    {
+        "clave": "130530091",
+        "nombre": "Xuchitlán"
+    },
+    {
+        "clave": "130530092",
+        "nombre": "El Zenthe"
+    },
+    {
+        "clave": "130530095",
+        "nombre": "El Fresno"
+    },
+    {
+        "clave": "130530099",
+        "nombre": "La Flor de Santiago (La Flor)"
+    },
+    {
+        "clave": "130530100",
+        "nombre": "Llano Seco"
+    },
+    {
+        "clave": "130530102",
+        "nombre": "El Oratorio"
+    },
+    {
+        "clave": "130530103",
+        "nombre": "Piedra Blanca"
+    },
+    {
+        "clave": "130530106",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "130530109",
+        "nombre": "La Segunda Ranchería"
+    },
+    {
+        "clave": "130530111",
+        "nombre": "El Xúchitl"
+    },
+    {
+        "clave": "130530112",
+        "nombre": "El Seis"
+    },
+    {
+        "clave": "130530113",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "130530114",
+        "nombre": "Piedra Larga"
+    },
+    {
+        "clave": "130530115",
+        "nombre": "La Sabana"
+    },
+    {
+        "clave": "130530122",
+        "nombre": "La Barranca (El Infiernillo)"
+    },
+    {
+        "clave": "130530128",
+        "nombre": "Cerro Negro"
+    },
+    {
+        "clave": "130530129",
+        "nombre": "El Denxe"
+    },
+    {
+        "clave": "130530130",
+        "nombre": "Diez Cerros"
+    },
+    {
+        "clave": "130530131",
+        "nombre": "El Hongo"
+    },
+    {
+        "clave": "130530133",
+        "nombre": "El Lindero Chico"
+    },
+    {
+        "clave": "130530136",
+        "nombre": "El Nandho"
+    },
+    {
+        "clave": "130530139",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "130530140",
+        "nombre": "El Templado"
+    },
+    {
+        "clave": "130530145",
+        "nombre": "La Pagua"
+    },
+    {
+        "clave": "130530147",
+        "nombre": "El Piñal"
+    },
+    {
+        "clave": "130530148",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "130530150",
+        "nombre": "El Caliche"
+    },
+    {
+        "clave": "130530152",
+        "nombre": "El Barrio de San Mateo"
+    },
+    {
+        "clave": "130530158",
+        "nombre": "El Lindero de San Mateo"
+    },
+    {
+        "clave": "130530159",
+        "nombre": "La Loma de Cerro Verde"
+    },
+    {
+        "clave": "130530160",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "130530165",
+        "nombre": "El Popotillo Chico"
+    },
+    {
+        "clave": "130530167",
+        "nombre": "Barrio del Canjoy"
+    },
+    {
+        "clave": "130530169",
+        "nombre": "San Gabriel"
+    },
+    {
+        "clave": "130530008",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "130530009",
+        "nombre": "Calintla"
+    },
+    {
+        "clave": "130530011",
+        "nombre": "El Candeje"
+    },
+    {
+        "clave": "130530012",
+        "nombre": "El Canjoy"
+    },
+    {
+        "clave": "130530018",
+        "nombre": "El Copal"
+    },
+    {
+        "clave": "130530020",
+        "nombre": "Cueva Ahumada"
+    },
+    {
+        "clave": "130530022",
+        "nombre": "La Cumbre de Muridores"
+    },
+    {
+        "clave": "130530024",
+        "nombre": "El Dónimo"
+    },
+    {
+        "clave": "130530027",
+        "nombre": "La Huahua"
+    },
+    {
+        "clave": "130530037",
+        "nombre": "El Mavodo"
+    },
+    {
+        "clave": "130530056",
+        "nombre": "Pie del Cerro"
+    },
+    {
+        "clave": "130530064",
+        "nombre": "Valle Verde"
+    },
+    {
+        "clave": "130530065",
+        "nombre": "Río Chiquito"
+    },
+    {
+        "clave": "130530067",
+        "nombre": "San Andrés"
+    },
+    {
+        "clave": "130530069",
+        "nombre": "San Juan de las Flores"
+    },
+    {
+        "clave": "130530070",
+        "nombre": "San Mateo"
+    },
+    {
+        "clave": "130530071",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "130530074",
+        "nombre": "Santiago"
+    },
+    {
+        "clave": "130530093",
+        "nombre": "El Zopilote"
+    },
+    {
+        "clave": "130530105",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "130530126",
+        "nombre": "Colonia Industrial"
+    },
+    {
+        "clave": "130530134",
+        "nombre": "La Loma de San Andrés"
+    },
+    {
+        "clave": "130530141",
+        "nombre": "Tutotepec"
+    },
+    {
+        "clave": "130530144",
+        "nombre": "La Cumbre de la Campana"
+    },
+    {
+        "clave": "130530149",
+        "nombre": "La Ventilla"
+    },
+    {
+        "clave": "130530153",
+        "nombre": "Camarones"
+    },
+    {
+        "clave": "130530156",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "130530162",
+        "nombre": "Los Manantiales"
+    },
+    {
+        "clave": "130530166",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "130530170",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "130530171",
+        "nombre": "Media Cuesta"
+    },
+    {
+        "clave": "130530001",
+        "nombre": "San Bartolo Tutotepec"
+    },
+    {
+        "clave": "130530019",
+        "nombre": "El Coyul"
+    },
+    {
+        "clave": "130530031",
+        "nombre": "El Juandhó"
+    },
+    {
+        "clave": "130530042",
+        "nombre": "El Mothó"
+    },
+    {
+        "clave": "130530047",
+        "nombre": "El Naranjal"
+    },
+    {
+        "clave": "130530076",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "130530077",
+        "nombre": "La Sorpresa"
+    },
+    {
+        "clave": "130530078",
+        "nombre": "El Sotol"
+    },
+    {
+        "clave": "130530080",
+        "nombre": "Tierra Amarilla"
+    },
+    {
+        "clave": "130530082",
+        "nombre": "El Tigrillo"
+    },
+    {
+        "clave": "130530094",
+        "nombre": "Arroyo Seco"
+    },
+    {
+        "clave": "130530107",
+        "nombre": "Salto del Agua"
+    },
+    {
+        "clave": "130530110",
+        "nombre": "El Tomate"
+    },
+    {
+        "clave": "130530118",
+        "nombre": "El Grillo"
+    },
+    {
+        "clave": "130530125",
+        "nombre": "El Boncho"
+    },
+    {
+        "clave": "130530127",
+        "nombre": "El Borbollón (Loma Bonita)"
+    },
+    {
+        "clave": "130530132",
+        "nombre": "El Lindero"
+    },
+    {
+        "clave": "130530135",
+        "nombre": "Masoya"
+    },
+    {
+        "clave": "130530138",
+        "nombre": "Poza Larga"
+    },
+    {
+        "clave": "130530142",
+        "nombre": "El Arco"
+    },
+    {
+        "clave": "130530151",
+        "nombre": "Agua Linda"
+    },
+    {
+        "clave": "130530154",
+        "nombre": "La Florida (La Canoa)"
+    },
+    {
+        "clave": "130530155",
+        "nombre": "El Jonotal"
+    },
+    {
+        "clave": "130530157",
+        "nombre": "El Lindero de San Jerónimo"
+    },
+    {
+        "clave": "130530161",
+        "nombre": "El Mamey (Agua de los Monos)"
+    },
+    {
+        "clave": "130530163",
+        "nombre": "Anaya"
+    },
+    {
+        "clave": "130530164",
+        "nombre": "Piedra Ancha"
+    },
+    {
+        "clave": "130530168",
+        "nombre": "Piedras Negras"
+    },
+    {
+        "clave": "130530172",
+        "nombre": "Barrio de las Maravillas"
+    }
+]

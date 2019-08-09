@@ -1,0 +1,450 @@
+[
+    {
+        "clave": "220030012",
+        "nombre": "Cerro Blanco"
+    },
+    {
+        "clave": "220030027",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "220030035",
+        "nombre": "Panales"
+    },
+    {
+        "clave": "220030049",
+        "nombre": "El Sabino"
+    },
+    {
+        "clave": "220030084",
+        "nombre": "La Escondida de Hidalgo"
+    },
+    {
+        "clave": "220030099",
+        "nombre": "Agua Fría de los Fresnos"
+    },
+    {
+        "clave": "220030002",
+        "nombre": "Las Adjuntas"
+    },
+    {
+        "clave": "220030003",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "220030006",
+        "nombre": "Ayutla"
+    },
+    {
+        "clave": "220030008",
+        "nombre": "El Bosque"
+    },
+    {
+        "clave": "220030010",
+        "nombre": "La Cantera"
+    },
+    {
+        "clave": "220030013",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "220030016",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "220030018",
+        "nombre": "La Estancia"
+    },
+    {
+        "clave": "220030019",
+        "nombre": "Tanque Viejo"
+    },
+    {
+        "clave": "220030020",
+        "nombre": "La Florida"
+    },
+    {
+        "clave": "220030023",
+        "nombre": "El Jardín"
+    },
+    {
+        "clave": "220030024",
+        "nombre": "La Laguna de Caballos (El Sabino)"
+    },
+    {
+        "clave": "220030025",
+        "nombre": "Laguna de la Cruz"
+    },
+    {
+        "clave": "220030026",
+        "nombre": "La Lagunita"
+    },
+    {
+        "clave": "220030030",
+        "nombre": "Mesas de Agua Fría"
+    },
+    {
+        "clave": "220030032",
+        "nombre": "La Mohonera"
+    },
+    {
+        "clave": "220030034",
+        "nombre": "El Nogal"
+    },
+    {
+        "clave": "220030036",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "220030038",
+        "nombre": "El Pocito"
+    },
+    {
+        "clave": "220030044",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "220030045",
+        "nombre": "El Rejalgar"
+    },
+    {
+        "clave": "220030047",
+        "nombre": "Río del Carrizal"
+    },
+    {
+        "clave": "220030048",
+        "nombre": "El Sabinito"
+    },
+    {
+        "clave": "220030050",
+        "nombre": "El Salitrillo"
+    },
+    {
+        "clave": "220030053",
+        "nombre": "Sanguijuela"
+    },
+    {
+        "clave": "220030054",
+        "nombre": "San José de las Flores"
+    },
+    {
+        "clave": "220030055",
+        "nombre": "San José del Tepame"
+    },
+    {
+        "clave": "220030057",
+        "nombre": "Santa María de los Cocos"
+    },
+    {
+        "clave": "220030059",
+        "nombre": "El Tepozán"
+    },
+    {
+        "clave": "220030060",
+        "nombre": "Tierras Prietas"
+    },
+    {
+        "clave": "220030061",
+        "nombre": "Vegas Cuatas"
+    },
+    {
+        "clave": "220030068",
+        "nombre": "El Crucero del Sabinito"
+    },
+    {
+        "clave": "220030069",
+        "nombre": "Las Trancas"
+    },
+    {
+        "clave": "220030070",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "220030081",
+        "nombre": "Tuna Manza"
+    },
+    {
+        "clave": "220030085",
+        "nombre": "Puerto Ayutla"
+    },
+    {
+        "clave": "220030088",
+        "nombre": "El Quirino"
+    },
+    {
+        "clave": "220030103",
+        "nombre": "Casas Viejas"
+    },
+    {
+        "clave": "220030108",
+        "nombre": "El Ceronal (La Loma)"
+    },
+    {
+        "clave": "220030122",
+        "nombre": "El Coyote"
+    },
+    {
+        "clave": "220030125",
+        "nombre": "Las Adjuntas"
+    },
+    {
+        "clave": "220030129",
+        "nombre": "El Barrito"
+    },
+    {
+        "clave": "220030140",
+        "nombre": "Barrio de la Cruz"
+    },
+    {
+        "clave": "220030143",
+        "nombre": "La Ceja"
+    },
+    {
+        "clave": "220030145",
+        "nombre": "Los Guillenes"
+    },
+    {
+        "clave": "220030152",
+        "nombre": "El Riachuelo"
+    },
+    {
+        "clave": "220030156",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "220030001",
+        "nombre": "Arroyo Seco"
+    },
+    {
+        "clave": "220030005",
+        "nombre": "Alpujarras"
+    },
+    {
+        "clave": "220030007",
+        "nombre": "El Barro"
+    },
+    {
+        "clave": "220030009",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "220030014",
+        "nombre": "Concá"
+    },
+    {
+        "clave": "220030015",
+        "nombre": "El Charco"
+    },
+    {
+        "clave": "220030017",
+        "nombre": "La Escondida de Guadalupe"
+    },
+    {
+        "clave": "220030022",
+        "nombre": "La Huastequita"
+    },
+    {
+        "clave": "220030029",
+        "nombre": "Mesa de Palo Blanco"
+    },
+    {
+        "clave": "220030031",
+        "nombre": "Milpas Viejas"
+    },
+    {
+        "clave": "220030037",
+        "nombre": "El Pitahayo"
+    },
+    {
+        "clave": "220030040",
+        "nombre": "Puerto de la Codicia"
+    },
+    {
+        "clave": "220030041",
+        "nombre": "El Trapiche"
+    },
+    {
+        "clave": "220030042",
+        "nombre": "Purísima de Arista"
+    },
+    {
+        "clave": "220030043",
+        "nombre": "El Potrero del Rayo"
+    },
+    {
+        "clave": "220030052",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "220030056",
+        "nombre": "San Juan Buenaventura"
+    },
+    {
+        "clave": "220030062",
+        "nombre": "Rancho las Herraduras"
+    },
+    {
+        "clave": "220030063",
+        "nombre": "Jesús María"
+    },
+    {
+        "clave": "220030064",
+        "nombre": "El Ébano"
+    },
+    {
+        "clave": "220030066",
+        "nombre": "El Platanito"
+    },
+    {
+        "clave": "220030067",
+        "nombre": "Mesa del Coco"
+    },
+    {
+        "clave": "220030079",
+        "nombre": "Puerto de la Cruz Verde"
+    },
+    {
+        "clave": "220030082",
+        "nombre": "Puerto de Fátima"
+    },
+    {
+        "clave": "220030083",
+        "nombre": "La Maroma"
+    },
+    {
+        "clave": "220030100",
+        "nombre": "Los Álamos"
+    },
+    {
+        "clave": "220030111",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "220030113",
+        "nombre": "Ayutla (La Tapona) [Hotel]"
+    },
+    {
+        "clave": "220030114",
+        "nombre": "Los Nogales"
+    },
+    {
+        "clave": "220030117",
+        "nombre": "Hacienda Concá [Hotel]"
+    },
+    {
+        "clave": "220030118",
+        "nombre": "Mesa de los Uribe"
+    },
+    {
+        "clave": "220030119",
+        "nombre": "Las Moras"
+    },
+    {
+        "clave": "220030120",
+        "nombre": "La Mora"
+    },
+    {
+        "clave": "220030121",
+        "nombre": "Huerta Mariana"
+    },
+    {
+        "clave": "220030123",
+        "nombre": "La Bodega (Crucero al Jardín)"
+    },
+    {
+        "clave": "220030127",
+        "nombre": "La Matilla"
+    },
+    {
+        "clave": "220030128",
+        "nombre": "Las Tablas"
+    },
+    {
+        "clave": "220030130",
+        "nombre": "El Rejalgar"
+    },
+    {
+        "clave": "220030131",
+        "nombre": "Mesa del Platanito"
+    },
+    {
+        "clave": "220030133",
+        "nombre": "Rancho la Ceiba"
+    },
+    {
+        "clave": "220030134",
+        "nombre": "Los Cuisillos"
+    },
+    {
+        "clave": "220030135",
+        "nombre": "Paculilla"
+    },
+    {
+        "clave": "220030136",
+        "nombre": "El Rayo"
+    },
+    {
+        "clave": "220030137",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "220030138",
+        "nombre": "Villa Riviera"
+    },
+    {
+        "clave": "220030139",
+        "nombre": "El Paso de los Álamos"
+    },
+    {
+        "clave": "220030141",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "220030142",
+        "nombre": "El Capulín de los Briones (El Higuerón)"
+    },
+    {
+        "clave": "220030144",
+        "nombre": "Localidad Sin Nombre (Familia Castañeda)"
+    },
+    {
+        "clave": "220030146",
+        "nombre": "La Huastequita"
+    },
+    {
+        "clave": "220030147",
+        "nombre": "Las Lagunitas"
+    },
+    {
+        "clave": "220030148",
+        "nombre": "La Pechuga"
+    },
+    {
+        "clave": "220030149",
+        "nombre": "La Rana"
+    },
+    {
+        "clave": "220030150",
+        "nombre": "Rancho las Colmenas"
+    },
+    {
+        "clave": "220030151",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "220030153",
+        "nombre": "Los Capulines"
+    },
+    {
+        "clave": "220030154",
+        "nombre": "El Potrero del Rayo (La Guardaraya)"
+    },
+    {
+        "clave": "220030155",
+        "nombre": "Sección Oeste de Arroyo Seco"
+    },
+    {
+        "clave": "220030157",
+        "nombre": "La Purísima [Granja]"
+    }
+]

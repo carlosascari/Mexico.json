@@ -1,0 +1,866 @@
+[
+    {
+        "clave": "130280010",
+        "nombre": "Ámaxac"
+    },
+    {
+        "clave": "130280014",
+        "nombre": "Ateixco"
+    },
+    {
+        "clave": "130280084",
+        "nombre": "Tacuatitla"
+    },
+    {
+        "clave": "130280096",
+        "nombre": "Terrero"
+    },
+    {
+        "clave": "130280112",
+        "nombre": "Acuapa"
+    },
+    {
+        "clave": "130280143",
+        "nombre": "Ahuatipa"
+    },
+    {
+        "clave": "130280185",
+        "nombre": "Las Nueces"
+    },
+    {
+        "clave": "130280193",
+        "nombre": "Chomaquico"
+    },
+    {
+        "clave": "130280211",
+        "nombre": "San José Anexo Ixcatlán"
+    },
+    {
+        "clave": "130280215",
+        "nombre": "Cochiscuatitla Anexo Ixcatlán"
+    },
+    {
+        "clave": "130280232",
+        "nombre": "Capáne"
+    },
+    {
+        "clave": "130280238",
+        "nombre": "Ojtlamekayo"
+    },
+    {
+        "clave": "130280243",
+        "nombre": "Malila"
+    },
+    {
+        "clave": "130280256",
+        "nombre": "Terrero Abajo"
+    },
+    {
+        "clave": "130280002",
+        "nombre": "Atalco"
+    },
+    {
+        "clave": "130280006",
+        "nombre": "Acoyotipa"
+    },
+    {
+        "clave": "130280007",
+        "nombre": "Acuatempa"
+    },
+    {
+        "clave": "130280008",
+        "nombre": "Aguacatitla"
+    },
+    {
+        "clave": "130280009",
+        "nombre": "Ahuatempa"
+    },
+    {
+        "clave": "130280011",
+        "nombre": "Apetlaco"
+    },
+    {
+        "clave": "130280012",
+        "nombre": "Apílol"
+    },
+    {
+        "clave": "130280013",
+        "nombre": "Aquixcuatitla"
+    },
+    {
+        "clave": "130280015",
+        "nombre": "Axcaco"
+    },
+    {
+        "clave": "130280016",
+        "nombre": "Axihuiyo"
+    },
+    {
+        "clave": "130280017",
+        "nombre": "Cacateco"
+    },
+    {
+        "clave": "130280018",
+        "nombre": "Calmecate"
+    },
+    {
+        "clave": "130280020",
+        "nombre": "Candelacta"
+    },
+    {
+        "clave": "130280021",
+        "nombre": "La Candelaria"
+    },
+    {
+        "clave": "130280022",
+        "nombre": "Cececapa"
+    },
+    {
+        "clave": "130280023",
+        "nombre": "Coacuilco"
+    },
+    {
+        "clave": "130280024",
+        "nombre": "Coamila"
+    },
+    {
+        "clave": "130280025",
+        "nombre": "Cuapaxtitla"
+    },
+    {
+        "clave": "130280027",
+        "nombre": "Coco Grande"
+    },
+    {
+        "clave": "130280028",
+        "nombre": "Cochiscuatitla"
+    },
+    {
+        "clave": "130280030",
+        "nombre": "Contépec"
+    },
+    {
+        "clave": "130280031",
+        "nombre": "La Corrala"
+    },
+    {
+        "clave": "130280032",
+        "nombre": "Coxhuaco II"
+    },
+    {
+        "clave": "130280033",
+        "nombre": "Coyuco Nuevo"
+    },
+    {
+        "clave": "130280034",
+        "nombre": "La Cruz de Zocuiteco"
+    },
+    {
+        "clave": "130280035",
+        "nombre": "Cruztitla"
+    },
+    {
+        "clave": "130280036",
+        "nombre": "Cuatecómetl"
+    },
+    {
+        "clave": "130280037",
+        "nombre": "Cuaxocotitla"
+    },
+    {
+        "clave": "130280040",
+        "nombre": "Chalahuitzintla"
+    },
+    {
+        "clave": "130280042",
+        "nombre": "Chililico"
+    },
+    {
+        "clave": "130280044",
+        "nombre": "Chiquemecatitla"
+    },
+    {
+        "clave": "130280045",
+        "nombre": "El Chote"
+    },
+    {
+        "clave": "130280046",
+        "nombre": "Ecuatitla"
+    },
+    {
+        "clave": "130280050",
+        "nombre": "Los Horcones"
+    },
+    {
+        "clave": "130280051",
+        "nombre": "Huehuetla"
+    },
+    {
+        "clave": "130280052",
+        "nombre": "Huitzacháhuatl"
+    },
+    {
+        "clave": "130280053",
+        "nombre": "Huitzquilititla"
+    },
+    {
+        "clave": "130280054",
+        "nombre": "Humotitla Candelaria"
+    },
+    {
+        "clave": "130280055",
+        "nombre": "Humotitla Coyuco"
+    },
+    {
+        "clave": "130280056",
+        "nombre": "Ixcatépec"
+    },
+    {
+        "clave": "130280057",
+        "nombre": "Ixcatlán"
+    },
+    {
+        "clave": "130280058",
+        "nombre": "Ixtlahuac"
+    },
+    {
+        "clave": "130280059",
+        "nombre": "Lemontitla"
+    },
+    {
+        "clave": "130280061",
+        "nombre": "Macuxtepetla"
+    },
+    {
+        "clave": "130280062",
+        "nombre": "Machetla"
+    },
+    {
+        "clave": "130280063",
+        "nombre": "La Mesa de Limantitla"
+    },
+    {
+        "clave": "130280064",
+        "nombre": "Los Otates"
+    },
+    {
+        "clave": "130280065",
+        "nombre": "Oxale"
+    },
+    {
+        "clave": "130280066",
+        "nombre": "Oxtomal I"
+    },
+    {
+        "clave": "130280067",
+        "nombre": "Ozuluama"
+    },
+    {
+        "clave": "130280069",
+        "nombre": "Pahuatlán"
+    },
+    {
+        "clave": "130280070",
+        "nombre": "Palzoquico"
+    },
+    {
+        "clave": "130280071",
+        "nombre": "Panacaxtlán"
+    },
+    {
+        "clave": "130280072",
+        "nombre": "Los Parajes"
+    },
+    {
+        "clave": "130280073",
+        "nombre": "El Pemuche"
+    },
+    {
+        "clave": "130280075",
+        "nombre": "Poxtla Coacuilco"
+    },
+    {
+        "clave": "130280076",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "130280078",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "130280079",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "130280080",
+        "nombre": "Santa Catarina"
+    },
+    {
+        "clave": "130280081",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "130280082",
+        "nombre": "Santa Cruz Coyuco"
+    },
+    {
+        "clave": "130280083",
+        "nombre": "Sitlán"
+    },
+    {
+        "clave": "130280085",
+        "nombre": "Tlaltzintla"
+    },
+    {
+        "clave": "130280086",
+        "nombre": "Tamalcuatitla"
+    },
+    {
+        "clave": "130280087",
+        "nombre": "Teacal"
+    },
+    {
+        "clave": "130280089",
+        "nombre": "Temaxcaltitla"
+    },
+    {
+        "clave": "130280090",
+        "nombre": "Tiocuatitla"
+    },
+    {
+        "clave": "130280091",
+        "nombre": "Tepemalintla"
+    },
+    {
+        "clave": "130280092",
+        "nombre": "Tepemaxac"
+    },
+    {
+        "clave": "130280093",
+        "nombre": "Tepexititla"
+    },
+    {
+        "clave": "130280098",
+        "nombre": "Tetzacual"
+    },
+    {
+        "clave": "130280099",
+        "nombre": "Tlalnepanco"
+    },
+    {
+        "clave": "130280101",
+        "nombre": "Xilipatitla"
+    },
+    {
+        "clave": "130280102",
+        "nombre": "Xionaxtla"
+    },
+    {
+        "clave": "130280103",
+        "nombre": "Xiquila"
+    },
+    {
+        "clave": "130280104",
+        "nombre": "Xocotitla"
+    },
+    {
+        "clave": "130280106",
+        "nombre": "Xochitzintla"
+    },
+    {
+        "clave": "130280108",
+        "nombre": "Acayahual"
+    },
+    {
+        "clave": "130280110",
+        "nombre": "Zohuala"
+    },
+    {
+        "clave": "130280111",
+        "nombre": "Congreso Permanente Agrario"
+    },
+    {
+        "clave": "130280113",
+        "nombre": "Acuitatipa"
+    },
+    {
+        "clave": "130280114",
+        "nombre": "Achichípil"
+    },
+    {
+        "clave": "130280116",
+        "nombre": "Tezóhual"
+    },
+    {
+        "clave": "130280118",
+        "nombre": "Los Parajes Benito Juárez"
+    },
+    {
+        "clave": "130280119",
+        "nombre": "Ixcuicuila"
+    },
+    {
+        "clave": "130280121",
+        "nombre": "El Xúchitl"
+    },
+    {
+        "clave": "130280123",
+        "nombre": "Las Chacas"
+    },
+    {
+        "clave": "130280127",
+        "nombre": "Cuachiquiapa"
+    },
+    {
+        "clave": "130280128",
+        "nombre": "Pitzontzintla"
+    },
+    {
+        "clave": "130280129",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "130280130",
+        "nombre": "Tancha"
+    },
+    {
+        "clave": "130280131",
+        "nombre": "Tepeíca"
+    },
+    {
+        "clave": "130280132",
+        "nombre": "Tepeyacapa"
+    },
+    {
+        "clave": "130280133",
+        "nombre": "Zacapetlayo"
+    },
+    {
+        "clave": "130280134",
+        "nombre": "Zapotitla"
+    },
+    {
+        "clave": "130280135",
+        "nombre": "Xiloco"
+    },
+    {
+        "clave": "130280137",
+        "nombre": "Tepeolol"
+    },
+    {
+        "clave": "130280142",
+        "nombre": "Coyoltitla"
+    },
+    {
+        "clave": "130280144",
+        "nombre": "Ahuacahíxpa Ixcatlán"
+    },
+    {
+        "clave": "130280145",
+        "nombre": "La Pastora"
+    },
+    {
+        "clave": "130280146",
+        "nombre": "Cocumul"
+    },
+    {
+        "clave": "130280148",
+        "nombre": "Nepalapa"
+    },
+    {
+        "clave": "130280149",
+        "nombre": "Ahuatitla"
+    },
+    {
+        "clave": "130280150",
+        "nombre": "Octatitla"
+    },
+    {
+        "clave": "130280151",
+        "nombre": "Tachiquilzintla"
+    },
+    {
+        "clave": "130280152",
+        "nombre": "Atappa"
+    },
+    {
+        "clave": "130280153",
+        "nombre": "Cacatetitla"
+    },
+    {
+        "clave": "130280155",
+        "nombre": "Amoyahual"
+    },
+    {
+        "clave": "130280156",
+        "nombre": "Coyotepec"
+    },
+    {
+        "clave": "130280157",
+        "nombre": "Pahuatzintla"
+    },
+    {
+        "clave": "130280173",
+        "nombre": "Chachaixpa"
+    },
+    {
+        "clave": "130280175",
+        "nombre": "Aguacatitla Ixcatlán"
+    },
+    {
+        "clave": "130280176",
+        "nombre": "Atexaltipa"
+    },
+    {
+        "clave": "130280180",
+        "nombre": "Coyoltzintla"
+    },
+    {
+        "clave": "130280182",
+        "nombre": "Ecuatzintla"
+    },
+    {
+        "clave": "130280183",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "130280184",
+        "nombre": "Huacaxtitla"
+    },
+    {
+        "clave": "130280186",
+        "nombre": "Poxtla Ixcatlán"
+    },
+    {
+        "clave": "130280188",
+        "nombre": "Santa Martha"
+    },
+    {
+        "clave": "130280189",
+        "nombre": "Tepetate"
+    },
+    {
+        "clave": "130280191",
+        "nombre": "La Curva Tlaltzintla"
+    },
+    {
+        "clave": "130280192",
+        "nombre": "Zocuiteco Benito Juárez"
+    },
+    {
+        "clave": "130280194",
+        "nombre": "Coxhuaco I"
+    },
+    {
+        "clave": "130280196",
+        "nombre": "Ilamactla"
+    },
+    {
+        "clave": "130280197",
+        "nombre": "Pochotitla"
+    },
+    {
+        "clave": "130280198",
+        "nombre": "Rancho la Güera [Colonia]"
+    },
+    {
+        "clave": "130280199",
+        "nombre": "Tepoxtequito Santa Mónica [Colonia]"
+    },
+    {
+        "clave": "130280200",
+        "nombre": "Tetzahapa"
+    },
+    {
+        "clave": "130280201",
+        "nombre": "Xochititla"
+    },
+    {
+        "clave": "130280202",
+        "nombre": "Xoloxtla"
+    },
+    {
+        "clave": "130280203",
+        "nombre": "Zacayahual"
+    },
+    {
+        "clave": "130280204",
+        "nombre": "Zapotitla"
+    },
+    {
+        "clave": "130280205",
+        "nombre": "La Peña"
+    },
+    {
+        "clave": "130280207",
+        "nombre": "Escuatitla"
+    },
+    {
+        "clave": "130280208",
+        "nombre": "Ahuehuetitla"
+    },
+    {
+        "clave": "130280209",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "130280210",
+        "nombre": "Palzoquiapa"
+    },
+    {
+        "clave": "130280212",
+        "nombre": "Rancho Nuevo Macuxtepetla"
+    },
+    {
+        "clave": "130280213",
+        "nombre": "Ahuatzintla"
+    },
+    {
+        "clave": "130280216",
+        "nombre": "El Naranjal"
+    },
+    {
+        "clave": "130280217",
+        "nombre": "Aquexquillo"
+    },
+    {
+        "clave": "130280218",
+        "nombre": "Cececámel"
+    },
+    {
+        "clave": "130280219",
+        "nombre": "Chacatitla"
+    },
+    {
+        "clave": "130280220",
+        "nombre": "Charco Azul"
+    },
+    {
+        "clave": "130280222",
+        "nombre": "El Crucero"
+    },
+    {
+        "clave": "130280223",
+        "nombre": "La Garita"
+    },
+    {
+        "clave": "130280224",
+        "nombre": "Machetla II"
+    },
+    {
+        "clave": "130280225",
+        "nombre": "El Ojite"
+    },
+    {
+        "clave": "130280226",
+        "nombre": "Oxtomal II"
+    },
+    {
+        "clave": "130280229",
+        "nombre": "Talnepantipa"
+    },
+    {
+        "clave": "130280230",
+        "nombre": "Tehuetlanito"
+    },
+    {
+        "clave": "130280231",
+        "nombre": "Tilcalco"
+    },
+    {
+        "clave": "130280235",
+        "nombre": "Las Chacas"
+    },
+    {
+        "clave": "130280239",
+        "nombre": "Santa Ana"
+    },
+    {
+        "clave": "130280241",
+        "nombre": "Xochiatipa"
+    },
+    {
+        "clave": "130280246",
+        "nombre": "Acoyotipan"
+    },
+    {
+        "clave": "130280247",
+        "nombre": "Barrio los Cubes"
+    },
+    {
+        "clave": "130280250",
+        "nombre": "San José"
+    },
+    {
+        "clave": "130280251",
+        "nombre": "Tlamaya Tepeíca"
+    },
+    {
+        "clave": "130280252",
+        "nombre": "La Mesa de Axcaco"
+    },
+    {
+        "clave": "130280253",
+        "nombre": "Ahuehuetitla [Fraccionamiento]"
+    },
+    {
+        "clave": "130280254",
+        "nombre": "Tamaya Ahuehuetitla"
+    },
+    {
+        "clave": "130280255",
+        "nombre": "Hueynali"
+    },
+    {
+        "clave": "130280257",
+        "nombre": "Los Frailes"
+    },
+    {
+        "clave": "130280258",
+        "nombre": "Tulaxtitla"
+    },
+    {
+        "clave": "130280259",
+        "nombre": "Apetlaco Huerota"
+    },
+    {
+        "clave": "130280260",
+        "nombre": "Niños Héroes"
+    },
+    {
+        "clave": "130280262",
+        "nombre": "La Curva Tlaltzintla II"
+    },
+    {
+        "clave": "130280264",
+        "nombre": "San Diego"
+    },
+    {
+        "clave": "130280001",
+        "nombre": "Huejutla de Reyes"
+    },
+    {
+        "clave": "130280003",
+        "nombre": "Acatitla"
+    },
+    {
+        "clave": "130280026",
+        "nombre": "Coco Chico"
+    },
+    {
+        "clave": "130280041",
+        "nombre": "Chalahuiyapa"
+    },
+    {
+        "clave": "130280088",
+        "nombre": "Tehuetlán"
+    },
+    {
+        "clave": "130280094",
+        "nombre": "Tepoxteco"
+    },
+    {
+        "clave": "130280125",
+        "nombre": "Chilcoaloya"
+    },
+    {
+        "clave": "130280179",
+        "nombre": "Las Conchitas"
+    },
+    {
+        "clave": "130280195",
+        "nombre": "El Chocoyo [Granja]"
+    },
+    {
+        "clave": "130280206",
+        "nombre": "Corral Blanco (Todos por Hidalgo)"
+    },
+    {
+        "clave": "130280221",
+        "nombre": "Ejido de Rancho Viejo"
+    },
+    {
+        "clave": "130280227",
+        "nombre": "Las Palomitas"
+    },
+    {
+        "clave": "130280228",
+        "nombre": "Parque de Poblamiento Solidaridad"
+    },
+    {
+        "clave": "130280233",
+        "nombre": "La Vega"
+    },
+    {
+        "clave": "130280236",
+        "nombre": "Atecala"
+    },
+    {
+        "clave": "130280237",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "130280240",
+        "nombre": "Universidad Tecnológica de la Huasteca Hidalguense"
+    },
+    {
+        "clave": "130280242",
+        "nombre": "Coxcatzintla"
+    },
+    {
+        "clave": "130280244",
+        "nombre": "El Naranjito"
+    },
+    {
+        "clave": "130280245",
+        "nombre": "Xinamixca"
+    },
+    {
+        "clave": "130280248",
+        "nombre": "El Plan de Tlalnepanco (La Explanada)"
+    },
+    {
+        "clave": "130280249",
+        "nombre": "El Puente (El Vado)"
+    },
+    {
+        "clave": "130280261",
+        "nombre": "Río los Hules [Centro Ecoturístico]"
+    },
+    {
+        "clave": "130280263",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "130280265",
+        "nombre": "El Seminario"
+    },
+    {
+        "clave": "130280266",
+        "nombre": "Renacimiento Tlalpani"
+    },
+    {
+        "clave": "130280267",
+        "nombre": "Chintanta"
+    },
+    {
+        "clave": "130280268",
+        "nombre": "Aquixcuatitla II"
+    },
+    {
+        "clave": "130280269",
+        "nombre": "Ampliación Buena Vista"
+    },
+    {
+        "clave": "130280270",
+        "nombre": "Tepeixpa"
+    },
+    {
+        "clave": "130280271",
+        "nombre": "Bella Airosa [Colonia]"
+    },
+    {
+        "clave": "130280272",
+        "nombre": "Rancho Nuevo Ahuatzintla"
+    }
+]

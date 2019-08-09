@@ -1,0 +1,578 @@
+[
+    {
+        "clave": "190510020",
+        "nombre": "El Salto"
+    },
+    {
+        "clave": "190510001",
+        "nombre": "Ciudad de Villaldama"
+    },
+    {
+        "clave": "190510002",
+        "nombre": "El Álamo [Estación]"
+    },
+    {
+        "clave": "190510004",
+        "nombre": "Los Cubrevientos"
+    },
+    {
+        "clave": "190510006",
+        "nombre": "Los Galemes"
+    },
+    {
+        "clave": "190510008",
+        "nombre": "Los Ibarra"
+    },
+    {
+        "clave": "190510010",
+        "nombre": "El Lobo"
+    },
+    {
+        "clave": "190510011",
+        "nombre": "Matías"
+    },
+    {
+        "clave": "190510012",
+        "nombre": "El Mayorazgo"
+    },
+    {
+        "clave": "190510014",
+        "nombre": "Noria Nueva"
+    },
+    {
+        "clave": "190510015",
+        "nombre": "El Papalote"
+    },
+    {
+        "clave": "190510016",
+        "nombre": "San Fernando (Los Aguirre)"
+    },
+    {
+        "clave": "190510017",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "190510019",
+        "nombre": "San José Uno (Rosa de San Juan)"
+    },
+    {
+        "clave": "190510021",
+        "nombre": "Santa Clara"
+    },
+    {
+        "clave": "190510022",
+        "nombre": "Hacienda Santa Fe"
+    },
+    {
+        "clave": "190510023",
+        "nombre": "Santa Isabel"
+    },
+    {
+        "clave": "190510024",
+        "nombre": "La Ventura"
+    },
+    {
+        "clave": "190510027",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "190510028",
+        "nombre": "Margarita"
+    },
+    {
+        "clave": "190510029",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "190510034",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "190510037",
+        "nombre": "Minas Viejas"
+    },
+    {
+        "clave": "190510038",
+        "nombre": "La Barreta"
+    },
+    {
+        "clave": "190510039",
+        "nombre": "La Coma"
+    },
+    {
+        "clave": "190510041",
+        "nombre": "La Cañadita"
+    },
+    {
+        "clave": "190510042",
+        "nombre": "El Mimbre"
+    },
+    {
+        "clave": "190510043",
+        "nombre": "El Carrizo"
+    },
+    {
+        "clave": "190510046",
+        "nombre": "La Resolana"
+    },
+    {
+        "clave": "190510047",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "190510048",
+        "nombre": "Jesús María Señor"
+    },
+    {
+        "clave": "190510049",
+        "nombre": "Lomas Prietas"
+    },
+    {
+        "clave": "190510050",
+        "nombre": "El Chupón"
+    },
+    {
+        "clave": "190510053",
+        "nombre": "Kilómetro Setenta y Dos"
+    },
+    {
+        "clave": "190510055",
+        "nombre": "La Higuera (Higueras)"
+    },
+    {
+        "clave": "190510056",
+        "nombre": "Serna (San Sebastián)"
+    },
+    {
+        "clave": "190510057",
+        "nombre": "Once de Mayo (Rancho Escondido)"
+    },
+    {
+        "clave": "190510059",
+        "nombre": "La Escondida (El Prieto)"
+    },
+    {
+        "clave": "190510065",
+        "nombre": "Altamira"
+    },
+    {
+        "clave": "190510067",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "190510068",
+        "nombre": "Antonio Guajardo"
+    },
+    {
+        "clave": "190510070",
+        "nombre": "El Puertecito de San Nicolás"
+    },
+    {
+        "clave": "190510073",
+        "nombre": "Aguilillas"
+    },
+    {
+        "clave": "190510074",
+        "nombre": "El Americano"
+    },
+    {
+        "clave": "190510075",
+        "nombre": "Las Cabras"
+    },
+    {
+        "clave": "190510076",
+        "nombre": "Los Vázquez"
+    },
+    {
+        "clave": "190510079",
+        "nombre": "Villaldama [Agropecuaria]"
+    },
+    {
+        "clave": "190510081",
+        "nombre": "Aldama"
+    },
+    {
+        "clave": "190510083",
+        "nombre": "La Libertad"
+    },
+    {
+        "clave": "190510084",
+        "nombre": "Majada"
+    },
+    {
+        "clave": "190510088",
+        "nombre": "San Gregorio"
+    },
+    {
+        "clave": "190510089",
+        "nombre": "San José"
+    },
+    {
+        "clave": "190510090",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "190510091",
+        "nombre": "San Ramón"
+    },
+    {
+        "clave": "190510092",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "190510093",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "190510098",
+        "nombre": "La Espiga"
+    },
+    {
+        "clave": "190510100",
+        "nombre": "Kilómetro Noventa y Uno (San Francisco)"
+    },
+    {
+        "clave": "190510102",
+        "nombre": "El Carrizalejo"
+    },
+    {
+        "clave": "190510105",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "190510106",
+        "nombre": "Piletas"
+    },
+    {
+        "clave": "190510107",
+        "nombre": "San Andrés"
+    },
+    {
+        "clave": "190510108",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "190510110",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "190510111",
+        "nombre": "Emiliano"
+    },
+    {
+        "clave": "190510113",
+        "nombre": "Adrián Ibarra"
+    },
+    {
+        "clave": "190510114",
+        "nombre": "Falsete"
+    },
+    {
+        "clave": "190510115",
+        "nombre": "La Morita"
+    },
+    {
+        "clave": "190510117",
+        "nombre": "Santa Cecilia"
+    },
+    {
+        "clave": "190510118",
+        "nombre": "San Juan del Río"
+    },
+    {
+        "clave": "190510120",
+        "nombre": "San Patricio"
+    },
+    {
+        "clave": "190510124",
+        "nombre": "La Retama"
+    },
+    {
+        "clave": "190510125",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "190510127",
+        "nombre": "San Ambrosio"
+    },
+    {
+        "clave": "190510128",
+        "nombre": "Manuel Villarreal"
+    },
+    {
+        "clave": "190510130",
+        "nombre": "Delanz"
+    },
+    {
+        "clave": "190510131",
+        "nombre": "Casa Santa Cruz"
+    },
+    {
+        "clave": "190510132",
+        "nombre": "El Puertecito"
+    },
+    {
+        "clave": "190510133",
+        "nombre": "Raúl Elizaldi"
+    },
+    {
+        "clave": "190510134",
+        "nombre": "Gorgonio García"
+    },
+    {
+        "clave": "190510135",
+        "nombre": "San Isidro Labrador"
+    },
+    {
+        "clave": "190510136",
+        "nombre": "San José"
+    },
+    {
+        "clave": "190510137",
+        "nombre": "Los Cinco Soles"
+    },
+    {
+        "clave": "190510138",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "190510139",
+        "nombre": "Rogelio Villarreal"
+    },
+    {
+        "clave": "190510140",
+        "nombre": "Jesús Villarreal"
+    },
+    {
+        "clave": "190510141",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "190510142",
+        "nombre": "Palos Blancos"
+    },
+    {
+        "clave": "190510143",
+        "nombre": "El Mimbre"
+    },
+    {
+        "clave": "190510144",
+        "nombre": "Temporal Kilómetro Ochenta y Dos"
+    },
+    {
+        "clave": "190510145",
+        "nombre": "El Nogal"
+    },
+    {
+        "clave": "190510146",
+        "nombre": "Jesús Villarreal"
+    },
+    {
+        "clave": "190510147",
+        "nombre": "Don Carlos"
+    },
+    {
+        "clave": "190510148",
+        "nombre": "Palos Altos"
+    },
+    {
+        "clave": "190510149",
+        "nombre": "Alejandro Guzmán"
+    },
+    {
+        "clave": "190510150",
+        "nombre": "Adalia"
+    },
+    {
+        "clave": "190510151",
+        "nombre": "El Rincón del Potrero"
+    },
+    {
+        "clave": "190510152",
+        "nombre": "Los Pioneros"
+    },
+    {
+        "clave": "190510153",
+        "nombre": "La Anacua"
+    },
+    {
+        "clave": "190510154",
+        "nombre": "El Motor"
+    },
+    {
+        "clave": "190510155",
+        "nombre": "Roberto Martínez Muñoz"
+    },
+    {
+        "clave": "190510156",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "190510157",
+        "nombre": "El Nogal"
+    },
+    {
+        "clave": "190510158",
+        "nombre": "El Recuerdo"
+    },
+    {
+        "clave": "190510159",
+        "nombre": "Tres de Agosto"
+    },
+    {
+        "clave": "190510160",
+        "nombre": "El Chapote"
+    },
+    {
+        "clave": "190510161",
+        "nombre": "Villaldama [Estación]"
+    },
+    {
+        "clave": "190510162",
+        "nombre": "Los Fierros"
+    },
+    {
+        "clave": "190510163",
+        "nombre": "Los Gallos"
+    },
+    {
+        "clave": "190510164",
+        "nombre": "La Labor del Cuate"
+    },
+    {
+        "clave": "190510165",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "190510166",
+        "nombre": "Las Lomas Altas"
+    },
+    {
+        "clave": "190510167",
+        "nombre": "La Lomita"
+    },
+    {
+        "clave": "190510168",
+        "nombre": "La Majada de Mundo"
+    },
+    {
+        "clave": "190510169",
+        "nombre": "Casa Santa Cruz"
+    },
+    {
+        "clave": "190510170",
+        "nombre": "El Palmar"
+    },
+    {
+        "clave": "190510171",
+        "nombre": "Las Palmas Doscientos Veintidós"
+    },
+    {
+        "clave": "190510173",
+        "nombre": "Tierra Blanca (Lote Número Cinco)"
+    },
+    {
+        "clave": "190510174",
+        "nombre": "Veinte de Enero"
+    },
+    {
+        "clave": "190510175",
+        "nombre": "José Luis Ochoa"
+    },
+    {
+        "clave": "190510176",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510177",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510178",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510179",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510180",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510181",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510182",
+        "nombre": "Remigio Rodríguez"
+    },
+    {
+        "clave": "190510183",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510184",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510185",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510186",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510187",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510188",
+        "nombre": "Las Pájaras"
+    },
+    {
+        "clave": "190510189",
+        "nombre": "El Chavalo"
+    },
+    {
+        "clave": "190510190",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510191",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510192",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190510193",
+        "nombre": "Palo Blanquito"
+    },
+    {
+        "clave": "190510194",
+        "nombre": "Santa Rosalía"
+    },
+    {
+        "clave": "190510195",
+        "nombre": "Enedina Ochoa"
+    },
+    {
+        "clave": "190510196",
+        "nombre": "Rubén Carlos Gallegos Reyes"
+    },
+    {
+        "clave": "190510197",
+        "nombre": "Carrizalejo"
+    },
+    {
+        "clave": "190510198",
+        "nombre": "Villaldama"
+    },
+    {
+        "clave": "190510199",
+        "nombre": "Las Tres Potrancas"
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "clave": "200710009",
+        "nombre": "Consolación"
+    },
+    {
+        "clave": "200710018",
+        "nombre": "Eureka"
+    },
+    {
+        "clave": "200710021",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "200710039",
+        "nombre": "Nubes"
+    },
+    {
+        "clave": "200710042",
+        "nombre": "El Pacífico"
+    },
+    {
+        "clave": "200710044",
+        "nombre": "San José Palo Grande"
+    },
+    {
+        "clave": "200710050",
+        "nombre": "Reforma"
+    },
+    {
+        "clave": "200710053",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "200710065",
+        "nombre": "Santa Anita"
+    },
+    {
+        "clave": "200710078",
+        "nombre": "Finca Vista Hermosa"
+    },
+    {
+        "clave": "200710124",
+        "nombre": "Carmen Alto"
+    },
+    {
+        "clave": "200710126",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "200710127",
+        "nombre": "Edén Bajo"
+    },
+    {
+        "clave": "200710148",
+        "nombre": "La Virginia"
+    },
+    {
+        "clave": "200710155",
+        "nombre": "Arroyo Zapote"
+    },
+    {
+        "clave": "200710158",
+        "nombre": "Cruz Blanca"
+    },
+    {
+        "clave": "200710160",
+        "nombre": "El Manantial"
+    },
+    {
+        "clave": "200710167",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "200710178",
+        "nombre": "El Renacimiento"
+    },
+    {
+        "clave": "200710179",
+        "nombre": "Tres de Mayo"
+    },
+    {
+        "clave": "200710001",
+        "nombre": "Pluma Hidalgo"
+    },
+    {
+        "clave": "200710011",
+        "nombre": "Copalita"
+    },
+    {
+        "clave": "200710014",
+        "nombre": "Dolores"
+    },
+    {
+        "clave": "200710016",
+        "nombre": "La Encinada"
+    },
+    {
+        "clave": "200710024",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "200710032",
+        "nombre": "Maravillas"
+    },
+    {
+        "clave": "200710038",
+        "nombre": "La Noria [Barrio]"
+    },
+    {
+        "clave": "200710046",
+        "nombre": "La Pasionaria"
+    },
+    {
+        "clave": "200710047",
+        "nombre": "La Patria"
+    },
+    {
+        "clave": "200710051",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "200710060",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "200710069",
+        "nombre": "Santa María Magdalena Piñas"
+    },
+    {
+        "clave": "200710073",
+        "nombre": "Las Trancas"
+    },
+    {
+        "clave": "200710099",
+        "nombre": "Barrio Nuevo (Cimarrón)"
+    },
+    {
+        "clave": "200710103",
+        "nombre": "Modelo Alta Luz"
+    },
+    {
+        "clave": "200710123",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "200710164",
+        "nombre": "Rancho Mónica"
+    },
+    {
+        "clave": "200710165",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "200710173",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "200710175",
+        "nombre": "Barrio Allende"
+    },
+    {
+        "clave": "200710177",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "200710002",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "200710003",
+        "nombre": "La Aurora (Los Cruz)"
+    },
+    {
+        "clave": "200710004",
+        "nombre": "Brasil"
+    },
+    {
+        "clave": "200710005",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "200710006",
+        "nombre": "La Cabaña"
+    },
+    {
+        "clave": "200710007",
+        "nombre": "El Carmen Bajo (El Carmelito)"
+    },
+    {
+        "clave": "200710010",
+        "nombre": "El Convenio"
+    },
+    {
+        "clave": "200710012",
+        "nombre": "Covadonga"
+    },
+    {
+        "clave": "200710013",
+        "nombre": "Cruz Grande"
+    },
+    {
+        "clave": "200710015",
+        "nombre": "El Edén Alto"
+    },
+    {
+        "clave": "200710017",
+        "nombre": "Esperanza"
+    },
+    {
+        "clave": "200710019",
+        "nombre": "El Faro"
+    },
+    {
+        "clave": "200710020",
+        "nombre": "El Fénix"
+    },
+    {
+        "clave": "200710022",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "200710023",
+        "nombre": "Guerrero"
+    },
+    {
+        "clave": "200710025",
+        "nombre": "Independencia"
+    },
+    {
+        "clave": "200710026",
+        "nombre": "El Jardín"
+    },
+    {
+        "clave": "200710027",
+        "nombre": "El Jordán"
+    },
+    {
+        "clave": "200710028",
+        "nombre": "Juquilita"
+    },
+    {
+        "clave": "200710029",
+        "nombre": "La Libertad"
+    },
+    {
+        "clave": "200710030",
+        "nombre": "Los Limares"
+    },
+    {
+        "clave": "200710034",
+        "nombre": "Mercedes"
+    },
+    {
+        "clave": "200710037",
+        "nombre": "Nazareno"
+    },
+    {
+        "clave": "200710041",
+        "nombre": "El Olivo"
+    },
+    {
+        "clave": "200710045",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "200710048",
+        "nombre": "Porvenir"
+    },
+    {
+        "clave": "200710049",
+        "nombre": "Providencia"
+    },
+    {
+        "clave": "200710052",
+        "nombre": "Los Reyes"
+    },
+    {
+        "clave": "200710055",
+        "nombre": "San Antonio I"
+    },
+    {
+        "clave": "200710056",
+        "nombre": "San Antonio Dos"
+    },
+    {
+        "clave": "200710058",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "200710059",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "200710061",
+        "nombre": "San Jacinto"
+    },
+    {
+        "clave": "200710062",
+        "nombre": "San Joaquín"
+    },
+    {
+        "clave": "200710063",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "200710064",
+        "nombre": "San Lucas"
+    },
+    {
+        "clave": "200710067",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "200710070",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "200710071",
+        "nombre": "La Sirena"
+    },
+    {
+        "clave": "200710072",
+        "nombre": "Soledad"
+    },
+    {
+        "clave": "200710075",
+        "nombre": "La Venta"
+    },
+    {
+        "clave": "200710076",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "200710079",
+        "nombre": "Zaragoza"
+    },
+    {
+        "clave": "200710082",
+        "nombre": "Frontera"
+    },
+    {
+        "clave": "200710084",
+        "nombre": "Montaña"
+    },
+    {
+        "clave": "200710087",
+        "nombre": "Pocitos"
+    },
+    {
+        "clave": "200710088",
+        "nombre": "Margaritas"
+    },
+    {
+        "clave": "200710092",
+        "nombre": "El Recreo"
+    },
+    {
+        "clave": "200710095",
+        "nombre": "Cerro Ceso"
+    },
+    {
+        "clave": "200710100",
+        "nombre": "Fortín"
+    },
+    {
+        "clave": "200710101",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "200710102",
+        "nombre": "Santiaguito"
+    },
+    {
+        "clave": "200710104",
+        "nombre": "El Paisaje"
+    },
+    {
+        "clave": "200710106",
+        "nombre": "La Junta"
+    },
+    {
+        "clave": "200710107",
+        "nombre": "Natividad"
+    },
+    {
+        "clave": "200710108",
+        "nombre": "Mina Tizur"
+    },
+    {
+        "clave": "200710109",
+        "nombre": "Tres Marías"
+    },
+    {
+        "clave": "200710119",
+        "nombre": "El Trapiche"
+    },
+    {
+        "clave": "200710121",
+        "nombre": "América"
+    },
+    {
+        "clave": "200710125",
+        "nombre": "Coachepil"
+    },
+    {
+        "clave": "200710128",
+        "nombre": "La Favorita"
+    },
+    {
+        "clave": "200710129",
+        "nombre": "Gólgota"
+    },
+    {
+        "clave": "200710130",
+        "nombre": "Iberia"
+    },
+    {
+        "clave": "200710132",
+        "nombre": "Sacramento"
+    },
+    {
+        "clave": "200710134",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "200710135",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "200710137",
+        "nombre": "San Juanito"
+    },
+    {
+        "clave": "200710139",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "200710141",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "200710142",
+        "nombre": "Santa Lucía"
+    },
+    {
+        "clave": "200710143",
+        "nombre": "Soconusco"
+    },
+    {
+        "clave": "200710144",
+        "nombre": "Trapiche"
+    },
+    {
+        "clave": "200710145",
+        "nombre": "Tres Cruces"
+    },
+    {
+        "clave": "200710146",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "200710147",
+        "nombre": "El Triunfo"
+    },
+    {
+        "clave": "200710149",
+        "nombre": "Las Vegas"
+    },
+    {
+        "clave": "200710150",
+        "nombre": "El Venado"
+    },
+    {
+        "clave": "200710153",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "200710154",
+        "nombre": "Coronación"
+    },
+    {
+        "clave": "200710156",
+        "nombre": "El Coco"
+    },
+    {
+        "clave": "200710157",
+        "nombre": "Conjunto Guadalupe"
+    },
+    {
+        "clave": "200710159",
+        "nombre": "El Lirio"
+    },
+    {
+        "clave": "200710161",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "200710162",
+        "nombre": "La Perla"
+    },
+    {
+        "clave": "200710163",
+        "nombre": "Pocitos Cerro Azul"
+    },
+    {
+        "clave": "200710166",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "200710168",
+        "nombre": "Tierra Colorada"
+    },
+    {
+        "clave": "200710169",
+        "nombre": "El Triunfo"
+    },
+    {
+        "clave": "200710170",
+        "nombre": "Valdeflores"
+    },
+    {
+        "clave": "200710171",
+        "nombre": "La Garita"
+    },
+    {
+        "clave": "200710172",
+        "nombre": "Juárez"
+    },
+    {
+        "clave": "200710174",
+        "nombre": "Piedra Blanca"
+    },
+    {
+        "clave": "200710176",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "200710180",
+        "nombre": "La Esmeralda [Barrio]"
+    }
+]

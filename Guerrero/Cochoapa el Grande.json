@@ -1,0 +1,634 @@
+[
+    {
+        "clave": "120780001",
+        "nombre": "Cochoapa el Grande"
+    },
+    {
+        "clave": "120780002",
+        "nombre": "Ahuezutla"
+    },
+    {
+        "clave": "120780003",
+        "nombre": "Río Olor"
+    },
+    {
+        "clave": "120780004",
+        "nombre": "Arroyo Prieto"
+    },
+    {
+        "clave": "120780005",
+        "nombre": "Arroyo Tigrillo"
+    },
+    {
+        "clave": "120780006",
+        "nombre": "Azoyuc Chiquito"
+    },
+    {
+        "clave": "120780007",
+        "nombre": "Barranca Ceniza"
+    },
+    {
+        "clave": "120780008",
+        "nombre": "Barranca de Águila"
+    },
+    {
+        "clave": "120780009",
+        "nombre": "Barranca de la Palma"
+    },
+    {
+        "clave": "120780010",
+        "nombre": "Barranca Faisán"
+    },
+    {
+        "clave": "120780011",
+        "nombre": "Barranca Ocotera"
+    },
+    {
+        "clave": "120780014",
+        "nombre": "Rancho San Martín"
+    },
+    {
+        "clave": "120780015",
+        "nombre": "Cahuañaña"
+    },
+    {
+        "clave": "120780016",
+        "nombre": "Calpanapa Viejo"
+    },
+    {
+        "clave": "120780017",
+        "nombre": "Cascada del Zorro"
+    },
+    {
+        "clave": "120780019",
+        "nombre": "Cerro de la Lluvia"
+    },
+    {
+        "clave": "120780023",
+        "nombre": "Cieneguilla"
+    },
+    {
+        "clave": "120780024",
+        "nombre": "Colonia Chilpancinguito de los Libres"
+    },
+    {
+        "clave": "120780025",
+        "nombre": "Colonia Guadalupe el Nuevo"
+    },
+    {
+        "clave": "120780027",
+        "nombre": "Nueva Jerusalén"
+    },
+    {
+        "clave": "120780028",
+        "nombre": "Nu'u Yaa"
+    },
+    {
+        "clave": "120780029",
+        "nombre": "Costa Rica"
+    },
+    {
+        "clave": "120780030",
+        "nombre": "Cruz Verde"
+    },
+    {
+        "clave": "120780031",
+        "nombre": "Cuetzala Unión"
+    },
+    {
+        "clave": "120780033",
+        "nombre": "Divino Pastor"
+    },
+    {
+        "clave": "120780034",
+        "nombre": "Dos Ríos"
+    },
+    {
+        "clave": "120780035",
+        "nombre": "El Ciruelo"
+    },
+    {
+        "clave": "120780036",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "120780037",
+        "nombre": "Guadalupe la Joya"
+    },
+    {
+        "clave": "120780039",
+        "nombre": "Itiatio"
+    },
+    {
+        "clave": "120780040",
+        "nombre": "Ithia Thiehe"
+    },
+    {
+        "clave": "120780041",
+        "nombre": "Itia Miniñu Un"
+    },
+    {
+        "clave": "120780043",
+        "nombre": "Tutun Nde Ita"
+    },
+    {
+        "clave": "120780044",
+        "nombre": "Joya Real"
+    },
+    {
+        "clave": "120780045",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "120780046",
+        "nombre": "Laguna"
+    },
+    {
+        "clave": "120780047",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "120780048",
+        "nombre": "Loma Arenal"
+    },
+    {
+        "clave": "120780049",
+        "nombre": "Loma Canoa"
+    },
+    {
+        "clave": "120780050",
+        "nombre": "Loma San Marcos"
+    },
+    {
+        "clave": "120780051",
+        "nombre": "Loma Grande"
+    },
+    {
+        "clave": "120780052",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "120780053",
+        "nombre": "Llano del Carmen"
+    },
+    {
+        "clave": "120780055",
+        "nombre": "Llano de la Chuparrosa"
+    },
+    {
+        "clave": "120780056",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "120780057",
+        "nombre": "Llano de la Yacua"
+    },
+    {
+        "clave": "120780058",
+        "nombre": "Llano de Laguna"
+    },
+    {
+        "clave": "120780059",
+        "nombre": "Llano de las Piedras"
+    },
+    {
+        "clave": "120780060",
+        "nombre": "Llano de Metate"
+    },
+    {
+        "clave": "120780063",
+        "nombre": "Llano Perdido"
+    },
+    {
+        "clave": "120780065",
+        "nombre": "Ocotepec"
+    },
+    {
+        "clave": "120780068",
+        "nombre": "Peña de Venado"
+    },
+    {
+        "clave": "120780070",
+        "nombre": "Piedra Negra"
+    },
+    {
+        "clave": "120780072",
+        "nombre": "Plan Buenavista"
+    },
+    {
+        "clave": "120780073",
+        "nombre": "Pueblo Viejo"
+    },
+    {
+        "clave": "120780074",
+        "nombre": "Rancho de Guadalupe (Barranca Pobre)"
+    },
+    {
+        "clave": "120780075",
+        "nombre": "Rancho de los Hilarios"
+    },
+    {
+        "clave": "120780076",
+        "nombre": "Rancho de San Marcos"
+    },
+    {
+        "clave": "120780077",
+        "nombre": "Rancho Viejo Santa Cruz"
+    },
+    {
+        "clave": "120780078",
+        "nombre": "Río Cantador Chiquito"
+    },
+    {
+        "clave": "120780079",
+        "nombre": "Río Corazón"
+    },
+    {
+        "clave": "120780080",
+        "nombre": "Río Hamaca"
+    },
+    {
+        "clave": "120780081",
+        "nombre": "Río de la Víbora"
+    },
+    {
+        "clave": "120780082",
+        "nombre": "Río Encajonado"
+    },
+    {
+        "clave": "120780084",
+        "nombre": "San Agustín el Viejo"
+    },
+    {
+        "clave": "120780085",
+        "nombre": "San Cristobalito"
+    },
+    {
+        "clave": "120780086",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "120780087",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "120780088",
+        "nombre": "San Lucas"
+    },
+    {
+        "clave": "120780089",
+        "nombre": "San Martín Yukuxaki"
+    },
+    {
+        "clave": "120780090",
+        "nombre": "San Miguel Amoltepec Nuevo"
+    },
+    {
+        "clave": "120780091",
+        "nombre": "San Miguel Amoltepec Viejo"
+    },
+    {
+        "clave": "120780092",
+        "nombre": "San Pedro el Viejo"
+    },
+    {
+        "clave": "120780093",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "120780094",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "120780095",
+        "nombre": "Santa María Cahuañaña"
+    },
+    {
+        "clave": "120780096",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "120780097",
+        "nombre": "Tierra Blanquita"
+    },
+    {
+        "clave": "120780098",
+        "nombre": "Tierra Colorada"
+    },
+    {
+        "clave": "120780099",
+        "nombre": "Tierra Colorada"
+    },
+    {
+        "clave": "120780100",
+        "nombre": "Tierra de Algodón"
+    },
+    {
+        "clave": "120780101",
+        "nombre": "Tierra Campesina"
+    },
+    {
+        "clave": "120780102",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "120780104",
+        "nombre": "Xaha Yucu Yaa"
+    },
+    {
+        "clave": "120780106",
+        "nombre": "Xalpa"
+    },
+    {
+        "clave": "120780107",
+        "nombre": "Xiniandiki"
+    },
+    {
+        "clave": "120780109",
+        "nombre": "Yautepec"
+    },
+    {
+        "clave": "120780111",
+        "nombre": "Yoso Chun"
+    },
+    {
+        "clave": "120780114",
+        "nombre": "Yozo Chun Chiquito"
+    },
+    {
+        "clave": "120780115",
+        "nombre": "Yozondacua"
+    },
+    {
+        "clave": "120780116",
+        "nombre": "Yuku Nu Kaxin"
+    },
+    {
+        "clave": "120780119",
+        "nombre": "Yuvi Chonu"
+    },
+    {
+        "clave": "120780121",
+        "nombre": "Yuvicani"
+    },
+    {
+        "clave": "120780122",
+        "nombre": "La Barca"
+    },
+    {
+        "clave": "120780123",
+        "nombre": "Llano de la Mosca"
+    },
+    {
+        "clave": "120780124",
+        "nombre": "Llano Zacatero"
+    },
+    {
+        "clave": "120780126",
+        "nombre": "Arroyo Carrizo"
+    },
+    {
+        "clave": "120780128",
+        "nombre": "Barranca Guayabo"
+    },
+    {
+        "clave": "120780129",
+        "nombre": "Cuesta Baje"
+    },
+    {
+        "clave": "120780130",
+        "nombre": "Valle de Maguey"
+    },
+    {
+        "clave": "120780133",
+        "nombre": "Colonia los Pinos"
+    },
+    {
+        "clave": "120780134",
+        "nombre": "Minatitlán"
+    },
+    {
+        "clave": "120780135",
+        "nombre": "Monte los Pinos"
+    },
+    {
+        "clave": "120780136",
+        "nombre": "La Joya de Oro"
+    },
+    {
+        "clave": "120780137",
+        "nombre": "La Puerta del Cielo"
+    },
+    {
+        "clave": "120780138",
+        "nombre": "Barranca Escondida"
+    },
+    {
+        "clave": "120780139",
+        "nombre": "Yozondacua Loma Bonita"
+    },
+    {
+        "clave": "120780140",
+        "nombre": "Barrio del Carmen"
+    },
+    {
+        "clave": "120780141",
+        "nombre": "Colonia Rutilio Vázquez"
+    },
+    {
+        "clave": "120780142",
+        "nombre": "Yozo Canu Nuevo"
+    },
+    {
+        "clave": "120780146",
+        "nombre": "El Mameyal"
+    },
+    {
+        "clave": "120780147",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "120780148",
+        "nombre": "Llano de Durazno"
+    },
+    {
+        "clave": "120780149",
+        "nombre": "La Parota"
+    },
+    {
+        "clave": "120780150",
+        "nombre": "Tierra Colorada Sur"
+    },
+    {
+        "clave": "120780151",
+        "nombre": "Naucalpan de Juárez"
+    },
+    {
+        "clave": "120780152",
+        "nombre": "Santa Rosa de Maldonado"
+    },
+    {
+        "clave": "120780153",
+        "nombre": "Llano de la Loma"
+    },
+    {
+        "clave": "120780155",
+        "nombre": "Rancho de las Flores"
+    },
+    {
+        "clave": "120780013",
+        "nombre": "Barrio de San Agustín"
+    },
+    {
+        "clave": "120780012",
+        "nombre": "Barranca Pobre"
+    },
+    {
+        "clave": "120780018",
+        "nombre": "Cerro de la Garza"
+    },
+    {
+        "clave": "120780020",
+        "nombre": "Cerro del Chapulín"
+    },
+    {
+        "clave": "120780021",
+        "nombre": "Cerro Perico"
+    },
+    {
+        "clave": "120780022",
+        "nombre": "Cerro Yuku Tacava"
+    },
+    {
+        "clave": "120780026",
+        "nombre": "Colonia Nueva"
+    },
+    {
+        "clave": "120780032",
+        "nombre": "Ndii Yoo"
+    },
+    {
+        "clave": "120780038",
+        "nombre": "Hierba Santa"
+    },
+    {
+        "clave": "120780042",
+        "nombre": "Itu"
+    },
+    {
+        "clave": "120780054",
+        "nombre": "Llano de Encino"
+    },
+    {
+        "clave": "120780061",
+        "nombre": "Llano de Ocote"
+    },
+    {
+        "clave": "120780062",
+        "nombre": "Llano del Burrito"
+    },
+    {
+        "clave": "120780064",
+        "nombre": "Llano Pobre"
+    },
+    {
+        "clave": "120780066",
+        "nombre": "Ometepec Chiquito"
+    },
+    {
+        "clave": "120780067",
+        "nombre": "Peña Colorada"
+    },
+    {
+        "clave": "120780069",
+        "nombre": "Pie de Mango"
+    },
+    {
+        "clave": "120780071",
+        "nombre": "Piedra Silleta"
+    },
+    {
+        "clave": "120780083",
+        "nombre": "Río Hoja"
+    },
+    {
+        "clave": "120780103",
+        "nombre": "Xa Kavá"
+    },
+    {
+        "clave": "120780105",
+        "nombre": "Xaha Yucundia"
+    },
+    {
+        "clave": "120780108",
+        "nombre": "Yoso Iñu"
+    },
+    {
+        "clave": "120780110",
+        "nombre": "Yoso Kanu"
+    },
+    {
+        "clave": "120780112",
+        "nombre": "Yoso Ndikivi"
+    },
+    {
+        "clave": "120780113",
+        "nombre": "Yoso Ya'a"
+    },
+    {
+        "clave": "120780117",
+        "nombre": "Yuu Mini"
+    },
+    {
+        "clave": "120780118",
+        "nombre": "Yuu Mini Saa"
+    },
+    {
+        "clave": "120780120",
+        "nombre": "Yuvi Xa Tiyoo"
+    },
+    {
+        "clave": "120780125",
+        "nombre": "Juquila Tikindi"
+    },
+    {
+        "clave": "120780127",
+        "nombre": "Barranca Espino"
+    },
+    {
+        "clave": "120780131",
+        "nombre": "Ndoyo Savi"
+    },
+    {
+        "clave": "120780132",
+        "nombre": "Barranca Náhuatl"
+    },
+    {
+        "clave": "120780143",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "120780144",
+        "nombre": "Loma Tronconal"
+    },
+    {
+        "clave": "120780145",
+        "nombre": "Valle Verde"
+    },
+    {
+        "clave": "120780154",
+        "nombre": "El Ocotito"
+    },
+    {
+        "clave": "120780156",
+        "nombre": "Rancho Juquila de los Pinos"
+    },
+    {
+        "clave": "120780157",
+        "nombre": "Colonia Barranca de los Mangos"
+    },
+    {
+        "clave": "120780158",
+        "nombre": "Colonia Natividad"
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "clave": "280200007",
+        "nombre": "Las Ánimas"
+    },
+    {
+        "clave": "280200030",
+        "nombre": "La Libertad (Rancho Nuevo)"
+    },
+    {
+        "clave": "280200048",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "280200110",
+        "nombre": "Las Morenitas"
+    },
+    {
+        "clave": "280200002",
+        "nombre": "Los Abrojos"
+    },
+    {
+        "clave": "280200009",
+        "nombre": "Belisario Domínguez (El Borracho)"
+    },
+    {
+        "clave": "280200010",
+        "nombre": "Boreal Central (San Lorenzo)"
+    },
+    {
+        "clave": "280200012",
+        "nombre": "La Cieneguita"
+    },
+    {
+        "clave": "280200017",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "280200018",
+        "nombre": "Emilio Vázquez Gómez (Agua Fría)"
+    },
+    {
+        "clave": "280200029",
+        "nombre": "José María Pino Suárez"
+    },
+    {
+        "clave": "280200031",
+        "nombre": "Loma Alta"
+    },
+    {
+        "clave": "280200043",
+        "nombre": "El Palmito"
+    },
+    {
+        "clave": "280200045",
+        "nombre": "La Peñita"
+    },
+    {
+        "clave": "280200046",
+        "nombre": "El Piloncito"
+    },
+    {
+        "clave": "280200058",
+        "nombre": "Venustiano Carranza (La Oveja)"
+    },
+    {
+        "clave": "280200060",
+        "nombre": "Yerbabuena"
+    },
+    {
+        "clave": "280200064",
+        "nombre": "El Puerto los Cuates (El Zancudo)"
+    },
+    {
+        "clave": "280200069",
+        "nombre": "Las Delicias"
+    },
+    {
+        "clave": "280200072",
+        "nombre": "El Porvenir (Magueyes la Gloria)"
+    },
+    {
+        "clave": "280200077",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "280200108",
+        "nombre": "Los Pinos (Juan Morales)"
+    },
+    {
+        "clave": "280200001",
+        "nombre": "Villa Mainero"
+    },
+    {
+        "clave": "280200004",
+        "nombre": "La Lechuza (El Aguacate)"
+    },
+    {
+        "clave": "280200005",
+        "nombre": "El Ángel"
+    },
+    {
+        "clave": "280200013",
+        "nombre": "La Reserva"
+    },
+    {
+        "clave": "280200014",
+        "nombre": "Conrado Castillo (El Pilón)"
+    },
+    {
+        "clave": "280200015",
+        "nombre": "La Cruz"
+    },
+    {
+        "clave": "280200019",
+        "nombre": "El Encinal"
+    },
+    {
+        "clave": "280200020",
+        "nombre": "La Ermita"
+    },
+    {
+        "clave": "280200021",
+        "nombre": "Francisco I. Madero"
+    },
+    {
+        "clave": "280200022",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "280200023",
+        "nombre": "El Guaje"
+    },
+    {
+        "clave": "280200024",
+        "nombre": "Janalapa"
+    },
+    {
+        "clave": "280200026",
+        "nombre": "Jesús María"
+    },
+    {
+        "clave": "280200027",
+        "nombre": "José Delgado"
+    },
+    {
+        "clave": "280200028",
+        "nombre": "José Guadalupe Mainero"
+    },
+    {
+        "clave": "280200032",
+        "nombre": "Magueyes"
+    },
+    {
+        "clave": "280200034",
+        "nombre": "Los Lerma (El Mexiquito)"
+    },
+    {
+        "clave": "280200035",
+        "nombre": "Monteño"
+    },
+    {
+        "clave": "280200036",
+        "nombre": "El Naranjito"
+    },
+    {
+        "clave": "280200038",
+        "nombre": "El Nogal"
+    },
+    {
+        "clave": "280200041",
+        "nombre": "El Olmo"
+    },
+    {
+        "clave": "280200042",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "280200049",
+        "nombre": "Las Puentes"
+    },
+    {
+        "clave": "280200050",
+        "nombre": "Las Raíces"
+    },
+    {
+        "clave": "280200051",
+        "nombre": "San Antonio de la Concha (El Barrancón)"
+    },
+    {
+        "clave": "280200053",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "280200054",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "280200055",
+        "nombre": "San Luis Hidalgo"
+    },
+    {
+        "clave": "280200056",
+        "nombre": "San Miguel (San Luis)"
+    },
+    {
+        "clave": "280200061",
+        "nombre": "Las Anacuas"
+    },
+    {
+        "clave": "280200062",
+        "nombre": "La Chata"
+    },
+    {
+        "clave": "280200063",
+        "nombre": "Jarame"
+    },
+    {
+        "clave": "280200065",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "280200070",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "280200071",
+        "nombre": "Magueycitos (Magueyes)"
+    },
+    {
+        "clave": "280200075",
+        "nombre": "La Poza"
+    },
+    {
+        "clave": "280200080",
+        "nombre": "Las Mulas"
+    },
+    {
+        "clave": "280200081",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "280200082",
+        "nombre": "Las Palmas (La Mesa)"
+    },
+    {
+        "clave": "280200083",
+        "nombre": "Santa Clara"
+    },
+    {
+        "clave": "280200084",
+        "nombre": "Los Sabinos"
+    },
+    {
+        "clave": "280200086",
+        "nombre": "La Noria"
+    },
+    {
+        "clave": "280200088",
+        "nombre": "Puente de San José"
+    },
+    {
+        "clave": "280200089",
+        "nombre": "Pino Suárez"
+    },
+    {
+        "clave": "280200090",
+        "nombre": "Jesús María"
+    },
+    {
+        "clave": "280200092",
+        "nombre": "El Puerto"
+    },
+    {
+        "clave": "280200093",
+        "nombre": "Duraznillos"
+    },
+    {
+        "clave": "280200094",
+        "nombre": "Charco Dicha"
+    },
+    {
+        "clave": "280200095",
+        "nombre": "Paso los Nogales"
+    },
+    {
+        "clave": "280200097",
+        "nombre": "Los López (La Mesa)"
+    },
+    {
+        "clave": "280200098",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "280200099",
+        "nombre": "Los Alamitos (Cuatro Hermanas)"
+    },
+    {
+        "clave": "280200100",
+        "nombre": "Correderos"
+    },
+    {
+        "clave": "280200101",
+        "nombre": "El Cabrito (Héctor Cuellar)"
+    },
+    {
+        "clave": "280200102",
+        "nombre": "San Ramón (Oscar Garza)"
+    },
+    {
+        "clave": "280200103",
+        "nombre": "El Puerto"
+    },
+    {
+        "clave": "280200104",
+        "nombre": "La Escuadra"
+    },
+    {
+        "clave": "280200105",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "280200106",
+        "nombre": "San Javier"
+    },
+    {
+        "clave": "280200107",
+        "nombre": "Jaime García"
+    },
+    {
+        "clave": "280200109",
+        "nombre": "Las Margaritas"
+    },
+    {
+        "clave": "280200111",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "280200112",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "280200113",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "280200114",
+        "nombre": "El Sufrido"
+    },
+    {
+        "clave": "280200115",
+        "nombre": "Aries"
+    },
+    {
+        "clave": "280200116",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "280200117",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "280200118",
+        "nombre": "El Admirador"
+    },
+    {
+        "clave": "280200119",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "280200120",
+        "nombre": "El Gallero"
+    },
+    {
+        "clave": "280200121",
+        "nombre": "La Capilla (René González González)"
+    },
+    {
+        "clave": "280200122",
+        "nombre": "El Capricho"
+    },
+    {
+        "clave": "280200123",
+        "nombre": "José Mancilla Reyes"
+    },
+    {
+        "clave": "280200124",
+        "nombre": "San Pablo (Nora Nelly Pedraza)"
+    },
+    {
+        "clave": "280200125",
+        "nombre": "El Texanito"
+    }
+]

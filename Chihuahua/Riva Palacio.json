@@ -1,0 +1,622 @@
+[
+    {
+        "clave": "80540077",
+        "nombre": "San Bernabé"
+    },
+    {
+        "clave": "80540188",
+        "nombre": "Las Cien"
+    },
+    {
+        "clave": "80540056",
+        "nombre": "Chavarría"
+    },
+    {
+        "clave": "80540061",
+        "nombre": "Los Hornitos"
+    },
+    {
+        "clave": "80540001",
+        "nombre": "San Andrés"
+    },
+    {
+        "clave": "80540002",
+        "nombre": "Aldana de Abajo"
+    },
+    {
+        "clave": "80540003",
+        "nombre": "Aldana de Arriba"
+    },
+    {
+        "clave": "80540007",
+        "nombre": "Beltranes"
+    },
+    {
+        "clave": "80540008",
+        "nombre": "Campo 30"
+    },
+    {
+        "clave": "80540009",
+        "nombre": "Campo 31"
+    },
+    {
+        "clave": "80540010",
+        "nombre": "Campo Treinta y Dos"
+    },
+    {
+        "clave": "80540011",
+        "nombre": "Campo Treinta y Cinco (El Saucito)"
+    },
+    {
+        "clave": "80540012",
+        "nombre": "Campo Treinta y Ocho"
+    },
+    {
+        "clave": "80540013",
+        "nombre": "Campo Cuarenta (Carrizalillo)"
+    },
+    {
+        "clave": "80540014",
+        "nombre": "Campo Cuarenta y Uno"
+    },
+    {
+        "clave": "80540015",
+        "nombre": "Campo Cuarenta y Dos"
+    },
+    {
+        "clave": "80540016",
+        "nombre": "Campo Cuarenta y Dos B"
+    },
+    {
+        "clave": "80540017",
+        "nombre": "Campo Cuarenta y Tres"
+    },
+    {
+        "clave": "80540018",
+        "nombre": "Campo Cuarenta y Cuatro"
+    },
+    {
+        "clave": "80540019",
+        "nombre": "Campo Cuarenta y Cinco (Colonia Merced)"
+    },
+    {
+        "clave": "80540020",
+        "nombre": "Campo 46"
+    },
+    {
+        "clave": "80540021",
+        "nombre": "Campo Cincuenta"
+    },
+    {
+        "clave": "80540022",
+        "nombre": "Campo Cincuenta y Cinco (La Cordovana)"
+    },
+    {
+        "clave": "80540023",
+        "nombre": "Campo Cincuenta y Nueve"
+    },
+    {
+        "clave": "80540024",
+        "nombre": "Campo Sesenta"
+    },
+    {
+        "clave": "80540025",
+        "nombre": "Campo 61"
+    },
+    {
+        "clave": "80540026",
+        "nombre": "Campo Sesenta y Dos"
+    },
+    {
+        "clave": "80540027",
+        "nombre": "Campo Sesenta y Tres"
+    },
+    {
+        "clave": "80540028",
+        "nombre": "Campo Sesenta y Cuatro B"
+    },
+    {
+        "clave": "80540029",
+        "nombre": "Campo Sesenta y Cuatro"
+    },
+    {
+        "clave": "80540030",
+        "nombre": "Campo Sesenta y Cinco"
+    },
+    {
+        "clave": "80540032",
+        "nombre": "Campo Sesenta y Seis"
+    },
+    {
+        "clave": "80540033",
+        "nombre": "Campo Sesenta y Siete"
+    },
+    {
+        "clave": "80540034",
+        "nombre": "Campo Sesenta y Ocho"
+    },
+    {
+        "clave": "80540035",
+        "nombre": "Campo Sesenta y Nueve"
+    },
+    {
+        "clave": "80540036",
+        "nombre": "Campo Setenta"
+    },
+    {
+        "clave": "80540037",
+        "nombre": "Campo Setenta y Uno (Las Lajas)"
+    },
+    {
+        "clave": "80540038",
+        "nombre": "Campo Setenta y Dos"
+    },
+    {
+        "clave": "80540039",
+        "nombre": "Campo Setenta y Tres"
+    },
+    {
+        "clave": "80540040",
+        "nombre": "Campo Setenta y Cuatro"
+    },
+    {
+        "clave": "80540041",
+        "nombre": "Campo Setenta y Ocho"
+    },
+    {
+        "clave": "80540042",
+        "nombre": "Campo Setenta y Nueve"
+    },
+    {
+        "clave": "80540043",
+        "nombre": "Campo Ochenta"
+    },
+    {
+        "clave": "80540044",
+        "nombre": "Campo Ochenta y Uno"
+    },
+    {
+        "clave": "80540045",
+        "nombre": "Campo Ochenta y Dos"
+    },
+    {
+        "clave": "80540046",
+        "nombre": "Campo Ochenta y Tres"
+    },
+    {
+        "clave": "80540047",
+        "nombre": "Campo Ochenta y Cuatro"
+    },
+    {
+        "clave": "80540048",
+        "nombre": "Campo Ochenta y Seis"
+    },
+    {
+        "clave": "80540049",
+        "nombre": "Campo Ochenta y Siete"
+    },
+    {
+        "clave": "80540050",
+        "nombre": "Campo Ochenta y Ocho"
+    },
+    {
+        "clave": "80540052",
+        "nombre": "Campo Noventa y Nueve"
+    },
+    {
+        "clave": "80540053",
+        "nombre": "Cerro Colorado"
+    },
+    {
+        "clave": "80540054",
+        "nombre": "Ciénega Grande"
+    },
+    {
+        "clave": "80540055",
+        "nombre": "Cueva de Tierra"
+    },
+    {
+        "clave": "80540057",
+        "nombre": "La Despedida"
+    },
+    {
+        "clave": "80540058",
+        "nombre": "El Encino"
+    },
+    {
+        "clave": "80540059",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "80540062",
+        "nombre": "Jesús María de Loya (Ranchito de Loya)"
+    },
+    {
+        "clave": "80540063",
+        "nombre": "Lucas"
+    },
+    {
+        "clave": "80540065",
+        "nombre": "Marcial"
+    },
+    {
+        "clave": "80540067",
+        "nombre": "Nana Rosa"
+    },
+    {
+        "clave": "80540068",
+        "nombre": "La Noria de Aldana"
+    },
+    {
+        "clave": "80540069",
+        "nombre": "El Oso"
+    },
+    {
+        "clave": "80540070",
+        "nombre": "El Peñol"
+    },
+    {
+        "clave": "80540071",
+        "nombre": "Los Pérez"
+    },
+    {
+        "clave": "80540072",
+        "nombre": "Pinos Prietos"
+    },
+    {
+        "clave": "80540073",
+        "nombre": "Ranchería"
+    },
+    {
+        "clave": "80540074",
+        "nombre": "Los Robles"
+    },
+    {
+        "clave": "80540075",
+        "nombre": "Sainapuchi (La Garita)"
+    },
+    {
+        "clave": "80540076",
+        "nombre": "San Agustín de Piñones"
+    },
+    {
+        "clave": "80540078",
+        "nombre": "Sandoval"
+    },
+    {
+        "clave": "80540079",
+        "nombre": "San Juan del Duro"
+    },
+    {
+        "clave": "80540080",
+        "nombre": "San Juan de Mendoza"
+    },
+    {
+        "clave": "80540081",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "80540082",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "80540083",
+        "nombre": "Los Tanques"
+    },
+    {
+        "clave": "80540084",
+        "nombre": "El Terrero"
+    },
+    {
+        "clave": "80540085",
+        "nombre": "Zubía"
+    },
+    {
+        "clave": "80540086",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "80540087",
+        "nombre": "Cañón de San Miguel (Cañón del Diablo)"
+    },
+    {
+        "clave": "80540088",
+        "nombre": "Los Cojos"
+    },
+    {
+        "clave": "80540089",
+        "nombre": "La Parra"
+    },
+    {
+        "clave": "80540091",
+        "nombre": "Campo Ochenta y Cinco"
+    },
+    {
+        "clave": "80540092",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "80540097",
+        "nombre": "Campo Treinta y Ocho y Medio"
+    },
+    {
+        "clave": "80540099",
+        "nombre": "Pino Cuate"
+    },
+    {
+        "clave": "80540101",
+        "nombre": "Campo 35 1/2"
+    },
+    {
+        "clave": "80540102",
+        "nombre": "El Carmen (Pinos Prietos)"
+    },
+    {
+        "clave": "80540103",
+        "nombre": "Güerachi de Abajo"
+    },
+    {
+        "clave": "80540106",
+        "nombre": "Campo Ochenta y Nueve"
+    },
+    {
+        "clave": "80540107",
+        "nombre": "Campo 61 1/2"
+    },
+    {
+        "clave": "80540110",
+        "nombre": "El Coscomate"
+    },
+    {
+        "clave": "80540114",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "80540119",
+        "nombre": "El Alamillo"
+    },
+    {
+        "clave": "80540125",
+        "nombre": "La Cueva Pinta"
+    },
+    {
+        "clave": "80540127",
+        "nombre": "El Rancho"
+    },
+    {
+        "clave": "80540128",
+        "nombre": "El Saucillo"
+    },
+    {
+        "clave": "80540129",
+        "nombre": "Las Tinajitas"
+    },
+    {
+        "clave": "80540134",
+        "nombre": "La Estacada"
+    },
+    {
+        "clave": "80540139",
+        "nombre": "Campo Noventa"
+    },
+    {
+        "clave": "80540140",
+        "nombre": "Campo Noventa y Uno"
+    },
+    {
+        "clave": "80540141",
+        "nombre": "Campo Noventa y Dos"
+    },
+    {
+        "clave": "80540142",
+        "nombre": "Campo Cincuenta y Nueve y Medio"
+    },
+    {
+        "clave": "80540145",
+        "nombre": "Barrio de Félix de Arriba"
+    },
+    {
+        "clave": "80540146",
+        "nombre": "Campo Sesenta y Dos y Medio"
+    },
+    {
+        "clave": "80540147",
+        "nombre": "Sierra Alta"
+    },
+    {
+        "clave": "80540149",
+        "nombre": "Los Aviones"
+    },
+    {
+        "clave": "80540150",
+        "nombre": "Campo Cuarenta y Ocho"
+    },
+    {
+        "clave": "80540151",
+        "nombre": "Campo Sesenta y Siete y Medio"
+    },
+    {
+        "clave": "80540152",
+        "nombre": "Campo Noventa y Tres"
+    },
+    {
+        "clave": "80540153",
+        "nombre": "El Capulín"
+    },
+    {
+        "clave": "80540154",
+        "nombre": "El Carrizalillo"
+    },
+    {
+        "clave": "80540155",
+        "nombre": "Cañada de Pinos"
+    },
+    {
+        "clave": "80540156",
+        "nombre": "La Corbata"
+    },
+    {
+        "clave": "80540157",
+        "nombre": "Coscomate Nuevo"
+    },
+    {
+        "clave": "80540159",
+        "nombre": "Las Gualdias"
+    },
+    {
+        "clave": "80540161",
+        "nombre": "Los Hidalgos"
+    },
+    {
+        "clave": "80540162",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80540163",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80540164",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80540165",
+        "nombre": "Macario"
+    },
+    {
+        "clave": "80540166",
+        "nombre": "El Oso"
+    },
+    {
+        "clave": "80540167",
+        "nombre": "La Paloma"
+    },
+    {
+        "clave": "80540168",
+        "nombre": "Pino Boludo"
+    },
+    {
+        "clave": "80540169",
+        "nombre": "Los Poños"
+    },
+    {
+        "clave": "80540170",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "80540172",
+        "nombre": "San Vicente (Pinos Prietos)"
+    },
+    {
+        "clave": "80540173",
+        "nombre": "Silos del Campo"
+    },
+    {
+        "clave": "80540174",
+        "nombre": "El Tascatal"
+    },
+    {
+        "clave": "80540175",
+        "nombre": "Las Tunas"
+    },
+    {
+        "clave": "80540176",
+        "nombre": "Las Vigas"
+    },
+    {
+        "clave": "80540177",
+        "nombre": "El Zorrillo"
+    },
+    {
+        "clave": "80540178",
+        "nombre": "La Nueva Paz"
+    },
+    {
+        "clave": "80540179",
+        "nombre": "La Luneta"
+    },
+    {
+        "clave": "80540180",
+        "nombre": "El Alamillo"
+    },
+    {
+        "clave": "80540181",
+        "nombre": "El Arquito"
+    },
+    {
+        "clave": "80540182",
+        "nombre": "Campo Ochenta y Siete y Medio"
+    },
+    {
+        "clave": "80540183",
+        "nombre": "Campo Sesenta y Cinco y Medio"
+    },
+    {
+        "clave": "80540184",
+        "nombre": "Campo 33"
+    },
+    {
+        "clave": "80540185",
+        "nombre": "Los Minks"
+    },
+    {
+        "clave": "80540186",
+        "nombre": "La Madera"
+    },
+    {
+        "clave": "80540187",
+        "nombre": "Rancho de Arriba"
+    },
+    {
+        "clave": "80540189",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "80540190",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80540191",
+        "nombre": "Ramón Madrid"
+    },
+    {
+        "clave": "80540192",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80540193",
+        "nombre": "Rancho Chuma"
+    },
+    {
+        "clave": "80540194",
+        "nombre": "Arroyo del Muerto"
+    },
+    {
+        "clave": "80540195",
+        "nombre": "Rancho el Gringo"
+    },
+    {
+        "clave": "80540196",
+        "nombre": "Agua Zarca"
+    },
+    {
+        "clave": "80540197",
+        "nombre": "Campo Setenta y Medio"
+    },
+    {
+        "clave": "80540198",
+        "nombre": "Campo de la Lumbre"
+    },
+    {
+        "clave": "80540199",
+        "nombre": "San José de Güerachi"
+    },
+    {
+        "clave": "80540200",
+        "nombre": "Coscomate de Abajo"
+    },
+    {
+        "clave": "80540201",
+        "nombre": "La Ciénega de Maldonado"
+    }
+]

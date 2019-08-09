@@ -1,0 +1,474 @@
+[
+    {
+        "clave": "1",
+        "nombre": "Acacoyagua"
+    },
+    {
+        "clave": "2",
+        "nombre": "Acala"
+    },
+    {
+        "clave": "3",
+        "nombre": "Acapetahua"
+    },
+    {
+        "clave": "4",
+        "nombre": "Altamirano"
+    },
+    {
+        "clave": "5",
+        "nombre": "Amatán"
+    },
+    {
+        "clave": "6",
+        "nombre": "Amatenango de la Frontera"
+    },
+    {
+        "clave": "7",
+        "nombre": "Amatenango del Valle"
+    },
+    {
+        "clave": "8",
+        "nombre": "Angel Albino Corzo"
+    },
+    {
+        "clave": "9",
+        "nombre": "Arriaga"
+    },
+    {
+        "clave": "10",
+        "nombre": "Bejucal de Ocampo"
+    },
+    {
+        "clave": "11",
+        "nombre": "Bella Vista"
+    },
+    {
+        "clave": "12",
+        "nombre": "Berriozábal"
+    },
+    {
+        "clave": "13",
+        "nombre": "Bochil"
+    },
+    {
+        "clave": "14",
+        "nombre": "El Bosque"
+    },
+    {
+        "clave": "15",
+        "nombre": "Cacahoatán"
+    },
+    {
+        "clave": "16",
+        "nombre": "Catazajá"
+    },
+    {
+        "clave": "17",
+        "nombre": "Cintalapa"
+    },
+    {
+        "clave": "18",
+        "nombre": "Coapilla"
+    },
+    {
+        "clave": "19",
+        "nombre": "Comitán de Domínguez"
+    },
+    {
+        "clave": "20",
+        "nombre": "La Concordia"
+    },
+    {
+        "clave": "21",
+        "nombre": "Copainalá"
+    },
+    {
+        "clave": "22",
+        "nombre": "Chalchihuitán"
+    },
+    {
+        "clave": "23",
+        "nombre": "Chamula"
+    },
+    {
+        "clave": "24",
+        "nombre": "Chanal"
+    },
+    {
+        "clave": "25",
+        "nombre": "Chapultenango"
+    },
+    {
+        "clave": "26",
+        "nombre": "Chenalhó"
+    },
+    {
+        "clave": "27",
+        "nombre": "Chiapa de Corzo"
+    },
+    {
+        "clave": "28",
+        "nombre": "Chiapilla"
+    },
+    {
+        "clave": "29",
+        "nombre": "Chicoasén"
+    },
+    {
+        "clave": "30",
+        "nombre": "Chicomuselo"
+    },
+    {
+        "clave": "31",
+        "nombre": "Chilón"
+    },
+    {
+        "clave": "32",
+        "nombre": "Escuintla"
+    },
+    {
+        "clave": "33",
+        "nombre": "Francisco León"
+    },
+    {
+        "clave": "34",
+        "nombre": "Frontera Comalapa"
+    },
+    {
+        "clave": "35",
+        "nombre": "Frontera Hidalgo"
+    },
+    {
+        "clave": "36",
+        "nombre": "La Grandeza"
+    },
+    {
+        "clave": "37",
+        "nombre": "Huehuetán"
+    },
+    {
+        "clave": "38",
+        "nombre": "Huixtán"
+    },
+    {
+        "clave": "39",
+        "nombre": "Huitiupán"
+    },
+    {
+        "clave": "40",
+        "nombre": "Huixtla"
+    },
+    {
+        "clave": "41",
+        "nombre": "La Independencia"
+    },
+    {
+        "clave": "42",
+        "nombre": "Ixhuatán"
+    },
+    {
+        "clave": "43",
+        "nombre": "Ixtacomitán"
+    },
+    {
+        "clave": "44",
+        "nombre": "Ixtapa"
+    },
+    {
+        "clave": "45",
+        "nombre": "Ixtapangajoya"
+    },
+    {
+        "clave": "46",
+        "nombre": "Jiquipilas"
+    },
+    {
+        "clave": "47",
+        "nombre": "Jitotol"
+    },
+    {
+        "clave": "48",
+        "nombre": "Juárez"
+    },
+    {
+        "clave": "49",
+        "nombre": "Larráinzar"
+    },
+    {
+        "clave": "50",
+        "nombre": "La Libertad"
+    },
+    {
+        "clave": "51",
+        "nombre": "Mapastepec"
+    },
+    {
+        "clave": "52",
+        "nombre": "Las Margaritas"
+    },
+    {
+        "clave": "53",
+        "nombre": "Mazapa de Madero"
+    },
+    {
+        "clave": "54",
+        "nombre": "Mazatán"
+    },
+    {
+        "clave": "55",
+        "nombre": "Metapa"
+    },
+    {
+        "clave": "56",
+        "nombre": "Mitontic"
+    },
+    {
+        "clave": "57",
+        "nombre": "Motozintla"
+    },
+    {
+        "clave": "58",
+        "nombre": "Nicolás Ruíz"
+    },
+    {
+        "clave": "59",
+        "nombre": "Ocosingo"
+    },
+    {
+        "clave": "60",
+        "nombre": "Ocotepec"
+    },
+    {
+        "clave": "61",
+        "nombre": "Ocozocoautla de Espinosa"
+    },
+    {
+        "clave": "62",
+        "nombre": "Ostuacán"
+    },
+    {
+        "clave": "63",
+        "nombre": "Osumacinta"
+    },
+    {
+        "clave": "64",
+        "nombre": "Oxchuc"
+    },
+    {
+        "clave": "65",
+        "nombre": "Palenque"
+    },
+    {
+        "clave": "66",
+        "nombre": "Pantelhó"
+    },
+    {
+        "clave": "67",
+        "nombre": "Pantepec"
+    },
+    {
+        "clave": "68",
+        "nombre": "Pichucalco"
+    },
+    {
+        "clave": "69",
+        "nombre": "Pijijiapan"
+    },
+    {
+        "clave": "70",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "71",
+        "nombre": "Villa Comaltitlán"
+    },
+    {
+        "clave": "72",
+        "nombre": "Pueblo Nuevo Solistahuacán"
+    },
+    {
+        "clave": "73",
+        "nombre": "Rayón"
+    },
+    {
+        "clave": "74",
+        "nombre": "Reforma"
+    },
+    {
+        "clave": "75",
+        "nombre": "Las Rosas"
+    },
+    {
+        "clave": "76",
+        "nombre": "Sabanilla"
+    },
+    {
+        "clave": "77",
+        "nombre": "Salto de Agua"
+    },
+    {
+        "clave": "78",
+        "nombre": "San Cristóbal de las Casas"
+    },
+    {
+        "clave": "79",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "80",
+        "nombre": "Siltepec"
+    },
+    {
+        "clave": "81",
+        "nombre": "Simojovel"
+    },
+    {
+        "clave": "82",
+        "nombre": "Sitalá"
+    },
+    {
+        "clave": "83",
+        "nombre": "Socoltenango"
+    },
+    {
+        "clave": "84",
+        "nombre": "Solosuchiapa"
+    },
+    {
+        "clave": "85",
+        "nombre": "Soyaló"
+    },
+    {
+        "clave": "86",
+        "nombre": "Suchiapa"
+    },
+    {
+        "clave": "87",
+        "nombre": "Suchiate"
+    },
+    {
+        "clave": "88",
+        "nombre": "Sunuapa"
+    },
+    {
+        "clave": "89",
+        "nombre": "Tapachula"
+    },
+    {
+        "clave": "90",
+        "nombre": "Tapalapa"
+    },
+    {
+        "clave": "91",
+        "nombre": "Tapilula"
+    },
+    {
+        "clave": "92",
+        "nombre": "Tecpatán"
+    },
+    {
+        "clave": "93",
+        "nombre": "Tenejapa"
+    },
+    {
+        "clave": "94",
+        "nombre": "Teopisca"
+    },
+    {
+        "clave": "96",
+        "nombre": "Tila"
+    },
+    {
+        "clave": "97",
+        "nombre": "Tonalá"
+    },
+    {
+        "clave": "98",
+        "nombre": "Totolapa"
+    },
+    {
+        "clave": "99",
+        "nombre": "La Trinitaria"
+    },
+    {
+        "clave": "100",
+        "nombre": "Tumbalá"
+    },
+    {
+        "clave": "101",
+        "nombre": "Tuxtla Gutiérrez"
+    },
+    {
+        "clave": "102",
+        "nombre": "Tuxtla Chico"
+    },
+    {
+        "clave": "103",
+        "nombre": "Tuzantán"
+    },
+    {
+        "clave": "104",
+        "nombre": "Tzimol"
+    },
+    {
+        "clave": "105",
+        "nombre": "Unión Juárez"
+    },
+    {
+        "clave": "106",
+        "nombre": "Venustiano Carranza"
+    },
+    {
+        "clave": "107",
+        "nombre": "Villa Corzo"
+    },
+    {
+        "clave": "108",
+        "nombre": "Villaflores"
+    },
+    {
+        "clave": "109",
+        "nombre": "Yajalón"
+    },
+    {
+        "clave": "110",
+        "nombre": "San Lucas"
+    },
+    {
+        "clave": "111",
+        "nombre": "Zinacantán"
+    },
+    {
+        "clave": "112",
+        "nombre": "San Juan Cancuc"
+    },
+    {
+        "clave": "113",
+        "nombre": "Aldama"
+    },
+    {
+        "clave": "114",
+        "nombre": "Benemérito de las Américas"
+    },
+    {
+        "clave": "115",
+        "nombre": "Maravilla Tenejapa"
+    },
+    {
+        "clave": "116",
+        "nombre": "Marqués de Comillas"
+    },
+    {
+        "clave": "117",
+        "nombre": "Montecristo de Guerrero"
+    },
+    {
+        "clave": "118",
+        "nombre": "San Andrés Duraznal"
+    },
+    {
+        "clave": "119",
+        "nombre": "Santiago el Pinar"
+    }
+]

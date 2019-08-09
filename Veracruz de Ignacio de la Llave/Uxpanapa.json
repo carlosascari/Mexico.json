@@ -1,0 +1,774 @@
+[
+    {
+        "clave": "302100017",
+        "nombre": "Arroyo Zarco Buena Vista"
+    },
+    {
+        "clave": "302100021",
+        "nombre": "Belisario Domínguez"
+    },
+    {
+        "clave": "302100028",
+        "nombre": "Los Pinos (Las Brujas)"
+    },
+    {
+        "clave": "302100032",
+        "nombre": "Carlos Alonso Flores"
+    },
+    {
+        "clave": "302100045",
+        "nombre": "Colonia Agrícola M."
+    },
+    {
+        "clave": "302100051",
+        "nombre": "Enrique Rodríguez Cano"
+    },
+    {
+        "clave": "302100053",
+        "nombre": "Esfuerzo Nuevo"
+    },
+    {
+        "clave": "302100054",
+        "nombre": "El Faisán"
+    },
+    {
+        "clave": "302100065",
+        "nombre": "General Valerio Trujano"
+    },
+    {
+        "clave": "302100084",
+        "nombre": "Juan Rodríguez Clara (Álvaro Obregón)"
+    },
+    {
+        "clave": "302100088",
+        "nombre": "Río Azul (Licenciado Rafael Murillo Vidal)"
+    },
+    {
+        "clave": "302100090",
+        "nombre": "El Luchador"
+    },
+    {
+        "clave": "302100091",
+        "nombre": "Luis Echeverría Álvarez"
+    },
+    {
+        "clave": "302100092",
+        "nombre": "Las Margaritas"
+    },
+    {
+        "clave": "302100096",
+        "nombre": "Misantla Segundo"
+    },
+    {
+        "clave": "302100097",
+        "nombre": "Narciso Mendoza"
+    },
+    {
+        "clave": "302100100",
+        "nombre": "Norberto Aguirre Palancares"
+    },
+    {
+        "clave": "302100104",
+        "nombre": "Nuevo Chapultepec"
+    },
+    {
+        "clave": "302100106",
+        "nombre": "Nuevo Naranjos"
+    },
+    {
+        "clave": "302100112",
+        "nombre": "La Nueva Pitahaya"
+    },
+    {
+        "clave": "302100122",
+        "nombre": "Alegre las Flores"
+    },
+    {
+        "clave": "302100123",
+        "nombre": "Cerro Loco"
+    },
+    {
+        "clave": "302100132",
+        "nombre": "El Sabino"
+    },
+    {
+        "clave": "302100133",
+        "nombre": "Saltabarranca Segundo"
+    },
+    {
+        "clave": "302100143",
+        "nombre": "Úrsulo Galván"
+    },
+    {
+        "clave": "302100150",
+        "nombre": "Las Carmelitas"
+    },
+    {
+        "clave": "302100157",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "302100001",
+        "nombre": "Poblado 10"
+    },
+    {
+        "clave": "302100003",
+        "nombre": "Adolfo Ruiz Cortines"
+    },
+    {
+        "clave": "302100006",
+        "nombre": "Agustín Melgar"
+    },
+    {
+        "clave": "302100009",
+        "nombre": "Los Amarillos (Poblado Quince)"
+    },
+    {
+        "clave": "302100014",
+        "nombre": "Antonio Rodríguez Martín"
+    },
+    {
+        "clave": "302100016",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "302100019",
+        "nombre": "Bajo Grande"
+    },
+    {
+        "clave": "302100022",
+        "nombre": "Benito Juárez (Poblado Uno)"
+    },
+    {
+        "clave": "302100023",
+        "nombre": "Benito Juárez Primero (Polígono Noventa y Siete)"
+    },
+    {
+        "clave": "302100024",
+        "nombre": "Benito Juárez Segundo (La Raya)"
+    },
+    {
+        "clave": "302100025",
+        "nombre": "Benito Juárez V"
+    },
+    {
+        "clave": "302100026",
+        "nombre": "Bernardino Zúñiga García"
+    },
+    {
+        "clave": "302100030",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "302100034",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "302100035",
+        "nombre": "Las Carolinas (Poblado Nueve)"
+    },
+    {
+        "clave": "302100037",
+        "nombre": "Carolino Anaya Uno (Poblado Uno)"
+    },
+    {
+        "clave": "302100038",
+        "nombre": "La Laguna [Centro Comercial]"
+    },
+    {
+        "clave": "302100040",
+        "nombre": "Chuniapan de Arriba"
+    },
+    {
+        "clave": "302100046",
+        "nombre": "Colonia del Valle (Poblado Trece)"
+    },
+    {
+        "clave": "302100047",
+        "nombre": "Dos Amates"
+    },
+    {
+        "clave": "302100049",
+        "nombre": "Helio García Alfaro (Poblado Once)"
+    },
+    {
+        "clave": "302100050",
+        "nombre": "Emiliano Zapata (Anexo Niños Héroes)"
+    },
+    {
+        "clave": "302100055",
+        "nombre": "Fernando López Arias"
+    },
+    {
+        "clave": "302100059",
+        "nombre": "Francisco I. Madero"
+    },
+    {
+        "clave": "302100060",
+        "nombre": "Francisco Villa Dos"
+    },
+    {
+        "clave": "302100061",
+        "nombre": "Francisco Villa Dos (Poblado Tres)"
+    },
+    {
+        "clave": "302100063",
+        "nombre": "General de División Cándido Aguilar"
+    },
+    {
+        "clave": "302100064",
+        "nombre": "General Emiliano Zapata (El Pescadito)"
+    },
+    {
+        "clave": "302100070",
+        "nombre": "Hermanos Cedillo (Poblado Dos A)"
+    },
+    {
+        "clave": "302100071",
+        "nombre": "Hidalgo Amajac"
+    },
+    {
+        "clave": "302100072",
+        "nombre": "La Horqueta (Poblado Doce)"
+    },
+    {
+        "clave": "302100077",
+        "nombre": "Jorge L. Tamayo"
+    },
+    {
+        "clave": "302100078",
+        "nombre": "Jorge L. Tamayo (Poblado Dos)"
+    },
+    {
+        "clave": "302100083",
+        "nombre": "Las Joyas"
+    },
+    {
+        "clave": "302100085",
+        "nombre": "La Laguna (Poblado Seis Almanza)"
+    },
+    {
+        "clave": "302100086",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "302100087",
+        "nombre": "Los Liberales"
+    },
+    {
+        "clave": "302100089",
+        "nombre": "Loma de Oro"
+    },
+    {
+        "clave": "302100094",
+        "nombre": "Miguel Alemán"
+    },
+    {
+        "clave": "302100098",
+        "nombre": "Niños Héroes (Los Juanes)"
+    },
+    {
+        "clave": "302100101",
+        "nombre": "La Nueva Vida"
+    },
+    {
+        "clave": "302100102",
+        "nombre": "Nuevo Acapulco"
+    },
+    {
+        "clave": "302100103",
+        "nombre": "Nuevo Cantón (Poblado Siete)"
+    },
+    {
+        "clave": "302100105",
+        "nombre": "Nuevo Córdoba"
+    },
+    {
+        "clave": "302100108",
+        "nombre": "Paso del Moral"
+    },
+    {
+        "clave": "302100113",
+        "nombre": "Plan de Arroyo"
+    },
+    {
+        "clave": "302100114",
+        "nombre": "Poblado Cinco"
+    },
+    {
+        "clave": "302100117",
+        "nombre": "Primitivo R. Valencia"
+    },
+    {
+        "clave": "302100118",
+        "nombre": "Progreso Chapultepec (Linda Estrella)"
+    },
+    {
+        "clave": "302100119",
+        "nombre": "El Progreso"
+    },
+    {
+        "clave": "302100121",
+        "nombre": "Rafael Murillo Vidal"
+    },
+    {
+        "clave": "302100127",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "302100129",
+        "nombre": "Río Alegre"
+    },
+    {
+        "clave": "302100131",
+        "nombre": "Río Uxpanapa (Poblado Catorce)"
+    },
+    {
+        "clave": "302100134",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "302100136",
+        "nombre": "Saturnino Cedillo (Poblado Uno)"
+    },
+    {
+        "clave": "302100144",
+        "nombre": "Vidal Díaz Muñoz"
+    },
+    {
+        "clave": "302100154",
+        "nombre": "Guillén"
+    },
+    {
+        "clave": "302100163",
+        "nombre": "La Fortaleza"
+    },
+    {
+        "clave": "302100167",
+        "nombre": "El Pequeñito"
+    },
+    {
+        "clave": "302100173",
+        "nombre": "Monterrey"
+    },
+    {
+        "clave": "302100002",
+        "nombre": "Aarón Ventura"
+    },
+    {
+        "clave": "302100004",
+        "nombre": "Adrián Domínguez Méndez"
+    },
+    {
+        "clave": "302100005",
+        "nombre": "El Agostadero"
+    },
+    {
+        "clave": "302100007",
+        "nombre": "La Alberca"
+    },
+    {
+        "clave": "302100008",
+        "nombre": "Eduardo Pulido"
+    },
+    {
+        "clave": "302100010",
+        "nombre": "Anastacio Mata Martínez"
+    },
+    {
+        "clave": "302100011",
+        "nombre": "Ángel García"
+    },
+    {
+        "clave": "302100012",
+        "nombre": "Las Ánimas (Rancho del Doctor)"
+    },
+    {
+        "clave": "302100013",
+        "nombre": "Antonio López Aguilar"
+    },
+    {
+        "clave": "302100015",
+        "nombre": "Los Robles (Apolinar García Hernández)"
+    },
+    {
+        "clave": "302100018",
+        "nombre": "Arturo Hernández Ochoa"
+    },
+    {
+        "clave": "302100020",
+        "nombre": "Beatriz"
+    },
+    {
+        "clave": "302100027",
+        "nombre": "La Milina (Beto Sixto)"
+    },
+    {
+        "clave": "302100029",
+        "nombre": "La Palma (Bruno Espinoza)"
+    },
+    {
+        "clave": "302100031",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "302100036",
+        "nombre": "Carolino Anaya"
+    },
+    {
+        "clave": "302100039",
+        "nombre": "Cerro Frontón (Santa Isabel)"
+    },
+    {
+        "clave": "302100041",
+        "nombre": "Cinco de Febrero"
+    },
+    {
+        "clave": "302100042",
+        "nombre": "Cinco de Mayo (La Ceiba)"
+    },
+    {
+        "clave": "302100043",
+        "nombre": "Ciro Cid Velázquez"
+    },
+    {
+        "clave": "302100044",
+        "nombre": "El Cocuite"
+    },
+    {
+        "clave": "302100048",
+        "nombre": "Dos Arroyos (La Paz)"
+    },
+    {
+        "clave": "302100052",
+        "nombre": "Entrada al Poblado Cinco (Camino Real)"
+    },
+    {
+        "clave": "302100056",
+        "nombre": "Las Palomas"
+    },
+    {
+        "clave": "302100057",
+        "nombre": "Tres Hermanos"
+    },
+    {
+        "clave": "302100062",
+        "nombre": "Gelasio Sánchez"
+    },
+    {
+        "clave": "302100066",
+        "nombre": "Gregorio Rivera Fuentes"
+    },
+    {
+        "clave": "302100067",
+        "nombre": "Guillermo Manuel García"
+    },
+    {
+        "clave": "302100068",
+        "nombre": "Guillermo Vargas Mendoza"
+    },
+    {
+        "clave": "302100069",
+        "nombre": "Gutierritos"
+    },
+    {
+        "clave": "302100073",
+        "nombre": "Hules de Uxpanapa"
+    },
+    {
+        "clave": "302100074",
+        "nombre": "Almacén de Depósito [Instituto Nacional Indigenista]"
+    },
+    {
+        "clave": "302100075",
+        "nombre": "Jacinto Jorge Martínez"
+    },
+    {
+        "clave": "302100076",
+        "nombre": "Javier Mina"
+    },
+    {
+        "clave": "302100079",
+        "nombre": "Juan Cobos"
+    },
+    {
+        "clave": "302100080",
+        "nombre": "José Rabanal Carrillo"
+    },
+    {
+        "clave": "302100081",
+        "nombre": "José Rivera Cisneros"
+    },
+    {
+        "clave": "302100082",
+        "nombre": "Ana María (José Terán)"
+    },
+    {
+        "clave": "302100093",
+        "nombre": "Martín Jorge Martínez"
+    },
+    {
+        "clave": "302100095",
+        "nombre": "Miguel Gómez"
+    },
+    {
+        "clave": "302100099",
+        "nombre": "La Noche Buena"
+    },
+    {
+        "clave": "302100107",
+        "nombre": "Pánfilo Olivo"
+    },
+    {
+        "clave": "302100109",
+        "nombre": "Pedro Montor Estillado"
+    },
+    {
+        "clave": "302100110",
+        "nombre": "Perfecto Contreras Rafael"
+    },
+    {
+        "clave": "302100111",
+        "nombre": "La Pista"
+    },
+    {
+        "clave": "302100115",
+        "nombre": "Predio el Brillante"
+    },
+    {
+        "clave": "302100116",
+        "nombre": "Primitivo Barrios Barrios"
+    },
+    {
+        "clave": "302100124",
+        "nombre": "Tomás Cabrera"
+    },
+    {
+        "clave": "302100125",
+        "nombre": "Raúl López Simón"
+    },
+    {
+        "clave": "302100126",
+        "nombre": "Dos Palmas (Remigio Hernández Castelán)"
+    },
+    {
+        "clave": "302100128",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "302100130",
+        "nombre": "Río Grande [Planta Beneficiadora de Hule]"
+    },
+    {
+        "clave": "302100135",
+        "nombre": "San Juan Otontepec"
+    },
+    {
+        "clave": "302100137",
+        "nombre": "Mónica Naíta"
+    },
+    {
+        "clave": "302100138",
+        "nombre": "El Tecomate"
+    },
+    {
+        "clave": "302100140",
+        "nombre": "Los Tres Compadres"
+    },
+    {
+        "clave": "302100141",
+        "nombre": "Las Tres Terinas"
+    },
+    {
+        "clave": "302100142",
+        "nombre": "Las Tres Terinas"
+    },
+    {
+        "clave": "302100146",
+        "nombre": "Entrada a Agustín Melgar"
+    },
+    {
+        "clave": "302100147",
+        "nombre": "Amado Pacheco"
+    },
+    {
+        "clave": "302100148",
+        "nombre": "Arturo Peralta"
+    },
+    {
+        "clave": "302100149",
+        "nombre": "Aventura"
+    },
+    {
+        "clave": "302100151",
+        "nombre": "Celso Ortega"
+    },
+    {
+        "clave": "302100152",
+        "nombre": "Estación Meteorológica"
+    },
+    {
+        "clave": "302100153",
+        "nombre": "Florentino Pérez Chávez"
+    },
+    {
+        "clave": "302100155",
+        "nombre": "Gustavo Rodríguez"
+    },
+    {
+        "clave": "302100156",
+        "nombre": "Isidro González Cuetero"
+    },
+    {
+        "clave": "302100158",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "302100159",
+        "nombre": "Rancho de Usted"
+    },
+    {
+        "clave": "302100160",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "302100161",
+        "nombre": "René Hernández"
+    },
+    {
+        "clave": "302100162",
+        "nombre": "Roberto Huerta"
+    },
+    {
+        "clave": "302100164",
+        "nombre": "Colonia Hidalgo"
+    },
+    {
+        "clave": "302100165",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "302100166",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "302100168",
+        "nombre": "Inés Santiago López"
+    },
+    {
+        "clave": "302100169",
+        "nombre": "Agustín Muñoz Rico"
+    },
+    {
+        "clave": "302100170",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "302100171",
+        "nombre": "El Dorado"
+    },
+    {
+        "clave": "302100172",
+        "nombre": "El Fortín"
+    },
+    {
+        "clave": "302100174",
+        "nombre": "El Rubí"
+    },
+    {
+        "clave": "302100175",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "302100176",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "302100177",
+        "nombre": "La Aguililla"
+    },
+    {
+        "clave": "302100178",
+        "nombre": "La Concepción"
+    },
+    {
+        "clave": "302100179",
+        "nombre": "San Sebastián"
+    },
+    {
+        "clave": "302100182",
+        "nombre": "El Moro"
+    },
+    {
+        "clave": "302100183",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "302100184",
+        "nombre": "Cutberto Oloya Solano"
+    },
+    {
+        "clave": "302100185",
+        "nombre": "El Desengaño"
+    },
+    {
+        "clave": "302100186",
+        "nombre": "El Gorrudo (Alfredo Jaime Muñoz)"
+    },
+    {
+        "clave": "302100187",
+        "nombre": "El Milagro"
+    },
+    {
+        "clave": "302100188",
+        "nombre": "El Soldado"
+    },
+    {
+        "clave": "302100189",
+        "nombre": "Gabriel Mijangos García"
+    },
+    {
+        "clave": "302100190",
+        "nombre": "Javier Trejo"
+    },
+    {
+        "clave": "302100191",
+        "nombre": "La Garganta"
+    },
+    {
+        "clave": "302100192",
+        "nombre": "La Magdalena"
+    },
+    {
+        "clave": "302100193",
+        "nombre": "Rancho Juliantla"
+    },
+    {
+        "clave": "302100194",
+        "nombre": "Rancho el Charco"
+    },
+    {
+        "clave": "302100195",
+        "nombre": "Rancho el Limoncito"
+    },
+    {
+        "clave": "302100196",
+        "nombre": "Rancho la Gloria"
+    },
+    {
+        "clave": "302100197",
+        "nombre": "San José"
+    },
+    {
+        "clave": "302100198",
+        "nombre": "Uriel Medina Coras"
+    },
+    {
+        "clave": "302100199",
+        "nombre": "Valle Hermoso"
+    },
+    {
+        "clave": "302100200",
+        "nombre": "La Vaquita (Alberto Montero Espitia)"
+    }
+]

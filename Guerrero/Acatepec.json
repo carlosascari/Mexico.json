@@ -1,0 +1,558 @@
+[
+    {
+        "clave": "120760003",
+        "nombre": "Agua Xoco"
+    },
+    {
+        "clave": "120760005",
+        "nombre": "Alcamani"
+    },
+    {
+        "clave": "120760007",
+        "nombre": "Barranca Dulce"
+    },
+    {
+        "clave": "120760008",
+        "nombre": "Encino Amarillo"
+    },
+    {
+        "clave": "120760009",
+        "nombre": "Barranca Piña"
+    },
+    {
+        "clave": "120760011",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "120760014",
+        "nombre": "Cerro Tigre (Cerro del Tigre)"
+    },
+    {
+        "clave": "120760015",
+        "nombre": "Cerro Pelón"
+    },
+    {
+        "clave": "120760016",
+        "nombre": "El Chirimoyo"
+    },
+    {
+        "clave": "120760018",
+        "nombre": "Villa Guadalupe"
+    },
+    {
+        "clave": "120760019",
+        "nombre": "Cuixinipa"
+    },
+    {
+        "clave": "120760020",
+        "nombre": "Escalerilla Zapata"
+    },
+    {
+        "clave": "120760021",
+        "nombre": "Río de Hacienda"
+    },
+    {
+        "clave": "120760022",
+        "nombre": "El Fuereño"
+    },
+    {
+        "clave": "120760024",
+        "nombre": "Llano del Limón"
+    },
+    {
+        "clave": "120760029",
+        "nombre": "Barrio Nuevo-Loma Macho"
+    },
+    {
+        "clave": "120760030",
+        "nombre": "Loma Tuza"
+    },
+    {
+        "clave": "120760031",
+        "nombre": "Lomatepec"
+    },
+    {
+        "clave": "120760034",
+        "nombre": "Mexcaltepec Viejo"
+    },
+    {
+        "clave": "120760035",
+        "nombre": "Piedra Tuza"
+    },
+    {
+        "clave": "120760037",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "120760040",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "120760041",
+        "nombre": "Xilotlancingo"
+    },
+    {
+        "clave": "120760042",
+        "nombre": "Xochitepec"
+    },
+    {
+        "clave": "120760047",
+        "nombre": "Agua Tomagua"
+    },
+    {
+        "clave": "120760050",
+        "nombre": "Coxcomatepec"
+    },
+    {
+        "clave": "120760051",
+        "nombre": "Loma de la Silla"
+    },
+    {
+        "clave": "120760053",
+        "nombre": "Llano de la Parota"
+    },
+    {
+        "clave": "120760054",
+        "nombre": "Monte Horeb"
+    },
+    {
+        "clave": "120760055",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "120760059",
+        "nombre": "Barranca Lima"
+    },
+    {
+        "clave": "120760062",
+        "nombre": "Colonia los Pinos"
+    },
+    {
+        "clave": "120760063",
+        "nombre": "Flor de Pascua"
+    },
+    {
+        "clave": "120760064",
+        "nombre": "Laguna Seca"
+    },
+    {
+        "clave": "120760069",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "120760071",
+        "nombre": "San Juan de los Pinos"
+    },
+    {
+        "clave": "120760072",
+        "nombre": "Tierra Colorada"
+    },
+    {
+        "clave": "120760073",
+        "nombre": "Plan Ranchito"
+    },
+    {
+        "clave": "120760074",
+        "nombre": "Villa de las Flores"
+    },
+    {
+        "clave": "120760075",
+        "nombre": "Barranca Bejuco"
+    },
+    {
+        "clave": "120760076",
+        "nombre": "Colonia Barranca Perico"
+    },
+    {
+        "clave": "120760077",
+        "nombre": "Colonia Yerba Santa"
+    },
+    {
+        "clave": "120760079",
+        "nombre": "El Portezuelo"
+    },
+    {
+        "clave": "120760080",
+        "nombre": "Río Grande"
+    },
+    {
+        "clave": "120760081",
+        "nombre": "Lomadad"
+    },
+    {
+        "clave": "120760083",
+        "nombre": "Piedra Mesa"
+    },
+    {
+        "clave": "120760084",
+        "nombre": "Plan de Piedra"
+    },
+    {
+        "clave": "120760086",
+        "nombre": "El Rincón de los Pinos"
+    },
+    {
+        "clave": "120760088",
+        "nombre": "Barranca Bejuco (Caxitepec Viejo)"
+    },
+    {
+        "clave": "120760089",
+        "nombre": "Barranca Xoco"
+    },
+    {
+        "clave": "120760090",
+        "nombre": "Carrizalillo"
+    },
+    {
+        "clave": "120760091",
+        "nombre": "Cerro el Maguey"
+    },
+    {
+        "clave": "120760093",
+        "nombre": "Colonia Curva el Llano"
+    },
+    {
+        "clave": "120760094",
+        "nombre": "Colonia la Palma"
+    },
+    {
+        "clave": "120760095",
+        "nombre": "Colonia Llano Pericón"
+    },
+    {
+        "clave": "120760096",
+        "nombre": "Colonia Ocote Capulín"
+    },
+    {
+        "clave": "120760097",
+        "nombre": "Colonia Progreso (Cerro Gavilán)"
+    },
+    {
+        "clave": "120760098",
+        "nombre": "Colonia Yerba Buena"
+    },
+    {
+        "clave": "120760099",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "120760100",
+        "nombre": "Filo de San Marcos"
+    },
+    {
+        "clave": "120760102",
+        "nombre": "Ixtlahuatepec"
+    },
+    {
+        "clave": "120760106",
+        "nombre": "Llano Maizal"
+    },
+    {
+        "clave": "120760107",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "120760108",
+        "nombre": "Palo Seco"
+    },
+    {
+        "clave": "120760110",
+        "nombre": "San Marcos Yerba Santa"
+    },
+    {
+        "clave": "120760111",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "120760112",
+        "nombre": "Uaskaa"
+    },
+    {
+        "clave": "120760114",
+        "nombre": "Filo de Arena"
+    },
+    {
+        "clave": "120760116",
+        "nombre": "Loma del Ocote Dos"
+    },
+    {
+        "clave": "120760117",
+        "nombre": "Plan de Palo Viejo (Loma Vista)"
+    },
+    {
+        "clave": "120760120",
+        "nombre": "Barranca Honda"
+    },
+    {
+        "clave": "120760121",
+        "nombre": "Colonia la Antena"
+    },
+    {
+        "clave": "120760122",
+        "nombre": "Colonia Santa Rosa"
+    },
+    {
+        "clave": "120760123",
+        "nombre": "Huixtlazala"
+    },
+    {
+        "clave": "120760124",
+        "nombre": "Colonia Capulín"
+    },
+    {
+        "clave": "120760125",
+        "nombre": "Colonia Plan Escondido"
+    },
+    {
+        "clave": "120760126",
+        "nombre": "Colonia Tepehuaje"
+    },
+    {
+        "clave": "120760127",
+        "nombre": "Colonia Plan de Ayala"
+    },
+    {
+        "clave": "120760129",
+        "nombre": "Colonia los Gálvez"
+    },
+    {
+        "clave": "120760130",
+        "nombre": "Rancho Pollo"
+    },
+    {
+        "clave": "120760131",
+        "nombre": "Río del Sauce"
+    },
+    {
+        "clave": "120760132",
+        "nombre": "El Nuevo Aguacate"
+    },
+    {
+        "clave": "120760133",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "120760134",
+        "nombre": "Colonia Cruz Alta"
+    },
+    {
+        "clave": "120760001",
+        "nombre": "Acatepec"
+    },
+    {
+        "clave": "120760002",
+        "nombre": "Agua Tordillo"
+    },
+    {
+        "clave": "120760006",
+        "nombre": "Apetzuca"
+    },
+    {
+        "clave": "120760010",
+        "nombre": "Barranca Pobre"
+    },
+    {
+        "clave": "120760013",
+        "nombre": "Caxitepec"
+    },
+    {
+        "clave": "120760023",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "120760025",
+        "nombre": "Llano Grande"
+    },
+    {
+        "clave": "120760026",
+        "nombre": "Pozolapa"
+    },
+    {
+        "clave": "120760032",
+        "nombre": "Mexcalapa"
+    },
+    {
+        "clave": "120760033",
+        "nombre": "Mexcaltepec"
+    },
+    {
+        "clave": "120760039",
+        "nombre": "Tres Cruces"
+    },
+    {
+        "clave": "120760043",
+        "nombre": "Zontecomapa"
+    },
+    {
+        "clave": "120760046",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "120760048",
+        "nombre": "El Capulín"
+    },
+    {
+        "clave": "120760049",
+        "nombre": "El Izote (Laguna Seca)"
+    },
+    {
+        "clave": "120760052",
+        "nombre": "Loma Maguey"
+    },
+    {
+        "clave": "120760056",
+        "nombre": "Zilacayota"
+    },
+    {
+        "clave": "120760057",
+        "nombre": "Plan Ojo de Agua"
+    },
+    {
+        "clave": "120760060",
+        "nombre": "Barranca Mina"
+    },
+    {
+        "clave": "120760061",
+        "nombre": "Colonia Nuevo Amanecer"
+    },
+    {
+        "clave": "120760065",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "120760066",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "120760067",
+        "nombre": "Loma Macho"
+    },
+    {
+        "clave": "120760070",
+        "nombre": "Puerto Buenavista"
+    },
+    {
+        "clave": "120760078",
+        "nombre": "El Tejocote"
+    },
+    {
+        "clave": "120760092",
+        "nombre": "Colonia Agua Fría"
+    },
+    {
+        "clave": "120760104",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "120760105",
+        "nombre": "Loma Ocote"
+    },
+    {
+        "clave": "120760109",
+        "nombre": "San José"
+    },
+    {
+        "clave": "120760113",
+        "nombre": "Yerba Santa"
+    },
+    {
+        "clave": "120760118",
+        "nombre": "Plan del Guayabo"
+    },
+    {
+        "clave": "120760128",
+        "nombre": "Plan de Buena Vista"
+    },
+    {
+        "clave": "120760004",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "120760017",
+        "nombre": "Ciénega del Sauce"
+    },
+    {
+        "clave": "120760027",
+        "nombre": "Loma Bonita (El Campamento)"
+    },
+    {
+        "clave": "120760058",
+        "nombre": "Acalmani de las Tablas"
+    },
+    {
+        "clave": "120760068",
+        "nombre": "Mesón Zapata"
+    },
+    {
+        "clave": "120760082",
+        "nombre": "Maria Sanchez Aurelia"
+    },
+    {
+        "clave": "120760085",
+        "nombre": "Raúl Gómez Oropeza"
+    },
+    {
+        "clave": "120760087",
+        "nombre": "Arroyo Camarón"
+    },
+    {
+        "clave": "120760101",
+        "nombre": "Ixtiña"
+    },
+    {
+        "clave": "120760103",
+        "nombre": "Laguna Potrero"
+    },
+    {
+        "clave": "120760115",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "120760119",
+        "nombre": "Rancho Porfirio de la Cruz"
+    },
+    {
+        "clave": "120760135",
+        "nombre": "Plan de San Marcos"
+    },
+    {
+        "clave": "120760136",
+        "nombre": "Colonia Cerro Guayabo"
+    },
+    {
+        "clave": "120760137",
+        "nombre": "Colonia Camino Real"
+    },
+    {
+        "clave": "120760138",
+        "nombre": "Colonia Piedra Conejo"
+    },
+    {
+        "clave": "120760139",
+        "nombre": "Laguna Seca"
+    },
+    {
+        "clave": "120760140",
+        "nombre": "Río Azul"
+    },
+    {
+        "clave": "120760141",
+        "nombre": "Colonia Cerro el Tabaco"
+    },
+    {
+        "clave": "120760142",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "120760143",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "120760144",
+        "nombre": "Los Amates"
+    },
+    {
+        "clave": "120760145",
+        "nombre": "Colonia Loma Panorama"
+    }
+]

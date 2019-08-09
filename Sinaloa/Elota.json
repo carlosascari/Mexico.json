@@ -1,0 +1,866 @@
+[
+    {
+        "clave": "250080029",
+        "nombre": "El Chirimole"
+    },
+    {
+        "clave": "250080096",
+        "nombre": "La Resbalosa"
+    },
+    {
+        "clave": "250080211",
+        "nombre": "El Solar"
+    },
+    {
+        "clave": "250080513",
+        "nombre": "Campo las Carolinas"
+    },
+    {
+        "clave": "250080514",
+        "nombre": "Campo Nueva Florida"
+    },
+    {
+        "clave": "250080002",
+        "nombre": "Abocho (Estación Abocho)"
+    },
+    {
+        "clave": "250080003",
+        "nombre": "El Aguaje"
+    },
+    {
+        "clave": "250080004",
+        "nombre": "Agua Nueva"
+    },
+    {
+        "clave": "250080013",
+        "nombre": "Caimanes II"
+    },
+    {
+        "clave": "250080021",
+        "nombre": "Casas Grandes"
+    },
+    {
+        "clave": "250080024",
+        "nombre": "Ceuta"
+    },
+    {
+        "clave": "250080032",
+        "nombre": "Ensenada"
+    },
+    {
+        "clave": "250080041",
+        "nombre": "Higuera de los López"
+    },
+    {
+        "clave": "250080043",
+        "nombre": "Ibonía"
+    },
+    {
+        "clave": "250080045",
+        "nombre": "Japuino"
+    },
+    {
+        "clave": "250080053",
+        "nombre": "El Mautillo"
+    },
+    {
+        "clave": "250080054",
+        "nombre": "Los Mecates"
+    },
+    {
+        "clave": "250080061",
+        "nombre": "Paredón Colorado"
+    },
+    {
+        "clave": "250080064",
+        "nombre": "El Portezuelo de Arriba"
+    },
+    {
+        "clave": "250080070",
+        "nombre": "Rincón de Ibonía"
+    },
+    {
+        "clave": "250080072",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "250080074",
+        "nombre": "El Sabinal"
+    },
+    {
+        "clave": "250080079",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "250080080",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "250080084",
+        "nombre": "El Tabachín"
+    },
+    {
+        "clave": "250080086",
+        "nombre": "Las Tinas"
+    },
+    {
+        "clave": "250080094",
+        "nombre": "Tayoltita"
+    },
+    {
+        "clave": "250080100",
+        "nombre": "El Portezuelo de Abajo"
+    },
+    {
+        "clave": "250080105",
+        "nombre": "Empaque Tarriba"
+    },
+    {
+        "clave": "250080122",
+        "nombre": "Los Difuntos"
+    },
+    {
+        "clave": "250080140",
+        "nombre": "Bellavista"
+    },
+    {
+        "clave": "250080143",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "250080145",
+        "nombre": "El Limoncito"
+    },
+    {
+        "clave": "250080150",
+        "nombre": "El Saladito"
+    },
+    {
+        "clave": "250080151",
+        "nombre": "Pueblo Píder (Los Arroyitos)"
+    },
+    {
+        "clave": "250080153",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "250080180",
+        "nombre": "Rosendo Nieblas"
+    },
+    {
+        "clave": "250080232",
+        "nombre": "Los Leones"
+    },
+    {
+        "clave": "250080272",
+        "nombre": "Nuevo Tecuyo (Tepalcates)"
+    },
+    {
+        "clave": "250080398",
+        "nombre": "Casas Nuevas"
+    },
+    {
+        "clave": "250080401",
+        "nombre": "Fructuoso Núñez Campaña (El Perical)"
+    },
+    {
+        "clave": "250080421",
+        "nombre": "El Solito"
+    },
+    {
+        "clave": "250080423",
+        "nombre": "La Bebelama"
+    },
+    {
+        "clave": "250080459",
+        "nombre": "Campo Cachanilla"
+    },
+    {
+        "clave": "250080465",
+        "nombre": "Campo Bellavista"
+    },
+    {
+        "clave": "250080471",
+        "nombre": "Los Majaguales"
+    },
+    {
+        "clave": "250080481",
+        "nombre": "Campo Tayoltita"
+    },
+    {
+        "clave": "250080484",
+        "nombre": "Campo Cinco (La Retama)"
+    },
+    {
+        "clave": "250080487",
+        "nombre": "Campo la Paloma [Agrícola el Chaparral]"
+    },
+    {
+        "clave": "250080490",
+        "nombre": "Campo Santa Fe"
+    },
+    {
+        "clave": "250080508",
+        "nombre": "Campo Nuevo Caimanes"
+    },
+    {
+        "clave": "250080520",
+        "nombre": "Campo Agrovo"
+    },
+    {
+        "clave": "250080001",
+        "nombre": "La Cruz"
+    },
+    {
+        "clave": "250080005",
+        "nombre": "Aguapepe"
+    },
+    {
+        "clave": "250080006",
+        "nombre": "Alta Rosa (Pípila II)"
+    },
+    {
+        "clave": "250080009",
+        "nombre": "El Bolillo"
+    },
+    {
+        "clave": "250080012",
+        "nombre": "Boscoso"
+    },
+    {
+        "clave": "250080020",
+        "nombre": "Ejido la Ventana (El Carrizo)"
+    },
+    {
+        "clave": "250080023",
+        "nombre": "El Cerrito Verde"
+    },
+    {
+        "clave": "250080028",
+        "nombre": "Ejido Culiacán (Culiacancito)"
+    },
+    {
+        "clave": "250080030",
+        "nombre": "Elota"
+    },
+    {
+        "clave": "250080031",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "250080034",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "250080035",
+        "nombre": "El Espinal"
+    },
+    {
+        "clave": "250080037",
+        "nombre": "Francisco Ferros"
+    },
+    {
+        "clave": "250080038",
+        "nombre": "El Grillo"
+    },
+    {
+        "clave": "250080040",
+        "nombre": "Higueras de Culiacancito"
+    },
+    {
+        "clave": "250080051",
+        "nombre": "Loma de Tecuyo"
+    },
+    {
+        "clave": "250080052",
+        "nombre": "La Maroma"
+    },
+    {
+        "clave": "250080062",
+        "nombre": "La Pitahayita"
+    },
+    {
+        "clave": "250080065",
+        "nombre": "Potrerillo de los Olmeda"
+    },
+    {
+        "clave": "250080066",
+        "nombre": "Potrerillo de los Landeros"
+    },
+    {
+        "clave": "250080067",
+        "nombre": "Potrerillo del Norote"
+    },
+    {
+        "clave": "250080075",
+        "nombre": "El Salado"
+    },
+    {
+        "clave": "250080081",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "250080082",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "250080085",
+        "nombre": "Tanques"
+    },
+    {
+        "clave": "250080089",
+        "nombre": "Vida Campesina"
+    },
+    {
+        "clave": "250080091",
+        "nombre": "Zapote Amargo"
+    },
+    {
+        "clave": "250080102",
+        "nombre": "26 de Enero"
+    },
+    {
+        "clave": "250080123",
+        "nombre": "La Vainilla (Los Chavelos)"
+    },
+    {
+        "clave": "250080124",
+        "nombre": "Las Granjas del Norote"
+    },
+    {
+        "clave": "250080127",
+        "nombre": "Loma Larga"
+    },
+    {
+        "clave": "250080130",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "250080132",
+        "nombre": "Casas Viejas"
+    },
+    {
+        "clave": "250080138",
+        "nombre": "La Sepultura"
+    },
+    {
+        "clave": "250080139",
+        "nombre": "El Reventón"
+    },
+    {
+        "clave": "250080146",
+        "nombre": "Tecuyo"
+    },
+    {
+        "clave": "250080156",
+        "nombre": "El Suspiro"
+    },
+    {
+        "clave": "250080157",
+        "nombre": "Santa Lucrecia"
+    },
+    {
+        "clave": "250080160",
+        "nombre": "Las Aguamitas"
+    },
+    {
+        "clave": "250080162",
+        "nombre": "La Bebelama"
+    },
+    {
+        "clave": "250080164",
+        "nombre": "Celestino Gazca Villaseñor"
+    },
+    {
+        "clave": "250080166",
+        "nombre": "Gabriel Leyva Solano"
+    },
+    {
+        "clave": "250080170",
+        "nombre": "Rancho Sarabia"
+    },
+    {
+        "clave": "250080171",
+        "nombre": "Nuevo Salto Grande"
+    },
+    {
+        "clave": "250080172",
+        "nombre": "La Papalota"
+    },
+    {
+        "clave": "250080176",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "250080177",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "250080178",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "250080182",
+        "nombre": "San José de Conitaca (Nuevo Conitaca)"
+    },
+    {
+        "clave": "250080185",
+        "nombre": "Huerta Chepita"
+    },
+    {
+        "clave": "250080186",
+        "nombre": "La Ventana [Rancho el Ejidatario]"
+    },
+    {
+        "clave": "250080187",
+        "nombre": "El Zorrillo"
+    },
+    {
+        "clave": "250080188",
+        "nombre": "Agua Amarga"
+    },
+    {
+        "clave": "250080195",
+        "nombre": "Los Lavaderos"
+    },
+    {
+        "clave": "250080198",
+        "nombre": "Betillas"
+    },
+    {
+        "clave": "250080208",
+        "nombre": "La Ciruela"
+    },
+    {
+        "clave": "250080209",
+        "nombre": "Los Limones"
+    },
+    {
+        "clave": "250080226",
+        "nombre": "Las Guásimas"
+    },
+    {
+        "clave": "250080242",
+        "nombre": "El Palomar"
+    },
+    {
+        "clave": "250080243",
+        "nombre": "Papalota"
+    },
+    {
+        "clave": "250080251",
+        "nombre": "La Primavera (Durangueños)"
+    },
+    {
+        "clave": "250080263",
+        "nombre": "El Saucito"
+    },
+    {
+        "clave": "250080277",
+        "nombre": "Zamora"
+    },
+    {
+        "clave": "250080279",
+        "nombre": "Abuya y Ceuta Segunda (Ejido Echeverría)"
+    },
+    {
+        "clave": "250080363",
+        "nombre": "El Puente"
+    },
+    {
+        "clave": "250080393",
+        "nombre": "La Apomita"
+    },
+    {
+        "clave": "250080394",
+        "nombre": "La Apomita"
+    },
+    {
+        "clave": "250080395",
+        "nombre": "La Cochera"
+    },
+    {
+        "clave": "250080396",
+        "nombre": "Crucero de la Cruz"
+    },
+    {
+        "clave": "250080397",
+        "nombre": "La Cañita"
+    },
+    {
+        "clave": "250080399",
+        "nombre": "La Chivera"
+    },
+    {
+        "clave": "250080404",
+        "nombre": "Playa Ceuta"
+    },
+    {
+        "clave": "250080405",
+        "nombre": "El Yaco (Tonjul)"
+    },
+    {
+        "clave": "250080409",
+        "nombre": "Colonia Buenos Aires"
+    },
+    {
+        "clave": "250080415",
+        "nombre": "Río Escondido"
+    },
+    {
+        "clave": "250080418",
+        "nombre": "El Aguaje del Tío Domingo"
+    },
+    {
+        "clave": "250080419",
+        "nombre": "La Cañita"
+    },
+    {
+        "clave": "250080420",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "250080424",
+        "nombre": "Huinacastillo"
+    },
+    {
+        "clave": "250080425",
+        "nombre": "El Ébano"
+    },
+    {
+        "clave": "250080426",
+        "nombre": "Santa Loreto"
+    },
+    {
+        "clave": "250080428",
+        "nombre": "Charco Verde"
+    },
+    {
+        "clave": "250080429",
+        "nombre": "Rancho Esperanza (Los Zapotes)"
+    },
+    {
+        "clave": "250080431",
+        "nombre": "Las Moras"
+    },
+    {
+        "clave": "250080432",
+        "nombre": "Lomalinda"
+    },
+    {
+        "clave": "250080433",
+        "nombre": "Granja los Abrajanes"
+    },
+    {
+        "clave": "250080434",
+        "nombre": "Las Quemadas"
+    },
+    {
+        "clave": "250080436",
+        "nombre": "La Vinatería"
+    },
+    {
+        "clave": "250080438",
+        "nombre": "El Apomo"
+    },
+    {
+        "clave": "250080439",
+        "nombre": "Las Bebelamas"
+    },
+    {
+        "clave": "250080440",
+        "nombre": "Boca del Arroyo del Tambor"
+    },
+    {
+        "clave": "250080441",
+        "nombre": "Campo el Salto"
+    },
+    {
+        "clave": "250080442",
+        "nombre": "Campo Eureka"
+    },
+    {
+        "clave": "250080444",
+        "nombre": "Los Ciruelos"
+    },
+    {
+        "clave": "250080445",
+        "nombre": "El Coacoyol"
+    },
+    {
+        "clave": "250080446",
+        "nombre": "Salto Chico [Cooperativa]"
+    },
+    {
+        "clave": "250080447",
+        "nombre": "Las Milpas de Afuera"
+    },
+    {
+        "clave": "250080449",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "250080451",
+        "nombre": "La Tuna"
+    },
+    {
+        "clave": "250080452",
+        "nombre": "Rancho Loma Larga (Rancho de los Vega)"
+    },
+    {
+        "clave": "250080453",
+        "nombre": "Ángeles Inn [Club Privado]"
+    },
+    {
+        "clave": "250080454",
+        "nombre": "Rancho de Juan Arroyo"
+    },
+    {
+        "clave": "250080455",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "250080456",
+        "nombre": "Guadalupe Allende"
+    },
+    {
+        "clave": "250080457",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250080458",
+        "nombre": "Localidad Sin Nombre"
+    },
+    {
+        "clave": "250080460",
+        "nombre": "Sol y Arena [Empaque]"
+    },
+    {
+        "clave": "250080461",
+        "nombre": "Los Olivos Negros"
+    },
+    {
+        "clave": "250080462",
+        "nombre": "El Veinticuatro"
+    },
+    {
+        "clave": "250080463",
+        "nombre": "El Zalate"
+    },
+    {
+        "clave": "250080464",
+        "nombre": "Campo la Cruz"
+    },
+    {
+        "clave": "250080467",
+        "nombre": "Los Ciruelos"
+    },
+    {
+        "clave": "250080468",
+        "nombre": "La Escalera"
+    },
+    {
+        "clave": "250080469",
+        "nombre": "La Higuerita"
+    },
+    {
+        "clave": "250080470",
+        "nombre": "El Jardín"
+    },
+    {
+        "clave": "250080473",
+        "nombre": "El Pozole"
+    },
+    {
+        "clave": "250080474",
+        "nombre": "Piedra Bola"
+    },
+    {
+        "clave": "250080475",
+        "nombre": "Los Tepehuajes"
+    },
+    {
+        "clave": "250080480",
+        "nombre": "Campo Pueblo Nuevo"
+    },
+    {
+        "clave": "250080482",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "250080483",
+        "nombre": "Campo Caimanes Viejo"
+    },
+    {
+        "clave": "250080485",
+        "nombre": "Campo el Crucero"
+    },
+    {
+        "clave": "250080486",
+        "nombre": "Campo la Cruz (Campo Ritz)"
+    },
+    {
+        "clave": "250080488",
+        "nombre": "Campo los Naranjos"
+    },
+    {
+        "clave": "250080489",
+        "nombre": "Campo San Juan"
+    },
+    {
+        "clave": "250080491",
+        "nombre": "Campo Santa Lucía II"
+    },
+    {
+        "clave": "250080492",
+        "nombre": "Campo Tayoltita II"
+    },
+    {
+        "clave": "250080493",
+        "nombre": "Rancho Escondido"
+    },
+    {
+        "clave": "250080494",
+        "nombre": "Rancho la Cruz (Agrícola Carrillo)"
+    },
+    {
+        "clave": "250080495",
+        "nombre": "Rancho la Cruz (Campo Ritz)"
+    },
+    {
+        "clave": "250080496",
+        "nombre": "Rancho Sin Nombre"
+    },
+    {
+        "clave": "250080497",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250080498",
+        "nombre": "Las Chapas"
+    },
+    {
+        "clave": "250080499",
+        "nombre": "Los Capules"
+    },
+    {
+        "clave": "250080500",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "250080501",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "250080502",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250080503",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "250080504",
+        "nombre": "El Obalamo"
+    },
+    {
+        "clave": "250080505",
+        "nombre": "Campo California"
+    },
+    {
+        "clave": "250080506",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "250080507",
+        "nombre": "Los Veranitos"
+    },
+    {
+        "clave": "250080509",
+        "nombre": "Campo el Porvenir"
+    },
+    {
+        "clave": "250080510",
+        "nombre": "Campo Ejido California"
+    },
+    {
+        "clave": "250080511",
+        "nombre": "Fraccionamiento las Brisas"
+    },
+    {
+        "clave": "250080512",
+        "nombre": "Campo Pat"
+    },
+    {
+        "clave": "250080515",
+        "nombre": "Fraccionamiento Vicente Escobar"
+    },
+    {
+        "clave": "250080516",
+        "nombre": "Conitaca [Cooperativa]"
+    },
+    {
+        "clave": "250080517",
+        "nombre": "Bachoco Pollo Número 38"
+    },
+    {
+        "clave": "250080518",
+        "nombre": "Bachoco Pollo Número 39"
+    },
+    {
+        "clave": "250080519",
+        "nombre": "Bachoco Pollo Número 40"
+    },
+    {
+        "clave": "250080521",
+        "nombre": "Rancho Navarro"
+    },
+    {
+        "clave": "250080522",
+        "nombre": "Huerta Cano"
+    },
+    {
+        "clave": "250080523",
+        "nombre": "La Conchilla"
+    },
+    {
+        "clave": "250080524",
+        "nombre": "La Papalota"
+    },
+    {
+        "clave": "250080525",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250080526",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250080527",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250080528",
+        "nombre": "El Arbolito"
+    },
+    {
+        "clave": "250080529",
+        "nombre": "Rancho Pesqueira"
+    },
+    {
+        "clave": "250080530",
+        "nombre": "Los Hobos"
+    },
+    {
+        "clave": "250080531",
+        "nombre": "Agua Amarga"
+    },
+    {
+        "clave": "250080532",
+        "nombre": "La Esperanza [Finca]"
+    },
+    {
+        "clave": "250080533",
+        "nombre": "Ninguno"
+    }
+]

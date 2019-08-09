@@ -1,0 +1,654 @@
+[
+    {
+        "clave": "120660008",
+        "nombre": "Ayotzinapa"
+    },
+    {
+        "clave": "120660009",
+        "nombre": "Coachimalco"
+    },
+    {
+        "clave": "120660010",
+        "nombre": "Chiepetepec"
+    },
+    {
+        "clave": "120660015",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "120660016",
+        "nombre": "Plan de Zacatepec"
+    },
+    {
+        "clave": "120660018",
+        "nombre": "San Miguel Zapotitlán"
+    },
+    {
+        "clave": "120660019",
+        "nombre": "San Pedro Acatlán"
+    },
+    {
+        "clave": "120660021",
+        "nombre": "Tenango Tepexi"
+    },
+    {
+        "clave": "120660024",
+        "nombre": "Tlaquilzingo"
+    },
+    {
+        "clave": "120660026",
+        "nombre": "Santa María Tonaya"
+    },
+    {
+        "clave": "120660027",
+        "nombre": "Totomochapa"
+    },
+    {
+        "clave": "120660029",
+        "nombre": "Villa de Guadalupe"
+    },
+    {
+        "clave": "120660030",
+        "nombre": "Xalatzala"
+    },
+    {
+        "clave": "120660032",
+        "nombre": "Zacualpan"
+    },
+    {
+        "clave": "120660033",
+        "nombre": "Amate Amarillo"
+    },
+    {
+        "clave": "120660035",
+        "nombre": "Tepeyahualco"
+    },
+    {
+        "clave": "120660042",
+        "nombre": "Chicahuastepec"
+    },
+    {
+        "clave": "120660043",
+        "nombre": "Linda Vista"
+    },
+    {
+        "clave": "120660045",
+        "nombre": "Mexcala"
+    },
+    {
+        "clave": "120660055",
+        "nombre": "Tehuchicoloya"
+    },
+    {
+        "clave": "120660057",
+        "nombre": "Tenexteyo"
+    },
+    {
+        "clave": "120660059",
+        "nombre": "Tres Caminos"
+    },
+    {
+        "clave": "120660060",
+        "nombre": "Xocotepec (San Marcos del Rancho)"
+    },
+    {
+        "clave": "120660061",
+        "nombre": "Teoztokiahuac"
+    },
+    {
+        "clave": "120660062",
+        "nombre": "Torrentlán"
+    },
+    {
+        "clave": "120660067",
+        "nombre": "Cerro del Aire"
+    },
+    {
+        "clave": "120660071",
+        "nombre": "Santa Cruz Tlalchichilco"
+    },
+    {
+        "clave": "120660080",
+        "nombre": "Agua Dulce"
+    },
+    {
+        "clave": "120660081",
+        "nombre": "Atempa"
+    },
+    {
+        "clave": "120660084",
+        "nombre": "Tecoloapa"
+    },
+    {
+        "clave": "120660085",
+        "nombre": "Zitlala"
+    },
+    {
+        "clave": "120660088",
+        "nombre": "Santa Cruz Tierra Blanca"
+    },
+    {
+        "clave": "120660095",
+        "nombre": "Ipan Xali"
+    },
+    {
+        "clave": "120660096",
+        "nombre": "Llano de Santa Cruz"
+    },
+    {
+        "clave": "120660098",
+        "nombre": "San Miguelito"
+    },
+    {
+        "clave": "120660101",
+        "nombre": "Cuaxilotitla"
+    },
+    {
+        "clave": "120660113",
+        "nombre": "Tlatlanexo"
+    },
+    {
+        "clave": "120660117",
+        "nombre": "Xocohapa"
+    },
+    {
+        "clave": "120660120",
+        "nombre": "Colonia San Sebastián"
+    },
+    {
+        "clave": "120660121",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "120660122",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "120660133",
+        "nombre": "Chicahuastepec (Petatlán)"
+    },
+    {
+        "clave": "120660145",
+        "nombre": "Colonia Luis Donaldo Colosio"
+    },
+    {
+        "clave": "120660163",
+        "nombre": "El Nuevo Amanecer"
+    },
+    {
+        "clave": "120660165",
+        "nombre": "Virgen de Juquila"
+    },
+    {
+        "clave": "120660166",
+        "nombre": "Río Azul"
+    },
+    {
+        "clave": "120660167",
+        "nombre": "Paraje Teacalco"
+    },
+    {
+        "clave": "120660170",
+        "nombre": "Monte Gosen"
+    },
+    {
+        "clave": "120660171",
+        "nombre": "Cruz Grande Maliaxapa"
+    },
+    {
+        "clave": "120660173",
+        "nombre": "Paraje el Totoapan"
+    },
+    {
+        "clave": "120660174",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "120660175",
+        "nombre": "Colonia el Aguaje"
+    },
+    {
+        "clave": "120660001",
+        "nombre": "Tlapa de Comonfort"
+    },
+    {
+        "clave": "120660002",
+        "nombre": "Ahuatepec Pueblo"
+    },
+    {
+        "clave": "120660003",
+        "nombre": "Alpoyecancingo"
+    },
+    {
+        "clave": "120660004",
+        "nombre": "Aquilpa"
+    },
+    {
+        "clave": "120660005",
+        "nombre": "Atlamajac"
+    },
+    {
+        "clave": "120660006",
+        "nombre": "Atlamajalcingo del Río"
+    },
+    {
+        "clave": "120660007",
+        "nombre": "San Miguel Axoxuca"
+    },
+    {
+        "clave": "120660011",
+        "nombre": "Chiepetlán (San Miguel Chiepetlán)"
+    },
+    {
+        "clave": "120660013",
+        "nombre": "Barranca del Otate"
+    },
+    {
+        "clave": "120660014",
+        "nombre": "San Pedro Petlacala"
+    },
+    {
+        "clave": "120660017",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "120660020",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "120660022",
+        "nombre": "Tlacuiloya"
+    },
+    {
+        "clave": "120660023",
+        "nombre": "Tlaquiltzinapa"
+    },
+    {
+        "clave": "120660025",
+        "nombre": "Tlatzala"
+    },
+    {
+        "clave": "120660028",
+        "nombre": "Tototepec (Yozononi)"
+    },
+    {
+        "clave": "120660031",
+        "nombre": "Zacapexco"
+    },
+    {
+        "clave": "120660036",
+        "nombre": "Ahuatepec Ejido"
+    },
+    {
+        "clave": "120660044",
+        "nombre": "Las Mesas"
+    },
+    {
+        "clave": "120660053",
+        "nombre": "Los Zapotales"
+    },
+    {
+        "clave": "120660063",
+        "nombre": "Acatenco"
+    },
+    {
+        "clave": "120660072",
+        "nombre": "San Miguel Zinacantla"
+    },
+    {
+        "clave": "120660073",
+        "nombre": "Colonia Constitución"
+    },
+    {
+        "clave": "120660083",
+        "nombre": "Colonia los Llanos"
+    },
+    {
+        "clave": "120660087",
+        "nombre": "Bodega de Fertilizantes Mantis Religiosa"
+    },
+    {
+        "clave": "120660092",
+        "nombre": "Colonia Monte Sinaí"
+    },
+    {
+        "clave": "120660100",
+        "nombre": "Colonia el Paraíso (El Vado)"
+    },
+    {
+        "clave": "120660118",
+        "nombre": "Zoquitlán"
+    },
+    {
+        "clave": "120660119",
+        "nombre": "Colonia Filadelfia"
+    },
+    {
+        "clave": "120660146",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "120660168",
+        "nombre": "Colonia Monte Hermón"
+    },
+    {
+        "clave": "120660012",
+        "nombre": "Huipila"
+    },
+    {
+        "clave": "120660048",
+        "nombre": "Tehuixtla"
+    },
+    {
+        "clave": "120660056",
+        "nombre": "Tecocoyoco"
+    },
+    {
+        "clave": "120660058",
+        "nombre": "Totoapan"
+    },
+    {
+        "clave": "120660066",
+        "nombre": "Amatitlán"
+    },
+    {
+        "clave": "120660068",
+        "nombre": "Lucas Godínez González"
+    },
+    {
+        "clave": "120660069",
+        "nombre": "Pueblo Viejo"
+    },
+    {
+        "clave": "120660070",
+        "nombre": "Teteltzi"
+    },
+    {
+        "clave": "120660076",
+        "nombre": "Colonia Tepeyac Uno"
+    },
+    {
+        "clave": "120660086",
+        "nombre": "Aserradero Maderas Soyoapan"
+    },
+    {
+        "clave": "120660089",
+        "nombre": "Ninguno [Unidad Habitacional]"
+    },
+    {
+        "clave": "120660090",
+        "nombre": "Paraíso Escondido [Balneario]"
+    },
+    {
+        "clave": "120660091",
+        "nombre": "Barranca Grande"
+    },
+    {
+        "clave": "120660093",
+        "nombre": "Colonia Nueva Jerusalén"
+    },
+    {
+        "clave": "120660094",
+        "nombre": "Colonia San Marcos"
+    },
+    {
+        "clave": "120660097",
+        "nombre": "Vivero el Seminario [El Vivero]"
+    },
+    {
+        "clave": "120660099",
+        "nombre": "Ahueyo"
+    },
+    {
+        "clave": "120660102",
+        "nombre": "Cuechatlajco"
+    },
+    {
+        "clave": "120660103",
+        "nombre": "El Calvario"
+    },
+    {
+        "clave": "120660104",
+        "nombre": "El Tepetate"
+    },
+    {
+        "clave": "120660105",
+        "nombre": "Las Cañaditas"
+    },
+    {
+        "clave": "120660106",
+        "nombre": "Rancho los Cascabeles"
+    },
+    {
+        "clave": "120660107",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "120660108",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "120660109",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "120660110",
+        "nombre": "Peor es Nada"
+    },
+    {
+        "clave": "120660111",
+        "nombre": "Tehueyactitla"
+    },
+    {
+        "clave": "120660114",
+        "nombre": "Tonalapa"
+    },
+    {
+        "clave": "120660115",
+        "nombre": "Torrentlán uno"
+    },
+    {
+        "clave": "120660116",
+        "nombre": "Tototépetl"
+    },
+    {
+        "clave": "120660123",
+        "nombre": "Achipiyapa"
+    },
+    {
+        "clave": "120660124",
+        "nombre": "El aguacate"
+    },
+    {
+        "clave": "120660125",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "120660126",
+        "nombre": "Rancho Alfonso Bernardino Muñoz"
+    },
+    {
+        "clave": "120660127",
+        "nombre": "Xalatlajco"
+    },
+    {
+        "clave": "120660128",
+        "nombre": "Atempa"
+    },
+    {
+        "clave": "120660129",
+        "nombre": "Colxintla"
+    },
+    {
+        "clave": "120660130",
+        "nombre": "Coyopatlaxtitla"
+    },
+    {
+        "clave": "120660131",
+        "nombre": "Cuaxontla"
+    },
+    {
+        "clave": "120660132",
+        "nombre": "Cuescontitla"
+    },
+    {
+        "clave": "120660134",
+        "nombre": "Chitoapa"
+    },
+    {
+        "clave": "120660135",
+        "nombre": "El Crucero de Ayotzinapa"
+    },
+    {
+        "clave": "120660136",
+        "nombre": "Ixtláhuac"
+    },
+    {
+        "clave": "120660137",
+        "nombre": "Pezotelihuitl"
+    },
+    {
+        "clave": "120660138",
+        "nombre": "Tecoaxi"
+    },
+    {
+        "clave": "120660139",
+        "nombre": "Tecuantepec"
+    },
+    {
+        "clave": "120660140",
+        "nombre": "Tehuiloyoca"
+    },
+    {
+        "clave": "120660141",
+        "nombre": "Teotihuacan"
+    },
+    {
+        "clave": "120660142",
+        "nombre": "Tlacoatopilco"
+    },
+    {
+        "clave": "120660143",
+        "nombre": "Zacapepelca"
+    },
+    {
+        "clave": "120660144",
+        "nombre": "Agua Salada"
+    },
+    {
+        "clave": "120660147",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "120660148",
+        "nombre": "Rancho Amate Amarillo (La Coquera)"
+    },
+    {
+        "clave": "120660149",
+        "nombre": "Rancho Santiago Castro (Agua Escondida)"
+    },
+    {
+        "clave": "120660150",
+        "nombre": "Capapochotl (El Pochote)"
+    },
+    {
+        "clave": "120660151",
+        "nombre": "Cuatlachomolco"
+    },
+    {
+        "clave": "120660152",
+        "nombre": "El Tezonteyo"
+    },
+    {
+        "clave": "120660153",
+        "nombre": "Metlaichan"
+    },
+    {
+        "clave": "120660154",
+        "nombre": "Las Mesitas (Paraje Tehuixtla)"
+    },
+    {
+        "clave": "120660155",
+        "nombre": "Paso del Burro"
+    },
+    {
+        "clave": "120660156",
+        "nombre": "Rancho Anastacio Avelino"
+    },
+    {
+        "clave": "120660157",
+        "nombre": "Aguapexco"
+    },
+    {
+        "clave": "120660158",
+        "nombre": "El Carrizo"
+    },
+    {
+        "clave": "120660159",
+        "nombre": "La Ciénega Temblada"
+    },
+    {
+        "clave": "120660160",
+        "nombre": "Los Guayabos"
+    },
+    {
+        "clave": "120660161",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "120660162",
+        "nombre": "Tlacuitlapa"
+    },
+    {
+        "clave": "120660164",
+        "nombre": "Coajtepec"
+    },
+    {
+        "clave": "120660169",
+        "nombre": "Colonia el Manantial"
+    },
+    {
+        "clave": "120660172",
+        "nombre": "Rancho Zacatzonapa"
+    },
+    {
+        "clave": "120660176",
+        "nombre": "Quiltepetl"
+    },
+    {
+        "clave": "120660177",
+        "nombre": "Tepanco"
+    },
+    {
+        "clave": "120660178",
+        "nombre": "Colonia Xochimilco"
+    },
+    {
+        "clave": "120660179",
+        "nombre": "San José [Fraccionamiento]"
+    },
+    {
+        "clave": "120660180",
+        "nombre": "Plaza San Lucas"
+    },
+    {
+        "clave": "120660181",
+        "nombre": "La Independencia"
+    },
+    {
+        "clave": "120660182",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "120660183",
+        "nombre": "El Mirador [Subestación Eléctrica Tlapa]"
+    },
+    {
+        "clave": "120660184",
+        "nombre": "Tlachinollan"
+    },
+    {
+        "clave": "120660185",
+        "nombre": "Ninguno"
+    }
+]

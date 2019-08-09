@@ -1,0 +1,590 @@
+[
+    {
+        "clave": "211560038",
+        "nombre": "El Encinal"
+    },
+    {
+        "clave": "211560048",
+        "nombre": "Plan de Fierro"
+    },
+    {
+        "clave": "211560056",
+        "nombre": "Agua León"
+    },
+    {
+        "clave": "211560059",
+        "nombre": "Cucharilla"
+    },
+    {
+        "clave": "211560060",
+        "nombre": "Las Garzas"
+    },
+    {
+        "clave": "211560061",
+        "nombre": "Llano Coyote"
+    },
+    {
+        "clave": "211560065",
+        "nombre": "Rancho Florindo"
+    },
+    {
+        "clave": "211560085",
+        "nombre": "El Cocopache"
+    },
+    {
+        "clave": "211560086",
+        "nombre": "La Mezquitera"
+    },
+    {
+        "clave": "211560087",
+        "nombre": "Cañada Guajillo"
+    },
+    {
+        "clave": "211560093",
+        "nombre": "Tozingaya"
+    },
+    {
+        "clave": "211560123",
+        "nombre": "Cuchanije [Rancho]"
+    },
+    {
+        "clave": "211560126",
+        "nombre": "Melista"
+    },
+    {
+        "clave": "211560131",
+        "nombre": "Iglesia Vieja (Teteles)"
+    },
+    {
+        "clave": "211560156",
+        "nombre": "Resurrección (Meseta el Riego)"
+    },
+    {
+        "clave": "211560160",
+        "nombre": "El Murciélago"
+    },
+    {
+        "clave": "211560167",
+        "nombre": "Plan San Miguel"
+    },
+    {
+        "clave": "211560169",
+        "nombre": "Agua Tule"
+    },
+    {
+        "clave": "211560171",
+        "nombre": "Cristo Rey"
+    },
+    {
+        "clave": "211560180",
+        "nombre": "Poblado San Andrés Arrealco"
+    },
+    {
+        "clave": "211560181",
+        "nombre": "Portezuelo Tongo"
+    },
+    {
+        "clave": "211560188",
+        "nombre": "Otlamaxalco"
+    },
+    {
+        "clave": "211560206",
+        "nombre": "Santa Teresita 1"
+    },
+    {
+        "clave": "211560208",
+        "nombre": "Agua Nueva"
+    },
+    {
+        "clave": "211560212",
+        "nombre": "La Paz (Bajada Coa)"
+    },
+    {
+        "clave": "211560213",
+        "nombre": "La Asunción"
+    },
+    {
+        "clave": "211560215",
+        "nombre": "San Andrés Arrealco"
+    },
+    {
+        "clave": "211560216",
+        "nombre": "Colonia 18 de Marzo"
+    },
+    {
+        "clave": "211560219",
+        "nombre": "Colonia Asunción"
+    },
+    {
+        "clave": "211560221",
+        "nombre": "Fuertes de Loreto"
+    },
+    {
+        "clave": "211560226",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "211560227",
+        "nombre": "Hacienda Chapultepec"
+    },
+    {
+        "clave": "211560002",
+        "nombre": "Rancho Cabras (San Salvador Otzolotepec)"
+    },
+    {
+        "clave": "211560009",
+        "nombre": "Magdalena Cuayucatepec"
+    },
+    {
+        "clave": "211560012",
+        "nombre": "San Marcos Necoxtla"
+    },
+    {
+        "clave": "211560014",
+        "nombre": "San Cristóbal Tepeteopan"
+    },
+    {
+        "clave": "211560015",
+        "nombre": "San Diego Chalma"
+    },
+    {
+        "clave": "211560018",
+        "nombre": "San Pablo Tepetzingo"
+    },
+    {
+        "clave": "211560022",
+        "nombre": "Santa Ana Teloxtoc"
+    },
+    {
+        "clave": "211560023",
+        "nombre": "Santa Catarina Otzolotepec"
+    },
+    {
+        "clave": "211560024",
+        "nombre": "Santa Cruz Acapa"
+    },
+    {
+        "clave": "211560030",
+        "nombre": "El Progreso"
+    },
+    {
+        "clave": "211560083",
+        "nombre": "Don Pedro (Doña Ofe)"
+    },
+    {
+        "clave": "211560099",
+        "nombre": "Quebradora Santa Mónica"
+    },
+    {
+        "clave": "211560100",
+        "nombre": "Colonia Guadalupe"
+    },
+    {
+        "clave": "211560118",
+        "nombre": "Cerril Agostadero (El Carrizal)"
+    },
+    {
+        "clave": "211560130",
+        "nombre": "Los Tempesquistles"
+    },
+    {
+        "clave": "211560133",
+        "nombre": "Agua el Dinuxo"
+    },
+    {
+        "clave": "211560161",
+        "nombre": "Rancho Atemaco"
+    },
+    {
+        "clave": "211560174",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "211560179",
+        "nombre": "Los Olivos"
+    },
+    {
+        "clave": "211560184",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "211560209",
+        "nombre": "Jardines de la Guadalupana"
+    },
+    {
+        "clave": "211560225",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "211560001",
+        "nombre": "Tehuacán"
+    },
+    {
+        "clave": "211560008",
+        "nombre": "Ex-hacienda la Huerta"
+    },
+    {
+        "clave": "211560035",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "211560049",
+        "nombre": "Agua Temolote"
+    },
+    {
+        "clave": "211560057",
+        "nombre": "El Cordero"
+    },
+    {
+        "clave": "211560058",
+        "nombre": "Rancho Cuatillo"
+    },
+    {
+        "clave": "211560063",
+        "nombre": "La Ponderosa"
+    },
+    {
+        "clave": "211560066",
+        "nombre": "San Andrés Arrealco"
+    },
+    {
+        "clave": "211560068",
+        "nombre": "Rancho San Marcos"
+    },
+    {
+        "clave": "211560070",
+        "nombre": "El Triángulo"
+    },
+    {
+        "clave": "211560082",
+        "nombre": "San Ignacio"
+    },
+    {
+        "clave": "211560084",
+        "nombre": "El Boquerón (Tetele Chiquito)"
+    },
+    {
+        "clave": "211560088",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "211560089",
+        "nombre": "El Terrero"
+    },
+    {
+        "clave": "211560090",
+        "nombre": "El Moral"
+    },
+    {
+        "clave": "211560091",
+        "nombre": "Majada Lezama"
+    },
+    {
+        "clave": "211560092",
+        "nombre": "Tierra Prieta"
+    },
+    {
+        "clave": "211560094",
+        "nombre": "El Palenque"
+    },
+    {
+        "clave": "211560097",
+        "nombre": "Cocomulco"
+    },
+    {
+        "clave": "211560101",
+        "nombre": "Rancho San Ramón (La Tasa)"
+    },
+    {
+        "clave": "211560103",
+        "nombre": "Xoconoxcuautitla"
+    },
+    {
+        "clave": "211560117",
+        "nombre": "Rancho Calcahualco"
+    },
+    {
+        "clave": "211560119",
+        "nombre": "San José Tochapa"
+    },
+    {
+        "clave": "211560120",
+        "nombre": "Colonia Lázaro Cárdenas Sur"
+    },
+    {
+        "clave": "211560122",
+        "nombre": "Los Pinos (Los Limones)"
+    },
+    {
+        "clave": "211560124",
+        "nombre": "La Cañada"
+    },
+    {
+        "clave": "211560128",
+        "nombre": "Tlaxistle"
+    },
+    {
+        "clave": "211560129",
+        "nombre": "Agua el Pajarito"
+    },
+    {
+        "clave": "211560134",
+        "nombre": "Mezquital"
+    },
+    {
+        "clave": "211560135",
+        "nombre": "Majada Izote"
+    },
+    {
+        "clave": "211560141",
+        "nombre": "Granjas Coapan"
+    },
+    {
+        "clave": "211560142",
+        "nombre": "Rancho San Andrés Socotla"
+    },
+    {
+        "clave": "211560145",
+        "nombre": "Santa María Coapan"
+    },
+    {
+        "clave": "211560152",
+        "nombre": "Camilo Bello"
+    },
+    {
+        "clave": "211560153",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "211560158",
+        "nombre": "Cruz Blanca"
+    },
+    {
+        "clave": "211560162",
+        "nombre": "El Toteño (Tierra Blanca)"
+    },
+    {
+        "clave": "211560164",
+        "nombre": "Piedra Mesa"
+    },
+    {
+        "clave": "211560168",
+        "nombre": "Agua Palmitas (El Palenque)"
+    },
+    {
+        "clave": "211560172",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "211560173",
+        "nombre": "Gimnasio San Marcos"
+    },
+    {
+        "clave": "211560178",
+        "nombre": "Mogote de Piedra"
+    },
+    {
+        "clave": "211560185",
+        "nombre": "Santa Cruz Uno"
+    },
+    {
+        "clave": "211560187",
+        "nombre": "Tacuatzin"
+    },
+    {
+        "clave": "211560189",
+        "nombre": "La Vega de Paz"
+    },
+    {
+        "clave": "211560190",
+        "nombre": "Colonia del Carmen Sur"
+    },
+    {
+        "clave": "211560191",
+        "nombre": "Xochitlalpan"
+    },
+    {
+        "clave": "211560192",
+        "nombre": "Aurelio Castillo Contreras"
+    },
+    {
+        "clave": "211560193",
+        "nombre": "El Chiquilín"
+    },
+    {
+        "clave": "211560194",
+        "nombre": "La Ermita"
+    },
+    {
+        "clave": "211560195",
+        "nombre": "San José Tochapa"
+    },
+    {
+        "clave": "211560196",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "211560198",
+        "nombre": "Las Cruces"
+    },
+    {
+        "clave": "211560199",
+        "nombre": "Licenciado Luis Donaldo Colosio Murrieta"
+    },
+    {
+        "clave": "211560200",
+        "nombre": "El Zorrillo"
+    },
+    {
+        "clave": "211560201",
+        "nombre": "El Portezuelo"
+    },
+    {
+        "clave": "211560202",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "211560203",
+        "nombre": "Joya Nopal"
+    },
+    {
+        "clave": "211560204",
+        "nombre": "Loma el Sapo"
+    },
+    {
+        "clave": "211560205",
+        "nombre": "Necoxtla"
+    },
+    {
+        "clave": "211560207",
+        "nombre": "Agua el Palmón"
+    },
+    {
+        "clave": "211560210",
+        "nombre": "Joya Mezquitec"
+    },
+    {
+        "clave": "211560211",
+        "nombre": "El Paraíso de Jesús Segunda Sección"
+    },
+    {
+        "clave": "211560214",
+        "nombre": "Los Nogales (Pozo 5)"
+    },
+    {
+        "clave": "211560217",
+        "nombre": "Fraccionamiento los Aguacates"
+    },
+    {
+        "clave": "211560218",
+        "nombre": "Colonia los Arcos de Loreto"
+    },
+    {
+        "clave": "211560220",
+        "nombre": "Calera"
+    },
+    {
+        "clave": "211560222",
+        "nombre": "Granjas Guadalupe"
+    },
+    {
+        "clave": "211560223",
+        "nombre": "Unidad Habitacional Rancho las Flores"
+    },
+    {
+        "clave": "211560224",
+        "nombre": "Colonia Resurrección"
+    },
+    {
+        "clave": "211560228",
+        "nombre": "Agua la Huerta"
+    },
+    {
+        "clave": "211560229",
+        "nombre": "El Riego"
+    },
+    {
+        "clave": "211560230",
+        "nombre": "Jerusalén"
+    },
+    {
+        "clave": "211560231",
+        "nombre": "La Cantera"
+    },
+    {
+        "clave": "211560232",
+        "nombre": "La Huertilla"
+    },
+    {
+        "clave": "211560233",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "211560234",
+        "nombre": "Los Gavilanes"
+    },
+    {
+        "clave": "211560235",
+        "nombre": "Meseta del Riego"
+    },
+    {
+        "clave": "211560236",
+        "nombre": "Rancho Hernández"
+    },
+    {
+        "clave": "211560237",
+        "nombre": "Rodeo Tepeclasole"
+    },
+    {
+        "clave": "211560238",
+        "nombre": "El Tunge"
+    },
+    {
+        "clave": "211560239",
+        "nombre": "San Cristóbal Tepeteopan"
+    },
+    {
+        "clave": "211560240",
+        "nombre": "San Cristóbal Tepeteopan"
+    },
+    {
+        "clave": "211560241",
+        "nombre": "San Cristóbal Tepeteopan"
+    },
+    {
+        "clave": "211560242",
+        "nombre": "San Luis Rey"
+    },
+    {
+        "clave": "211560243",
+        "nombre": "Los Limones"
+    },
+    {
+        "clave": "211560244",
+        "nombre": "Nueva Escocia"
+    },
+    {
+        "clave": "211560245",
+        "nombre": "La Nopalera"
+    },
+    {
+        "clave": "211560246",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "211560247",
+        "nombre": "Altavista"
+    },
+    {
+        "clave": "211560248",
+        "nombre": "Ampliación San Isidro"
+    },
+    {
+        "clave": "211560249",
+        "nombre": "Felipe León Gómez"
+    },
+    {
+        "clave": "211560250",
+        "nombre": "Valentín Romualdo Hernández"
+    }
+]

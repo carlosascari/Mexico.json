@@ -1,0 +1,738 @@
+[
+    {
+        "clave": "161080053",
+        "nombre": "Los Espinos"
+    },
+    {
+        "clave": "161080076",
+        "nombre": "José Guadalupe Rodríguez Morales (Palo Blanco)"
+    },
+    {
+        "clave": "161080082",
+        "nombre": "Rancho de Rogelio Morales (Las Delicias)"
+    },
+    {
+        "clave": "161080101",
+        "nombre": "Crucero de San Juan"
+    },
+    {
+        "clave": "161080171",
+        "nombre": "Puente el Compuesto"
+    },
+    {
+        "clave": "161080002",
+        "nombre": "Aquiles Serdán (Santiaguillo)"
+    },
+    {
+        "clave": "161080003",
+        "nombre": "Ario de Rayón (Ario Santa Mónica)"
+    },
+    {
+        "clave": "161080004",
+        "nombre": "Atacheo de Regalado"
+    },
+    {
+        "clave": "161080005",
+        "nombre": "Atecucario de la Constitución (Atecuario)"
+    },
+    {
+        "clave": "161080008",
+        "nombre": "El Espíritu"
+    },
+    {
+        "clave": "161080009",
+        "nombre": "La Estancia de Amezcua"
+    },
+    {
+        "clave": "161080010",
+        "nombre": "El Guamúchil"
+    },
+    {
+        "clave": "161080011",
+        "nombre": "La Labor (Ejido de Independencia)"
+    },
+    {
+        "clave": "161080012",
+        "nombre": "La Ladera"
+    },
+    {
+        "clave": "161080014",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "161080015",
+        "nombre": "Miraflores Grande"
+    },
+    {
+        "clave": "161080017",
+        "nombre": "Romero de Guzmán"
+    },
+    {
+        "clave": "161080018",
+        "nombre": "Romero de Torres"
+    },
+    {
+        "clave": "161080019",
+        "nombre": "San Esteban (Ejido Santa Cruz)"
+    },
+    {
+        "clave": "161080023",
+        "nombre": "El Sauz de Magaña"
+    },
+    {
+        "clave": "161080025",
+        "nombre": "Villafuerte"
+    },
+    {
+        "clave": "161080028",
+        "nombre": "Villa Zapata (El Guayabo)"
+    },
+    {
+        "clave": "161080029",
+        "nombre": "Colonia Linda Vista"
+    },
+    {
+        "clave": "161080031",
+        "nombre": "El Yaqui"
+    },
+    {
+        "clave": "161080034",
+        "nombre": "Guanajuatillo (Colonia el Edén)"
+    },
+    {
+        "clave": "161080040",
+        "nombre": "El Monte de Zamora (La Cal)"
+    },
+    {
+        "clave": "161080046",
+        "nombre": "Colonia Primero de Mayo (La Beatilla)"
+    },
+    {
+        "clave": "161080069",
+        "nombre": "Bella Loma (El Colorado)"
+    },
+    {
+        "clave": "161080070",
+        "nombre": "Colonia Carmen Serdán (Loma Bonita)"
+    },
+    {
+        "clave": "161080071",
+        "nombre": "Colonia Licenciado Luis Donaldo Colosio"
+    },
+    {
+        "clave": "161080075",
+        "nombre": "Fraccionamiento el Mirador"
+    },
+    {
+        "clave": "161080092",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "161080098",
+        "nombre": "Colonia Dos de Octubre"
+    },
+    {
+        "clave": "161080099",
+        "nombre": "La Huerta Zamorana"
+    },
+    {
+        "clave": "161080109",
+        "nombre": "Kilómetro Ocho"
+    },
+    {
+        "clave": "161080110",
+        "nombre": "Kilómetro Tres Libramiento Norte"
+    },
+    {
+        "clave": "161080142",
+        "nombre": "La Rinconada Tres"
+    },
+    {
+        "clave": "161080162",
+        "nombre": "Lomitas de Santa Cruz"
+    },
+    {
+        "clave": "161080197",
+        "nombre": "Lomas de la Beatilla"
+    },
+    {
+        "clave": "161080198",
+        "nombre": "Colonia Ecologista"
+    },
+    {
+        "clave": "161080200",
+        "nombre": "Canindo"
+    },
+    {
+        "clave": "161080001",
+        "nombre": "Zamora de Hidalgo"
+    },
+    {
+        "clave": "161080006",
+        "nombre": "El Cerrito de Catipuato (Cerrito de Ortiz)"
+    },
+    {
+        "clave": "161080007",
+        "nombre": "Chaparaco"
+    },
+    {
+        "clave": "161080013",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "161080016",
+        "nombre": "La Rinconada"
+    },
+    {
+        "clave": "161080020",
+        "nombre": "La Sauceda"
+    },
+    {
+        "clave": "161080021",
+        "nombre": "El Sauz de Abajo"
+    },
+    {
+        "clave": "161080022",
+        "nombre": "El Sauz de Arriba"
+    },
+    {
+        "clave": "161080024",
+        "nombre": "Tierras Blancas"
+    },
+    {
+        "clave": "161080032",
+        "nombre": "El Cañón (Potrero Nuevo)"
+    },
+    {
+        "clave": "161080033",
+        "nombre": "La Manga"
+    },
+    {
+        "clave": "161080035",
+        "nombre": "Miraflores Chico"
+    },
+    {
+        "clave": "161080039",
+        "nombre": "El Zapote de García"
+    },
+    {
+        "clave": "161080041",
+        "nombre": "El Establo"
+    },
+    {
+        "clave": "161080042",
+        "nombre": "El Padilleño"
+    },
+    {
+        "clave": "161080043",
+        "nombre": "La Achera"
+    },
+    {
+        "clave": "161080044",
+        "nombre": "Agua Blanca"
+    },
+    {
+        "clave": "161080045",
+        "nombre": "Potrero Grande"
+    },
+    {
+        "clave": "161080047",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "161080048",
+        "nombre": "El Salitrillo"
+    },
+    {
+        "clave": "161080049",
+        "nombre": "Mezquites"
+    },
+    {
+        "clave": "161080050",
+        "nombre": "Los Amezcua (La Chorrera)"
+    },
+    {
+        "clave": "161080052",
+        "nombre": "Colonia Lázaro Cárdenas"
+    },
+    {
+        "clave": "161080054",
+        "nombre": "La Lima"
+    },
+    {
+        "clave": "161080057",
+        "nombre": "Establo de Gasca"
+    },
+    {
+        "clave": "161080058",
+        "nombre": "Rancho de Guadalupe Hernández"
+    },
+    {
+        "clave": "161080059",
+        "nombre": "Rancho de Gonzalo Fuentes"
+    },
+    {
+        "clave": "161080060",
+        "nombre": "Ramón Estrada [Rancho]"
+    },
+    {
+        "clave": "161080061",
+        "nombre": "Granja Familiar el Olimpo"
+    },
+    {
+        "clave": "161080065",
+        "nombre": "Rancho de los Díaz"
+    },
+    {
+        "clave": "161080066",
+        "nombre": "La Huerta de Matías"
+    },
+    {
+        "clave": "161080067",
+        "nombre": "Puente de Tubos"
+    },
+    {
+        "clave": "161080072",
+        "nombre": "Higuerillas"
+    },
+    {
+        "clave": "161080073",
+        "nombre": "Huertas de la Beatilla"
+    },
+    {
+        "clave": "161080077",
+        "nombre": "El Pochote (La Nutria)"
+    },
+    {
+        "clave": "161080080",
+        "nombre": "Rancho de Don Vicente Verduzco"
+    },
+    {
+        "clave": "161080081",
+        "nombre": "Rancho de José Gutiérrez Martínez"
+    },
+    {
+        "clave": "161080083",
+        "nombre": "Las Maravillas"
+    },
+    {
+        "clave": "161080084",
+        "nombre": "Rancho de Jesús Garibay"
+    },
+    {
+        "clave": "161080085",
+        "nombre": "Aeropuerto de Zamora"
+    },
+    {
+        "clave": "161080086",
+        "nombre": "El Alto"
+    },
+    {
+        "clave": "161080087",
+        "nombre": "El Arco"
+    },
+    {
+        "clave": "161080088",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "161080089",
+        "nombre": "Ario de Rayón Uno (Ario Santa Mónica)"
+    },
+    {
+        "clave": "161080090",
+        "nombre": "Atecucario de la Constitucion 2 (Atecuario)"
+    },
+    {
+        "clave": "161080091",
+        "nombre": "Atecucario de la Constitución 3 (Atecuario)"
+    },
+    {
+        "clave": "161080093",
+        "nombre": "El Banco de la Coyotera"
+    },
+    {
+        "clave": "161080094",
+        "nombre": "El Barajeño"
+    },
+    {
+        "clave": "161080095",
+        "nombre": "La Calera de Potrerillos"
+    },
+    {
+        "clave": "161080096",
+        "nombre": "Los Cedritos (El Grano del Valle)"
+    },
+    {
+        "clave": "161080097",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "161080100",
+        "nombre": "El Coyote Grande"
+    },
+    {
+        "clave": "161080102",
+        "nombre": "El Cuisillo"
+    },
+    {
+        "clave": "161080103",
+        "nombre": "Los Esparza"
+    },
+    {
+        "clave": "161080104",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "161080105",
+        "nombre": "La Granja (Las Chiquereras)"
+    },
+    {
+        "clave": "161080106",
+        "nombre": "Las Higueras"
+    },
+    {
+        "clave": "161080107",
+        "nombre": "Kilómetro Cinco Punto Cinco"
+    },
+    {
+        "clave": "161080108",
+        "nombre": "Kilómetro Doce Libramiento Norte"
+    },
+    {
+        "clave": "161080111",
+        "nombre": "La Ladera"
+    },
+    {
+        "clave": "161080112",
+        "nombre": "Las Latas"
+    },
+    {
+        "clave": "161080113",
+        "nombre": "Libramiento Norte"
+    },
+    {
+        "clave": "161080114",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "161080115",
+        "nombre": "Localidad sin nombre"
+    },
+    {
+        "clave": "161080116",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "161080117",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "161080118",
+        "nombre": "El Mogote"
+    },
+    {
+        "clave": "161080119",
+        "nombre": "Navarrete"
+    },
+    {
+        "clave": "161080120",
+        "nombre": "La Pequeña"
+    },
+    {
+        "clave": "161080121",
+        "nombre": "Planta de Tratamiento de Aguas Residuales"
+    },
+    {
+        "clave": "161080122",
+        "nombre": "Planta Transmisora de Chaparaco"
+    },
+    {
+        "clave": "161080123",
+        "nombre": "El Potrerito"
+    },
+    {
+        "clave": "161080124",
+        "nombre": "El Potrero de Arriba"
+    },
+    {
+        "clave": "161080125",
+        "nombre": "Potrero de en Medio"
+    },
+    {
+        "clave": "161080126",
+        "nombre": "El Potrero Grande"
+    },
+    {
+        "clave": "161080127",
+        "nombre": "La Presa de Álvarez"
+    },
+    {
+        "clave": "161080128",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "161080129",
+        "nombre": "El Ranchito (El Establo)"
+    },
+    {
+        "clave": "161080130",
+        "nombre": "Rancho de Alfredo González Trujillo"
+    },
+    {
+        "clave": "161080131",
+        "nombre": "Rancho de Don Trino"
+    },
+    {
+        "clave": "161080132",
+        "nombre": "Rancho de Francisco Mendoza"
+    },
+    {
+        "clave": "161080133",
+        "nombre": "Rancho de Fray Martín"
+    },
+    {
+        "clave": "161080134",
+        "nombre": "Rancho de Jaime Peña"
+    },
+    {
+        "clave": "161080135",
+        "nombre": "Rancho de Jesús Sepúlveda"
+    },
+    {
+        "clave": "161080136",
+        "nombre": "Rancho de José Fernández"
+    },
+    {
+        "clave": "161080137",
+        "nombre": "Rancho de Uriel Fuentes Zárate"
+    },
+    {
+        "clave": "161080138",
+        "nombre": "La Bolsa"
+    },
+    {
+        "clave": "161080139",
+        "nombre": "La Martineña"
+    },
+    {
+        "clave": "161080140",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "161080141",
+        "nombre": "San Martín [Restaurante]"
+    },
+    {
+        "clave": "161080143",
+        "nombre": "El Sabino"
+    },
+    {
+        "clave": "161080144",
+        "nombre": "El Duero [Servicio]"
+    },
+    {
+        "clave": "161080145",
+        "nombre": "El Tejocote"
+    },
+    {
+        "clave": "161080146",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "161080147",
+        "nombre": "La Tronconera (Las Higueras)"
+    },
+    {
+        "clave": "161080148",
+        "nombre": "El Yugo"
+    },
+    {
+        "clave": "161080149",
+        "nombre": "El Aguaje"
+    },
+    {
+        "clave": "161080150",
+        "nombre": "La Baleña"
+    },
+    {
+        "clave": "161080151",
+        "nombre": "La Calera"
+    },
+    {
+        "clave": "161080152",
+        "nombre": "Colonia los Álamos (Tiro al Blanco)"
+    },
+    {
+        "clave": "161080153",
+        "nombre": "Las Colonias"
+    },
+    {
+        "clave": "161080154",
+        "nombre": "La Desviación del Sauz"
+    },
+    {
+        "clave": "161080155",
+        "nombre": "La Loba"
+    },
+    {
+        "clave": "161080156",
+        "nombre": "La Gallina"
+    },
+    {
+        "clave": "161080157",
+        "nombre": "El Gato"
+    },
+    {
+        "clave": "161080158",
+        "nombre": "La Hacienda Vieja"
+    },
+    {
+        "clave": "161080159",
+        "nombre": "El Invernadero del Sauz"
+    },
+    {
+        "clave": "161080160",
+        "nombre": "Las Lajas"
+    },
+    {
+        "clave": "161080161",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "161080163",
+        "nombre": "Las Palomas"
+    },
+    {
+        "clave": "161080164",
+        "nombre": "El Pelillo"
+    },
+    {
+        "clave": "161080165",
+        "nombre": "La Porteña"
+    },
+    {
+        "clave": "161080166",
+        "nombre": "Potrero de Bermejo"
+    },
+    {
+        "clave": "161080167",
+        "nombre": "Potrero Santiago (El Carrizal)"
+    },
+    {
+        "clave": "161080168",
+        "nombre": "La Presita"
+    },
+    {
+        "clave": "161080169",
+        "nombre": "El Puente del Dren"
+    },
+    {
+        "clave": "161080170",
+        "nombre": "Puente de Tierra"
+    },
+    {
+        "clave": "161080172",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "161080173",
+        "nombre": "Fraccionamiento Ex-Hacienda el Refugio"
+    },
+    {
+        "clave": "161080174",
+        "nombre": "Rancho de Antonio Torres"
+    },
+    {
+        "clave": "161080175",
+        "nombre": "Rancho de Pancho Ayala"
+    },
+    {
+        "clave": "161080176",
+        "nombre": "La Ciénega de Miraflores"
+    },
+    {
+        "clave": "161080177",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "161080178",
+        "nombre": "Calicanto"
+    },
+    {
+        "clave": "161080179",
+        "nombre": "El Cerro de la Sauceda"
+    },
+    {
+        "clave": "161080180",
+        "nombre": "Los Guayabos"
+    },
+    {
+        "clave": "161080181",
+        "nombre": "Colonia Paseos del Bosque"
+    },
+    {
+        "clave": "161080182",
+        "nombre": "Fraccionamiento las Flores"
+    },
+    {
+        "clave": "161080183",
+        "nombre": "Fraccionamiento Monte Olivo"
+    },
+    {
+        "clave": "161080184",
+        "nombre": "Los Espinos [Agrícola]"
+    },
+    {
+        "clave": "161080185",
+        "nombre": "Ruta Café [Terminal]"
+    },
+    {
+        "clave": "161080186",
+        "nombre": "Conjunto Habitacional Ario de Rayón"
+    },
+    {
+        "clave": "161080187",
+        "nombre": "Colonia 20 de Noviembre"
+    },
+    {
+        "clave": "161080188",
+        "nombre": "Colonia Hidalgo"
+    },
+    {
+        "clave": "161080189",
+        "nombre": "El Ingenio"
+    },
+    {
+        "clave": "161080190",
+        "nombre": "Delicias Número Mil"
+    },
+    {
+        "clave": "161080191",
+        "nombre": "Predio San Buenaventura"
+    },
+    {
+        "clave": "161080192",
+        "nombre": "Los Dos Amigos (Predio San Juan)"
+    },
+    {
+        "clave": "161080193",
+        "nombre": "Quinta de Ramón Estrada"
+    },
+    {
+        "clave": "161080194",
+        "nombre": "Fraccionamiento Lago del Bosque"
+    },
+    {
+        "clave": "161080195",
+        "nombre": "Fraccionamiento las Primaveras de Zamora"
+    },
+    {
+        "clave": "161080196",
+        "nombre": "Fraccionamiento Panorámico"
+    },
+    {
+        "clave": "161080199",
+        "nombre": "José Ramírez Gallegos [Empacadora]"
+    }
+]

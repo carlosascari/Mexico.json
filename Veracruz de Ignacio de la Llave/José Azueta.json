@@ -1,0 +1,818 @@
+[
+    {
+        "clave": "301690033",
+        "nombre": "El Huracán"
+    },
+    {
+        "clave": "301690065",
+        "nombre": "San Luis Viejo"
+    },
+    {
+        "clave": "301690070",
+        "nombre": "El Tamarindo (El Saladero)"
+    },
+    {
+        "clave": "301690095",
+        "nombre": "Los Marines"
+    },
+    {
+        "clave": "301690124",
+        "nombre": "La Guadalupe II"
+    },
+    {
+        "clave": "301690137",
+        "nombre": "La Vuelta de Silvarán"
+    },
+    {
+        "clave": "301690212",
+        "nombre": "Mata de Caña"
+    },
+    {
+        "clave": "301690223",
+        "nombre": "El Nuevo Paraíso (El Limón)"
+    },
+    {
+        "clave": "301690275",
+        "nombre": "El Coyolito"
+    },
+    {
+        "clave": "301690293",
+        "nombre": "El Pomelo"
+    },
+    {
+        "clave": "301690002",
+        "nombre": "Vicente Guerrero (El Aguacate)"
+    },
+    {
+        "clave": "301690003",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "301690012",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "301690014",
+        "nombre": "Las Cadenas"
+    },
+    {
+        "clave": "301690015",
+        "nombre": "El Café y Anexas"
+    },
+    {
+        "clave": "301690020",
+        "nombre": "El Carrizal (Majahual)"
+    },
+    {
+        "clave": "301690022",
+        "nombre": "La Cuatezona"
+    },
+    {
+        "clave": "301690023",
+        "nombre": "Cujuliapan"
+    },
+    {
+        "clave": "301690024",
+        "nombre": "Curazao"
+    },
+    {
+        "clave": "301690025",
+        "nombre": "Estación Dobladero"
+    },
+    {
+        "clave": "301690028",
+        "nombre": "La Florida Sur"
+    },
+    {
+        "clave": "301690031",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "301690032",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "301690034",
+        "nombre": "Jobo Grande"
+    },
+    {
+        "clave": "301690037",
+        "nombre": "Juan García"
+    },
+    {
+        "clave": "301690038",
+        "nombre": "Juan Mulato"
+    },
+    {
+        "clave": "301690039",
+        "nombre": "Laguna Verde"
+    },
+    {
+        "clave": "301690041",
+        "nombre": "Linda Vista"
+    },
+    {
+        "clave": "301690043",
+        "nombre": "El Maguey"
+    },
+    {
+        "clave": "301690045",
+        "nombre": "Manzanillo"
+    },
+    {
+        "clave": "301690046",
+        "nombre": "Monte Rico"
+    },
+    {
+        "clave": "301690051",
+        "nombre": "Paso de la Virgen"
+    },
+    {
+        "clave": "301690054",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "301690055",
+        "nombre": "La Puente"
+    },
+    {
+        "clave": "301690057",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "301690058",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "301690062",
+        "nombre": "San Jerónimo"
+    },
+    {
+        "clave": "301690064",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "301690067",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "301690071",
+        "nombre": "Tesechoacán"
+    },
+    {
+        "clave": "301690076",
+        "nombre": "Veracrucito"
+    },
+    {
+        "clave": "301690078",
+        "nombre": "Tenejapan (Tenejapan de Mata)"
+    },
+    {
+        "clave": "301690082",
+        "nombre": "La Boca"
+    },
+    {
+        "clave": "301690087",
+        "nombre": "La Nueva Esperanza"
+    },
+    {
+        "clave": "301690088",
+        "nombre": "Tres Hermanos Castillo"
+    },
+    {
+        "clave": "301690089",
+        "nombre": "Las Hojas"
+    },
+    {
+        "clave": "301690092",
+        "nombre": "La Jimba"
+    },
+    {
+        "clave": "301690100",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "301690104",
+        "nombre": "Tinaja de Mata"
+    },
+    {
+        "clave": "301690125",
+        "nombre": "Buena Esperanza"
+    },
+    {
+        "clave": "301690129",
+        "nombre": "Ramie Nuevo"
+    },
+    {
+        "clave": "301690149",
+        "nombre": "Las Iguanas"
+    },
+    {
+        "clave": "301690150",
+        "nombre": "San Antonio de Bravo"
+    },
+    {
+        "clave": "301690157",
+        "nombre": "Nuevo San José (Cerro de Oro)"
+    },
+    {
+        "clave": "301690160",
+        "nombre": "El Nuevo Progreso"
+    },
+    {
+        "clave": "301690166",
+        "nombre": "El Zorral"
+    },
+    {
+        "clave": "301690168",
+        "nombre": "El Crucero"
+    },
+    {
+        "clave": "301690176",
+        "nombre": "Julián Torres Armas"
+    },
+    {
+        "clave": "301690180",
+        "nombre": "Las Cruces (La Gallina)"
+    },
+    {
+        "clave": "301690188",
+        "nombre": "El Remolino"
+    },
+    {
+        "clave": "301690189",
+        "nombre": "Santa Margarita"
+    },
+    {
+        "clave": "301690195",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "301690200",
+        "nombre": "Tierra y Libertad"
+    },
+    {
+        "clave": "301690202",
+        "nombre": "Aristeo Mora"
+    },
+    {
+        "clave": "301690204",
+        "nombre": "Rancho Nuevo la Palma"
+    },
+    {
+        "clave": "301690210",
+        "nombre": "Centauro del Norte"
+    },
+    {
+        "clave": "301690222",
+        "nombre": "El Nuevo Maguey"
+    },
+    {
+        "clave": "301690226",
+        "nombre": "Playa Tenejapan"
+    },
+    {
+        "clave": "301690240",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "301690246",
+        "nombre": "Las Torres"
+    },
+    {
+        "clave": "301690256",
+        "nombre": "Colonia Rubén R. Jaramillo"
+    },
+    {
+        "clave": "301690267",
+        "nombre": "Veinticuatro de Febrero"
+    },
+    {
+        "clave": "301690269",
+        "nombre": "Ampliación Ejido San Antonio"
+    },
+    {
+        "clave": "301690276",
+        "nombre": "El Crucero"
+    },
+    {
+        "clave": "301690302",
+        "nombre": "Silvino Jiménez Mora"
+    },
+    {
+        "clave": "301690305",
+        "nombre": "Tres Lagunas"
+    },
+    {
+        "clave": "301690309",
+        "nombre": "Llanete"
+    },
+    {
+        "clave": "301690001",
+        "nombre": "Villa Azueta"
+    },
+    {
+        "clave": "301690007",
+        "nombre": "Arroyo de la Cruz"
+    },
+    {
+        "clave": "301690008",
+        "nombre": "El Aserradero"
+    },
+    {
+        "clave": "301690013",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "301690018",
+        "nombre": "La Capilla"
+    },
+    {
+        "clave": "301690027",
+        "nombre": "La Florida Norte"
+    },
+    {
+        "clave": "301690048",
+        "nombre": "El Otate"
+    },
+    {
+        "clave": "301690052",
+        "nombre": "Pepetaca"
+    },
+    {
+        "clave": "301690066",
+        "nombre": "San Ramón"
+    },
+    {
+        "clave": "301690080",
+        "nombre": "Yaguas"
+    },
+    {
+        "clave": "301690083",
+        "nombre": "La Conchita"
+    },
+    {
+        "clave": "301690090",
+        "nombre": "El Huasteco"
+    },
+    {
+        "clave": "301690093",
+        "nombre": "El Juste"
+    },
+    {
+        "clave": "301690096",
+        "nombre": "Las Margaritas"
+    },
+    {
+        "clave": "301690101",
+        "nombre": "San Aurelio"
+    },
+    {
+        "clave": "301690103",
+        "nombre": "Las Sidarias"
+    },
+    {
+        "clave": "301690109",
+        "nombre": "Reyes Torres y Malpica (El Palmar)"
+    },
+    {
+        "clave": "301690110",
+        "nombre": "Hermanos Amancios"
+    },
+    {
+        "clave": "301690112",
+        "nombre": "El Cado (Rancho Betania)"
+    },
+    {
+        "clave": "301690115",
+        "nombre": "Los Cerros"
+    },
+    {
+        "clave": "301690116",
+        "nombre": "Los Chomos (El Diamante)"
+    },
+    {
+        "clave": "301690120",
+        "nombre": "El Diamante"
+    },
+    {
+        "clave": "301690122",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "301690130",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "301690131",
+        "nombre": "Rancho Saltillo"
+    },
+    {
+        "clave": "301690134",
+        "nombre": "San José"
+    },
+    {
+        "clave": "301690135",
+        "nombre": "San José"
+    },
+    {
+        "clave": "301690136",
+        "nombre": "Tamarindo I"
+    },
+    {
+        "clave": "301690146",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "301690147",
+        "nombre": "Los Linares"
+    },
+    {
+        "clave": "301690152",
+        "nombre": "Rancho los García"
+    },
+    {
+        "clave": "301690154",
+        "nombre": "El Hitamo"
+    },
+    {
+        "clave": "301690155",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "301690156",
+        "nombre": "Rubén R. Jaramillo"
+    },
+    {
+        "clave": "301690161",
+        "nombre": "Santa Mónica"
+    },
+    {
+        "clave": "301690162",
+        "nombre": "Rancho Montana"
+    },
+    {
+        "clave": "301690163",
+        "nombre": "Los Compadres"
+    },
+    {
+        "clave": "301690174",
+        "nombre": "Rancho Claro"
+    },
+    {
+        "clave": "301690177",
+        "nombre": "Alejandro Serapio Montero"
+    },
+    {
+        "clave": "301690178",
+        "nombre": "Víctor Geysi Parroquín"
+    },
+    {
+        "clave": "301690186",
+        "nombre": "Las Magdalenas"
+    },
+    {
+        "clave": "301690187",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "301690194",
+        "nombre": "Loma Alta"
+    },
+    {
+        "clave": "301690196",
+        "nombre": "Tres Hermanos"
+    },
+    {
+        "clave": "301690197",
+        "nombre": "La Divina Providencia"
+    },
+    {
+        "clave": "301690198",
+        "nombre": "La Negrita"
+    },
+    {
+        "clave": "301690201",
+        "nombre": "Rancho Sangínez"
+    },
+    {
+        "clave": "301690203",
+        "nombre": "Rancho Capa (Bajo de Capa)"
+    },
+    {
+        "clave": "301690205",
+        "nombre": "El Capulinar"
+    },
+    {
+        "clave": "301690206",
+        "nombre": "Los Manguitos"
+    },
+    {
+        "clave": "301690207",
+        "nombre": "Los Framboyanes"
+    },
+    {
+        "clave": "301690211",
+        "nombre": "Lázaro Álvarez Mendoza"
+    },
+    {
+        "clave": "301690214",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "301690215",
+        "nombre": "Valerio Hernández"
+    },
+    {
+        "clave": "301690216",
+        "nombre": "Guadalupe Cristo"
+    },
+    {
+        "clave": "301690220",
+        "nombre": "Benito López Sánchez"
+    },
+    {
+        "clave": "301690224",
+        "nombre": "Julián Pérez"
+    },
+    {
+        "clave": "301690225",
+        "nombre": "La Platanera"
+    },
+    {
+        "clave": "301690227",
+        "nombre": "La Puerta Dorada"
+    },
+    {
+        "clave": "301690228",
+        "nombre": "Diego Martínez Cortés"
+    },
+    {
+        "clave": "301690229",
+        "nombre": "Ana Lilia"
+    },
+    {
+        "clave": "301690230",
+        "nombre": "Rancho Benancia"
+    },
+    {
+        "clave": "301690232",
+        "nombre": "Carlos Azamar"
+    },
+    {
+        "clave": "301690233",
+        "nombre": "El Huasteco"
+    },
+    {
+        "clave": "301690234",
+        "nombre": "El Nazareno"
+    },
+    {
+        "clave": "301690235",
+        "nombre": "Ernesto Ripol"
+    },
+    {
+        "clave": "301690236",
+        "nombre": "Pedro Cruz Reyes"
+    },
+    {
+        "clave": "301690237",
+        "nombre": "Jesús Santos Pulido"
+    },
+    {
+        "clave": "301690238",
+        "nombre": "Jorge Vázquez Mundo"
+    },
+    {
+        "clave": "301690239",
+        "nombre": "Fidel Ángel"
+    },
+    {
+        "clave": "301690241",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "301690242",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "301690243",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "301690244",
+        "nombre": "Las Ánimas"
+    },
+    {
+        "clave": "301690248",
+        "nombre": "Los Tamés"
+    },
+    {
+        "clave": "301690249",
+        "nombre": "Josefina Alderete"
+    },
+    {
+        "clave": "301690250",
+        "nombre": "La Carmelita"
+    },
+    {
+        "clave": "301690251",
+        "nombre": "El Remolino"
+    },
+    {
+        "clave": "301690252",
+        "nombre": "La Peroteña"
+    },
+    {
+        "clave": "301690253",
+        "nombre": "El Diamante"
+    },
+    {
+        "clave": "301690254",
+        "nombre": "Los Abalcones"
+    },
+    {
+        "clave": "301690255",
+        "nombre": "Las Bugambilias"
+    },
+    {
+        "clave": "301690257",
+        "nombre": "Imosa"
+    },
+    {
+        "clave": "301690258",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "301690260",
+        "nombre": "El Palmar"
+    },
+    {
+        "clave": "301690262",
+        "nombre": "Rancho Barajas"
+    },
+    {
+        "clave": "301690263",
+        "nombre": "Marcelino Aguirre"
+    },
+    {
+        "clave": "301690264",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "301690265",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "301690266",
+        "nombre": "Sergio Carmona"
+    },
+    {
+        "clave": "301690270",
+        "nombre": "Bonifacio León Ortiz"
+    },
+    {
+        "clave": "301690271",
+        "nombre": "Carlos Aguilar Rangel"
+    },
+    {
+        "clave": "301690272",
+        "nombre": "Carmen Castro García"
+    },
+    {
+        "clave": "301690273",
+        "nombre": "Cirilo Martínez"
+    },
+    {
+        "clave": "301690277",
+        "nombre": "Eliseo Rodríguez Pérez"
+    },
+    {
+        "clave": "301690278",
+        "nombre": "Eugenio Ramírez Cado"
+    },
+    {
+        "clave": "301690279",
+        "nombre": "Guadalupe Ramos"
+    },
+    {
+        "clave": "301690280",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "301690281",
+        "nombre": "Hipólito Mora Márquez"
+    },
+    {
+        "clave": "301690282",
+        "nombre": "Inés Martínez Reyes"
+    },
+    {
+        "clave": "301690283",
+        "nombre": "Jaime Basurto Gamboa"
+    },
+    {
+        "clave": "301690284",
+        "nombre": "Severo Torres"
+    },
+    {
+        "clave": "301690285",
+        "nombre": "José Mateo Asunción"
+    },
+    {
+        "clave": "301690286",
+        "nombre": "Juan Martínez Rivera"
+    },
+    {
+        "clave": "301690287",
+        "nombre": "Macario Petrón"
+    },
+    {
+        "clave": "301690288",
+        "nombre": "Manuel Álvarez Mayo"
+    },
+    {
+        "clave": "301690289",
+        "nombre": "Otilio López"
+    },
+    {
+        "clave": "301690290",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "301690291",
+        "nombre": "Las Parcelas"
+    },
+    {
+        "clave": "301690292",
+        "nombre": "El Parral"
+    },
+    {
+        "clave": "301690294",
+        "nombre": "Porfiria Balderas"
+    },
+    {
+        "clave": "301690295",
+        "nombre": "Raúl Alemán"
+    },
+    {
+        "clave": "301690296",
+        "nombre": "Rosa Aldana Ocampo"
+    },
+    {
+        "clave": "301690297",
+        "nombre": "Rubén Álvarez"
+    },
+    {
+        "clave": "301690298",
+        "nombre": "Ruth Ramos"
+    },
+    {
+        "clave": "301690299",
+        "nombre": "San José Atitlán"
+    },
+    {
+        "clave": "301690300",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "301690301",
+        "nombre": "Rubén Arceo Morales"
+    },
+    {
+        "clave": "301690303",
+        "nombre": "Agua Clarita"
+    },
+    {
+        "clave": "301690304",
+        "nombre": "El Chaparral"
+    },
+    {
+        "clave": "301690306",
+        "nombre": "El Otate"
+    },
+    {
+        "clave": "301690307",
+        "nombre": "La Peña"
+    },
+    {
+        "clave": "301690308",
+        "nombre": "Emilio Goldorena"
+    },
+    {
+        "clave": "301690310",
+        "nombre": "Brani"
+    },
+    {
+        "clave": "301690311",
+        "nombre": "El Jarocho"
+    },
+    {
+        "clave": "301690312",
+        "nombre": "El Almendro"
+    },
+    {
+        "clave": "301690313",
+        "nombre": "La Texanita"
+    }
+]

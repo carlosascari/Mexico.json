@@ -1,0 +1,3458 @@
+[
+    {
+        "clave": "250120201",
+        "nombre": "El Guasimal"
+    },
+    {
+        "clave": "250120251",
+        "nombre": "Metates"
+    },
+    {
+        "clave": "250120308",
+        "nombre": "Las Salvias"
+    },
+    {
+        "clave": "250120373",
+        "nombre": "El Cabral"
+    },
+    {
+        "clave": "250120411",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "250120432",
+        "nombre": "El Cerro Verde"
+    },
+    {
+        "clave": "250120549",
+        "nombre": "Los Cocos"
+    },
+    {
+        "clave": "250120672",
+        "nombre": "El Palmillar (El Palmillar de los Agüeros)"
+    },
+    {
+        "clave": "250120787",
+        "nombre": "El Pinto (El Cerro)"
+    },
+    {
+        "clave": "250120835",
+        "nombre": "Las Guásimas"
+    },
+    {
+        "clave": "250120851",
+        "nombre": "El Quelele"
+    },
+    {
+        "clave": "250121098",
+        "nombre": "La Osa"
+    },
+    {
+        "clave": "250121102",
+        "nombre": "Piedra Blanca"
+    },
+    {
+        "clave": "250121183",
+        "nombre": "Jiménez"
+    },
+    {
+        "clave": "250120122",
+        "nombre": "El Amole del Quelite"
+    },
+    {
+        "clave": "250120126",
+        "nombre": "Los Añiles"
+    },
+    {
+        "clave": "250120128",
+        "nombre": "Armadillo"
+    },
+    {
+        "clave": "250120135",
+        "nombre": "El Bebedero"
+    },
+    {
+        "clave": "250120146",
+        "nombre": "Camacho"
+    },
+    {
+        "clave": "250120163",
+        "nombre": "Los Cedros"
+    },
+    {
+        "clave": "250120170",
+        "nombre": "Colima"
+    },
+    {
+        "clave": "250120177",
+        "nombre": "Charcos Prietos"
+    },
+    {
+        "clave": "250120187",
+        "nombre": "Los Ébanos"
+    },
+    {
+        "clave": "250120200",
+        "nombre": "Guamúchil"
+    },
+    {
+        "clave": "250120230",
+        "nombre": "Juantillos"
+    },
+    {
+        "clave": "250120236",
+        "nombre": "Los Limones"
+    },
+    {
+        "clave": "250120241",
+        "nombre": "Lomas del Guayabo"
+    },
+    {
+        "clave": "250120243",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "250120255",
+        "nombre": "Miravalles"
+    },
+    {
+        "clave": "250120258",
+        "nombre": "El Moral"
+    },
+    {
+        "clave": "250120267",
+        "nombre": "La Palma Sola"
+    },
+    {
+        "clave": "250120272",
+        "nombre": "Peraceña"
+    },
+    {
+        "clave": "250120278",
+        "nombre": "El Placer"
+    },
+    {
+        "clave": "250120281",
+        "nombre": "El Pochote"
+    },
+    {
+        "clave": "250120284",
+        "nombre": "Porras"
+    },
+    {
+        "clave": "250120330",
+        "nombre": "El Tecomate de la Noria"
+    },
+    {
+        "clave": "250120332",
+        "nombre": "Telcoyonqui"
+    },
+    {
+        "clave": "250120334",
+        "nombre": "Las Tinajas"
+    },
+    {
+        "clave": "250120350",
+        "nombre": "La Sábila"
+    },
+    {
+        "clave": "250120353",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "250120355",
+        "nombre": "Los Zapotes"
+    },
+    {
+        "clave": "250120360",
+        "nombre": "El Olvido"
+    },
+    {
+        "clave": "250120361",
+        "nombre": "Las Tatemas de Arriba"
+    },
+    {
+        "clave": "250120385",
+        "nombre": "Guaymas"
+    },
+    {
+        "clave": "250120386",
+        "nombre": "La Chapalota"
+    },
+    {
+        "clave": "250120388",
+        "nombre": "Los Arrayanes (El Saucito)"
+    },
+    {
+        "clave": "250120408",
+        "nombre": "La Yerbabuena"
+    },
+    {
+        "clave": "250120457",
+        "nombre": "El Chamizal"
+    },
+    {
+        "clave": "250120504",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "250120510",
+        "nombre": "El Habalito del Tubo"
+    },
+    {
+        "clave": "250120537",
+        "nombre": "Los Cardones de Arriba"
+    },
+    {
+        "clave": "250120538",
+        "nombre": "Los Cardones de en Medio"
+    },
+    {
+        "clave": "250120553",
+        "nombre": "Las Conchas"
+    },
+    {
+        "clave": "250120554",
+        "nombre": "Los Copales"
+    },
+    {
+        "clave": "250120594",
+        "nombre": "El Garitón"
+    },
+    {
+        "clave": "250120608",
+        "nombre": "La Hacienda"
+    },
+    {
+        "clave": "250120618",
+        "nombre": "El Huizachal"
+    },
+    {
+        "clave": "250120690",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "250120724",
+        "nombre": "San José"
+    },
+    {
+        "clave": "250120790",
+        "nombre": "Guasimilla"
+    },
+    {
+        "clave": "250120801",
+        "nombre": "La Guanera"
+    },
+    {
+        "clave": "250120822",
+        "nombre": "Campo Pueblo Nuevo"
+    },
+    {
+        "clave": "250120863",
+        "nombre": "Escondida de Palmillas"
+    },
+    {
+        "clave": "250120866",
+        "nombre": "Los Mezquites"
+    },
+    {
+        "clave": "250120878",
+        "nombre": "Los Paisas"
+    },
+    {
+        "clave": "250120887",
+        "nombre": "La Curva del Potrero"
+    },
+    {
+        "clave": "250120895",
+        "nombre": "Seminario Diocesano de Mazatlán"
+    },
+    {
+        "clave": "250120974",
+        "nombre": "Cosalá (Los Borbollones) [Industria]"
+    },
+    {
+        "clave": "250120990",
+        "nombre": "Los Cedros"
+    },
+    {
+        "clave": "250121005",
+        "nombre": "Los Pozos"
+    },
+    {
+        "clave": "250121089",
+        "nombre": "Loma Alta de los Zataráin"
+    },
+    {
+        "clave": "250121166",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "250121185",
+        "nombre": "La Mora Escarbada"
+    },
+    {
+        "clave": "250121189",
+        "nombre": "El Vainillo"
+    },
+    {
+        "clave": "250121358",
+        "nombre": "La Amapa"
+    },
+    {
+        "clave": "250120001",
+        "nombre": "Mazatlán"
+    },
+    {
+        "clave": "250120118",
+        "nombre": "El Aguaje de Costilla"
+    },
+    {
+        "clave": "250120124",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "250120125",
+        "nombre": "La Angostura"
+    },
+    {
+        "clave": "250120130",
+        "nombre": "El Arrayanal"
+    },
+    {
+        "clave": "250120133",
+        "nombre": "El Bajío"
+    },
+    {
+        "clave": "250120134",
+        "nombre": "Barrón"
+    },
+    {
+        "clave": "250120138",
+        "nombre": "El Boliche"
+    },
+    {
+        "clave": "250120149",
+        "nombre": "Las Cañadas"
+    },
+    {
+        "clave": "250120151",
+        "nombre": "El Cañón de Batopilas"
+    },
+    {
+        "clave": "250120152",
+        "nombre": "El Capirato"
+    },
+    {
+        "clave": "250120153",
+        "nombre": "El Capiro"
+    },
+    {
+        "clave": "250120154",
+        "nombre": "El Capomito"
+    },
+    {
+        "clave": "250120159",
+        "nombre": "El Cardonal"
+    },
+    {
+        "clave": "250120162",
+        "nombre": "El Castillo"
+    },
+    {
+        "clave": "250120165",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250120167",
+        "nombre": "Coacoyoles"
+    },
+    {
+        "clave": "250120169",
+        "nombre": "Cofradía (Cofradía de Leyva Solano)"
+    },
+    {
+        "clave": "250120174",
+        "nombre": "Confital"
+    },
+    {
+        "clave": "250120176",
+        "nombre": "La Culebra"
+    },
+    {
+        "clave": "250120182",
+        "nombre": "El Chilillo"
+    },
+    {
+        "clave": "250120188",
+        "nombre": "La Embocada"
+    },
+    {
+        "clave": "250120191",
+        "nombre": "Escamillas"
+    },
+    {
+        "clave": "250120193",
+        "nombre": "El Espinal"
+    },
+    {
+        "clave": "250120197",
+        "nombre": "Los Gavilanes"
+    },
+    {
+        "clave": "250120208",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "250120210",
+        "nombre": "El Habal"
+    },
+    {
+        "clave": "250120211",
+        "nombre": "Habalito de Tepic"
+    },
+    {
+        "clave": "250120212",
+        "nombre": "El Habalito Número Uno"
+    },
+    {
+        "clave": "250120215",
+        "nombre": "La Hacienda"
+    },
+    {
+        "clave": "250120227",
+        "nombre": "Club Deportivo Familia Tirado (Jaripillo)"
+    },
+    {
+        "clave": "250120238",
+        "nombre": "La Loma de los Páez"
+    },
+    {
+        "clave": "250120240",
+        "nombre": "Los Llanitos"
+    },
+    {
+        "clave": "250120248",
+        "nombre": "Marismas"
+    },
+    {
+        "clave": "250120249",
+        "nombre": "Mármol de Salcido (Mármol)"
+    },
+    {
+        "clave": "250120259",
+        "nombre": "Las Moras de Alonso"
+    },
+    {
+        "clave": "250120263",
+        "nombre": "La Noria de San Antonio (La Noria)"
+    },
+    {
+        "clave": "250120268",
+        "nombre": "Palmillas"
+    },
+    {
+        "clave": "250120271",
+        "nombre": "Pénjamo"
+    },
+    {
+        "clave": "250120273",
+        "nombre": "Los Pericos"
+    },
+    {
+        "clave": "250120274",
+        "nombre": "Pichilingue"
+    },
+    {
+        "clave": "250120275",
+        "nombre": "Pie de Cochi"
+    },
+    {
+        "clave": "250120279",
+        "nombre": "La Plazuela"
+    },
+    {
+        "clave": "250120283",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "250120286",
+        "nombre": "El Potrero de Carrasco"
+    },
+    {
+        "clave": "250120287",
+        "nombre": "El Pozole"
+    },
+    {
+        "clave": "250120288",
+        "nombre": "El Pozole"
+    },
+    {
+        "clave": "250120291",
+        "nombre": "El Puente del Quelite"
+    },
+    {
+        "clave": "250120293",
+        "nombre": "Puerta de Canoas"
+    },
+    {
+        "clave": "250120294",
+        "nombre": "Puerta de San Marcos"
+    },
+    {
+        "clave": "250120295",
+        "nombre": "El Quelele"
+    },
+    {
+        "clave": "250120296",
+        "nombre": "El Quelite"
+    },
+    {
+        "clave": "250120297",
+        "nombre": "El Quemado"
+    },
+    {
+        "clave": "250120300",
+        "nombre": "El Recodo"
+    },
+    {
+        "clave": "250120302",
+        "nombre": "El Recreo"
+    },
+    {
+        "clave": "250120304",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "250120306",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "250120307",
+        "nombre": "El Salto"
+    },
+    {
+        "clave": "250120311",
+        "nombre": "San Francisquito"
+    },
+    {
+        "clave": "250120313",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "250120315",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "250120316",
+        "nombre": "San Quintín"
+    },
+    {
+        "clave": "250120317",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "250120319",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "250120320",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "250120321",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "250120325",
+        "nombre": "Siqueros"
+    },
+    {
+        "clave": "250120327",
+        "nombre": "Tamacochi"
+    },
+    {
+        "clave": "250120329",
+        "nombre": "El Tapahuito"
+    },
+    {
+        "clave": "250120331",
+        "nombre": "El Tecomate de Siqueros"
+    },
+    {
+        "clave": "250120336",
+        "nombre": "Tiro Nuevo"
+    },
+    {
+        "clave": "250120340",
+        "nombre": "La Urraca Vieja"
+    },
+    {
+        "clave": "250120341",
+        "nombre": "El Vainillo"
+    },
+    {
+        "clave": "250120346",
+        "nombre": "Veranos"
+    },
+    {
+        "clave": "250120348",
+        "nombre": "Villa Unión"
+    },
+    {
+        "clave": "250120351",
+        "nombre": "El Zacate"
+    },
+    {
+        "clave": "250120357",
+        "nombre": "La Urraca Nueva"
+    },
+    {
+        "clave": "250120358",
+        "nombre": "La Galera"
+    },
+    {
+        "clave": "250120362",
+        "nombre": "Los Capomos"
+    },
+    {
+        "clave": "250120364",
+        "nombre": "La Barrigona"
+    },
+    {
+        "clave": "250120365",
+        "nombre": "Las Cocinas"
+    },
+    {
+        "clave": "250120367",
+        "nombre": "Los Patos"
+    },
+    {
+        "clave": "250120368",
+        "nombre": "El Guardaganado"
+    },
+    {
+        "clave": "250120370",
+        "nombre": "Los Copales"
+    },
+    {
+        "clave": "250120372",
+        "nombre": "Los Conchitos"
+    },
+    {
+        "clave": "250120376",
+        "nombre": "La Tuna"
+    },
+    {
+        "clave": "250120380",
+        "nombre": "El Oro"
+    },
+    {
+        "clave": "250120384",
+        "nombre": "El Nacaral"
+    },
+    {
+        "clave": "250120389",
+        "nombre": "Los Lomillos"
+    },
+    {
+        "clave": "250120392",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "250120402",
+        "nombre": "El Bule"
+    },
+    {
+        "clave": "250120404",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "250120406",
+        "nombre": "San Joaquín"
+    },
+    {
+        "clave": "250120410",
+        "nombre": "Lagunillas"
+    },
+    {
+        "clave": "250120415",
+        "nombre": "Campo Rey"
+    },
+    {
+        "clave": "250120429",
+        "nombre": "El Salado"
+    },
+    {
+        "clave": "250120437",
+        "nombre": "La Víbora"
+    },
+    {
+        "clave": "250120441",
+        "nombre": "La Ciudadela"
+    },
+    {
+        "clave": "250120442",
+        "nombre": "Palo Blanco"
+    },
+    {
+        "clave": "250120444",
+        "nombre": "El Divisadero"
+    },
+    {
+        "clave": "250120449",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "250120453",
+        "nombre": "El Castillo Viejo"
+    },
+    {
+        "clave": "250120458",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "250120459",
+        "nombre": "Sombrerete (La Loma)"
+    },
+    {
+        "clave": "250120464",
+        "nombre": "El Palmarito"
+    },
+    {
+        "clave": "250120474",
+        "nombre": "La Cabaña"
+    },
+    {
+        "clave": "250120476",
+        "nombre": "El Mirabal"
+    },
+    {
+        "clave": "250120480",
+        "nombre": "Establo el Camarón"
+    },
+    {
+        "clave": "250120483",
+        "nombre": "Las Higueras del Conchi"
+    },
+    {
+        "clave": "250120484",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "250120488",
+        "nombre": "El Llorón"
+    },
+    {
+        "clave": "250120489",
+        "nombre": "Los Huanacaxtles"
+    },
+    {
+        "clave": "250120490",
+        "nombre": "San Andrés"
+    },
+    {
+        "clave": "250120498",
+        "nombre": "El Alazán de la Estanzuela"
+    },
+    {
+        "clave": "250120500",
+        "nombre": "El Amapal"
+    },
+    {
+        "clave": "250120501",
+        "nombre": "El Amolito"
+    },
+    {
+        "clave": "250120505",
+        "nombre": "El Arenoso"
+    },
+    {
+        "clave": "250120507",
+        "nombre": "El Arroyo Verde"
+    },
+    {
+        "clave": "250120513",
+        "nombre": "La Bajada"
+    },
+    {
+        "clave": "250120514",
+        "nombre": "Balamo"
+    },
+    {
+        "clave": "250120515",
+        "nombre": "Bellavista"
+    },
+    {
+        "clave": "250120518",
+        "nombre": "La Bomba de Mármol"
+    },
+    {
+        "clave": "250120519",
+        "nombre": "La Bóveda"
+    },
+    {
+        "clave": "250120521",
+        "nombre": "El Burro (San José de Gracia)"
+    },
+    {
+        "clave": "250120523",
+        "nombre": "La Calera"
+    },
+    {
+        "clave": "250120526",
+        "nombre": "Camalote Número Uno"
+    },
+    {
+        "clave": "250120527",
+        "nombre": "Camalote Número Dos"
+    },
+    {
+        "clave": "250120529",
+        "nombre": "Cambara"
+    },
+    {
+        "clave": "250120530",
+        "nombre": "La Camichina de Abajo"
+    },
+    {
+        "clave": "250120531",
+        "nombre": "Camichina de Arriba"
+    },
+    {
+        "clave": "250120535",
+        "nombre": "Caravanchel"
+    },
+    {
+        "clave": "250120536",
+        "nombre": "Los Cardones de Abajo"
+    },
+    {
+        "clave": "250120539",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "250120540",
+        "nombre": "El Carrizo"
+    },
+    {
+        "clave": "250120542",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "250120543",
+        "nombre": "Cerca de Piedra"
+    },
+    {
+        "clave": "250120545",
+        "nombre": "Cesteadero"
+    },
+    {
+        "clave": "250120547",
+        "nombre": "El Ciruelar"
+    },
+    {
+        "clave": "250120548",
+        "nombre": "La Ciudadela"
+    },
+    {
+        "clave": "250120550",
+        "nombre": "Los Cochis"
+    },
+    {
+        "clave": "250120552",
+        "nombre": "La Ermita"
+    },
+    {
+        "clave": "250120555",
+        "nombre": "El Corral Falso"
+    },
+    {
+        "clave": "250120556",
+        "nombre": "Los Cuilones"
+    },
+    {
+        "clave": "250120558",
+        "nombre": "La Curva"
+    },
+    {
+        "clave": "250120559",
+        "nombre": "Chayo"
+    },
+    {
+        "clave": "250120560",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "250120562",
+        "nombre": "La Chicayota"
+    },
+    {
+        "clave": "250120563",
+        "nombre": "Chicura de la Noria"
+    },
+    {
+        "clave": "250120565",
+        "nombre": "El Chilar"
+    },
+    {
+        "clave": "250120568",
+        "nombre": "Las Choyas de Arriba"
+    },
+    {
+        "clave": "250120569",
+        "nombre": "Las Choyas"
+    },
+    {
+        "clave": "250120573",
+        "nombre": "Las Delicias"
+    },
+    {
+        "clave": "250120574",
+        "nombre": "Las Delicias"
+    },
+    {
+        "clave": "250120575",
+        "nombre": "El Delirio"
+    },
+    {
+        "clave": "250120580",
+        "nombre": "La Embocada"
+    },
+    {
+        "clave": "250120583",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "250120584",
+        "nombre": "La Escopama"
+    },
+    {
+        "clave": "250120585",
+        "nombre": "El Espinal"
+    },
+    {
+        "clave": "250120586",
+        "nombre": "Estación Presidio"
+    },
+    {
+        "clave": "250120589",
+        "nombre": "La Florida (Charco Puerco)"
+    },
+    {
+        "clave": "250120591",
+        "nombre": "El Frijolar"
+    },
+    {
+        "clave": "250120598",
+        "nombre": "Las Golondrinas"
+    },
+    {
+        "clave": "250120599",
+        "nombre": "Las Guásimas"
+    },
+    {
+        "clave": "250120600",
+        "nombre": "Guasimillas de Sebastián"
+    },
+    {
+        "clave": "250120601",
+        "nombre": "Guayabo"
+    },
+    {
+        "clave": "250120605",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "250120609",
+        "nombre": "La Haciendita"
+    },
+    {
+        "clave": "250120611",
+        "nombre": "Las Higueras"
+    },
+    {
+        "clave": "250120612",
+        "nombre": "Las Higueras"
+    },
+    {
+        "clave": "250120613",
+        "nombre": "Las Higueras"
+    },
+    {
+        "clave": "250120615",
+        "nombre": "Huinacaxtle"
+    },
+    {
+        "clave": "250120616",
+        "nombre": "La Huaracha"
+    },
+    {
+        "clave": "250120617",
+        "nombre": "El Huayparín"
+    },
+    {
+        "clave": "250120620",
+        "nombre": "Los Jiotes"
+    },
+    {
+        "clave": "250120622",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "250120623",
+        "nombre": "Kukamonga"
+    },
+    {
+        "clave": "250120625",
+        "nombre": "Las Lagunas"
+    },
+    {
+        "clave": "250120628",
+        "nombre": "La Limonera"
+    },
+    {
+        "clave": "250120629",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "250120632",
+        "nombre": "Loma Alta de los Sánchez"
+    },
+    {
+        "clave": "250120635",
+        "nombre": "Presa los Horcones"
+    },
+    {
+        "clave": "250120636",
+        "nombre": "El Llorón Viejo"
+    },
+    {
+        "clave": "250120637",
+        "nombre": "El Lloroncito"
+    },
+    {
+        "clave": "250120638",
+        "nombre": "El Llorón"
+    },
+    {
+        "clave": "250120642",
+        "nombre": "El Camichín"
+    },
+    {
+        "clave": "250120645",
+        "nombre": "Las Mesitas"
+    },
+    {
+        "clave": "250120646",
+        "nombre": "Los Metates"
+    },
+    {
+        "clave": "250120647",
+        "nombre": "Los Mezquites"
+    },
+    {
+        "clave": "250120648",
+        "nombre": "Los Migueles"
+    },
+    {
+        "clave": "250120649",
+        "nombre": "El Milagro"
+    },
+    {
+        "clave": "250120651",
+        "nombre": "El Milagro"
+    },
+    {
+        "clave": "250120652",
+        "nombre": "El Vivero"
+    },
+    {
+        "clave": "250120653",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "250120654",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "250120655",
+        "nombre": "El Mirasol"
+    },
+    {
+        "clave": "250120657",
+        "nombre": "Las Moras el Cerro"
+    },
+    {
+        "clave": "250120658",
+        "nombre": "Las Nanchitas"
+    },
+    {
+        "clave": "250120661",
+        "nombre": "El Negro"
+    },
+    {
+        "clave": "250120665",
+        "nombre": "La Engorda"
+    },
+    {
+        "clave": "250120666",
+        "nombre": "Los Otates"
+    },
+    {
+        "clave": "250120667",
+        "nombre": "Palo Prieto"
+    },
+    {
+        "clave": "250120670",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "250120678",
+        "nombre": "El Papayo"
+    },
+    {
+        "clave": "250120679",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "250120680",
+        "nombre": "Los Parajes"
+    },
+    {
+        "clave": "250120681",
+        "nombre": "Los Parajitos"
+    },
+    {
+        "clave": "250120682",
+        "nombre": "Pardo"
+    },
+    {
+        "clave": "250120684",
+        "nombre": "Las Peñitas"
+    },
+    {
+        "clave": "250120691",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "250120692",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "250120696",
+        "nombre": "La Presa"
+    },
+    {
+        "clave": "250120698",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "250120701",
+        "nombre": "La Ramada"
+    },
+    {
+        "clave": "250120702",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "250120705",
+        "nombre": "Rancho el Puente"
+    },
+    {
+        "clave": "250120710",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "250120712",
+        "nombre": "La Rosa"
+    },
+    {
+        "clave": "250120713",
+        "nombre": "La Rosa"
+    },
+    {
+        "clave": "250120714",
+        "nombre": "Rancho Don Guillermo"
+    },
+    {
+        "clave": "250120715",
+        "nombre": "Salvias"
+    },
+    {
+        "clave": "250120716",
+        "nombre": "Las Salinitas"
+    },
+    {
+        "clave": "250120717",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "250120718",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "250120719",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "250120720",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "250120721",
+        "nombre": "San José"
+    },
+    {
+        "clave": "250120722",
+        "nombre": "San José (Chuchupiras)"
+    },
+    {
+        "clave": "250120723",
+        "nombre": "San José"
+    },
+    {
+        "clave": "250120725",
+        "nombre": "San José del Cañón"
+    },
+    {
+        "clave": "250120726",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "250120727",
+        "nombre": "La Quinta de San Luis"
+    },
+    {
+        "clave": "250120728",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "250120729",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "250120731",
+        "nombre": "Santa Leticia (La Vinatita)"
+    },
+    {
+        "clave": "250120732",
+        "nombre": "Santa Lucía"
+    },
+    {
+        "clave": "250120733",
+        "nombre": "Santa Martha"
+    },
+    {
+        "clave": "250120734",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "250120736",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "250120738",
+        "nombre": "Los Tacuarines"
+    },
+    {
+        "clave": "250120740",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "250120745",
+        "nombre": "Las Tinas"
+    },
+    {
+        "clave": "250120747",
+        "nombre": "Tiro"
+    },
+    {
+        "clave": "250120748",
+        "nombre": "El Tiro"
+    },
+    {
+        "clave": "250120750",
+        "nombre": "Tiros Cuates"
+    },
+    {
+        "clave": "250120755",
+        "nombre": "El Tule"
+    },
+    {
+        "clave": "250120756",
+        "nombre": "El Tule"
+    },
+    {
+        "clave": "250120758",
+        "nombre": "El Austracal"
+    },
+    {
+        "clave": "250120759",
+        "nombre": "El Varal de Abajo"
+    },
+    {
+        "clave": "250120760",
+        "nombre": "El Verde"
+    },
+    {
+        "clave": "250120761",
+        "nombre": "El Walamo"
+    },
+    {
+        "clave": "250120762",
+        "nombre": "El Zapotal"
+    },
+    {
+        "clave": "250120763",
+        "nombre": "Los Zapotes"
+    },
+    {
+        "clave": "250120764",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "250120766",
+        "nombre": "El Aguaje"
+    },
+    {
+        "clave": "250120770",
+        "nombre": "Los Cerros"
+    },
+    {
+        "clave": "250120771",
+        "nombre": "Los Coyotes"
+    },
+    {
+        "clave": "250120773",
+        "nombre": "La Cruz Negra"
+    },
+    {
+        "clave": "250120775",
+        "nombre": "El Chaparral"
+    },
+    {
+        "clave": "250120776",
+        "nombre": "Los Chivos"
+    },
+    {
+        "clave": "250120780",
+        "nombre": "Las Garrapatas"
+    },
+    {
+        "clave": "250120781",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "250120786",
+        "nombre": "Lomas de Monterrey"
+    },
+    {
+        "clave": "250120788",
+        "nombre": "Pitahaya"
+    },
+    {
+        "clave": "250120795",
+        "nombre": "La Amapa"
+    },
+    {
+        "clave": "250120796",
+        "nombre": "La Primera Loma (La Loma de los Chivos)"
+    },
+    {
+        "clave": "250120797",
+        "nombre": "Lote las Salvias"
+    },
+    {
+        "clave": "250120798",
+        "nombre": "El Rosal [Vivero]"
+    },
+    {
+        "clave": "250120802",
+        "nombre": "La Ponderosa"
+    },
+    {
+        "clave": "250120804",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "250120806",
+        "nombre": "Ampliación el Castillo"
+    },
+    {
+        "clave": "250120808",
+        "nombre": "El Contento"
+    },
+    {
+        "clave": "250120811",
+        "nombre": "El Encanto"
+    },
+    {
+        "clave": "250120813",
+        "nombre": "Los Ciruelos"
+    },
+    {
+        "clave": "250120814",
+        "nombre": "El Tule"
+    },
+    {
+        "clave": "250120817",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "250120818",
+        "nombre": "La Piedra del Venado"
+    },
+    {
+        "clave": "250120819",
+        "nombre": "Las Higueras Blancas"
+    },
+    {
+        "clave": "250120821",
+        "nombre": "La Embocada"
+    },
+    {
+        "clave": "250120823",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "250120824",
+        "nombre": "Granja los Ébanos"
+    },
+    {
+        "clave": "250120825",
+        "nombre": "El Dólar"
+    },
+    {
+        "clave": "250120826",
+        "nombre": "Polvorines"
+    },
+    {
+        "clave": "250120827",
+        "nombre": "Rancho de los Titiriteros"
+    },
+    {
+        "clave": "250120829",
+        "nombre": "Ninguno [Harinera Hapegosa]"
+    },
+    {
+        "clave": "250120830",
+        "nombre": "El Jilguero"
+    },
+    {
+        "clave": "250120832",
+        "nombre": "Las Delicias"
+    },
+    {
+        "clave": "250120834",
+        "nombre": "Ninguno [Báscula]"
+    },
+    {
+        "clave": "250120836",
+        "nombre": "El Carrizo"
+    },
+    {
+        "clave": "250120837",
+        "nombre": "Los Bueyes"
+    },
+    {
+        "clave": "250120838",
+        "nombre": "Los Becerros de la Noria"
+    },
+    {
+        "clave": "250120839",
+        "nombre": "El Habalito"
+    },
+    {
+        "clave": "250120840",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "250120841",
+        "nombre": "El Habal"
+    },
+    {
+        "clave": "250120842",
+        "nombre": "San Julián"
+    },
+    {
+        "clave": "250120843",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "250120845",
+        "nombre": "El Hoyo"
+    },
+    {
+        "clave": "250120847",
+        "nombre": "La Resbalosa"
+    },
+    {
+        "clave": "250120848",
+        "nombre": "Los Gavilanes"
+    },
+    {
+        "clave": "250120849",
+        "nombre": "El Capule"
+    },
+    {
+        "clave": "250120850",
+        "nombre": "La Bomba"
+    },
+    {
+        "clave": "250120852",
+        "nombre": "Los Carricitos"
+    },
+    {
+        "clave": "250120853",
+        "nombre": "San Fernando [Rancho]"
+    },
+    {
+        "clave": "250120854",
+        "nombre": "Hacienda los Nogales"
+    },
+    {
+        "clave": "250120856",
+        "nombre": "La Hacienda"
+    },
+    {
+        "clave": "250120859",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "250120860",
+        "nombre": "El Capiro"
+    },
+    {
+        "clave": "250120864",
+        "nombre": "La Presa"
+    },
+    {
+        "clave": "250120867",
+        "nombre": "Los Olivos"
+    },
+    {
+        "clave": "250120868",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "250120870",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "250120871",
+        "nombre": "La Hormiga"
+    },
+    {
+        "clave": "250120872",
+        "nombre": "Las Taparitas"
+    },
+    {
+        "clave": "250120875",
+        "nombre": "Las Amapas"
+    },
+    {
+        "clave": "250120877",
+        "nombre": "La Embocada"
+    },
+    {
+        "clave": "250120879",
+        "nombre": "Calipatria"
+    },
+    {
+        "clave": "250120883",
+        "nombre": "El Girasol"
+    },
+    {
+        "clave": "250120886",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "250120888",
+        "nombre": "El Arroyito"
+    },
+    {
+        "clave": "250120889",
+        "nombre": "La Semana"
+    },
+    {
+        "clave": "250120896",
+        "nombre": "Fiesta Mexicana [Planta]"
+    },
+    {
+        "clave": "250120897",
+        "nombre": "San Joaquín de las Habas"
+    },
+    {
+        "clave": "250120898",
+        "nombre": "Las Bugambilias"
+    },
+    {
+        "clave": "250120899",
+        "nombre": "Los Canelos"
+    },
+    {
+        "clave": "250120900",
+        "nombre": "Las Habas"
+    },
+    {
+        "clave": "250120901",
+        "nombre": "San Julián [Rancho los Cano]"
+    },
+    {
+        "clave": "250120902",
+        "nombre": "Seis Hermanos"
+    },
+    {
+        "clave": "250120904",
+        "nombre": "Los Guayabos"
+    },
+    {
+        "clave": "250120905",
+        "nombre": "Los Cedros"
+    },
+    {
+        "clave": "250120910",
+        "nombre": "La Presa"
+    },
+    {
+        "clave": "250120911",
+        "nombre": "Casas Viejas"
+    },
+    {
+        "clave": "250120912",
+        "nombre": "El Brasilito"
+    },
+    {
+        "clave": "250120913",
+        "nombre": "El Parral de los Zatarain"
+    },
+    {
+        "clave": "250120914",
+        "nombre": "Chuchupiras"
+    },
+    {
+        "clave": "250120915",
+        "nombre": "El Búfalo"
+    },
+    {
+        "clave": "250120916",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "250120918",
+        "nombre": "Los Sámano [Rancho]"
+    },
+    {
+        "clave": "250120919",
+        "nombre": "El Palomar"
+    },
+    {
+        "clave": "250120920",
+        "nombre": "Los Zamudio"
+    },
+    {
+        "clave": "250120921",
+        "nombre": "Bellavista"
+    },
+    {
+        "clave": "250120922",
+        "nombre": "Huerta de Enrique Flores (El Manantial)"
+    },
+    {
+        "clave": "250120926",
+        "nombre": "Huerta los Gavitos"
+    },
+    {
+        "clave": "250120928",
+        "nombre": "El Varal"
+    },
+    {
+        "clave": "250120929",
+        "nombre": "El Faisán"
+    },
+    {
+        "clave": "250120930",
+        "nombre": "Chuy Mangos [Rancho Viejo]"
+    },
+    {
+        "clave": "250120931",
+        "nombre": "La Jarilla"
+    },
+    {
+        "clave": "250120932",
+        "nombre": "Tres Amigos"
+    },
+    {
+        "clave": "250120933",
+        "nombre": "Ninguno [Rosario Gándara Macías]"
+    },
+    {
+        "clave": "250120934",
+        "nombre": "Tabachines"
+    },
+    {
+        "clave": "250120935",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "250120936",
+        "nombre": "Ninguno [Andrés Ibarra]"
+    },
+    {
+        "clave": "250120937",
+        "nombre": "El Escudero"
+    },
+    {
+        "clave": "250120940",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "250120942",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "250120943",
+        "nombre": "El Caimán"
+    },
+    {
+        "clave": "250120944",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250120945",
+        "nombre": "Piedras Lisas"
+    },
+    {
+        "clave": "250120946",
+        "nombre": "Tepehuaje"
+    },
+    {
+        "clave": "250120947",
+        "nombre": "El Coacoyol"
+    },
+    {
+        "clave": "250120950",
+        "nombre": "Los Pocitos"
+    },
+    {
+        "clave": "250120951",
+        "nombre": "La Mesa del Limón"
+    },
+    {
+        "clave": "250120952",
+        "nombre": "Las Habitas"
+    },
+    {
+        "clave": "250120953",
+        "nombre": "El Magistral"
+    },
+    {
+        "clave": "250120954",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "250120955",
+        "nombre": "Rancho Fisher"
+    },
+    {
+        "clave": "250120958",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "250120959",
+        "nombre": "La Esperanza (La Cochera)"
+    },
+    {
+        "clave": "250120960",
+        "nombre": "La Garrapata"
+    },
+    {
+        "clave": "250120961",
+        "nombre": "Las Ilusiones"
+    },
+    {
+        "clave": "250120962",
+        "nombre": "Las Tres Calaveras"
+    },
+    {
+        "clave": "250120963",
+        "nombre": "Polvorín"
+    },
+    {
+        "clave": "250120964",
+        "nombre": "Rancho Eduwiges"
+    },
+    {
+        "clave": "250120965",
+        "nombre": "La Pedregosa"
+    },
+    {
+        "clave": "250120967",
+        "nombre": "El Cafetal"
+    },
+    {
+        "clave": "250120968",
+        "nombre": "El Zacate"
+    },
+    {
+        "clave": "250120970",
+        "nombre": "Ninguno [Vivero]"
+    },
+    {
+        "clave": "250120972",
+        "nombre": "Don Jorge [Granja Acuícola]"
+    },
+    {
+        "clave": "250120973",
+        "nombre": "El Jacol"
+    },
+    {
+        "clave": "250120975",
+        "nombre": "Rancho Clemente"
+    },
+    {
+        "clave": "250120978",
+        "nombre": "Los Huanacaxtles"
+    },
+    {
+        "clave": "250120980",
+        "nombre": "La Calera"
+    },
+    {
+        "clave": "250120981",
+        "nombre": "La Haciendita"
+    },
+    {
+        "clave": "250120983",
+        "nombre": "La Mariposa"
+    },
+    {
+        "clave": "250120985",
+        "nombre": "La Carraca"
+    },
+    {
+        "clave": "250120986",
+        "nombre": "La Misión [Campestre]"
+    },
+    {
+        "clave": "250120987",
+        "nombre": "Rancho Santa Rosa"
+    },
+    {
+        "clave": "250120988",
+        "nombre": "San Patricio"
+    },
+    {
+        "clave": "250120989",
+        "nombre": "El Cascahuín"
+    },
+    {
+        "clave": "250120994",
+        "nombre": "Ninguno [Criba]"
+    },
+    {
+        "clave": "250120995",
+        "nombre": "El Ciruelo"
+    },
+    {
+        "clave": "250121000",
+        "nombre": "Ladrillera de los Mangos"
+    },
+    {
+        "clave": "250121002",
+        "nombre": "El Encuentro"
+    },
+    {
+        "clave": "250121003",
+        "nombre": "El Encuentro"
+    },
+    {
+        "clave": "250121004",
+        "nombre": "Las Mañanitas"
+    },
+    {
+        "clave": "250121010",
+        "nombre": "Cereso"
+    },
+    {
+        "clave": "250121011",
+        "nombre": "Rancho sin Nombre"
+    },
+    {
+        "clave": "250121012",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121014",
+        "nombre": "Ejército de Salvación"
+    },
+    {
+        "clave": "250121015",
+        "nombre": "Granja San Pedro"
+    },
+    {
+        "clave": "250121017",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "250121020",
+        "nombre": "Barrón"
+    },
+    {
+        "clave": "250121022",
+        "nombre": "Los Otates"
+    },
+    {
+        "clave": "250121025",
+        "nombre": "San Fermín"
+    },
+    {
+        "clave": "250121026",
+        "nombre": "Mirasol"
+    },
+    {
+        "clave": "250121027",
+        "nombre": "El Saucito"
+    },
+    {
+        "clave": "250121029",
+        "nombre": "Santa Benita"
+    },
+    {
+        "clave": "250121033",
+        "nombre": "Rancho Z"
+    },
+    {
+        "clave": "250121038",
+        "nombre": "El Almendro"
+    },
+    {
+        "clave": "250121040",
+        "nombre": "El Labrador"
+    },
+    {
+        "clave": "250121041",
+        "nombre": "El Tabachín"
+    },
+    {
+        "clave": "250121043",
+        "nombre": "El Aguaje de las Tinajas"
+    },
+    {
+        "clave": "250121044",
+        "nombre": "Ampliación el Zapote"
+    },
+    {
+        "clave": "250121045",
+        "nombre": "El Arenal del Toto"
+    },
+    {
+        "clave": "250121046",
+        "nombre": "El Atascadero"
+    },
+    {
+        "clave": "250121047",
+        "nombre": "La Bandera"
+    },
+    {
+        "clave": "250121048",
+        "nombre": "La Cabaña"
+    },
+    {
+        "clave": "250121049",
+        "nombre": "Los Capiros"
+    },
+    {
+        "clave": "250121050",
+        "nombre": "El Castillo"
+    },
+    {
+        "clave": "250121051",
+        "nombre": "Las Cañadas"
+    },
+    {
+        "clave": "250121052",
+        "nombre": "Los Cedros de Arriba"
+    },
+    {
+        "clave": "250121053",
+        "nombre": "El Cinco"
+    },
+    {
+        "clave": "250121054",
+        "nombre": "Ciudad de los Niños"
+    },
+    {
+        "clave": "250121055",
+        "nombre": "Los Colgados (Ampliación el Castillo)"
+    },
+    {
+        "clave": "250121056",
+        "nombre": "Los Columpios"
+    },
+    {
+        "clave": "250121057",
+        "nombre": "Los Cuatro Postes"
+    },
+    {
+        "clave": "250121058",
+        "nombre": "El Cuernito"
+    },
+    {
+        "clave": "250121059",
+        "nombre": "El Descanso"
+    },
+    {
+        "clave": "250121061",
+        "nombre": "Las Espuelas"
+    },
+    {
+        "clave": "250121062",
+        "nombre": "La Estanzuela (San José)"
+    },
+    {
+        "clave": "250121063",
+        "nombre": "La Frontera"
+    },
+    {
+        "clave": "250121064",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121065",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "250121066",
+        "nombre": "Las Guásimas"
+    },
+    {
+        "clave": "250121067",
+        "nombre": "La Guasimilla (Vinata)"
+    },
+    {
+        "clave": "250121068",
+        "nombre": "El Guayabo de Abajo"
+    },
+    {
+        "clave": "250121069",
+        "nombre": "El Guayabo de Arriba"
+    },
+    {
+        "clave": "250121070",
+        "nombre": "El Guayabo"
+    },
+    {
+        "clave": "250121071",
+        "nombre": "El Guayacán"
+    },
+    {
+        "clave": "250121072",
+        "nombre": "Los Guayacanes"
+    },
+    {
+        "clave": "250121073",
+        "nombre": "Las Higueras del Carmen"
+    },
+    {
+        "clave": "250121074",
+        "nombre": "Huerta de Saúl"
+    },
+    {
+        "clave": "250121075",
+        "nombre": "Huerta el Peluquero"
+    },
+    {
+        "clave": "250121076",
+        "nombre": "Huerta Hermanos Aguirre"
+    },
+    {
+        "clave": "250121077",
+        "nombre": "Huerta la Enramada [Frutico San Vicente]"
+    },
+    {
+        "clave": "250121078",
+        "nombre": "Huerta sin Nombre"
+    },
+    {
+        "clave": "250121079",
+        "nombre": "Huerta sin Nombre"
+    },
+    {
+        "clave": "250121080",
+        "nombre": "El Huizachal de Casas Viejas"
+    },
+    {
+        "clave": "250121081",
+        "nombre": "El Huizachal de Salsipuedes"
+    },
+    {
+        "clave": "250121082",
+        "nombre": "Las Isabeles"
+    },
+    {
+        "clave": "250121083",
+        "nombre": "Jaripillo del Conchi (La Huerta)"
+    },
+    {
+        "clave": "250121084",
+        "nombre": "Los Kelly"
+    },
+    {
+        "clave": "250121085",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121086",
+        "nombre": "Los Laureles"
+    },
+    {
+        "clave": "250121087",
+        "nombre": "El Limón del Placer"
+    },
+    {
+        "clave": "250121088",
+        "nombre": "Loma Alta de Don Mariano"
+    },
+    {
+        "clave": "250121090",
+        "nombre": "El Manantial"
+    },
+    {
+        "clave": "250121091",
+        "nombre": "La Manga (El Llorón)"
+    },
+    {
+        "clave": "250121092",
+        "nombre": "Santa Silvia"
+    },
+    {
+        "clave": "250121093",
+        "nombre": "Mi Ranchito el Llorón"
+    },
+    {
+        "clave": "250121096",
+        "nombre": "El Molino del Rey (La Bandera)"
+    },
+    {
+        "clave": "250121097",
+        "nombre": "Operadora Oceanica Internacional (Oceanica)"
+    },
+    {
+        "clave": "250121099",
+        "nombre": "Palmira"
+    },
+    {
+        "clave": "250121100",
+        "nombre": "Los Palomares"
+    },
+    {
+        "clave": "250121101",
+        "nombre": "Los Panales"
+    },
+    {
+        "clave": "250121103",
+        "nombre": "La Pedrera"
+    },
+    {
+        "clave": "250121104",
+        "nombre": "Las Habas (La Piedrera)"
+    },
+    {
+        "clave": "250121105",
+        "nombre": "El Pitahayo"
+    },
+    {
+        "clave": "250121106",
+        "nombre": "Los Pitufos (Panchillo)"
+    },
+    {
+        "clave": "250121107",
+        "nombre": "El Polvorín"
+    },
+    {
+        "clave": "250121108",
+        "nombre": "Los Potreritos"
+    },
+    {
+        "clave": "250121109",
+        "nombre": "El Potrero de Arriba"
+    },
+    {
+        "clave": "250121110",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121111",
+        "nombre": "Rancho Cruz Felipe"
+    },
+    {
+        "clave": "250121112",
+        "nombre": "Arroyo Hondo (Rancho de Don Agapito)"
+    },
+    {
+        "clave": "250121113",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "250121115",
+        "nombre": "Ninguno [Ramona García Bastidas]"
+    },
+    {
+        "clave": "250121116",
+        "nombre": "El Triunfo"
+    },
+    {
+        "clave": "250121117",
+        "nombre": "Cuellos Largos"
+    },
+    {
+        "clave": "250121118",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121119",
+        "nombre": "Rancho de los Niños"
+    },
+    {
+        "clave": "250121120",
+        "nombre": "Rancho Sin Nombre"
+    },
+    {
+        "clave": "250121121",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121122",
+        "nombre": "Rancho Sin Nombre"
+    },
+    {
+        "clave": "250121123",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121124",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121125",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121126",
+        "nombre": "San José"
+    },
+    {
+        "clave": "250121127",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121128",
+        "nombre": "El Huizachito"
+    },
+    {
+        "clave": "250121130",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121131",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121132",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "250121133",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121134",
+        "nombre": "Los Hediondos [Rancho]"
+    },
+    {
+        "clave": "250121135",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121136",
+        "nombre": "Los Parra [Rancho]"
+    },
+    {
+        "clave": "250121138",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121139",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121140",
+        "nombre": "La Jungla"
+    },
+    {
+        "clave": "250121141",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121143",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121146",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121147",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121148",
+        "nombre": "Rancho sin Nombre"
+    },
+    {
+        "clave": "250121149",
+        "nombre": "La Pedrera"
+    },
+    {
+        "clave": "250121150",
+        "nombre": "Rancho sin Nombre"
+    },
+    {
+        "clave": "250121151",
+        "nombre": "Sesteo de las Aves"
+    },
+    {
+        "clave": "250121152",
+        "nombre": "Los Platanitos"
+    },
+    {
+        "clave": "250121153",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "250121154",
+        "nombre": "Primer Loma"
+    },
+    {
+        "clave": "250121155",
+        "nombre": "El Guamuchilito"
+    },
+    {
+        "clave": "250121156",
+        "nombre": "Ninguno [Crucero]"
+    },
+    {
+        "clave": "250121157",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121159",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121160",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121161",
+        "nombre": "Rancho Watson [Rancho de los Patos]"
+    },
+    {
+        "clave": "250121162",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "250121163",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "250121164",
+        "nombre": "El Crucero [Restaurante]"
+    },
+    {
+        "clave": "250121165",
+        "nombre": "Los Osuna (La Vinata)"
+    },
+    {
+        "clave": "250121167",
+        "nombre": "Los Sauces"
+    },
+    {
+        "clave": "250121168",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121170",
+        "nombre": "El Tapo"
+    },
+    {
+        "clave": "250121171",
+        "nombre": "Las Tatemas de Abajo"
+    },
+    {
+        "clave": "250121172",
+        "nombre": "Las Tatemas"
+    },
+    {
+        "clave": "250121173",
+        "nombre": "El Tecolote"
+    },
+    {
+        "clave": "250121174",
+        "nombre": "Buenos Aires (Tirado)"
+    },
+    {
+        "clave": "250121175",
+        "nombre": "Las Tranquitas"
+    },
+    {
+        "clave": "250121177",
+        "nombre": "El Varal de Arriba"
+    },
+    {
+        "clave": "250121178",
+        "nombre": "El Varal de la Loma"
+    },
+    {
+        "clave": "250121179",
+        "nombre": "El Zalate Quemado"
+    },
+    {
+        "clave": "250121180",
+        "nombre": "El Aguaje del Perro"
+    },
+    {
+        "clave": "250121181",
+        "nombre": "Las Escobas"
+    },
+    {
+        "clave": "250121182",
+        "nombre": "Granja las Garrapatas"
+    },
+    {
+        "clave": "250121184",
+        "nombre": "La Mimbre"
+    },
+    {
+        "clave": "250121186",
+        "nombre": "Periquillos"
+    },
+    {
+        "clave": "250121188",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "250121190",
+        "nombre": "Club Real"
+    },
+    {
+        "clave": "250121194",
+        "nombre": "El Pedregal [Rancho]"
+    },
+    {
+        "clave": "250121195",
+        "nombre": "Tres Hermanos"
+    },
+    {
+        "clave": "250121196",
+        "nombre": "Las Tres Palmas"
+    },
+    {
+        "clave": "250121197",
+        "nombre": "Las Amapas"
+    },
+    {
+        "clave": "250121198",
+        "nombre": "Ampliación el Castillo"
+    },
+    {
+        "clave": "250121200",
+        "nombre": "La Bomba"
+    },
+    {
+        "clave": "250121201",
+        "nombre": "Campamento Diconsa"
+    },
+    {
+        "clave": "250121203",
+        "nombre": "Los Cázares"
+    },
+    {
+        "clave": "250121204",
+        "nombre": "El Chino (Santa Virginia) [Agrícola]"
+    },
+    {
+        "clave": "250121205",
+        "nombre": "Los Rosales [Club de Periodistas]"
+    },
+    {
+        "clave": "250121207",
+        "nombre": "El Coral"
+    },
+    {
+        "clave": "250121208",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121209",
+        "nombre": "Costa Dorada"
+    },
+    {
+        "clave": "250121210",
+        "nombre": "La Criba de Godoy (La Criba)"
+    },
+    {
+        "clave": "250121211",
+        "nombre": "La Cruz del Yesquero"
+    },
+    {
+        "clave": "250121212",
+        "nombre": "El Delfín"
+    },
+    {
+        "clave": "250121213",
+        "nombre": "La Garita"
+    },
+    {
+        "clave": "250121214",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121217",
+        "nombre": "El Limoncito"
+    },
+    {
+        "clave": "250121218",
+        "nombre": "El Limoncito"
+    },
+    {
+        "clave": "250121219",
+        "nombre": "Mazatlamini [Campo de Tiro]"
+    },
+    {
+        "clave": "250121220",
+        "nombre": "El Palmito"
+    },
+    {
+        "clave": "250121221",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "250121222",
+        "nombre": "El Portezuelo"
+    },
+    {
+        "clave": "250121223",
+        "nombre": "Puerto España"
+    },
+    {
+        "clave": "250121224",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "250121225",
+        "nombre": "El Cuchupetas"
+    },
+    {
+        "clave": "250121227",
+        "nombre": "La Rosa"
+    },
+    {
+        "clave": "250121228",
+        "nombre": "Las Habas"
+    },
+    {
+        "clave": "250121229",
+        "nombre": "Loma del Moral (Los Millán)"
+    },
+    {
+        "clave": "250121230",
+        "nombre": "Los Quezada"
+    },
+    {
+        "clave": "250121231",
+        "nombre": "Ninguno [Margarita Alonso]"
+    },
+    {
+        "clave": "250121232",
+        "nombre": "Rancho Pedro Balderrama"
+    },
+    {
+        "clave": "250121233",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "250121234",
+        "nombre": "Trocadero Dos"
+    },
+    {
+        "clave": "250121235",
+        "nombre": "La Tapona"
+    },
+    {
+        "clave": "250121237",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121238",
+        "nombre": "Los Magueyes"
+    },
+    {
+        "clave": "250121239",
+        "nombre": "La Cuarta"
+    },
+    {
+        "clave": "250121240",
+        "nombre": "Rancho de Simón Panduro"
+    },
+    {
+        "clave": "250121241",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121242",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "250121243",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121244",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "250121245",
+        "nombre": "El Solterito"
+    },
+    {
+        "clave": "250121246",
+        "nombre": "La Taberna"
+    },
+    {
+        "clave": "250121247",
+        "nombre": "Tierras Negras (Tierras Prietas)"
+    },
+    {
+        "clave": "250121248",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121249",
+        "nombre": "El Zacate de San Clemente"
+    },
+    {
+        "clave": "250121251",
+        "nombre": "Campo los Cocheros"
+    },
+    {
+        "clave": "250121252",
+        "nombre": "Lomalinda [Centro Recreativo]"
+    },
+    {
+        "clave": "250121253",
+        "nombre": "Colonia Buenos Aires"
+    },
+    {
+        "clave": "250121255",
+        "nombre": "La Guásima"
+    },
+    {
+        "clave": "250121256",
+        "nombre": "Fraccionamiento Colinas del Real"
+    },
+    {
+        "clave": "250121257",
+        "nombre": "Fraccionamiento los Ángeles"
+    },
+    {
+        "clave": "250121259",
+        "nombre": "El Realito (La Limonera)"
+    },
+    {
+        "clave": "250121260",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "250121261",
+        "nombre": "Ninguno [Bloquera]"
+    },
+    {
+        "clave": "250121262",
+        "nombre": "El Herradero"
+    },
+    {
+        "clave": "250121263",
+        "nombre": "La Llave"
+    },
+    {
+        "clave": "250121264",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121265",
+        "nombre": "El Perihuete"
+    },
+    {
+        "clave": "250121266",
+        "nombre": "Sal Si Puedes"
+    },
+    {
+        "clave": "250121267",
+        "nombre": "El Balamito"
+    },
+    {
+        "clave": "250121268",
+        "nombre": "Criba Rey David"
+    },
+    {
+        "clave": "250121269",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "250121270",
+        "nombre": "La Guanera"
+    },
+    {
+        "clave": "250121271",
+        "nombre": "Ninguno [Granja de Don Joel]"
+    },
+    {
+        "clave": "250121272",
+        "nombre": "La Lomita"
+    },
+    {
+        "clave": "250121273",
+        "nombre": "Trópico de Cáncer"
+    },
+    {
+        "clave": "250121274",
+        "nombre": "Rincón del Llorón"
+    },
+    {
+        "clave": "250121275",
+        "nombre": "La Secadora de Manjarrez"
+    },
+    {
+        "clave": "250121276",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121277",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "250121278",
+        "nombre": "Los Tirado"
+    },
+    {
+        "clave": "250121279",
+        "nombre": "La Boca de Arroyo"
+    },
+    {
+        "clave": "250121280",
+        "nombre": "Don Jorge"
+    },
+    {
+        "clave": "250121281",
+        "nombre": "La Haciendita"
+    },
+    {
+        "clave": "250121282",
+        "nombre": "El Indio"
+    },
+    {
+        "clave": "250121283",
+        "nombre": "Las Piñas"
+    },
+    {
+        "clave": "250121284",
+        "nombre": "El Pedregal de los Santos"
+    },
+    {
+        "clave": "250121285",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121286",
+        "nombre": "Las Mañanitas"
+    },
+    {
+        "clave": "250121287",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121288",
+        "nombre": "Los Ébanos"
+    },
+    {
+        "clave": "250121289",
+        "nombre": "El Guamuchilito"
+    },
+    {
+        "clave": "250121290",
+        "nombre": "Isla Venados"
+    },
+    {
+        "clave": "250121291",
+        "nombre": "Fracc. Villa Tulita"
+    },
+    {
+        "clave": "250121292",
+        "nombre": "Las Avestruces"
+    },
+    {
+        "clave": "250121293",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "250121294",
+        "nombre": "Los Metates"
+    },
+    {
+        "clave": "250121295",
+        "nombre": "El Paraje de los Mineros"
+    },
+    {
+        "clave": "250121296",
+        "nombre": "El Tecolote"
+    },
+    {
+        "clave": "250121297",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "250121299",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121300",
+        "nombre": "Los Huesitos"
+    },
+    {
+        "clave": "250121301",
+        "nombre": "Col. Valle de Urias II"
+    },
+    {
+        "clave": "250121302",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "250121303",
+        "nombre": "Col. Ampliación Ladrillera"
+    },
+    {
+        "clave": "250121304",
+        "nombre": "Col. Universo"
+    },
+    {
+        "clave": "250121305",
+        "nombre": "El Cedro"
+    },
+    {
+        "clave": "250121306",
+        "nombre": "Tecomatillo"
+    },
+    {
+        "clave": "250121307",
+        "nombre": "El Bule"
+    },
+    {
+        "clave": "250121308",
+        "nombre": "Charcos Puercos"
+    },
+    {
+        "clave": "250121309",
+        "nombre": "Las Habas"
+    },
+    {
+        "clave": "250121310",
+        "nombre": "Los Limones"
+    },
+    {
+        "clave": "250121311",
+        "nombre": "Loma de los Disparos"
+    },
+    {
+        "clave": "250121312",
+        "nombre": "La Palapa"
+    },
+    {
+        "clave": "250121313",
+        "nombre": "Rancho de Cuitoy"
+    },
+    {
+        "clave": "250121314",
+        "nombre": "El Pichicuate"
+    },
+    {
+        "clave": "250121315",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121316",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "250121317",
+        "nombre": "Los Laureles"
+    },
+    {
+        "clave": "250121318",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "250121319",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "250121320",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121321",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121322",
+        "nombre": "Las Tres Presas"
+    },
+    {
+        "clave": "250121323",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121324",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121325",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121326",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121330",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121333",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121334",
+        "nombre": "El Vivero"
+    },
+    {
+        "clave": "250121335",
+        "nombre": "El Sitio"
+    },
+    {
+        "clave": "250121336",
+        "nombre": "El Trocadero"
+    },
+    {
+        "clave": "250121337",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121338",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121339",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121341",
+        "nombre": "Los Ponce"
+    },
+    {
+        "clave": "250121343",
+        "nombre": "Los Peraza"
+    },
+    {
+        "clave": "250121344",
+        "nombre": "Rancho de Ismael Panduro"
+    },
+    {
+        "clave": "250121346",
+        "nombre": "Rancho de Rigoberto Peña"
+    },
+    {
+        "clave": "250121347",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121348",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121349",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121350",
+        "nombre": "Los Zataraín"
+    },
+    {
+        "clave": "250121351",
+        "nombre": "El Cuate"
+    },
+    {
+        "clave": "250121352",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "250121353",
+        "nombre": "Rancho Pahay"
+    },
+    {
+        "clave": "250121354",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121355",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121356",
+        "nombre": "Ninguno [Enrique Moraila]"
+    },
+    {
+        "clave": "250121357",
+        "nombre": "Alborada [Rancho]"
+    },
+    {
+        "clave": "250121359",
+        "nombre": "Rancho Viejo (El Campamento)"
+    },
+    {
+        "clave": "250121360",
+        "nombre": "Chuchupiras Viejo"
+    },
+    {
+        "clave": "250121361",
+        "nombre": "El Vivero"
+    },
+    {
+        "clave": "250121362",
+        "nombre": "Los Limones"
+    },
+    {
+        "clave": "250121363",
+        "nombre": "Los Capiros"
+    },
+    {
+        "clave": "250121364",
+        "nombre": "Ninguno [Rancho de Ángel Cruz]"
+    },
+    {
+        "clave": "250121365",
+        "nombre": "El Cometa"
+    },
+    {
+        "clave": "250121366",
+        "nombre": "El Hondable"
+    },
+    {
+        "clave": "250121367",
+        "nombre": "El Hondable"
+    },
+    {
+        "clave": "250121368",
+        "nombre": "Esteban Zamudio Canizales"
+    },
+    {
+        "clave": "250121369",
+        "nombre": "La Pobreza"
+    },
+    {
+        "clave": "250121370",
+        "nombre": "Las Palmitas"
+    },
+    {
+        "clave": "250121371",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121372",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121373",
+        "nombre": "Los Alhuates"
+    },
+    {
+        "clave": "250121374",
+        "nombre": "Castoba"
+    },
+    {
+        "clave": "250121375",
+        "nombre": "Ninguno [Noé Eduardo Cárdenas González]"
+    },
+    {
+        "clave": "250121376",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "250121377",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "250121378",
+        "nombre": "Villa Unión [Productos Lácteos]"
+    },
+    {
+        "clave": "250121379",
+        "nombre": "Ríos [Carrocería]"
+    },
+    {
+        "clave": "250121380",
+        "nombre": "El Asadero"
+    },
+    {
+        "clave": "250121381",
+        "nombre": "La Cuetera"
+    },
+    {
+        "clave": "250121382",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "250121383",
+        "nombre": "La Quebrada"
+    },
+    {
+        "clave": "250121384",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121385",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121386",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121387",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121388",
+        "nombre": "Finca Esmeralda"
+    },
+    {
+        "clave": "250121389",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121390",
+        "nombre": "Los Venados [Rancho Residencial Ecológico]"
+    },
+    {
+        "clave": "250121391",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121392",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121393",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121394",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121395",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121396",
+        "nombre": "El Cardón Grande [Rancho]"
+    },
+    {
+        "clave": "250121397",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121398",
+        "nombre": "San Antonio Hills"
+    },
+    {
+        "clave": "250121399",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121400",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121401",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121402",
+        "nombre": "Frogs Products"
+    },
+    {
+        "clave": "250121403",
+        "nombre": "El Cabezonal"
+    },
+    {
+        "clave": "250121404",
+        "nombre": "La Enramada"
+    },
+    {
+        "clave": "250121405",
+        "nombre": "El Cabresto"
+    },
+    {
+        "clave": "250121406",
+        "nombre": "El Chino"
+    },
+    {
+        "clave": "250121407",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "250121408",
+        "nombre": "Veteranos de la Revolución [Cooperativa Pesquera]"
+    },
+    {
+        "clave": "250121409",
+        "nombre": "Estadio"
+    },
+    {
+        "clave": "250121410",
+        "nombre": "Guayacán del Río"
+    },
+    {
+        "clave": "250121411",
+        "nombre": "Las Balsas"
+    },
+    {
+        "clave": "250121412",
+        "nombre": "Las Cuatas [Quinta]"
+    },
+    {
+        "clave": "250121413",
+        "nombre": "Las Guásimas"
+    },
+    {
+        "clave": "250121414",
+        "nombre": "Los Plátanos"
+    },
+    {
+        "clave": "250121415",
+        "nombre": "Los Tres Quetzales"
+    },
+    {
+        "clave": "250121416",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121417",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121418",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121419",
+        "nombre": "Ninguno [Los López]"
+    },
+    {
+        "clave": "250121420",
+        "nombre": "Samperio [Granja Avícola]"
+    },
+    {
+        "clave": "250121421",
+        "nombre": "Tacuarines"
+    },
+    {
+        "clave": "250121422",
+        "nombre": "Ninguno [Javier Pompa]"
+    },
+    {
+        "clave": "250121423",
+        "nombre": "Ninguno [Rancho del Cony]"
+    },
+    {
+        "clave": "250121424",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "250121425",
+        "nombre": "Ninguno [Pedro Ruiz Mujica]"
+    },
+    {
+        "clave": "250121426",
+        "nombre": "Ninguno [Rancho del Guacho]"
+    },
+    {
+        "clave": "250121427",
+        "nombre": "Ninguno [Rancho de Don Vicente]"
+    },
+    {
+        "clave": "250121428",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "250121429",
+        "nombre": "El Sauce"
+    },
+    {
+        "clave": "250121430",
+        "nombre": "Ninguno [Nabor Rochín]"
+    },
+    {
+        "clave": "250121431",
+        "nombre": "Pirámides del Castillo"
+    },
+    {
+        "clave": "250121432",
+        "nombre": "El Encanto"
+    },
+    {
+        "clave": "250121433",
+        "nombre": "Ninguno [Francisco Michel]"
+    },
+    {
+        "clave": "250121434",
+        "nombre": "Ninguno [Reyes Ávila]"
+    },
+    {
+        "clave": "250121435",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121436",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121437",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121438",
+        "nombre": "La Estrella"
+    },
+    {
+        "clave": "250121439",
+        "nombre": "Las Higueras"
+    },
+    {
+        "clave": "250121440",
+        "nombre": "Ninguno [Rafael Lizárraga]"
+    },
+    {
+        "clave": "250121441",
+        "nombre": "Ninguno [Wilfredo Álvarez Guerrero]"
+    },
+    {
+        "clave": "250121442",
+        "nombre": "El Don [Rancho]"
+    },
+    {
+        "clave": "250121443",
+        "nombre": "La Tita [Rancho]"
+    },
+    {
+        "clave": "250121444",
+        "nombre": "Las Rosas [Rancho]"
+    },
+    {
+        "clave": "250121445",
+        "nombre": "El Encanto"
+    },
+    {
+        "clave": "250121446",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121447",
+        "nombre": "San Francisco [Campestre]"
+    },
+    {
+        "clave": "250121448",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121449",
+        "nombre": "Ninguno [Jorge Paredes]"
+    },
+    {
+        "clave": "250121450",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121451",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121452",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "250121453",
+        "nombre": "Ninguno [Elías Lizárraga]"
+    },
+    {
+        "clave": "250121454",
+        "nombre": "Rancho Escondido"
+    },
+    {
+        "clave": "250121455",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121456",
+        "nombre": "Ninguno [Alberto Verdugo Campos]"
+    },
+    {
+        "clave": "250121457",
+        "nombre": "Ninguno [Alberto Tirado]"
+    },
+    {
+        "clave": "250121458",
+        "nombre": "Huanacaxtle"
+    },
+    {
+        "clave": "250121459",
+        "nombre": "La Ermita"
+    },
+    {
+        "clave": "250121460",
+        "nombre": "La Huizachera"
+    },
+    {
+        "clave": "250121461",
+        "nombre": "Bonanza"
+    },
+    {
+        "clave": "250121462",
+        "nombre": "Las Piedras"
+    },
+    {
+        "clave": "250121463",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121464",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "250121465",
+        "nombre": "Ninguno"
+    }
+]

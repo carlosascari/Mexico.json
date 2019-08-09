@@ -1,0 +1,418 @@
+[
+    {
+        "clave": "240380003",
+        "nombre": "El Aguacate (Centro la Bajada)"
+    },
+    {
+        "clave": "240380042",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "240380049",
+        "nombre": "Teponaxtla"
+    },
+    {
+        "clave": "240380076",
+        "nombre": "El Rincón (Mesas)"
+    },
+    {
+        "clave": "240380077",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "240380103",
+        "nombre": "Sabinal"
+    },
+    {
+        "clave": "240380118",
+        "nombre": "Nuevo la Bajada"
+    },
+    {
+        "clave": "240380002",
+        "nombre": "El Alto del Aguacatal"
+    },
+    {
+        "clave": "240380005",
+        "nombre": "El Cedral"
+    },
+    {
+        "clave": "240380007",
+        "nombre": "Cuayahual"
+    },
+    {
+        "clave": "240380008",
+        "nombre": "Los Cues"
+    },
+    {
+        "clave": "240380011",
+        "nombre": "Chiconamel"
+    },
+    {
+        "clave": "240380012",
+        "nombre": "Chililillo"
+    },
+    {
+        "clave": "240380013",
+        "nombre": "Chimimexco"
+    },
+    {
+        "clave": "240380014",
+        "nombre": "Chupadero"
+    },
+    {
+        "clave": "240380017",
+        "nombre": "El Huexco"
+    },
+    {
+        "clave": "240380018",
+        "nombre": "El Hulero"
+    },
+    {
+        "clave": "240380020",
+        "nombre": "Lagunillas"
+    },
+    {
+        "clave": "240380024",
+        "nombre": "Macuilocatl"
+    },
+    {
+        "clave": "240380026",
+        "nombre": "La Mata"
+    },
+    {
+        "clave": "240380027",
+        "nombre": "Las Mesas"
+    },
+    {
+        "clave": "240380028",
+        "nombre": "La Finca Miraflores"
+    },
+    {
+        "clave": "240380032",
+        "nombre": "Ampliación Nuevo Hulero"
+    },
+    {
+        "clave": "240380033",
+        "nombre": "Nuevo Jalpilla"
+    },
+    {
+        "clave": "240380034",
+        "nombre": "El Ojital"
+    },
+    {
+        "clave": "240380036",
+        "nombre": "Palolco"
+    },
+    {
+        "clave": "240380039",
+        "nombre": "Puyécatl"
+    },
+    {
+        "clave": "240380043",
+        "nombre": "Santa María del Palmar"
+    },
+    {
+        "clave": "240380045",
+        "nombre": "Santomila"
+    },
+    {
+        "clave": "240380046",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "240380047",
+        "nombre": "Tenextitla Uno"
+    },
+    {
+        "clave": "240380048",
+        "nombre": "Tenextitla Dos"
+    },
+    {
+        "clave": "240380050",
+        "nombre": "Totomoxtla (La Ceiba)"
+    },
+    {
+        "clave": "240380052",
+        "nombre": "Xochiayo"
+    },
+    {
+        "clave": "240380053",
+        "nombre": "Xochicuatla"
+    },
+    {
+        "clave": "240380057",
+        "nombre": "Los Sabinos"
+    },
+    {
+        "clave": "240380061",
+        "nombre": "Barrio de Coyolo"
+    },
+    {
+        "clave": "240380066",
+        "nombre": "Mixcotla"
+    },
+    {
+        "clave": "240380067",
+        "nombre": "Las Vegas"
+    },
+    {
+        "clave": "240380070",
+        "nombre": "Nuevo Hulero (La Curva)"
+    },
+    {
+        "clave": "240380071",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "240380072",
+        "nombre": "Totomoxtla Uno (Huexco)"
+    },
+    {
+        "clave": "240380073",
+        "nombre": "Totomoxtla Dos (Huexco)"
+    },
+    {
+        "clave": "240380083",
+        "nombre": "Ampliación de Temalacaco"
+    },
+    {
+        "clave": "240380086",
+        "nombre": "Zanja Honda"
+    },
+    {
+        "clave": "240380087",
+        "nombre": "Ahuacayo"
+    },
+    {
+        "clave": "240380089",
+        "nombre": "Barrio Arriba (Fátima)"
+    },
+    {
+        "clave": "240380090",
+        "nombre": "Barrio Viboritas"
+    },
+    {
+        "clave": "240380091",
+        "nombre": "Barrio Zapotal"
+    },
+    {
+        "clave": "240380100",
+        "nombre": "Palantitla"
+    },
+    {
+        "clave": "240380105",
+        "nombre": "Tepetzintla"
+    },
+    {
+        "clave": "240380106",
+        "nombre": "Tomás Antonio (Chimimexco)"
+    },
+    {
+        "clave": "240380107",
+        "nombre": "Totomoxtla Tres (Huexco)"
+    },
+    {
+        "clave": "240380116",
+        "nombre": "Doctor Salvador Nava Martínez (Nuevo Santa Rita)"
+    },
+    {
+        "clave": "240380117",
+        "nombre": "Fraccionamiento Noria Colorada"
+    },
+    {
+        "clave": "240380001",
+        "nombre": "Tampacán"
+    },
+    {
+        "clave": "240380004",
+        "nombre": "Los Bancos"
+    },
+    {
+        "clave": "240380006",
+        "nombre": "Cuateconco (La Virgen)"
+    },
+    {
+        "clave": "240380009",
+        "nombre": "Los Cues"
+    },
+    {
+        "clave": "240380010",
+        "nombre": "El Charco (Felipe Villaseñor)"
+    },
+    {
+        "clave": "240380016",
+        "nombre": "Guayales"
+    },
+    {
+        "clave": "240380021",
+        "nombre": "La Laja"
+    },
+    {
+        "clave": "240380023",
+        "nombre": "La Lima"
+    },
+    {
+        "clave": "240380025",
+        "nombre": "Rancho San Francisco"
+    },
+    {
+        "clave": "240380031",
+        "nombre": "Los Naranjos"
+    },
+    {
+        "clave": "240380035",
+        "nombre": "Palma Sola"
+    },
+    {
+        "clave": "240380037",
+        "nombre": "El Llano (Las Palomas)"
+    },
+    {
+        "clave": "240380038",
+        "nombre": "Paso del Padre"
+    },
+    {
+        "clave": "240380040",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "240380041",
+        "nombre": "Rancho Santa María"
+    },
+    {
+        "clave": "240380044",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "240380051",
+        "nombre": "La Tima"
+    },
+    {
+        "clave": "240380055",
+        "nombre": "Eréndira"
+    },
+    {
+        "clave": "240380056",
+        "nombre": "La Bajada (Jaime Ramírez)"
+    },
+    {
+        "clave": "240380058",
+        "nombre": "El Chotal"
+    },
+    {
+        "clave": "240380060",
+        "nombre": "La Gavia (El Maguey)"
+    },
+    {
+        "clave": "240380062",
+        "nombre": "Zacapetlayo"
+    },
+    {
+        "clave": "240380069",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "240380074",
+        "nombre": "Hacienda del Refugio"
+    },
+    {
+        "clave": "240380075",
+        "nombre": "Rancho el Bronco"
+    },
+    {
+        "clave": "240380078",
+        "nombre": "Los Coyoles"
+    },
+    {
+        "clave": "240380079",
+        "nombre": "Santa Anita (El Infiernillo Dos)"
+    },
+    {
+        "clave": "240380084",
+        "nombre": "Rancho el Llano"
+    },
+    {
+        "clave": "240380085",
+        "nombre": "Plan Aguacatal"
+    },
+    {
+        "clave": "240380088",
+        "nombre": "Ampliación del Maguey"
+    },
+    {
+        "clave": "240380092",
+        "nombre": "El Charco (José Amador)"
+    },
+    {
+        "clave": "240380093",
+        "nombre": "Crisófono Sánchez"
+    },
+    {
+        "clave": "240380094",
+        "nombre": "Espejo (Leobardo Sánchez)"
+    },
+    {
+        "clave": "240380095",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "240380096",
+        "nombre": "Rancho el Diamante"
+    },
+    {
+        "clave": "240380097",
+        "nombre": "Instituto Nacional Indigenista [Escuela]"
+    },
+    {
+        "clave": "240380098",
+        "nombre": "El Maguey"
+    },
+    {
+        "clave": "240380099",
+        "nombre": "Ofelia García"
+    },
+    {
+        "clave": "240380101",
+        "nombre": "La Peña"
+    },
+    {
+        "clave": "240380102",
+        "nombre": "La Pita"
+    },
+    {
+        "clave": "240380104",
+        "nombre": "San Miguel (Paso del Padre)"
+    },
+    {
+        "clave": "240380108",
+        "nombre": "Zacapetlayo"
+    },
+    {
+        "clave": "240380109",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "240380110",
+        "nombre": "Zapotal"
+    },
+    {
+        "clave": "240380111",
+        "nombre": "El Zapote (La Bajada)"
+    },
+    {
+        "clave": "240380112",
+        "nombre": "Tampacán"
+    },
+    {
+        "clave": "240380113",
+        "nombre": "El Sacrificio"
+    },
+    {
+        "clave": "240380114",
+        "nombre": "Nuevo Achichipic"
+    },
+    {
+        "clave": "240380115",
+        "nombre": "Rancho las Flores"
+    }
+]

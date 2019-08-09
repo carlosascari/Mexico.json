@@ -1,0 +1,514 @@
+[
+    {
+        "clave": "120100002",
+        "nombre": "Acatempa"
+    },
+    {
+        "clave": "120100003",
+        "nombre": "Ahuexotitlán"
+    },
+    {
+        "clave": "120100007",
+        "nombre": "Atempa"
+    },
+    {
+        "clave": "120100008",
+        "nombre": "Cacalotepec"
+    },
+    {
+        "clave": "120100009",
+        "nombre": "Caxitepec"
+    },
+    {
+        "clave": "120100010",
+        "nombre": "Coatlamoloya"
+    },
+    {
+        "clave": "120100011",
+        "nombre": "Coxilitepec"
+    },
+    {
+        "clave": "120100012",
+        "nombre": "San Juan Bautista Coapala"
+    },
+    {
+        "clave": "120100013",
+        "nombre": "Cuapexco"
+    },
+    {
+        "clave": "120100018",
+        "nombre": "Huixolotepec (Huitzolotepec)"
+    },
+    {
+        "clave": "120100020",
+        "nombre": "Ixmatla"
+    },
+    {
+        "clave": "120100021",
+        "nombre": "Ixtlahua Roja (Ixtlahua)"
+    },
+    {
+        "clave": "120100029",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "120100030",
+        "nombre": "Rancho Salitre (Rancho Viejo)"
+    },
+    {
+        "clave": "120100031",
+        "nombre": "San Miguel Xochimilco (Las Estacas)"
+    },
+    {
+        "clave": "120100032",
+        "nombre": "La Taberna"
+    },
+    {
+        "clave": "120100034",
+        "nombre": "San Lucas Teocuitlapa (Teocuitlapa)"
+    },
+    {
+        "clave": "120100037",
+        "nombre": "Tlacoxochapa"
+    },
+    {
+        "clave": "120100038",
+        "nombre": "Chichiltepec"
+    },
+    {
+        "clave": "120100040",
+        "nombre": "Tlacotepec"
+    },
+    {
+        "clave": "120100041",
+        "nombre": "Tonalapa"
+    },
+    {
+        "clave": "120100042",
+        "nombre": "Xalpitzáhuac"
+    },
+    {
+        "clave": "120100043",
+        "nombre": "Xaxocotla"
+    },
+    {
+        "clave": "120100046",
+        "nombre": "Zoquitlán"
+    },
+    {
+        "clave": "120100053",
+        "nombre": "Hueyitepec"
+    },
+    {
+        "clave": "120100059",
+        "nombre": "Contepec (San José Contepec)"
+    },
+    {
+        "clave": "120100060",
+        "nombre": "San Pedro Huitzapula Norte (Huitzapula Norte)"
+    },
+    {
+        "clave": "120100061",
+        "nombre": "Huitzapula (San Pedro Huitzapula Sur)"
+    },
+    {
+        "clave": "120100062",
+        "nombre": "Limontitlán"
+    },
+    {
+        "clave": "120100063",
+        "nombre": "Totolapa"
+    },
+    {
+        "clave": "120100064",
+        "nombre": "Totoxocóyotl"
+    },
+    {
+        "clave": "120100066",
+        "nombre": "Zopilotepec"
+    },
+    {
+        "clave": "120100067",
+        "nombre": "Petlazolapa"
+    },
+    {
+        "clave": "120100072",
+        "nombre": "San Marcos (Cuapinaloya)"
+    },
+    {
+        "clave": "120100076",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "120100080",
+        "nombre": "Analco Chiquito"
+    },
+    {
+        "clave": "120100081",
+        "nombre": "Apolcancitepec"
+    },
+    {
+        "clave": "120100084",
+        "nombre": "San José"
+    },
+    {
+        "clave": "120100095",
+        "nombre": "Tlalcueloltetitlán"
+    },
+    {
+        "clave": "120100099",
+        "nombre": "Ixtlachaloyan"
+    },
+    {
+        "clave": "120100100",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "120100101",
+        "nombre": "Plan de Ayala"
+    },
+    {
+        "clave": "120100102",
+        "nombre": "Tejocotitlán"
+    },
+    {
+        "clave": "120100103",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "120100105",
+        "nombre": "Luis Donaldo Colosio Murrieta"
+    },
+    {
+        "clave": "120100107",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "120100108",
+        "nombre": "Vicente Guerrero"
+    },
+    {
+        "clave": "120100114",
+        "nombre": "Linda Vista"
+    },
+    {
+        "clave": "120100115",
+        "nombre": "Rancho Agua Zarca"
+    },
+    {
+        "clave": "120100120",
+        "nombre": "Ahuacatitlán"
+    },
+    {
+        "clave": "120100122",
+        "nombre": "Cocoyotzin"
+    },
+    {
+        "clave": "120100125",
+        "nombre": "Chichihuatlaco"
+    },
+    {
+        "clave": "120100126",
+        "nombre": "El Membrillo"
+    },
+    {
+        "clave": "120100127",
+        "nombre": "Filo de Chihuiltepec"
+    },
+    {
+        "clave": "120100131",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "120100132",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "120100133",
+        "nombre": "Paraje Malinaltepec"
+    },
+    {
+        "clave": "120100134",
+        "nombre": "Plan del Conejo"
+    },
+    {
+        "clave": "120100138",
+        "nombre": "Belén"
+    },
+    {
+        "clave": "120100139",
+        "nombre": "Lagunaltepec"
+    },
+    {
+        "clave": "120100140",
+        "nombre": "San Miguel Tonalapa"
+    },
+    {
+        "clave": "120100001",
+        "nombre": "Atlixtac"
+    },
+    {
+        "clave": "120100004",
+        "nombre": "Ahuixtla"
+    },
+    {
+        "clave": "120100005",
+        "nombre": "Alpoyeca"
+    },
+    {
+        "clave": "120100014",
+        "nombre": "Chimixtla"
+    },
+    {
+        "clave": "120100016",
+        "nombre": "El Duraznal"
+    },
+    {
+        "clave": "120100019",
+        "nombre": "Huitzacotla"
+    },
+    {
+        "clave": "120100024",
+        "nombre": "Los Mesones"
+    },
+    {
+        "clave": "120100027",
+        "nombre": "Ocopexco"
+    },
+    {
+        "clave": "120100028",
+        "nombre": "Petatlán"
+    },
+    {
+        "clave": "120100033",
+        "nombre": "Tecocomulapa"
+    },
+    {
+        "clave": "120100036",
+        "nombre": "Texocotitlán"
+    },
+    {
+        "clave": "120100039",
+        "nombre": "Tlatlauquitepec"
+    },
+    {
+        "clave": "120100044",
+        "nombre": "Zoyapexco"
+    },
+    {
+        "clave": "120100045",
+        "nombre": "Yetepetitlán"
+    },
+    {
+        "clave": "120100047",
+        "nombre": "Santa Isabel"
+    },
+    {
+        "clave": "120100052",
+        "nombre": "Chalma"
+    },
+    {
+        "clave": "120100083",
+        "nombre": "Huixtlazala"
+    },
+    {
+        "clave": "120100093",
+        "nombre": "Lucerito"
+    },
+    {
+        "clave": "120100124",
+        "nombre": "Barranca Michi"
+    },
+    {
+        "clave": "120100006",
+        "nombre": "Analco Grande"
+    },
+    {
+        "clave": "120100022",
+        "nombre": "Lovero (Lobero)"
+    },
+    {
+        "clave": "120100023",
+        "nombre": "Mesón de los Ocotes"
+    },
+    {
+        "clave": "120100026",
+        "nombre": "Naranjastitlán"
+    },
+    {
+        "clave": "120100049",
+        "nombre": "Acalco"
+    },
+    {
+        "clave": "120100057",
+        "nombre": "La Totola"
+    },
+    {
+        "clave": "120100058",
+        "nombre": "Zoyanzintlacamán"
+    },
+    {
+        "clave": "120100068",
+        "nombre": "Agua Honda (Copalacingo)"
+    },
+    {
+        "clave": "120100069",
+        "nombre": "Ahotlatlán (Ahotlatepec)"
+    },
+    {
+        "clave": "120100070",
+        "nombre": "Colotla"
+    },
+    {
+        "clave": "120100071",
+        "nombre": "Miquetzingo"
+    },
+    {
+        "clave": "120100074",
+        "nombre": "Tetlixtac"
+    },
+    {
+        "clave": "120100075",
+        "nombre": "Topiltepec"
+    },
+    {
+        "clave": "120100077",
+        "nombre": "Zoyanzintlacamani"
+    },
+    {
+        "clave": "120100078",
+        "nombre": "Cocontla"
+    },
+    {
+        "clave": "120100079",
+        "nombre": "Adero (Atoyacingo)"
+    },
+    {
+        "clave": "120100082",
+        "nombre": "Cerro Liro (Gabino Martínez Sánchez)"
+    },
+    {
+        "clave": "120100085",
+        "nombre": "Tenacaxtitlán"
+    },
+    {
+        "clave": "120100089",
+        "nombre": "Tecolotepec"
+    },
+    {
+        "clave": "120100094",
+        "nombre": "Teponahuasco"
+    },
+    {
+        "clave": "120100096",
+        "nombre": "Barranca Honda"
+    },
+    {
+        "clave": "120100097",
+        "nombre": "Coalatipa"
+    },
+    {
+        "clave": "120100098",
+        "nombre": "Las Estacas"
+    },
+    {
+        "clave": "120100104",
+        "nombre": "Olintlatzala (Anselmo González Morelos)"
+    },
+    {
+        "clave": "120100106",
+        "nombre": "Pedro Ángel Ortega"
+    },
+    {
+        "clave": "120100109",
+        "nombre": "Coxexeca"
+    },
+    {
+        "clave": "120100110",
+        "nombre": "Chautipa"
+    },
+    {
+        "clave": "120100111",
+        "nombre": "La Clavellina"
+    },
+    {
+        "clave": "120100112",
+        "nombre": "La Guitarra"
+    },
+    {
+        "clave": "120100113",
+        "nombre": "Ixtlacatlajco"
+    },
+    {
+        "clave": "120100116",
+        "nombre": "San Miguel Xochimilco Viejo"
+    },
+    {
+        "clave": "120100117",
+        "nombre": "Tepehuixco"
+    },
+    {
+        "clave": "120100118",
+        "nombre": "Tetitlán"
+    },
+    {
+        "clave": "120100119",
+        "nombre": "Adero"
+    },
+    {
+        "clave": "120100121",
+        "nombre": "Burrotepec"
+    },
+    {
+        "clave": "120100123",
+        "nombre": "El Manantial (La Laguna)"
+    },
+    {
+        "clave": "120100128",
+        "nombre": "Ixtlahua Gutiérrez"
+    },
+    {
+        "clave": "120100129",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "120100130",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "120100135",
+        "nombre": "Tierra Colorada"
+    },
+    {
+        "clave": "120100136",
+        "nombre": "Tlachiloña"
+    },
+    {
+        "clave": "120100137",
+        "nombre": "Tres Palos"
+    },
+    {
+        "clave": "120100141",
+        "nombre": "Zoyatlán"
+    },
+    {
+        "clave": "120100142",
+        "nombre": "Teoixtla"
+    },
+    {
+        "clave": "120100143",
+        "nombre": "Los Morelos"
+    },
+    {
+        "clave": "120100144",
+        "nombre": "Ahuatecojcojmoltila"
+    },
+    {
+        "clave": "120100145",
+        "nombre": "Copaltepec"
+    },
+    {
+        "clave": "120100146",
+        "nombre": "El Calvario de Guadalupe"
+    }
+]

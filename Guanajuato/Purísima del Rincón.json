@@ -1,0 +1,578 @@
+[
+    {
+        "clave": "110250128",
+        "nombre": "Puente Blanco"
+    },
+    {
+        "clave": "110250159",
+        "nombre": "Parque de San Jerónimo"
+    },
+    {
+        "clave": "110250007",
+        "nombre": "Cañada de Soto"
+    },
+    {
+        "clave": "110250009",
+        "nombre": "Carrizo de Rubios"
+    },
+    {
+        "clave": "110250010",
+        "nombre": "La Cintilla"
+    },
+    {
+        "clave": "110250012",
+        "nombre": "Las Colonias de Jalpa"
+    },
+    {
+        "clave": "110250018",
+        "nombre": "La Higuera"
+    },
+    {
+        "clave": "110250028",
+        "nombre": "Rancho Seco"
+    },
+    {
+        "clave": "110250032",
+        "nombre": "San Antonio Casas Blancas"
+    },
+    {
+        "clave": "110250040",
+        "nombre": "El Tepetate"
+    },
+    {
+        "clave": "110250041",
+        "nombre": "Tepetate del Gallo"
+    },
+    {
+        "clave": "110250044",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "110250053",
+        "nombre": "El Capulín"
+    },
+    {
+        "clave": "110250061",
+        "nombre": "El Ratón"
+    },
+    {
+        "clave": "110250064",
+        "nombre": "Las Tablas"
+    },
+    {
+        "clave": "110250070",
+        "nombre": "Lomas de Buenavista"
+    },
+    {
+        "clave": "110250074",
+        "nombre": "La Lagartija"
+    },
+    {
+        "clave": "110250078",
+        "nombre": "Fraccionamiento Nuevo Condado"
+    },
+    {
+        "clave": "110250091",
+        "nombre": "Tierras de San Juan (Tablas de San Juan)"
+    },
+    {
+        "clave": "110250092",
+        "nombre": "Los Milagros"
+    },
+    {
+        "clave": "110250093",
+        "nombre": "Los Revenideros"
+    },
+    {
+        "clave": "110250097",
+        "nombre": "Colinas del Real"
+    },
+    {
+        "clave": "110250102",
+        "nombre": "Las Aguilillas"
+    },
+    {
+        "clave": "110250107",
+        "nombre": "Colonia San Javier"
+    },
+    {
+        "clave": "110250146",
+        "nombre": "Los Tabiqueros"
+    },
+    {
+        "clave": "110250155",
+        "nombre": "Monte Grande"
+    },
+    {
+        "clave": "110250160",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "110250162",
+        "nombre": "Barzón de las Américas"
+    },
+    {
+        "clave": "110250168",
+        "nombre": "La Mina"
+    },
+    {
+        "clave": "110250170",
+        "nombre": "Guanajuatito"
+    },
+    {
+        "clave": "110250171",
+        "nombre": "Fraccionamiento Santa Cecilia"
+    },
+    {
+        "clave": "110250001",
+        "nombre": "Purísima de Bustos"
+    },
+    {
+        "clave": "110250002",
+        "nombre": "El Barrial"
+    },
+    {
+        "clave": "110250003",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "110250006",
+        "nombre": "Cañada de Negros"
+    },
+    {
+        "clave": "110250011",
+        "nombre": "El Cócono"
+    },
+    {
+        "clave": "110250013",
+        "nombre": "La Descubridora"
+    },
+    {
+        "clave": "110250014",
+        "nombre": "Dolores"
+    },
+    {
+        "clave": "110250016",
+        "nombre": "Guadalupe de Jalpa"
+    },
+    {
+        "clave": "110250017",
+        "nombre": "Guardarrayas"
+    },
+    {
+        "clave": "110250020",
+        "nombre": "Jalpa de Cánovas"
+    },
+    {
+        "clave": "110250021",
+        "nombre": "San Luis del Jaralillo"
+    },
+    {
+        "clave": "110250022",
+        "nombre": "El Ojo de Agua"
+    },
+    {
+        "clave": "110250023",
+        "nombre": "San Nicolás del Palenque"
+    },
+    {
+        "clave": "110250024",
+        "nombre": "El Pedernal"
+    },
+    {
+        "clave": "110250026",
+        "nombre": "Potrerillos (Guanajal)"
+    },
+    {
+        "clave": "110250027",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "110250029",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "110250030",
+        "nombre": "San Andrés (San Andrés de Jalpa)"
+    },
+    {
+        "clave": "110250031",
+        "nombre": "San Ángel"
+    },
+    {
+        "clave": "110250033",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "110250034",
+        "nombre": "San Bernardo"
+    },
+    {
+        "clave": "110250035",
+        "nombre": "San Jerónimo"
+    },
+    {
+        "clave": "110250037",
+        "nombre": "San Juanico"
+    },
+    {
+        "clave": "110250038",
+        "nombre": "El Saucillo"
+    },
+    {
+        "clave": "110250039",
+        "nombre": "El Tecolote"
+    },
+    {
+        "clave": "110250043",
+        "nombre": "El Toro"
+    },
+    {
+        "clave": "110250046",
+        "nombre": "Los Arcos"
+    },
+    {
+        "clave": "110250050",
+        "nombre": "Rancho de Guadalupe"
+    },
+    {
+        "clave": "110250051",
+        "nombre": "Los Tanques"
+    },
+    {
+        "clave": "110250055",
+        "nombre": "El Entronque [La Gasera]"
+    },
+    {
+        "clave": "110250056",
+        "nombre": "Tigre [Granja]"
+    },
+    {
+        "clave": "110250057",
+        "nombre": "El Liebrero"
+    },
+    {
+        "clave": "110250058",
+        "nombre": "El Manso"
+    },
+    {
+        "clave": "110250059",
+        "nombre": "Monte Quemado"
+    },
+    {
+        "clave": "110250060",
+        "nombre": "Puerta de Jalpa"
+    },
+    {
+        "clave": "110250069",
+        "nombre": "El Cabrito"
+    },
+    {
+        "clave": "110250071",
+        "nombre": "La Cañadita"
+    },
+    {
+        "clave": "110250075",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "110250076",
+        "nombre": "Las Saudas"
+    },
+    {
+        "clave": "110250077",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "110250079",
+        "nombre": "Los Cerritos"
+    },
+    {
+        "clave": "110250081",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "110250082",
+        "nombre": "El Potrerito"
+    },
+    {
+        "clave": "110250083",
+        "nombre": "El Tambor (Granja los Fuentes)"
+    },
+    {
+        "clave": "110250084",
+        "nombre": "El Salitre"
+    },
+    {
+        "clave": "110250085",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "110250086",
+        "nombre": "Peñitas"
+    },
+    {
+        "clave": "110250087",
+        "nombre": "El Bajío"
+    },
+    {
+        "clave": "110250088",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "110250089",
+        "nombre": "El Capulín Dos"
+    },
+    {
+        "clave": "110250090",
+        "nombre": "Guanajuatito"
+    },
+    {
+        "clave": "110250094",
+        "nombre": "El Caracol"
+    },
+    {
+        "clave": "110250100",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "110250103",
+        "nombre": "El Anteojo (El Cuatro)"
+    },
+    {
+        "clave": "110250104",
+        "nombre": "Bunker Ranch"
+    },
+    {
+        "clave": "110250105",
+        "nombre": "El Cerrito (Rancho de Don Elías)"
+    },
+    {
+        "clave": "110250106",
+        "nombre": "Cerro del Palenque"
+    },
+    {
+        "clave": "110250108",
+        "nombre": "Las Colonias"
+    },
+    {
+        "clave": "110250109",
+        "nombre": "La Escondida (Juan Lara)"
+    },
+    {
+        "clave": "110250111",
+        "nombre": "Fraccionamiento la Paz"
+    },
+    {
+        "clave": "110250112",
+        "nombre": "Rincones de la Pradera"
+    },
+    {
+        "clave": "110250113",
+        "nombre": "Fracción los Tanques (El Potrero)"
+    },
+    {
+        "clave": "110250114",
+        "nombre": "La Fragua"
+    },
+    {
+        "clave": "110250115",
+        "nombre": "Los Girasoles"
+    },
+    {
+        "clave": "110250116",
+        "nombre": "La Loma del Gallo"
+    },
+    {
+        "clave": "110250117",
+        "nombre": "Loma del Tecolote (Loma de San Ángel)"
+    },
+    {
+        "clave": "110250118",
+        "nombre": "Los López"
+    },
+    {
+        "clave": "110250119",
+        "nombre": "El Manantial (Fraccionamiento Ruenes)"
+    },
+    {
+        "clave": "110250120",
+        "nombre": "María Dolores"
+    },
+    {
+        "clave": "110250121",
+        "nombre": "La Martinica"
+    },
+    {
+        "clave": "110250122",
+        "nombre": "El Mezquite"
+    },
+    {
+        "clave": "110250123",
+        "nombre": "La Mojonera"
+    },
+    {
+        "clave": "110250124",
+        "nombre": "Monte de Lara"
+    },
+    {
+        "clave": "110250125",
+        "nombre": "Nombre de Dios (El Zacatal)"
+    },
+    {
+        "clave": "110250126",
+        "nombre": "Paso del Herrero (Apolonio Vera)"
+    },
+    {
+        "clave": "110250127",
+        "nombre": "El Potrerito"
+    },
+    {
+        "clave": "110250129",
+        "nombre": "Rancho la Esperanza"
+    },
+    {
+        "clave": "110250130",
+        "nombre": "Rancho los Muñoz"
+    },
+    {
+        "clave": "110250131",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "110250132",
+        "nombre": "Reserva del Venado"
+    },
+    {
+        "clave": "110250133",
+        "nombre": "El Rosal"
+    },
+    {
+        "clave": "110250134",
+        "nombre": "San Bernardo (Vallado de San Pedrito)"
+    },
+    {
+        "clave": "110250135",
+        "nombre": "San Cayetano"
+    },
+    {
+        "clave": "110250136",
+        "nombre": "San Jerónimo"
+    },
+    {
+        "clave": "110250137",
+        "nombre": "San José de Tierras Blancas"
+    },
+    {
+        "clave": "110250138",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "110250139",
+        "nombre": "Bambú (Vargas Padilla)"
+    },
+    {
+        "clave": "110250140",
+        "nombre": "El Suspiro (El Venado)"
+    },
+    {
+        "clave": "110250141",
+        "nombre": "El Tábano"
+    },
+    {
+        "clave": "110250142",
+        "nombre": "El Tecolote (Funes)"
+    },
+    {
+        "clave": "110250143",
+        "nombre": "El Tecolote (Tecolote de Arriba)"
+    },
+    {
+        "clave": "110250144",
+        "nombre": "Los Toriles"
+    },
+    {
+        "clave": "110250145",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "110250147",
+        "nombre": "El Vallao Blanco"
+    },
+    {
+        "clave": "110250148",
+        "nombre": "El Vallao Grande"
+    },
+    {
+        "clave": "110250149",
+        "nombre": "Valle Grande"
+    },
+    {
+        "clave": "110250150",
+        "nombre": "El Venado"
+    },
+    {
+        "clave": "110250151",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "110250152",
+        "nombre": "Marquez (El Morro)"
+    },
+    {
+        "clave": "110250153",
+        "nombre": "La Quebradora"
+    },
+    {
+        "clave": "110250154",
+        "nombre": "Granja Palomino"
+    },
+    {
+        "clave": "110250156",
+        "nombre": "Vallao de Villalobos"
+    },
+    {
+        "clave": "110250158",
+        "nombre": "San Roque de Torres"
+    },
+    {
+        "clave": "110250161",
+        "nombre": "Valle del Rincón"
+    },
+    {
+        "clave": "110250163",
+        "nombre": "Fraccionamiento Campestre Cañada de Negros"
+    },
+    {
+        "clave": "110250164",
+        "nombre": "Fraccionamiento los Ángeles"
+    },
+    {
+        "clave": "110250165",
+        "nombre": "Santa Eduviges de Jalpa"
+    },
+    {
+        "clave": "110250166",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "110250167",
+        "nombre": "Mil Azares [Ecoparque]"
+    },
+    {
+        "clave": "110250169",
+        "nombre": "Fraccionamiento las Arcinas"
+    },
+    {
+        "clave": "110250172",
+        "nombre": "Ruiseñores [Fraccionamiento Segunda Sección]"
+    },
+    {
+        "clave": "110250173",
+        "nombre": "Lomas del Rocío"
+    },
+    {
+        "clave": "110250174",
+        "nombre": "La Trinidad Dos"
+    }
+]

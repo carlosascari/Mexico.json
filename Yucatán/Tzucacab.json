@@ -1,0 +1,790 @@
+[
+    {
+        "clave": "310980024",
+        "nombre": "San Salvador Piste Akal"
+    },
+    {
+        "clave": "310980001",
+        "nombre": "Tzucacab"
+    },
+    {
+        "clave": "310980005",
+        "nombre": "Catmís"
+    },
+    {
+        "clave": "310980006",
+        "nombre": "Caxaytuk"
+    },
+    {
+        "clave": "310980008",
+        "nombre": "Corral"
+    },
+    {
+        "clave": "310980010",
+        "nombre": "Dzemucut"
+    },
+    {
+        "clave": "310980011",
+        "nombre": "Dzí"
+    },
+    {
+        "clave": "310980012",
+        "nombre": "Ek-Balam"
+    },
+    {
+        "clave": "310980022",
+        "nombre": "Noh-Bec"
+    },
+    {
+        "clave": "310980025",
+        "nombre": "Polhuacxil"
+    },
+    {
+        "clave": "310980028",
+        "nombre": "Sacbecán"
+    },
+    {
+        "clave": "310980037",
+        "nombre": "Tigre Grande"
+    },
+    {
+        "clave": "310980039",
+        "nombre": "Xcobiakal (Xcobilakal)"
+    },
+    {
+        "clave": "310980043",
+        "nombre": "El Escondido"
+    },
+    {
+        "clave": "310980045",
+        "nombre": "Blanca Flor"
+    },
+    {
+        "clave": "310980050",
+        "nombre": "Montana"
+    },
+    {
+        "clave": "310980002",
+        "nombre": "El Águila"
+    },
+    {
+        "clave": "310980003",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "310980004",
+        "nombre": "Candelaria"
+    },
+    {
+        "clave": "310980014",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "310980017",
+        "nombre": "Hobonil"
+    },
+    {
+        "clave": "310980018",
+        "nombre": "Kakalná"
+    },
+    {
+        "clave": "310980021",
+        "nombre": "Noh-Balché"
+    },
+    {
+        "clave": "310980026",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "310980032",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "310980033",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "310980034",
+        "nombre": "San José"
+    },
+    {
+        "clave": "310980041",
+        "nombre": "Los Rosales"
+    },
+    {
+        "clave": "310980042",
+        "nombre": "Santa Bárbara"
+    },
+    {
+        "clave": "310980046",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "310980049",
+        "nombre": "San Cosme"
+    },
+    {
+        "clave": "310980056",
+        "nombre": "San José"
+    },
+    {
+        "clave": "310980060",
+        "nombre": "Thul"
+    },
+    {
+        "clave": "310980061",
+        "nombre": "X-Cimé"
+    },
+    {
+        "clave": "310980062",
+        "nombre": "La Aurora"
+    },
+    {
+        "clave": "310980063",
+        "nombre": "Bella Flor"
+    },
+    {
+        "clave": "310980064",
+        "nombre": "Bichcopó"
+    },
+    {
+        "clave": "310980065",
+        "nombre": "Bonanza (Granada)"
+    },
+    {
+        "clave": "310980066",
+        "nombre": "Aguada la Celosa (La Celosa)"
+    },
+    {
+        "clave": "310980067",
+        "nombre": "Calotmul"
+    },
+    {
+        "clave": "310980068",
+        "nombre": "Guadalupe de Catmis (Las Carretas)"
+    },
+    {
+        "clave": "310980069",
+        "nombre": "Cholul"
+    },
+    {
+        "clave": "310980070",
+        "nombre": "Delicias del Sur"
+    },
+    {
+        "clave": "310980072",
+        "nombre": "Kaabnal"
+    },
+    {
+        "clave": "310980073",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "310980074",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "310980075",
+        "nombre": "La Flecha"
+    },
+    {
+        "clave": "310980077",
+        "nombre": "El Girasol"
+    },
+    {
+        "clave": "310980078",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "310980079",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "310980080",
+        "nombre": "Juntura Uno"
+    },
+    {
+        "clave": "310980081",
+        "nombre": "San Isidro (Juntura Dos)"
+    },
+    {
+        "clave": "310980082",
+        "nombre": "Álvaro Obregón"
+    },
+    {
+        "clave": "310980083",
+        "nombre": "Komchén"
+    },
+    {
+        "clave": "310980086",
+        "nombre": "San Esteban"
+    },
+    {
+        "clave": "310980087",
+        "nombre": "Los Reyes"
+    },
+    {
+        "clave": "310980089",
+        "nombre": "San Joaquín"
+    },
+    {
+        "clave": "310980092",
+        "nombre": "San Antonio Chunhuas"
+    },
+    {
+        "clave": "310980093",
+        "nombre": "San Enrique"
+    },
+    {
+        "clave": "310980096",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "310980097",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "310980099",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "310980100",
+        "nombre": "San Gaspar"
+    },
+    {
+        "clave": "310980101",
+        "nombre": "San Gregorio"
+    },
+    {
+        "clave": "310980103",
+        "nombre": "San Joaquín"
+    },
+    {
+        "clave": "310980104",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "310980105",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "310980106",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "310980107",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "310980108",
+        "nombre": "San Mateo"
+    },
+    {
+        "clave": "310980109",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "310980110",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "310980111",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "310980112",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "310980114",
+        "nombre": "San Roque"
+    },
+    {
+        "clave": "310980115",
+        "nombre": "Santa Amelia"
+    },
+    {
+        "clave": "310980117",
+        "nombre": "Santa Trinidad"
+    },
+    {
+        "clave": "310980118",
+        "nombre": "Subín Akal"
+    },
+    {
+        "clave": "310980119",
+        "nombre": "Tampich"
+    },
+    {
+        "clave": "310980120",
+        "nombre": "Tantakín"
+    },
+    {
+        "clave": "310980121",
+        "nombre": "Telil"
+    },
+    {
+        "clave": "310980122",
+        "nombre": "Tzok-Tuk"
+    },
+    {
+        "clave": "310980123",
+        "nombre": "San Bartolo"
+    },
+    {
+        "clave": "310980124",
+        "nombre": "Felipe Carrillo Puerto"
+    },
+    {
+        "clave": "310980127",
+        "nombre": "Pozo la Gloria"
+    },
+    {
+        "clave": "310980129",
+        "nombre": "Luis Echeverría Álvarez Uno"
+    },
+    {
+        "clave": "310980130",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "310980132",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "310980133",
+        "nombre": "Los Laureles"
+    },
+    {
+        "clave": "310980138",
+        "nombre": "Pomponzit"
+    },
+    {
+        "clave": "310980140",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "310980141",
+        "nombre": "Pozo Tzucacab #1"
+    },
+    {
+        "clave": "310980142",
+        "nombre": "El Jaguar"
+    },
+    {
+        "clave": "310980144",
+        "nombre": "San Antonio Maxil"
+    },
+    {
+        "clave": "310980145",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "310980146",
+        "nombre": "Tres Hermanos"
+    },
+    {
+        "clave": "310980147",
+        "nombre": "Kambulí"
+    },
+    {
+        "clave": "310980148",
+        "nombre": "La Pelusa"
+    },
+    {
+        "clave": "310980149",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "310980150",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "310980151",
+        "nombre": "San Sebastián"
+    },
+    {
+        "clave": "310980152",
+        "nombre": "Santa Ana"
+    },
+    {
+        "clave": "310980153",
+        "nombre": "San Enrique"
+    },
+    {
+        "clave": "310980154",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310980155",
+        "nombre": "San Alonzo"
+    },
+    {
+        "clave": "310980156",
+        "nombre": "Agregados Peninsulares"
+    },
+    {
+        "clave": "310980157",
+        "nombre": "Ichmul"
+    },
+    {
+        "clave": "310980158",
+        "nombre": "Fausto Góngora"
+    },
+    {
+        "clave": "310980160",
+        "nombre": "Almeida"
+    },
+    {
+        "clave": "310980161",
+        "nombre": "Mariano"
+    },
+    {
+        "clave": "310980162",
+        "nombre": "Odiseo"
+    },
+    {
+        "clave": "310980163",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "310980164",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "310980165",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "310980166",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "310980167",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "310980168",
+        "nombre": "El Palomo"
+    },
+    {
+        "clave": "310980169",
+        "nombre": "San Sebastian"
+    },
+    {
+        "clave": "310980170",
+        "nombre": "Muulkum"
+    },
+    {
+        "clave": "310980171",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "310980172",
+        "nombre": "Luis Echeverría Álvarez Dos"
+    },
+    {
+        "clave": "310980173",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "310980174",
+        "nombre": "San Bernardino"
+    },
+    {
+        "clave": "310980175",
+        "nombre": "San Narciso"
+    },
+    {
+        "clave": "310980176",
+        "nombre": "Los Broncos"
+    },
+    {
+        "clave": "310980177",
+        "nombre": "Ernesto Caamal"
+    },
+    {
+        "clave": "310980178",
+        "nombre": "Flavio Mukul"
+    },
+    {
+        "clave": "310980179",
+        "nombre": "Mario Efrén Estrada Camara"
+    },
+    {
+        "clave": "310980180",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "310980181",
+        "nombre": "San Bernardino"
+    },
+    {
+        "clave": "310980182",
+        "nombre": "Armando Sulub Rivero"
+    },
+    {
+        "clave": "310980183",
+        "nombre": "Ebenecer"
+    },
+    {
+        "clave": "310980184",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "310980185",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "310980186",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "310980187",
+        "nombre": "Tres Hermanos"
+    },
+    {
+        "clave": "310980188",
+        "nombre": "El Abuelo"
+    },
+    {
+        "clave": "310980189",
+        "nombre": "Arturo Cauich"
+    },
+    {
+        "clave": "310980190",
+        "nombre": "Olegario Chan"
+    },
+    {
+        "clave": "310980191",
+        "nombre": "Pozo Número Uno"
+    },
+    {
+        "clave": "310980192",
+        "nombre": "Calavera"
+    },
+    {
+        "clave": "310980193",
+        "nombre": "La Central"
+    },
+    {
+        "clave": "310980194",
+        "nombre": "El Doce"
+    },
+    {
+        "clave": "310980195",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "310980196",
+        "nombre": "Pozo Dos"
+    },
+    {
+        "clave": "310980197",
+        "nombre": "La Prosperidad"
+    },
+    {
+        "clave": "310980198",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "310980199",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "310980200",
+        "nombre": "San José"
+    },
+    {
+        "clave": "310980201",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "310980202",
+        "nombre": "San Manuel Nuevo"
+    },
+    {
+        "clave": "310980203",
+        "nombre": "San Medardo"
+    },
+    {
+        "clave": "310980204",
+        "nombre": "Yaxché [Rancho]"
+    },
+    {
+        "clave": "310980205",
+        "nombre": "Santo Domingo"
+    },
+    {
+        "clave": "310980206",
+        "nombre": "Ancona Cuatro"
+    },
+    {
+        "clave": "310980207",
+        "nombre": "Caxaytuc Dos"
+    },
+    {
+        "clave": "310980208",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "310980209",
+        "nombre": "Kaxán Kuxtal"
+    },
+    {
+        "clave": "310980210",
+        "nombre": "Cauich"
+    },
+    {
+        "clave": "310980211",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "310980212",
+        "nombre": "Máximo Mukul"
+    },
+    {
+        "clave": "310980213",
+        "nombre": "Resurrección [Rancho]"
+    },
+    {
+        "clave": "310980214",
+        "nombre": "Carlos Rojas"
+    },
+    {
+        "clave": "310980215",
+        "nombre": "Diego Chulín"
+    },
+    {
+        "clave": "310980216",
+        "nombre": "San Bartolo"
+    },
+    {
+        "clave": "310980217",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "310980218",
+        "nombre": "Los Flamboyanes II"
+    },
+    {
+        "clave": "310980219",
+        "nombre": "Pozo Cinco"
+    },
+    {
+        "clave": "310980220",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "310980221",
+        "nombre": "El Divino Niño Jesús"
+    },
+    {
+        "clave": "310980222",
+        "nombre": "Ariel Rosas"
+    },
+    {
+        "clave": "310980223",
+        "nombre": "El Castillo"
+    },
+    {
+        "clave": "310980224",
+        "nombre": "Cirilo Ek"
+    },
+    {
+        "clave": "310980225",
+        "nombre": "El Despreciado"
+    },
+    {
+        "clave": "310980226",
+        "nombre": "Ismael Cocom"
+    },
+    {
+        "clave": "310980227",
+        "nombre": "Esteban"
+    },
+    {
+        "clave": "310980228",
+        "nombre": "La Ermita"
+    },
+    {
+        "clave": "310980229",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310980230",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310980231",
+        "nombre": "La Micro"
+    },
+    {
+        "clave": "310980232",
+        "nombre": "Nicté Há"
+    },
+    {
+        "clave": "310980233",
+        "nombre": "Ochovenado"
+    },
+    {
+        "clave": "310980234",
+        "nombre": "Escondido"
+    },
+    {
+        "clave": "310980235",
+        "nombre": "El Ramonal"
+    },
+    {
+        "clave": "310980236",
+        "nombre": "Rancho Seco"
+    },
+    {
+        "clave": "310980237",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "310980238",
+        "nombre": "San Ignacio"
+    },
+    {
+        "clave": "310980239",
+        "nombre": "San Israel"
+    },
+    {
+        "clave": "310980240",
+        "nombre": "San Javier"
+    },
+    {
+        "clave": "310980241",
+        "nombre": "San Jorge"
+    },
+    {
+        "clave": "310980242",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "310980243",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "310980244",
+        "nombre": "Solidaridad [Unidad Frutícola]"
+    },
+    {
+        "clave": "310980245",
+        "nombre": "San Cristóbal"
+    },
+    {
+        "clave": "310980246",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "310980247",
+        "nombre": "El Eden [Huerta]"
+    },
+    {
+        "clave": "310980248",
+        "nombre": "Guadalupe"
+    }
+]

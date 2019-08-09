@@ -1,0 +1,654 @@
+[
+    {
+        "clave": "100360050",
+        "nombre": "Francisco I. Madero (El Quemado)"
+    },
+    {
+        "clave": "100360004",
+        "nombre": "Amapolas"
+    },
+    {
+        "clave": "100360013",
+        "nombre": "Carolina"
+    },
+    {
+        "clave": "100360038",
+        "nombre": "Morelos (La Loma Yermo) [Granja]"
+    },
+    {
+        "clave": "100360040",
+        "nombre": "Oquendo"
+    },
+    {
+        "clave": "100360059",
+        "nombre": "San Dionisio"
+    },
+    {
+        "clave": "100360062",
+        "nombre": "San Juan de Banderas"
+    },
+    {
+        "clave": "100360107",
+        "nombre": "San Miguel del Real"
+    },
+    {
+        "clave": "100360113",
+        "nombre": "El Veintiocho"
+    },
+    {
+        "clave": "100360125",
+        "nombre": "El Renegado (La Perla)"
+    },
+    {
+        "clave": "100360137",
+        "nombre": "La Flor"
+    },
+    {
+        "clave": "100360001",
+        "nombre": "Tlahualilo de Zaragoza"
+    },
+    {
+        "clave": "100360002",
+        "nombre": "La Alborada"
+    },
+    {
+        "clave": "100360003",
+        "nombre": "La Gloria del Halcón"
+    },
+    {
+        "clave": "100360006",
+        "nombre": "Las Arenas"
+    },
+    {
+        "clave": "100360008",
+        "nombre": "Balcones"
+    },
+    {
+        "clave": "100360009",
+        "nombre": "Banco Nacional"
+    },
+    {
+        "clave": "100360010",
+        "nombre": "Barcelona"
+    },
+    {
+        "clave": "100360011",
+        "nombre": "La Campana"
+    },
+    {
+        "clave": "100360012",
+        "nombre": "El Capulín"
+    },
+    {
+        "clave": "100360014",
+        "nombre": "Cartagena"
+    },
+    {
+        "clave": "100360015",
+        "nombre": "Ceceda"
+    },
+    {
+        "clave": "100360017",
+        "nombre": "Córdoba"
+    },
+    {
+        "clave": "100360019",
+        "nombre": "División del Norte"
+    },
+    {
+        "clave": "100360020",
+        "nombre": "La Esperanza (La Espada)"
+    },
+    {
+        "clave": "100360021",
+        "nombre": "El Esterito"
+    },
+    {
+        "clave": "100360023",
+        "nombre": "García Lozano (El Bajo)"
+    },
+    {
+        "clave": "100360024",
+        "nombre": "La Giralda"
+    },
+    {
+        "clave": "100360025",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "100360026",
+        "nombre": "Holanda"
+    },
+    {
+        "clave": "100360027",
+        "nombre": "San Francisco de Horizonte (Horizonte)"
+    },
+    {
+        "clave": "100360028",
+        "nombre": "Ignacio López Rayón"
+    },
+    {
+        "clave": "100360030",
+        "nombre": "Jauja"
+    },
+    {
+        "clave": "100360032",
+        "nombre": "Loma Verde"
+    },
+    {
+        "clave": "100360033",
+        "nombre": "Londres"
+    },
+    {
+        "clave": "100360034",
+        "nombre": "El Lucero (Arcinas)"
+    },
+    {
+        "clave": "100360035",
+        "nombre": "Santa Isabel (Las Luisas)"
+    },
+    {
+        "clave": "100360039",
+        "nombre": "Nuevo México"
+    },
+    {
+        "clave": "100360041",
+        "nombre": "El Palomar"
+    },
+    {
+        "clave": "100360042",
+        "nombre": "Pamplona"
+    },
+    {
+        "clave": "100360044",
+        "nombre": "Estación Peronal"
+    },
+    {
+        "clave": "100360045",
+        "nombre": "El Pilar"
+    },
+    {
+        "clave": "100360047",
+        "nombre": "Pompeya"
+    },
+    {
+        "clave": "100360049",
+        "nombre": "Providencia"
+    },
+    {
+        "clave": "100360051",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "100360052",
+        "nombre": "El Refugio (Zuloaga)"
+    },
+    {
+        "clave": "100360053",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "100360054",
+        "nombre": "El Rosalino"
+    },
+    {
+        "clave": "100360055",
+        "nombre": "Tres Robles (El Rosario)"
+    },
+    {
+        "clave": "100360056",
+        "nombre": "Rosas"
+    },
+    {
+        "clave": "100360057",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "100360060",
+        "nombre": "San Fermín"
+    },
+    {
+        "clave": "100360061",
+        "nombre": "San José de los Álamos"
+    },
+    {
+        "clave": "100360063",
+        "nombre": "San Julio"
+    },
+    {
+        "clave": "100360065",
+        "nombre": "La Opinión (San Rosendo)"
+    },
+    {
+        "clave": "100360067",
+        "nombre": "San Sebastián Dos"
+    },
+    {
+        "clave": "100360068",
+        "nombre": "Santa Aracely"
+    },
+    {
+        "clave": "100360069",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "100360071",
+        "nombre": "El Moradon (Secunza)"
+    },
+    {
+        "clave": "100360072",
+        "nombre": "San Francisco de Afuera (El Taxco)"
+    },
+    {
+        "clave": "100360073",
+        "nombre": "Las Teresitas (La Siete)"
+    },
+    {
+        "clave": "100360074",
+        "nombre": "Tierra Baja"
+    },
+    {
+        "clave": "100360075",
+        "nombre": "Escala"
+    },
+    {
+        "clave": "100360076",
+        "nombre": "Las Tortugas"
+    },
+    {
+        "clave": "100360079",
+        "nombre": "Uruapan"
+    },
+    {
+        "clave": "100360080",
+        "nombre": "Valencia"
+    },
+    {
+        "clave": "100360081",
+        "nombre": "Venado Gacho"
+    },
+    {
+        "clave": "100360084",
+        "nombre": "La Zorra"
+    },
+    {
+        "clave": "100360087",
+        "nombre": "El Barreo"
+    },
+    {
+        "clave": "100360088",
+        "nombre": "El Cuarenta (El Barro)"
+    },
+    {
+        "clave": "100360089",
+        "nombre": "La Blanca [Propiedad Privada]"
+    },
+    {
+        "clave": "100360099",
+        "nombre": "Severín"
+    },
+    {
+        "clave": "100360100",
+        "nombre": "El Tepeyac"
+    },
+    {
+        "clave": "100360101",
+        "nombre": "Cerro Colorado"
+    },
+    {
+        "clave": "100360104",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "100360105",
+        "nombre": "Alfredo V. Bonfil"
+    },
+    {
+        "clave": "100360109",
+        "nombre": "Laboratorio del Desierto"
+    },
+    {
+        "clave": "100360110",
+        "nombre": "Familia Acevedo"
+    },
+    {
+        "clave": "100360115",
+        "nombre": "Nombre de Dios"
+    },
+    {
+        "clave": "100360116",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "100360117",
+        "nombre": "Las Moscas"
+    },
+    {
+        "clave": "100360118",
+        "nombre": "Francisco Villa (Milpillas)"
+    },
+    {
+        "clave": "100360119",
+        "nombre": "La Sierrita"
+    },
+    {
+        "clave": "100360120",
+        "nombre": "El Nogal"
+    },
+    {
+        "clave": "100360122",
+        "nombre": "Santa Elena (Rancho Nuevo)"
+    },
+    {
+        "clave": "100360123",
+        "nombre": "Las Marías"
+    },
+    {
+        "clave": "100360124",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "100360127",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "100360128",
+        "nombre": "Rancho del Monte"
+    },
+    {
+        "clave": "100360132",
+        "nombre": "Echeverría"
+    },
+    {
+        "clave": "100360133",
+        "nombre": "Tierra Blanca (Barbacoa)"
+    },
+    {
+        "clave": "100360139",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "100360142",
+        "nombre": "El Alto Tierra Blanca"
+    },
+    {
+        "clave": "100360143",
+        "nombre": "El Brillante"
+    },
+    {
+        "clave": "100360149",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "100360159",
+        "nombre": "El Milagro"
+    },
+    {
+        "clave": "100360161",
+        "nombre": "Rancherías"
+    },
+    {
+        "clave": "100360162",
+        "nombre": "Las Arcadias (Rancho Grande)"
+    },
+    {
+        "clave": "100360163",
+        "nombre": "San Ignacio"
+    },
+    {
+        "clave": "100360167",
+        "nombre": "La Veintisiete"
+    },
+    {
+        "clave": "100360169",
+        "nombre": "Ojo de Agua (Zona de Manantiales)"
+    },
+    {
+        "clave": "100360170",
+        "nombre": "Nuevo México"
+    },
+    {
+        "clave": "100360171",
+        "nombre": "Cerro Banderas (Cerro Banderas) [Restaurante]"
+    },
+    {
+        "clave": "100360173",
+        "nombre": "Rancho los Cuates (Las Vallas)"
+    },
+    {
+        "clave": "100360175",
+        "nombre": "El Herradero [Restaurante]"
+    },
+    {
+        "clave": "100360177",
+        "nombre": "San Bernardo"
+    },
+    {
+        "clave": "100360178",
+        "nombre": "La Dos de Holanda"
+    },
+    {
+        "clave": "100360179",
+        "nombre": "La Tres de Holanda"
+    },
+    {
+        "clave": "100360180",
+        "nombre": "El Roble (Tres Tumbas)"
+    },
+    {
+        "clave": "100360181",
+        "nombre": "El Moradon 2"
+    },
+    {
+        "clave": "100360186",
+        "nombre": "El Renegado (La Noria)"
+    },
+    {
+        "clave": "100360187",
+        "nombre": "Noria Lucero II"
+    },
+    {
+        "clave": "100360188",
+        "nombre": "Campo C"
+    },
+    {
+        "clave": "100360189",
+        "nombre": "La Noria del Brillante"
+    },
+    {
+        "clave": "100360190",
+        "nombre": "San Sebastián Uno"
+    },
+    {
+        "clave": "100360191",
+        "nombre": "La Noria del Esfuerzo"
+    },
+    {
+        "clave": "100360192",
+        "nombre": "El Fogón [Restaurante]"
+    },
+    {
+        "clave": "100360193",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "100360196",
+        "nombre": "El Torreoncito"
+    },
+    {
+        "clave": "100360197",
+        "nombre": "San José de los Álamos"
+    },
+    {
+        "clave": "100360199",
+        "nombre": "El Betel (El Pirulete)"
+    },
+    {
+        "clave": "100360200",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "100360201",
+        "nombre": "El Canal"
+    },
+    {
+        "clave": "100360204",
+        "nombre": "Veinte de Abril"
+    },
+    {
+        "clave": "100360205",
+        "nombre": "Colonia Nueva Zaragoza"
+    },
+    {
+        "clave": "100360206",
+        "nombre": "Establo Benito Juárez"
+    },
+    {
+        "clave": "100360207",
+        "nombre": "Canuto Favela"
+    },
+    {
+        "clave": "100360208",
+        "nombre": "Gas Imperial"
+    },
+    {
+        "clave": "100360209",
+        "nombre": "Lorenzo Santoyo"
+    },
+    {
+        "clave": "100360210",
+        "nombre": "El Chaparral (José Inés Lara Mendiola)"
+    },
+    {
+        "clave": "100360211",
+        "nombre": "Francisco Villa (Rancho de Natividad)"
+    },
+    {
+        "clave": "100360212",
+        "nombre": "Rancho el Lucero"
+    },
+    {
+        "clave": "100360213",
+        "nombre": "La Romera"
+    },
+    {
+        "clave": "100360215",
+        "nombre": "El Catorce"
+    },
+    {
+        "clave": "100360216",
+        "nombre": "Los Nogales"
+    },
+    {
+        "clave": "100360217",
+        "nombre": "Establo Laredo"
+    },
+    {
+        "clave": "100360218",
+        "nombre": "La Noria del Sesenta"
+    },
+    {
+        "clave": "100360219",
+        "nombre": "Panchita [Restaurante]"
+    },
+    {
+        "clave": "100360220",
+        "nombre": "Francisca Niño Córdova"
+    },
+    {
+        "clave": "100360221",
+        "nombre": "Josefina Guerrero Guerrero"
+    },
+    {
+        "clave": "100360222",
+        "nombre": "La Nueva Esperanza"
+    },
+    {
+        "clave": "100360224",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "100360225",
+        "nombre": "Sector Cuarenta"
+    },
+    {
+        "clave": "100360226",
+        "nombre": "Alma Campesina"
+    },
+    {
+        "clave": "100360227",
+        "nombre": "Alfredo Vargas Duron"
+    },
+    {
+        "clave": "100360228",
+        "nombre": "Tres Postes"
+    },
+    {
+        "clave": "100360229",
+        "nombre": "Las Ánimas"
+    },
+    {
+        "clave": "100360230",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "100360231",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "100360232",
+        "nombre": "La Virgen"
+    },
+    {
+        "clave": "100360233",
+        "nombre": "San Francisco de Asís"
+    },
+    {
+        "clave": "100360234",
+        "nombre": "Intergas del Norte"
+    },
+    {
+        "clave": "100360235",
+        "nombre": "La Marmolera"
+    },
+    {
+        "clave": "100360236",
+        "nombre": "Armando Rodríguez"
+    },
+    {
+        "clave": "100360237",
+        "nombre": "Roberto García"
+    },
+    {
+        "clave": "100360238",
+        "nombre": "Tonino Olivares"
+    },
+    {
+        "clave": "100360239",
+        "nombre": "Rancho el Coyote"
+    },
+    {
+        "clave": "100360240",
+        "nombre": "Rancho Vacas Flacas"
+    },
+    {
+        "clave": "100360241",
+        "nombre": "Rosas Nuevo Progreso"
+    },
+    {
+        "clave": "100360242",
+        "nombre": "Horizonte Dos"
+    },
+    {
+        "clave": "100360243",
+        "nombre": "Sierra Nevada el Chaparro"
+    },
+    {
+        "clave": "100360244",
+        "nombre": "Rodolfo Villa Moreno"
+    },
+    {
+        "clave": "100360245",
+        "nombre": "Estación el Kilo Doce-Doce"
+    }
+]

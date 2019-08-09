@@ -1,0 +1,742 @@
+[
+    {
+        "clave": "270110042",
+        "nombre": "Santa Anita del Rosario"
+    },
+    {
+        "clave": "270110055",
+        "nombre": "El Barrialito (El Pichal)"
+    },
+    {
+        "clave": "270110064",
+        "nombre": "Cirilo y Narváez"
+    },
+    {
+        "clave": "270110096",
+        "nombre": "Isla San Lorenzo (Sitio Nuevo)"
+    },
+    {
+        "clave": "270110107",
+        "nombre": "Las Canoas"
+    },
+    {
+        "clave": "270110108",
+        "nombre": "Laguna Azul (La Ilusión)"
+    },
+    {
+        "clave": "270110144",
+        "nombre": "San José (Encarnación San Pedro)"
+    },
+    {
+        "clave": "270110182",
+        "nombre": "La Herma"
+    },
+    {
+        "clave": "270110205",
+        "nombre": "Isla el Rosario"
+    },
+    {
+        "clave": "270110262",
+        "nombre": "El Tinto"
+    },
+    {
+        "clave": "270110272",
+        "nombre": "Los Cuatro Hermanos López"
+    },
+    {
+        "clave": "270110003",
+        "nombre": "El Barrial"
+    },
+    {
+        "clave": "270110004",
+        "nombre": "Boca de San Gerónimo"
+    },
+    {
+        "clave": "270110006",
+        "nombre": "Constitución de 1917 (Jonutilla)"
+    },
+    {
+        "clave": "270110010",
+        "nombre": "El Bejucal"
+    },
+    {
+        "clave": "270110014",
+        "nombre": "Esperanza"
+    },
+    {
+        "clave": "270110015",
+        "nombre": "Esquipulas"
+    },
+    {
+        "clave": "270110017",
+        "nombre": "Güiro Arrancado"
+    },
+    {
+        "clave": "270110019",
+        "nombre": "Monte Grande"
+    },
+    {
+        "clave": "270110020",
+        "nombre": "Los Pájaros"
+    },
+    {
+        "clave": "270110021",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "270110023",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "270110024",
+        "nombre": "Ribera Baja 1ra. Sección A"
+    },
+    {
+        "clave": "270110027",
+        "nombre": "El Sacrificio"
+    },
+    {
+        "clave": "270110028",
+        "nombre": "Torno de la Bola"
+    },
+    {
+        "clave": "270110029",
+        "nombre": "Torno Largo 1ra. Sección A (Benito Juárez)"
+    },
+    {
+        "clave": "270110032",
+        "nombre": "Trinidad y Catalina 1ra. Sección"
+    },
+    {
+        "clave": "270110033",
+        "nombre": "Zapotal 1ra. Sección B"
+    },
+    {
+        "clave": "270110034",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "270110035",
+        "nombre": "Monte Grande (El Pastal)"
+    },
+    {
+        "clave": "270110036",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "270110037",
+        "nombre": "El Aguacatal"
+    },
+    {
+        "clave": "270110039",
+        "nombre": "La Frutilla"
+    },
+    {
+        "clave": "270110040",
+        "nombre": "El Piñal"
+    },
+    {
+        "clave": "270110041",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "270110043",
+        "nombre": "El Cocal"
+    },
+    {
+        "clave": "270110046",
+        "nombre": "Isla Helva de Guadalupe"
+    },
+    {
+        "clave": "270110047",
+        "nombre": "Santa Rita 1ra. Sección"
+    },
+    {
+        "clave": "270110048",
+        "nombre": "Chanero"
+    },
+    {
+        "clave": "270110049",
+        "nombre": "San Gerónimo"
+    },
+    {
+        "clave": "270110051",
+        "nombre": "Las Petronas"
+    },
+    {
+        "clave": "270110052",
+        "nombre": "Venustiano Carranza (El Pajonal)"
+    },
+    {
+        "clave": "270110054",
+        "nombre": "Carlos Pellicer Cámara (Bajo Amatitán)"
+    },
+    {
+        "clave": "270110056",
+        "nombre": "El Bonchanito"
+    },
+    {
+        "clave": "270110058",
+        "nombre": "Campo Nuevo"
+    },
+    {
+        "clave": "270110061",
+        "nombre": "El Bajío (El Caribal)"
+    },
+    {
+        "clave": "270110067",
+        "nombre": "Chinal"
+    },
+    {
+        "clave": "270110070",
+        "nombre": "Ribera Baja 2da. Sección (Gran Poder)"
+    },
+    {
+        "clave": "270110079",
+        "nombre": "Monte Grande (Nuevo Mundo)"
+    },
+    {
+        "clave": "270110082",
+        "nombre": "Las Puercas (Playa Larga 3ra. Sección)"
+    },
+    {
+        "clave": "270110088",
+        "nombre": "Boca de Amatitán"
+    },
+    {
+        "clave": "270110090",
+        "nombre": "Federico Álvarez 2da. Sección"
+    },
+    {
+        "clave": "270110091",
+        "nombre": "San Geronimito"
+    },
+    {
+        "clave": "270110092",
+        "nombre": "San José Jimbal"
+    },
+    {
+        "clave": "270110095",
+        "nombre": "Santa Rita 2da. Sección"
+    },
+    {
+        "clave": "270110106",
+        "nombre": "Las Chepas"
+    },
+    {
+        "clave": "270110111",
+        "nombre": "Chanero Río"
+    },
+    {
+        "clave": "270110114",
+        "nombre": "Corozal Río"
+    },
+    {
+        "clave": "270110115",
+        "nombre": "Guarda Tierra"
+    },
+    {
+        "clave": "270110116",
+        "nombre": "Zapotal 2da. Sección"
+    },
+    {
+        "clave": "270110117",
+        "nombre": "Vuelta Abajo"
+    },
+    {
+        "clave": "270110118",
+        "nombre": "Los Buchecos"
+    },
+    {
+        "clave": "270110119",
+        "nombre": "Los Giles"
+    },
+    {
+        "clave": "270110120",
+        "nombre": "Tomás Garrido Canabal (El Rincón)"
+    },
+    {
+        "clave": "270110129",
+        "nombre": "El Tucuyal"
+    },
+    {
+        "clave": "270110139",
+        "nombre": "San José"
+    },
+    {
+        "clave": "270110141",
+        "nombre": "Francisco J. Mújica"
+    },
+    {
+        "clave": "270110142",
+        "nombre": "Elpidio Sánchez"
+    },
+    {
+        "clave": "270110148",
+        "nombre": "Prudencio López Arias"
+    },
+    {
+        "clave": "270110161",
+        "nombre": "Aguacatal"
+    },
+    {
+        "clave": "270110174",
+        "nombre": "Ribera Baja 1ra. Sección B"
+    },
+    {
+        "clave": "270110196",
+        "nombre": "El Pitero"
+    },
+    {
+        "clave": "270110207",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "270110214",
+        "nombre": "Playa Chiquita 1ra. Sección A"
+    },
+    {
+        "clave": "270110220",
+        "nombre": "San Cristóbal"
+    },
+    {
+        "clave": "270110221",
+        "nombre": "Tumbo Chinal"
+    },
+    {
+        "clave": "270110237",
+        "nombre": "Los Pájaros (El Porvenir)"
+    },
+    {
+        "clave": "270110241",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "270110254",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "270110255",
+        "nombre": "Bélgica"
+    },
+    {
+        "clave": "270110256",
+        "nombre": "Sacrificio"
+    },
+    {
+        "clave": "270110265",
+        "nombre": "Hidalgo y Tamarindo"
+    },
+    {
+        "clave": "270110267",
+        "nombre": "El Chochal"
+    },
+    {
+        "clave": "270110268",
+        "nombre": "La Bendición de Dios"
+    },
+    {
+        "clave": "270110280",
+        "nombre": "Trinidad y Catalina 2da. Sección"
+    },
+    {
+        "clave": "270110281",
+        "nombre": "El Desengaño"
+    },
+    {
+        "clave": "270110284",
+        "nombre": "La Frutilla (San Ángel)"
+    },
+    {
+        "clave": "270110286",
+        "nombre": "El Caoba"
+    },
+    {
+        "clave": "270110287",
+        "nombre": "San Antonio (Isla los Paladines)"
+    },
+    {
+        "clave": "270110288",
+        "nombre": "El Sitio"
+    },
+    {
+        "clave": "270110289",
+        "nombre": "Corcobao"
+    },
+    {
+        "clave": "270110291",
+        "nombre": "Torno Largo 1ra. Sección (El Güiral)"
+    },
+    {
+        "clave": "270110292",
+        "nombre": "Playa Chiquita 2da. Sección"
+    },
+    {
+        "clave": "270110293",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "270110294",
+        "nombre": "Boca de San Gerónimo (San Gerónimo)"
+    },
+    {
+        "clave": "270110296",
+        "nombre": "Torno Largo 3ra. Sección"
+    },
+    {
+        "clave": "270110297",
+        "nombre": "Zapotal 1ra. Sección A"
+    },
+    {
+        "clave": "270110298",
+        "nombre": "Trinidad y Catalina 3ra. Sección"
+    },
+    {
+        "clave": "270110300",
+        "nombre": "Torno Largo 4ta. Sección"
+    },
+    {
+        "clave": "270110001",
+        "nombre": "Jonuta"
+    },
+    {
+        "clave": "270110005",
+        "nombre": "La Guayaba (Alto Amatitán)"
+    },
+    {
+        "clave": "270110007",
+        "nombre": "Boca de San Antonio"
+    },
+    {
+        "clave": "270110011",
+        "nombre": "Cocoyolar (Río Chico)"
+    },
+    {
+        "clave": "270110012",
+        "nombre": "Cuyo de Guadalupe"
+    },
+    {
+        "clave": "270110016",
+        "nombre": "Federico Álvarez 1ra. Sección A"
+    },
+    {
+        "clave": "270110018",
+        "nombre": "José María Pino Suárez (San Pedro)"
+    },
+    {
+        "clave": "270110022",
+        "nombre": "Playa Larga"
+    },
+    {
+        "clave": "270110030",
+        "nombre": "Torno Largo 2da. Sección"
+    },
+    {
+        "clave": "270110045",
+        "nombre": "El Porvenir 1ra. Sección"
+    },
+    {
+        "clave": "270110053",
+        "nombre": "Acapulco"
+    },
+    {
+        "clave": "270110057",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "270110059",
+        "nombre": "La Candelaria"
+    },
+    {
+        "clave": "270110060",
+        "nombre": "San Benigno (Canul)"
+    },
+    {
+        "clave": "270110065",
+        "nombre": "El Chamizal"
+    },
+    {
+        "clave": "270110066",
+        "nombre": "Chichicastle"
+    },
+    {
+        "clave": "270110071",
+        "nombre": "El Bolsón"
+    },
+    {
+        "clave": "270110072",
+        "nombre": "Isla Nuevo Barrialito"
+    },
+    {
+        "clave": "270110080",
+        "nombre": "Acuiltzingo"
+    },
+    {
+        "clave": "270110084",
+        "nombre": "Pochitocal"
+    },
+    {
+        "clave": "270110085",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "270110086",
+        "nombre": "Quince de Mayo"
+    },
+    {
+        "clave": "270110087",
+        "nombre": "La Racha"
+    },
+    {
+        "clave": "270110094",
+        "nombre": "Santa Cruz (El Santuario)"
+    },
+    {
+        "clave": "270110097",
+        "nombre": "El Deseo"
+    },
+    {
+        "clave": "270110109",
+        "nombre": "Carrizal"
+    },
+    {
+        "clave": "270110113",
+        "nombre": "Corozal"
+    },
+    {
+        "clave": "270110123",
+        "nombre": "El Ciprés"
+    },
+    {
+        "clave": "270110125",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "270110130",
+        "nombre": "La Piñuela"
+    },
+    {
+        "clave": "270110131",
+        "nombre": "Altamira"
+    },
+    {
+        "clave": "270110132",
+        "nombre": "Bella Flor"
+    },
+    {
+        "clave": "270110136",
+        "nombre": "La Encarnación"
+    },
+    {
+        "clave": "270110140",
+        "nombre": "El Almendrito"
+    },
+    {
+        "clave": "270110143",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "270110146",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "270110147",
+        "nombre": "Sacrificio"
+    },
+    {
+        "clave": "270110156",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "270110157",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "270110159",
+        "nombre": "California"
+    },
+    {
+        "clave": "270110160",
+        "nombre": "Tabasco Nuevo"
+    },
+    {
+        "clave": "270110176",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "270110178",
+        "nombre": "Certeza"
+    },
+    {
+        "clave": "270110184",
+        "nombre": "Argentina"
+    },
+    {
+        "clave": "270110185",
+        "nombre": "Sitio Nuevo"
+    },
+    {
+        "clave": "270110191",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "270110192",
+        "nombre": "La Concordia"
+    },
+    {
+        "clave": "270110198",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "270110202",
+        "nombre": "La Chonita"
+    },
+    {
+        "clave": "270110203",
+        "nombre": "El Triunfo (La Paila)"
+    },
+    {
+        "clave": "270110210",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "270110211",
+        "nombre": "San José"
+    },
+    {
+        "clave": "270110212",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "270110215",
+        "nombre": "El Plátano"
+    },
+    {
+        "clave": "270110218",
+        "nombre": "El Charro"
+    },
+    {
+        "clave": "270110227",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "270110228",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "270110229",
+        "nombre": "El Progreso"
+    },
+    {
+        "clave": "270110230",
+        "nombre": "San Danilo (El Durazno)"
+    },
+    {
+        "clave": "270110231",
+        "nombre": "Delita (Santa Deli)"
+    },
+    {
+        "clave": "270110234",
+        "nombre": "Isla Chichicastle"
+    },
+    {
+        "clave": "270110238",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "270110240",
+        "nombre": "San Julián"
+    },
+    {
+        "clave": "270110244",
+        "nombre": "Buenos Lirios"
+    },
+    {
+        "clave": "270110245",
+        "nombre": "Cinco de Mayo"
+    },
+    {
+        "clave": "270110247",
+        "nombre": "Argentina"
+    },
+    {
+        "clave": "270110248",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "270110249",
+        "nombre": "San Jorge"
+    },
+    {
+        "clave": "270110251",
+        "nombre": "Sacrificio"
+    },
+    {
+        "clave": "270110252",
+        "nombre": "Las Delicias"
+    },
+    {
+        "clave": "270110253",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "270110257",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "270110263",
+        "nombre": "Las Campanas"
+    },
+    {
+        "clave": "270110264",
+        "nombre": "El Encanto (El Chochal)"
+    },
+    {
+        "clave": "270110271",
+        "nombre": "San José"
+    },
+    {
+        "clave": "270110274",
+        "nombre": "Sacrificio"
+    },
+    {
+        "clave": "270110278",
+        "nombre": "El Palmar (El Perú)"
+    },
+    {
+        "clave": "270110283",
+        "nombre": "La Piñuela"
+    },
+    {
+        "clave": "270110285",
+        "nombre": "El Trébol"
+    },
+    {
+        "clave": "270110290",
+        "nombre": "Federico Álvarez 3ra. Sección"
+    },
+    {
+        "clave": "270110295",
+        "nombre": "Torno Largo 1ra. Sección B"
+    },
+    {
+        "clave": "270110299",
+        "nombre": "Puerta al Cielo"
+    },
+    {
+        "clave": "270110301",
+        "nombre": "Federico Álvarez 1ra. Sección B"
+    },
+    {
+        "clave": "270110302",
+        "nombre": "Federico Álvarez 4ta. Sección"
+    },
+    {
+        "clave": "270110303",
+        "nombre": "Playa Chiquita el Cuyo"
+    },
+    {
+        "clave": "270110304",
+        "nombre": "Bejucal Ramal los Cuyos"
+    }
+]

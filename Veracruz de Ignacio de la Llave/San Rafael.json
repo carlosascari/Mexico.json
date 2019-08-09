@@ -1,0 +1,518 @@
+[
+    {
+        "clave": "302110005",
+        "nombre": "Bella Esperanza"
+    },
+    {
+        "clave": "302110069",
+        "nombre": "La Pitahaya"
+    },
+    {
+        "clave": "302110093",
+        "nombre": "Puente Casitas"
+    },
+    {
+        "clave": "302110104",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "302110126",
+        "nombre": "Luis Segura"
+    },
+    {
+        "clave": "302110003",
+        "nombre": "Ampliación Manuel Ávila Camacho"
+    },
+    {
+        "clave": "302110004",
+        "nombre": "Arroyo Zarco"
+    },
+    {
+        "clave": "302110008",
+        "nombre": "Calle Chica"
+    },
+    {
+        "clave": "302110009",
+        "nombre": "Calle Grande"
+    },
+    {
+        "clave": "302110013",
+        "nombre": "Cementeras del Pital"
+    },
+    {
+        "clave": "302110020",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "302110021",
+        "nombre": "El Cabellal"
+    },
+    {
+        "clave": "302110028",
+        "nombre": "El Guayabal"
+    },
+    {
+        "clave": "302110039",
+        "nombre": "El Tablazo"
+    },
+    {
+        "clave": "302110040",
+        "nombre": "El Tecolote"
+    },
+    {
+        "clave": "302110041",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "302110042",
+        "nombre": "Entrada al Arenal"
+    },
+    {
+        "clave": "302110055",
+        "nombre": "Ignacio Zaragoza (La Poza)"
+    },
+    {
+        "clave": "302110056",
+        "nombre": "Isla Santa Rosa"
+    },
+    {
+        "clave": "302110058",
+        "nombre": "La Aurora"
+    },
+    {
+        "clave": "302110062",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "302110066",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "302110070",
+        "nombre": "La Rivera de Puntilla"
+    },
+    {
+        "clave": "302110077",
+        "nombre": "Lomas de Arena"
+    },
+    {
+        "clave": "302110081",
+        "nombre": "Manantiales"
+    },
+    {
+        "clave": "302110082",
+        "nombre": "Manuel Ávila Camacho"
+    },
+    {
+        "clave": "302110088",
+        "nombre": "Nuevo Faisán"
+    },
+    {
+        "clave": "302110089",
+        "nombre": "Benito Juárez [Nuevo Centro de Población]"
+    },
+    {
+        "clave": "302110091",
+        "nombre": "Paso de Telaya"
+    },
+    {
+        "clave": "302110094",
+        "nombre": "Puerto la Puntilla"
+    },
+    {
+        "clave": "302110097",
+        "nombre": "Rafael López"
+    },
+    {
+        "clave": "302110107",
+        "nombre": "Santa Adelaida"
+    },
+    {
+        "clave": "302110110",
+        "nombre": "Tepetates"
+    },
+    {
+        "clave": "302110112",
+        "nombre": "Tres Bocas"
+    },
+    {
+        "clave": "302110116",
+        "nombre": "Vega de San Marcos"
+    },
+    {
+        "clave": "302110117",
+        "nombre": "Zacatales"
+    },
+    {
+        "clave": "302110118",
+        "nombre": "Zanjas de Arena"
+    },
+    {
+        "clave": "302110119",
+        "nombre": "Diez de Abril"
+    },
+    {
+        "clave": "302110121",
+        "nombre": "Fidelidad"
+    },
+    {
+        "clave": "302110124",
+        "nombre": "Oro Verde"
+    },
+    {
+        "clave": "302110001",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "302110002",
+        "nombre": "Ampliación de Pavón"
+    },
+    {
+        "clave": "302110006",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "302110007",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "302110010",
+        "nombre": "Carga Barcos"
+    },
+    {
+        "clave": "302110011",
+        "nombre": "Carlos Zamora Moreno"
+    },
+    {
+        "clave": "302110012",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "302110014",
+        "nombre": "Cerro de la Cruz"
+    },
+    {
+        "clave": "302110015",
+        "nombre": "Conde"
+    },
+    {
+        "clave": "302110016",
+        "nombre": "Crispín Mora"
+    },
+    {
+        "clave": "302110017",
+        "nombre": "Desviación el Pital"
+    },
+    {
+        "clave": "302110018",
+        "nombre": "Ejido Vega de San Marcos (Cuerillo)"
+    },
+    {
+        "clave": "302110019",
+        "nombre": "El Abanico"
+    },
+    {
+        "clave": "302110022",
+        "nombre": "El Chaparral"
+    },
+    {
+        "clave": "302110023",
+        "nombre": "El Cocal"
+    },
+    {
+        "clave": "302110024",
+        "nombre": "El Columpio"
+    },
+    {
+        "clave": "302110025",
+        "nombre": "El Columpio"
+    },
+    {
+        "clave": "302110026",
+        "nombre": "El Faisán"
+    },
+    {
+        "clave": "302110027",
+        "nombre": "El Fulgor"
+    },
+    {
+        "clave": "302110029",
+        "nombre": "El Hule"
+    },
+    {
+        "clave": "302110030",
+        "nombre": "El Jaral"
+    },
+    {
+        "clave": "302110031",
+        "nombre": "El Jobo"
+    },
+    {
+        "clave": "302110032",
+        "nombre": "El Mentidero"
+    },
+    {
+        "clave": "302110033",
+        "nombre": "El Ojite"
+    },
+    {
+        "clave": "302110034",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "302110035",
+        "nombre": "El Pital"
+    },
+    {
+        "clave": "302110036",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "302110037",
+        "nombre": "El Recuerdo del Cid"
+    },
+    {
+        "clave": "302110038",
+        "nombre": "El Roble"
+    },
+    {
+        "clave": "302110043",
+        "nombre": "Felipe Ramagdoli Capitaine"
+    },
+    {
+        "clave": "302110044",
+        "nombre": "Finca de Elías Hernández"
+    },
+    {
+        "clave": "302110045",
+        "nombre": "Finca el Edén"
+    },
+    {
+        "clave": "302110046",
+        "nombre": "Finca el Ventilador"
+    },
+    {
+        "clave": "302110047",
+        "nombre": "Finca Oscar Hernández"
+    },
+    {
+        "clave": "302110048",
+        "nombre": "Finca Santa Luisa"
+    },
+    {
+        "clave": "302110049",
+        "nombre": "Finca Santa Rosa"
+    },
+    {
+        "clave": "302110050",
+        "nombre": "Francisco Mora"
+    },
+    {
+        "clave": "302110051",
+        "nombre": "Franco Hernández"
+    },
+    {
+        "clave": "302110052",
+        "nombre": "Galvarino Barria Pérez"
+    },
+    {
+        "clave": "302110053",
+        "nombre": "Guadalupe Victoria"
+    },
+    {
+        "clave": "302110054",
+        "nombre": "Héctor Barrientos"
+    },
+    {
+        "clave": "302110057",
+        "nombre": "Isla Santa Rosa"
+    },
+    {
+        "clave": "302110059",
+        "nombre": "La Basinica"
+    },
+    {
+        "clave": "302110060",
+        "nombre": "La Candelaria"
+    },
+    {
+        "clave": "302110061",
+        "nombre": "La Chancla"
+    },
+    {
+        "clave": "302110063",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "302110064",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "302110065",
+        "nombre": "La Isla"
+    },
+    {
+        "clave": "302110067",
+        "nombre": "La Pajarera"
+    },
+    {
+        "clave": "302110068",
+        "nombre": "La Pitahaya"
+    },
+    {
+        "clave": "302110071",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "302110072",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "302110073",
+        "nombre": "La Victoria"
+    },
+    {
+        "clave": "302110074",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "302110075",
+        "nombre": "Las Tumbas"
+    },
+    {
+        "clave": "302110076",
+        "nombre": "Loma del Pital"
+    },
+    {
+        "clave": "302110078",
+        "nombre": "Los Carriles"
+    },
+    {
+        "clave": "302110079",
+        "nombre": "Los Jorges"
+    },
+    {
+        "clave": "302110080",
+        "nombre": "Los Pasos"
+    },
+    {
+        "clave": "302110083",
+        "nombre": "Mata de Plátano"
+    },
+    {
+        "clave": "302110084",
+        "nombre": "Melchor Ocampo"
+    },
+    {
+        "clave": "302110085",
+        "nombre": "Miraflores"
+    },
+    {
+        "clave": "302110086",
+        "nombre": "Monte Gordo"
+    },
+    {
+        "clave": "302110087",
+        "nombre": "Mundo Herrera"
+    },
+    {
+        "clave": "302110090",
+        "nombre": "Pajaritos"
+    },
+    {
+        "clave": "302110092",
+        "nombre": "Paso Higueras"
+    },
+    {
+        "clave": "302110095",
+        "nombre": "Puntilla Aldama"
+    },
+    {
+        "clave": "302110096",
+        "nombre": "Puntilla Chica"
+    },
+    {
+        "clave": "302110098",
+        "nombre": "Clemente Tomás"
+    },
+    {
+        "clave": "302110099",
+        "nombre": "Río Mar"
+    },
+    {
+        "clave": "302110100",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "302110101",
+        "nombre": "San Bartolo"
+    },
+    {
+        "clave": "302110102",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "302110103",
+        "nombre": "San Ignacio"
+    },
+    {
+        "clave": "302110105",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "302110106",
+        "nombre": "San Valentín"
+    },
+    {
+        "clave": "302110108",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "302110109",
+        "nombre": "Solteros"
+    },
+    {
+        "clave": "302110111",
+        "nombre": "Tinoco"
+    },
+    {
+        "clave": "302110113",
+        "nombre": "Tres Bocas"
+    },
+    {
+        "clave": "302110114",
+        "nombre": "Tres Encinos"
+    },
+    {
+        "clave": "302110115",
+        "nombre": "Úrsulo Galván"
+    },
+    {
+        "clave": "302110120",
+        "nombre": "Chumanco"
+    },
+    {
+        "clave": "302110122",
+        "nombre": "La Noria"
+    },
+    {
+        "clave": "302110123",
+        "nombre": "Los Mariscos"
+    },
+    {
+        "clave": "302110125",
+        "nombre": "Colonia Catorce de Diciembre"
+    },
+    {
+        "clave": "302110127",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "302110128",
+        "nombre": "La Carolina"
+    },
+    {
+        "clave": "302110129",
+        "nombre": "Palmira"
+    }
+]

@@ -1,0 +1,574 @@
+[
+    {
+        "clave": "60080004",
+        "nombre": "Las Agujas"
+    },
+    {
+        "clave": "60080002",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "60080003",
+        "nombre": "Agua Salada"
+    },
+    {
+        "clave": "60080005",
+        "nombre": "El Arrayanal"
+    },
+    {
+        "clave": "60080017",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "60080027",
+        "nombre": "La Playa (La Playita)"
+    },
+    {
+        "clave": "60080031",
+        "nombre": "Rastrojitos"
+    },
+    {
+        "clave": "60080035",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "60080036",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "60080037",
+        "nombre": "El Terrero"
+    },
+    {
+        "clave": "60080039",
+        "nombre": "El Aparejito"
+    },
+    {
+        "clave": "60080044",
+        "nombre": "La Coconal"
+    },
+    {
+        "clave": "60080075",
+        "nombre": "Las Pesadas"
+    },
+    {
+        "clave": "60080113",
+        "nombre": "El Platanar"
+    },
+    {
+        "clave": "60080001",
+        "nombre": "Minatitlán"
+    },
+    {
+        "clave": "60080008",
+        "nombre": "Campamento Uno (Consorcio)"
+    },
+    {
+        "clave": "60080011",
+        "nombre": "Cerro del Ocote"
+    },
+    {
+        "clave": "60080012",
+        "nombre": "El Convento"
+    },
+    {
+        "clave": "60080014",
+        "nombre": "Las Guásimas"
+    },
+    {
+        "clave": "60080021",
+        "nombre": "El Nogal"
+    },
+    {
+        "clave": "60080026",
+        "nombre": "Platanarillos"
+    },
+    {
+        "clave": "60080029",
+        "nombre": "Potrero Grande"
+    },
+    {
+        "clave": "60080030",
+        "nombre": "Ranchitos"
+    },
+    {
+        "clave": "60080032",
+        "nombre": "El Reparo"
+    },
+    {
+        "clave": "60080033",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "60080038",
+        "nombre": "La Tuna"
+    },
+    {
+        "clave": "60080040",
+        "nombre": "La Parota Herrada"
+    },
+    {
+        "clave": "60080042",
+        "nombre": "El Baluarte"
+    },
+    {
+        "clave": "60080046",
+        "nombre": "Otatitos"
+    },
+    {
+        "clave": "60080047",
+        "nombre": "El Cacao"
+    },
+    {
+        "clave": "60080048",
+        "nombre": "Paticajo"
+    },
+    {
+        "clave": "60080050",
+        "nombre": "Las Truchas"
+    },
+    {
+        "clave": "60080051",
+        "nombre": "Benito Juárez de Peña Colorada (El Poblado)"
+    },
+    {
+        "clave": "60080052",
+        "nombre": "El Fresno"
+    },
+    {
+        "clave": "60080053",
+        "nombre": "Peñitas"
+    },
+    {
+        "clave": "60080054",
+        "nombre": "El Ocotito"
+    },
+    {
+        "clave": "60080057",
+        "nombre": "Puente del Cacao"
+    },
+    {
+        "clave": "60080059",
+        "nombre": "La Joya de Afuera"
+    },
+    {
+        "clave": "60080060",
+        "nombre": "Minitas (Rincón del Peón)"
+    },
+    {
+        "clave": "60080062",
+        "nombre": "El Rebaje"
+    },
+    {
+        "clave": "60080063",
+        "nombre": "El Campo Uno"
+    },
+    {
+        "clave": "60080064",
+        "nombre": "El Divisadero"
+    },
+    {
+        "clave": "60080065",
+        "nombre": "Jagüey Borrado (La Olla)"
+    },
+    {
+        "clave": "60080067",
+        "nombre": "El Molino"
+    },
+    {
+        "clave": "60080069",
+        "nombre": "El Divisadero Dos"
+    },
+    {
+        "clave": "60080070",
+        "nombre": "El Espino"
+    },
+    {
+        "clave": "60080071",
+        "nombre": "Juanillos"
+    },
+    {
+        "clave": "60080072",
+        "nombre": "El Terrero Dos"
+    },
+    {
+        "clave": "60080074",
+        "nombre": "Peña Colorada (Fierro)"
+    },
+    {
+        "clave": "60080076",
+        "nombre": "La Agua Buena"
+    },
+    {
+        "clave": "60080077",
+        "nombre": "Jesús Andrade (La Mesa)"
+    },
+    {
+        "clave": "60080078",
+        "nombre": "Conasupo [Bodega]"
+    },
+    {
+        "clave": "60080079",
+        "nombre": "Las Anonitas"
+    },
+    {
+        "clave": "60080080",
+        "nombre": "Felipe Arias"
+    },
+    {
+        "clave": "60080081",
+        "nombre": "El Zalatito (José Puga Campos)"
+    },
+    {
+        "clave": "60080082",
+        "nombre": "Campamento Dos [Unidad Lechera Chelfi]"
+    },
+    {
+        "clave": "60080083",
+        "nombre": "Ninguno [Caseta SARH]"
+    },
+    {
+        "clave": "60080084",
+        "nombre": "Chuy Michel"
+    },
+    {
+        "clave": "60080085",
+        "nombre": "El Corral de Piedra"
+    },
+    {
+        "clave": "60080086",
+        "nombre": "El Cuartón"
+    },
+    {
+        "clave": "60080087",
+        "nombre": "David Soto"
+    },
+    {
+        "clave": "60080088",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "60080089",
+        "nombre": "Establo las Villas"
+    },
+    {
+        "clave": "60080090",
+        "nombre": "Francisco Contreras"
+    },
+    {
+        "clave": "60080091",
+        "nombre": "Gonzalo Figueroa Figueroa (La Cuata)"
+    },
+    {
+        "clave": "60080092",
+        "nombre": "Ángela Michel"
+    },
+    {
+        "clave": "60080093",
+        "nombre": "Ismael Figueroa"
+    },
+    {
+        "clave": "60080094",
+        "nombre": "José Vázquez [Bodega]"
+    },
+    {
+        "clave": "60080095",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "60080096",
+        "nombre": "Lupe Michel de Soto"
+    },
+    {
+        "clave": "60080097",
+        "nombre": "Manuel Vargas [Bodega]"
+    },
+    {
+        "clave": "60080099",
+        "nombre": "Miguel Dueñas"
+    },
+    {
+        "clave": "60080100",
+        "nombre": "Las Mulas"
+    },
+    {
+        "clave": "60080101",
+        "nombre": "Ismael Arias"
+    },
+    {
+        "clave": "60080103",
+        "nombre": "Rancho de Aguas"
+    },
+    {
+        "clave": "60080104",
+        "nombre": "Rancho de Berna"
+    },
+    {
+        "clave": "60080106",
+        "nombre": "La Higuerita"
+    },
+    {
+        "clave": "60080107",
+        "nombre": "Rancho Mancilla (Las Maderas)"
+    },
+    {
+        "clave": "60080108",
+        "nombre": "Manuela Figueroa"
+    },
+    {
+        "clave": "60080109",
+        "nombre": "Rancho del Peón"
+    },
+    {
+        "clave": "60080110",
+        "nombre": "El Salto"
+    },
+    {
+        "clave": "60080111",
+        "nombre": "Salvador Figueroa"
+    },
+    {
+        "clave": "60080112",
+        "nombre": "El Higueral"
+    },
+    {
+        "clave": "60080116",
+        "nombre": "El Bonete"
+    },
+    {
+        "clave": "60080117",
+        "nombre": "La Palmita"
+    },
+    {
+        "clave": "60080119",
+        "nombre": "La Loma del Paso del Madroño"
+    },
+    {
+        "clave": "60080120",
+        "nombre": "Ojo de Mar"
+    },
+    {
+        "clave": "60080121",
+        "nombre": "La Palmita"
+    },
+    {
+        "clave": "60080122",
+        "nombre": "Palo Verde"
+    },
+    {
+        "clave": "60080123",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "60080124",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "60080125",
+        "nombre": "Los Juanillos"
+    },
+    {
+        "clave": "60080126",
+        "nombre": "Julia Llanos"
+    },
+    {
+        "clave": "60080127",
+        "nombre": "El Cedrito (Isidro Michel Castillo)"
+    },
+    {
+        "clave": "60080128",
+        "nombre": "Jesús Cárdenas Figueroa"
+    },
+    {
+        "clave": "60080129",
+        "nombre": "José Luis Ortiz"
+    },
+    {
+        "clave": "60080130",
+        "nombre": "Lázaro Morán"
+    },
+    {
+        "clave": "60080131",
+        "nombre": "María Michel"
+    },
+    {
+        "clave": "60080132",
+        "nombre": "Las Parotas (Tepeguaje)"
+    },
+    {
+        "clave": "60080133",
+        "nombre": "Isabel Figueroa"
+    },
+    {
+        "clave": "60080134",
+        "nombre": "El Cocuyo"
+    },
+    {
+        "clave": "60080135",
+        "nombre": "Guadalupe Zúñiga"
+    },
+    {
+        "clave": "60080136",
+        "nombre": "La Guayabilla"
+    },
+    {
+        "clave": "60080137",
+        "nombre": "José Gómez"
+    },
+    {
+        "clave": "60080138",
+        "nombre": "Las Limitas"
+    },
+    {
+        "clave": "60080139",
+        "nombre": "Loma Rabona"
+    },
+    {
+        "clave": "60080140",
+        "nombre": "El Puerto del Colomo (Luis Núñez)"
+    },
+    {
+        "clave": "60080141",
+        "nombre": "María Ordúñez"
+    },
+    {
+        "clave": "60080142",
+        "nombre": "Pedro Zúñiga Curiel"
+    },
+    {
+        "clave": "60080143",
+        "nombre": "La Puerta Colorada"
+    },
+    {
+        "clave": "60080144",
+        "nombre": "Reyes Arias"
+    },
+    {
+        "clave": "60080145",
+        "nombre": "Los Saucos"
+    },
+    {
+        "clave": "60080146",
+        "nombre": "El Tepame"
+    },
+    {
+        "clave": "60080147",
+        "nombre": "Vicente Ruiz"
+    },
+    {
+        "clave": "60080148",
+        "nombre": "Zenaido Cortez"
+    },
+    {
+        "clave": "60080149",
+        "nombre": "Ismael Arias"
+    },
+    {
+        "clave": "60080150",
+        "nombre": "Las Maderas (Rosario Figueroa)"
+    },
+    {
+        "clave": "60080151",
+        "nombre": "Rancho Escondido (María Sandoval de la Cruz)"
+    },
+    {
+        "clave": "60080152",
+        "nombre": "San José"
+    },
+    {
+        "clave": "60080153",
+        "nombre": "Palo Labrado (Melchor Urzúa)"
+    },
+    {
+        "clave": "60080154",
+        "nombre": "Rancho Figueroa"
+    },
+    {
+        "clave": "60080155",
+        "nombre": "Rancho Mendoza"
+    },
+    {
+        "clave": "60080156",
+        "nombre": "La Era"
+    },
+    {
+        "clave": "60080157",
+        "nombre": "La Güilotera"
+    },
+    {
+        "clave": "60080158",
+        "nombre": "Los Naranjos"
+    },
+    {
+        "clave": "60080159",
+        "nombre": "Beto Serratos"
+    },
+    {
+        "clave": "60080160",
+        "nombre": "La Granja [Restaurante]"
+    },
+    {
+        "clave": "60080161",
+        "nombre": "Encino Barrido"
+    },
+    {
+        "clave": "60080162",
+        "nombre": "Benjamín Campos"
+    },
+    {
+        "clave": "60080163",
+        "nombre": "Cosme Figueroa"
+    },
+    {
+        "clave": "60080164",
+        "nombre": "El As de Oros"
+    },
+    {
+        "clave": "60080165",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "60080166",
+        "nombre": "El Tapeixtle"
+    },
+    {
+        "clave": "60080167",
+        "nombre": "Minatitlán [Gasolinera]"
+    },
+    {
+        "clave": "60080168",
+        "nombre": "La Gloria Escondida"
+    },
+    {
+        "clave": "60080169",
+        "nombre": "La Madroñera"
+    },
+    {
+        "clave": "60080170",
+        "nombre": "Los Compadres"
+    },
+    {
+        "clave": "60080171",
+        "nombre": "El Puente"
+    },
+    {
+        "clave": "60080172",
+        "nombre": "Héctor Ruiz"
+    },
+    {
+        "clave": "60080173",
+        "nombre": "La Compañía"
+    },
+    {
+        "clave": "60080174",
+        "nombre": "Los Alejandros"
+    },
+    {
+        "clave": "60080175",
+        "nombre": "El Artillero [Mina]"
+    },
+    {
+        "clave": "60080176",
+        "nombre": "Pedro Figueroa"
+    }
+]

@@ -1,0 +1,634 @@
+[
+    {
+        "clave": "80410006",
+        "nombre": "Arroyo del Agua"
+    },
+    {
+        "clave": "80410044",
+        "nombre": "Los Llanitos"
+    },
+    {
+        "clave": "80410109",
+        "nombre": "Mojorachi"
+    },
+    {
+        "clave": "80410146",
+        "nombre": "Recomachi (Erecomachi)"
+    },
+    {
+        "clave": "80410288",
+        "nombre": "Rancho Colorado (Guapisachi)"
+    },
+    {
+        "clave": "80410294",
+        "nombre": "Bacuseachi"
+    },
+    {
+        "clave": "80410296",
+        "nombre": "Seguarabo (San Francisco)"
+    },
+    {
+        "clave": "80410297",
+        "nombre": "Nachuchique (Nachochique)"
+    },
+    {
+        "clave": "80410299",
+        "nombre": "Erechuchique"
+    },
+    {
+        "clave": "80410301",
+        "nombre": "Guaviachi"
+    },
+    {
+        "clave": "80410307",
+        "nombre": "La Cruz"
+    },
+    {
+        "clave": "80410309",
+        "nombre": "Choreachi"
+    },
+    {
+        "clave": "80410316",
+        "nombre": "Rancho Blanco"
+    },
+    {
+        "clave": "80410001",
+        "nombre": "Maguarichi"
+    },
+    {
+        "clave": "80410020",
+        "nombre": "La Cieneguita"
+    },
+    {
+        "clave": "80410029",
+        "nombre": "Erojaviachi"
+    },
+    {
+        "clave": "80410041",
+        "nombre": "Jayepuchi"
+    },
+    {
+        "clave": "80410042",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "80410055",
+        "nombre": "Piedras de Lumbre"
+    },
+    {
+        "clave": "80410069",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "80410072",
+        "nombre": "Tejogorachi"
+    },
+    {
+        "clave": "80410074",
+        "nombre": "El Toro"
+    },
+    {
+        "clave": "80410082",
+        "nombre": "San Jerónimo"
+    },
+    {
+        "clave": "80410101",
+        "nombre": "Chihuivo"
+    },
+    {
+        "clave": "80410281",
+        "nombre": "San José de las Lajas"
+    },
+    {
+        "clave": "80410305",
+        "nombre": "Ocoviachi"
+    },
+    {
+        "clave": "80410320",
+        "nombre": "Río Guirichivo"
+    },
+    {
+        "clave": "80410002",
+        "nombre": "Agua Amarilla"
+    },
+    {
+        "clave": "80410011",
+        "nombre": "Batovira"
+    },
+    {
+        "clave": "80410013",
+        "nombre": "El Cajón"
+    },
+    {
+        "clave": "80410014",
+        "nombre": "La Cañada"
+    },
+    {
+        "clave": "80410018",
+        "nombre": "Sipuriachi"
+    },
+    {
+        "clave": "80410019",
+        "nombre": "El Serrucho"
+    },
+    {
+        "clave": "80410024",
+        "nombre": "El Ricubichi"
+    },
+    {
+        "clave": "80410026",
+        "nombre": "Erepigaybo"
+    },
+    {
+        "clave": "80410031",
+        "nombre": "La Galana"
+    },
+    {
+        "clave": "80410038",
+        "nombre": "Guasachique"
+    },
+    {
+        "clave": "80410039",
+        "nombre": "Huiyomachi"
+    },
+    {
+        "clave": "80410040",
+        "nombre": "Guitaborachic"
+    },
+    {
+        "clave": "80410048",
+        "nombre": "Matachiqui"
+    },
+    {
+        "clave": "80410052",
+        "nombre": "Napoleón"
+    },
+    {
+        "clave": "80410067",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "80410068",
+        "nombre": "San José"
+    },
+    {
+        "clave": "80410070",
+        "nombre": "Santa Bárbara"
+    },
+    {
+        "clave": "80410073",
+        "nombre": "Las Tinajas"
+    },
+    {
+        "clave": "80410078",
+        "nombre": "El Verano"
+    },
+    {
+        "clave": "80410079",
+        "nombre": "Villeachic"
+    },
+    {
+        "clave": "80410080",
+        "nombre": "Guacayvito"
+    },
+    {
+        "clave": "80410084",
+        "nombre": "Santa Rosalía"
+    },
+    {
+        "clave": "80410086",
+        "nombre": "El Trigo"
+    },
+    {
+        "clave": "80410089",
+        "nombre": "Los Hornitos"
+    },
+    {
+        "clave": "80410093",
+        "nombre": "La Junta"
+    },
+    {
+        "clave": "80410096",
+        "nombre": "Mojarachi"
+    },
+    {
+        "clave": "80410099",
+        "nombre": "Palomas"
+    },
+    {
+        "clave": "80410102",
+        "nombre": "Juveachi"
+    },
+    {
+        "clave": "80410104",
+        "nombre": "Chimoto"
+    },
+    {
+        "clave": "80410107",
+        "nombre": "Guasino"
+    },
+    {
+        "clave": "80410108",
+        "nombre": "Chuyeachi"
+    },
+    {
+        "clave": "80410110",
+        "nombre": "Aguareachi"
+    },
+    {
+        "clave": "80410111",
+        "nombre": "Bore"
+    },
+    {
+        "clave": "80410113",
+        "nombre": "Huichigomachi"
+    },
+    {
+        "clave": "80410116",
+        "nombre": "Sojaguachi"
+    },
+    {
+        "clave": "80410117",
+        "nombre": "Rojabo"
+    },
+    {
+        "clave": "80410119",
+        "nombre": "Rancho San Antonio"
+    },
+    {
+        "clave": "80410122",
+        "nombre": "Ahueteachic"
+    },
+    {
+        "clave": "80410123",
+        "nombre": "El Arco"
+    },
+    {
+        "clave": "80410128",
+        "nombre": "Chichimochi"
+    },
+    {
+        "clave": "80410132",
+        "nombre": "Goreachi"
+    },
+    {
+        "clave": "80410136",
+        "nombre": "Hilaros"
+    },
+    {
+        "clave": "80410145",
+        "nombre": "Rechanachi"
+    },
+    {
+        "clave": "80410147",
+        "nombre": "Río de las Casas"
+    },
+    {
+        "clave": "80410148",
+        "nombre": "Sayaguachi"
+    },
+    {
+        "clave": "80410155",
+        "nombre": "Los Llanitos"
+    },
+    {
+        "clave": "80410156",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "80410158",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "80410159",
+        "nombre": "Aguanapuchi"
+    },
+    {
+        "clave": "80410166",
+        "nombre": "Paraje Ochahuachi"
+    },
+    {
+        "clave": "80410168",
+        "nombre": "Ruraguachi (Guanasachi)"
+    },
+    {
+        "clave": "80410169",
+        "nombre": "Chuyeachi"
+    },
+    {
+        "clave": "80410170",
+        "nombre": "Paraje Canecachi"
+    },
+    {
+        "clave": "80410171",
+        "nombre": "Matarazo (Guigimachi)"
+    },
+    {
+        "clave": "80410173",
+        "nombre": "Urichi"
+    },
+    {
+        "clave": "80410175",
+        "nombre": "Aguerare (Las Minitas)"
+    },
+    {
+        "clave": "80410188",
+        "nombre": "Meguachi"
+    },
+    {
+        "clave": "80410199",
+        "nombre": "La Cieneguita"
+    },
+    {
+        "clave": "80410211",
+        "nombre": "Las Mesitas"
+    },
+    {
+        "clave": "80410213",
+        "nombre": "Agua Caliente"
+    },
+    {
+        "clave": "80410214",
+        "nombre": "Cerro Colorado"
+    },
+    {
+        "clave": "80410215",
+        "nombre": "Charco Largo"
+    },
+    {
+        "clave": "80410218",
+        "nombre": "Los Parajes"
+    },
+    {
+        "clave": "80410220",
+        "nombre": "Sapareachi"
+    },
+    {
+        "clave": "80410223",
+        "nombre": "El Arbolito"
+    },
+    {
+        "clave": "80410224",
+        "nombre": "La Mesa de los Magueches"
+    },
+    {
+        "clave": "80410227",
+        "nombre": "Goroscachi"
+    },
+    {
+        "clave": "80410228",
+        "nombre": "Aguachi"
+    },
+    {
+        "clave": "80410230",
+        "nombre": "Rancho del Campo"
+    },
+    {
+        "clave": "80410232",
+        "nombre": "Choguita"
+    },
+    {
+        "clave": "80410233",
+        "nombre": "Nopalera"
+    },
+    {
+        "clave": "80410234",
+        "nombre": "El Hoyo"
+    },
+    {
+        "clave": "80410235",
+        "nombre": "Machogueachi"
+    },
+    {
+        "clave": "80410236",
+        "nombre": "Mesa Montaño"
+    },
+    {
+        "clave": "80410238",
+        "nombre": "El Estribillo"
+    },
+    {
+        "clave": "80410245",
+        "nombre": "El Magueche"
+    },
+    {
+        "clave": "80410249",
+        "nombre": "Baquiachi"
+    },
+    {
+        "clave": "80410250",
+        "nombre": "Magueches"
+    },
+    {
+        "clave": "80410256",
+        "nombre": "Cujubeachi"
+    },
+    {
+        "clave": "80410257",
+        "nombre": "Los Chabucales"
+    },
+    {
+        "clave": "80410258",
+        "nombre": "Erojayepuchi"
+    },
+    {
+        "clave": "80410259",
+        "nombre": "Erisiochi"
+    },
+    {
+        "clave": "80410260",
+        "nombre": "Los Gavilanes"
+    },
+    {
+        "clave": "80410261",
+        "nombre": "Guazachique"
+    },
+    {
+        "clave": "80410262",
+        "nombre": "Huirabo (El Aguaje)"
+    },
+    {
+        "clave": "80410263",
+        "nombre": "La Joyita"
+    },
+    {
+        "clave": "80410264",
+        "nombre": "La Lana"
+    },
+    {
+        "clave": "80410265",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "80410266",
+        "nombre": "Magueches"
+    },
+    {
+        "clave": "80410267",
+        "nombre": "La Mesita"
+    },
+    {
+        "clave": "80410268",
+        "nombre": "Mesa de Gorachi"
+    },
+    {
+        "clave": "80410269",
+        "nombre": "El Molonco"
+    },
+    {
+        "clave": "80410270",
+        "nombre": "Otebare"
+    },
+    {
+        "clave": "80410271",
+        "nombre": "El Pinito"
+    },
+    {
+        "clave": "80410272",
+        "nombre": "Los Pinitos"
+    },
+    {
+        "clave": "80410273",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "80410274",
+        "nombre": "Puerto de los Núñez"
+    },
+    {
+        "clave": "80410275",
+        "nombre": "La Quiteria"
+    },
+    {
+        "clave": "80410276",
+        "nombre": "Rancho Guadalupe"
+    },
+    {
+        "clave": "80410277",
+        "nombre": "Repoyna"
+    },
+    {
+        "clave": "80410278",
+        "nombre": "Rosa Morada"
+    },
+    {
+        "clave": "80410279",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "80410280",
+        "nombre": "San José"
+    },
+    {
+        "clave": "80410282",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "80410283",
+        "nombre": "Senagachi"
+    },
+    {
+        "clave": "80410284",
+        "nombre": "Sitanachi"
+    },
+    {
+        "clave": "80410286",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "80410287",
+        "nombre": "La Montura"
+    },
+    {
+        "clave": "80410289",
+        "nombre": "Bocoyna (Bocoina)"
+    },
+    {
+        "clave": "80410290",
+        "nombre": "Recomachi"
+    },
+    {
+        "clave": "80410291",
+        "nombre": "Atachi"
+    },
+    {
+        "clave": "80410292",
+        "nombre": "Nacorachi"
+    },
+    {
+        "clave": "80410293",
+        "nombre": "Mohorachi"
+    },
+    {
+        "clave": "80410295",
+        "nombre": "Yoquivo"
+    },
+    {
+        "clave": "80410298",
+        "nombre": "Guajumar"
+    },
+    {
+        "clave": "80410300",
+        "nombre": "Gurisichi"
+    },
+    {
+        "clave": "80410302",
+        "nombre": "Basoneachi"
+    },
+    {
+        "clave": "80410303",
+        "nombre": "El Aserradero"
+    },
+    {
+        "clave": "80410304",
+        "nombre": "Guagueachi"
+    },
+    {
+        "clave": "80410306",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "80410308",
+        "nombre": "Urisicuchi"
+    },
+    {
+        "clave": "80410310",
+        "nombre": "Basuchito"
+    },
+    {
+        "clave": "80410311",
+        "nombre": "Sicanapuchi"
+    },
+    {
+        "clave": "80410312",
+        "nombre": "Moquimoba"
+    },
+    {
+        "clave": "80410313",
+        "nombre": "El Aguaje"
+    },
+    {
+        "clave": "80410314",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "80410315",
+        "nombre": "El Metate"
+    },
+    {
+        "clave": "80410317",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "80410318",
+        "nombre": "Tierra Blanca"
+    },
+    {
+        "clave": "80410319",
+        "nombre": "El Morso"
+    },
+    {
+        "clave": "80410321",
+        "nombre": "Urugueachi"
+    }
+]

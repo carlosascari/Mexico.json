@@ -1,0 +1,718 @@
+[
+    {
+        "clave": "300400056",
+        "nombre": "Morelos"
+    },
+    {
+        "clave": "300400181",
+        "nombre": "Ejido Coatzintla"
+    },
+    {
+        "clave": "300400196",
+        "nombre": "Colonia México"
+    },
+    {
+        "clave": "300400197",
+        "nombre": "Colonia Niños Héroes"
+    },
+    {
+        "clave": "300400002",
+        "nombre": "Arroyo Florido"
+    },
+    {
+        "clave": "300400003",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "300400004",
+        "nombre": "Colonia Miguel Hidalgo"
+    },
+    {
+        "clave": "300400005",
+        "nombre": "Corralillos"
+    },
+    {
+        "clave": "300400006",
+        "nombre": "El Chote"
+    },
+    {
+        "clave": "300400008",
+        "nombre": "La Florida"
+    },
+    {
+        "clave": "300400009",
+        "nombre": "Furberos"
+    },
+    {
+        "clave": "300400010",
+        "nombre": "González Ortega"
+    },
+    {
+        "clave": "300400011",
+        "nombre": "Guadalupe Victoria"
+    },
+    {
+        "clave": "300400012",
+        "nombre": "La Laja"
+    },
+    {
+        "clave": "300400013",
+        "nombre": "Manuel María Contreras"
+    },
+    {
+        "clave": "300400014",
+        "nombre": "Palmar de Zapata"
+    },
+    {
+        "clave": "300400015",
+        "nombre": "Palma Sola"
+    },
+    {
+        "clave": "300400016",
+        "nombre": "San Fernando Coapechapa"
+    },
+    {
+        "clave": "300400017",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "300400018",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "300400019",
+        "nombre": "Troncones y Potrerillos"
+    },
+    {
+        "clave": "300400020",
+        "nombre": "Úrsulo Galván"
+    },
+    {
+        "clave": "300400021",
+        "nombre": "El Vizcaíno"
+    },
+    {
+        "clave": "300400022",
+        "nombre": "La Ortiga"
+    },
+    {
+        "clave": "300400023",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "300400024",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "300400028",
+        "nombre": "Cerro del Mirador"
+    },
+    {
+        "clave": "300400054",
+        "nombre": "La Toma de Agua"
+    },
+    {
+        "clave": "300400075",
+        "nombre": "La Lagunilla"
+    },
+    {
+        "clave": "300400132",
+        "nombre": "Tomás Vidal"
+    },
+    {
+        "clave": "300400136",
+        "nombre": "Colonia Luis Donaldo Colosio"
+    },
+    {
+        "clave": "300400138",
+        "nombre": "El Chote"
+    },
+    {
+        "clave": "300400141",
+        "nombre": "Ejido el Chote"
+    },
+    {
+        "clave": "300400198",
+        "nombre": "Colonia Valle Dorado"
+    },
+    {
+        "clave": "300400199",
+        "nombre": "Colonia Veracruz"
+    },
+    {
+        "clave": "300400200",
+        "nombre": "Colonia los Pinos"
+    },
+    {
+        "clave": "300400001",
+        "nombre": "Coatzintla"
+    },
+    {
+        "clave": "300400007",
+        "nombre": "Escolín de Olarte"
+    },
+    {
+        "clave": "300400025",
+        "nombre": "Kilómetro Cincuenta y Nueve"
+    },
+    {
+        "clave": "300400027",
+        "nombre": "La Caoba"
+    },
+    {
+        "clave": "300400029",
+        "nombre": "El Cinco"
+    },
+    {
+        "clave": "300400030",
+        "nombre": "Palma Sola (Samuel Nery)"
+    },
+    {
+        "clave": "300400031",
+        "nombre": "El Esquitín"
+    },
+    {
+        "clave": "300400032",
+        "nombre": "El Pimiento"
+    },
+    {
+        "clave": "300400033",
+        "nombre": "El Bambuco"
+    },
+    {
+        "clave": "300400034",
+        "nombre": "La Galera"
+    },
+    {
+        "clave": "300400035",
+        "nombre": "El Nueve"
+    },
+    {
+        "clave": "300400036",
+        "nombre": "Los Polvorones"
+    },
+    {
+        "clave": "300400037",
+        "nombre": "Tuzapan"
+    },
+    {
+        "clave": "300400038",
+        "nombre": "Veintidós"
+    },
+    {
+        "clave": "300400039",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "300400044",
+        "nombre": "El Coruco"
+    },
+    {
+        "clave": "300400045",
+        "nombre": "El Espejo"
+    },
+    {
+        "clave": "300400046",
+        "nombre": "Finca Valencia"
+    },
+    {
+        "clave": "300400047",
+        "nombre": "Aurelio Hernández (San Luis)"
+    },
+    {
+        "clave": "300400049",
+        "nombre": "La Cuña"
+    },
+    {
+        "clave": "300400050",
+        "nombre": "Lote Veintiuno"
+    },
+    {
+        "clave": "300400053",
+        "nombre": "La Grandeza"
+    },
+    {
+        "clave": "300400055",
+        "nombre": "Las Perlas"
+    },
+    {
+        "clave": "300400057",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "300400058",
+        "nombre": "Génova"
+    },
+    {
+        "clave": "300400059",
+        "nombre": "Dos Glorias"
+    },
+    {
+        "clave": "300400060",
+        "nombre": "La Divina Providencia"
+    },
+    {
+        "clave": "300400062",
+        "nombre": "El Recreo"
+    },
+    {
+        "clave": "300400063",
+        "nombre": "Macario Pajín"
+    },
+    {
+        "clave": "300400064",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "300400065",
+        "nombre": "Las Lupitas"
+    },
+    {
+        "clave": "300400066",
+        "nombre": "José Santos Moreno"
+    },
+    {
+        "clave": "300400067",
+        "nombre": "El Andariego"
+    },
+    {
+        "clave": "300400068",
+        "nombre": "Pascual Cerón"
+    },
+    {
+        "clave": "300400069",
+        "nombre": "Rancho de la Garza"
+    },
+    {
+        "clave": "300400070",
+        "nombre": "Laurencio Hernández"
+    },
+    {
+        "clave": "300400071",
+        "nombre": "El Berrinche"
+    },
+    {
+        "clave": "300400072",
+        "nombre": "Palo Verde"
+    },
+    {
+        "clave": "300400073",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "300400074",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "300400076",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "300400077",
+        "nombre": "Lucio de la Cruz"
+    },
+    {
+        "clave": "300400078",
+        "nombre": "El Hueso"
+    },
+    {
+        "clave": "300400079",
+        "nombre": "Rosalia Sánchez"
+    },
+    {
+        "clave": "300400080",
+        "nombre": "Marcos Rojas R."
+    },
+    {
+        "clave": "300400081",
+        "nombre": "Facundo Cruz"
+    },
+    {
+        "clave": "300400082",
+        "nombre": "El Alazán"
+    },
+    {
+        "clave": "300400083",
+        "nombre": "El Fantasma"
+    },
+    {
+        "clave": "300400084",
+        "nombre": "Finca el Paraíso"
+    },
+    {
+        "clave": "300400085",
+        "nombre": "Finca Tres Marías"
+    },
+    {
+        "clave": "300400086",
+        "nombre": "La Hondonada"
+    },
+    {
+        "clave": "300400088",
+        "nombre": "La Virgen"
+    },
+    {
+        "clave": "300400089",
+        "nombre": "Lote Quince"
+    },
+    {
+        "clave": "300400090",
+        "nombre": "Palmar"
+    },
+    {
+        "clave": "300400091",
+        "nombre": "Pozo del Caballo"
+    },
+    {
+        "clave": "300400092",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "300400093",
+        "nombre": "Rancho Pontevedra"
+    },
+    {
+        "clave": "300400094",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "300400095",
+        "nombre": "La Generalísima"
+    },
+    {
+        "clave": "300400096",
+        "nombre": "Suavia"
+    },
+    {
+        "clave": "300400097",
+        "nombre": "El Retoño"
+    },
+    {
+        "clave": "300400098",
+        "nombre": "Tres Marías"
+    },
+    {
+        "clave": "300400099",
+        "nombre": "El Tucán"
+    },
+    {
+        "clave": "300400102",
+        "nombre": "Entrada al Escolín (Benjamín García)"
+    },
+    {
+        "clave": "300400114",
+        "nombre": "Colonia Mujeres"
+    },
+    {
+        "clave": "300400115",
+        "nombre": "Cuartel"
+    },
+    {
+        "clave": "300400116",
+        "nombre": "El Dorado"
+    },
+    {
+        "clave": "300400117",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "300400119",
+        "nombre": "Finca Crisóforo Carrasco"
+    },
+    {
+        "clave": "300400120",
+        "nombre": "Finca Fidencio Ramírez"
+    },
+    {
+        "clave": "300400121",
+        "nombre": "Finca Palma Sola"
+    },
+    {
+        "clave": "300400122",
+        "nombre": "Kirch"
+    },
+    {
+        "clave": "300400123",
+        "nombre": "Lote Uno"
+    },
+    {
+        "clave": "300400124",
+        "nombre": "Lote Trece"
+    },
+    {
+        "clave": "300400125",
+        "nombre": "Lote 3"
+    },
+    {
+        "clave": "300400126",
+        "nombre": "El Mirasol"
+    },
+    {
+        "clave": "300400127",
+        "nombre": "Juana Barrera"
+    },
+    {
+        "clave": "300400128",
+        "nombre": "Crispín Vargas"
+    },
+    {
+        "clave": "300400129",
+        "nombre": "Rancho Palomec"
+    },
+    {
+        "clave": "300400130",
+        "nombre": "Pedro Vidal"
+    },
+    {
+        "clave": "300400131",
+        "nombre": "Rancho Polo Suárez"
+    },
+    {
+        "clave": "300400133",
+        "nombre": "Salinas"
+    },
+    {
+        "clave": "300400134",
+        "nombre": "Tres Flechas"
+    },
+    {
+        "clave": "300400135",
+        "nombre": "Agustín González"
+    },
+    {
+        "clave": "300400137",
+        "nombre": "La Crisis"
+    },
+    {
+        "clave": "300400139",
+        "nombre": "Eduardo Lugo"
+    },
+    {
+        "clave": "300400142",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "300400143",
+        "nombre": "Hugo Sosa"
+    },
+    {
+        "clave": "300400144",
+        "nombre": "El Juguete"
+    },
+    {
+        "clave": "300400145",
+        "nombre": "Julio Balanzán"
+    },
+    {
+        "clave": "300400146",
+        "nombre": "Linda Vista"
+    },
+    {
+        "clave": "300400147",
+        "nombre": "Mirador"
+    },
+    {
+        "clave": "300400148",
+        "nombre": "La Mora"
+    },
+    {
+        "clave": "300400149",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "300400150",
+        "nombre": "El Pitayo"
+    },
+    {
+        "clave": "300400151",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "300400152",
+        "nombre": "Rancho Heve"
+    },
+    {
+        "clave": "300400153",
+        "nombre": "Rancho Primavera"
+    },
+    {
+        "clave": "300400154",
+        "nombre": "Rancho Sauce"
+    },
+    {
+        "clave": "300400155",
+        "nombre": "Salomón Sánchez"
+    },
+    {
+        "clave": "300400157",
+        "nombre": "Tirzo Luna"
+    },
+    {
+        "clave": "300400158",
+        "nombre": "Tortoza"
+    },
+    {
+        "clave": "300400159",
+        "nombre": "Vivero"
+    },
+    {
+        "clave": "300400160",
+        "nombre": "Chula Vista"
+    },
+    {
+        "clave": "300400161",
+        "nombre": "El Capricho"
+    },
+    {
+        "clave": "300400162",
+        "nombre": "Emeterio Hernández García"
+    },
+    {
+        "clave": "300400164",
+        "nombre": "El Sauce"
+    },
+    {
+        "clave": "300400165",
+        "nombre": "La Trácala"
+    },
+    {
+        "clave": "300400166",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "300400167",
+        "nombre": "El Alacrán"
+    },
+    {
+        "clave": "300400168",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "300400169",
+        "nombre": "César Jiménez Morales"
+    },
+    {
+        "clave": "300400170",
+        "nombre": "Enrique Decuir"
+    },
+    {
+        "clave": "300400171",
+        "nombre": "José Luis Juárez Jiménez"
+    },
+    {
+        "clave": "300400172",
+        "nombre": "Julio Juárez Hernández (La Hondonada)"
+    },
+    {
+        "clave": "300400173",
+        "nombre": "Lote Setenta y Tres"
+    },
+    {
+        "clave": "300400174",
+        "nombre": "Rancho Salvador"
+    },
+    {
+        "clave": "300400175",
+        "nombre": "Agapito Morales"
+    },
+    {
+        "clave": "300400176",
+        "nombre": "Armando Ríos"
+    },
+    {
+        "clave": "300400177",
+        "nombre": "Bobin"
+    },
+    {
+        "clave": "300400178",
+        "nombre": "El Capitán"
+    },
+    {
+        "clave": "300400179",
+        "nombre": "Darío Martínez"
+    },
+    {
+        "clave": "300400180",
+        "nombre": "Dos Marías"
+    },
+    {
+        "clave": "300400182",
+        "nombre": "Félix Pérez"
+    },
+    {
+        "clave": "300400183",
+        "nombre": "Gaudencio Mercado"
+    },
+    {
+        "clave": "300400184",
+        "nombre": "Los Sauces [Granja]"
+    },
+    {
+        "clave": "300400185",
+        "nombre": "Gregorio Marroquín"
+    },
+    {
+        "clave": "300400186",
+        "nombre": "Jorge Mercado"
+    },
+    {
+        "clave": "300400187",
+        "nombre": "Lote Treinta y Cinco"
+    },
+    {
+        "clave": "300400188",
+        "nombre": "Miguel Batres"
+    },
+    {
+        "clave": "300400189",
+        "nombre": "Minerva Pérez"
+    },
+    {
+        "clave": "300400190",
+        "nombre": "Onésimo Meneses"
+    },
+    {
+        "clave": "300400191",
+        "nombre": "Las Papanas"
+    },
+    {
+        "clave": "300400192",
+        "nombre": "El Querreque"
+    },
+    {
+        "clave": "300400193",
+        "nombre": "Roberto Vázquez"
+    },
+    {
+        "clave": "300400194",
+        "nombre": "Vicente Sánchez"
+    },
+    {
+        "clave": "300400195",
+        "nombre": "José María Pino Suárez"
+    },
+    {
+        "clave": "300400201",
+        "nombre": "Fraccionamiento San Rafael"
+    },
+    {
+        "clave": "300400202",
+        "nombre": "Geovillas del Real"
+    },
+    {
+        "clave": "300400203",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "300400204",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "300400205",
+        "nombre": "Nicolás Vázquez Peréz"
+    },
+    {
+        "clave": "300400206",
+        "nombre": "Los Gavilanes"
+    }
+]

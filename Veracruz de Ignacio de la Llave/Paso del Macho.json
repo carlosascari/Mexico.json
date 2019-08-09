@@ -1,0 +1,638 @@
+[
+    {
+        "clave": "301250004",
+        "nombre": "Loma Pelada"
+    },
+    {
+        "clave": "301250012",
+        "nombre": "Balsa Mina"
+    },
+    {
+        "clave": "301250081",
+        "nombre": "Mata Bejuco"
+    },
+    {
+        "clave": "301250099",
+        "nombre": "Vacas Flacas"
+    },
+    {
+        "clave": "301250111",
+        "nombre": "La Pitahaya"
+    },
+    {
+        "clave": "301250158",
+        "nombre": "Mata Tejón"
+    },
+    {
+        "clave": "301250170",
+        "nombre": "Taka Broown"
+    },
+    {
+        "clave": "301250177",
+        "nombre": "Loma del Cristo"
+    },
+    {
+        "clave": "301250002",
+        "nombre": "Actopan"
+    },
+    {
+        "clave": "301250003",
+        "nombre": "La Defensa"
+    },
+    {
+        "clave": "301250005",
+        "nombre": "Paso Gavilán"
+    },
+    {
+        "clave": "301250006",
+        "nombre": "Potrero Grande (Remudadero Rancho Nuevo)"
+    },
+    {
+        "clave": "301250007",
+        "nombre": "El Zapotal"
+    },
+    {
+        "clave": "301250008",
+        "nombre": "El Acacio"
+    },
+    {
+        "clave": "301250009",
+        "nombre": "Agua Escondida"
+    },
+    {
+        "clave": "301250010",
+        "nombre": "San José Balsa Camarón (La Colmena)"
+    },
+    {
+        "clave": "301250011",
+        "nombre": "Balsa Coyote"
+    },
+    {
+        "clave": "301250014",
+        "nombre": "El Brinco"
+    },
+    {
+        "clave": "301250015",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "301250018",
+        "nombre": "Carrizal"
+    },
+    {
+        "clave": "301250020",
+        "nombre": "Cerro Azul"
+    },
+    {
+        "clave": "301250021",
+        "nombre": "Colonia Cabrera"
+    },
+    {
+        "clave": "301250026",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "301250027",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "301250029",
+        "nombre": "El Angostillo"
+    },
+    {
+        "clave": "301250034",
+        "nombre": "La Mariposa"
+    },
+    {
+        "clave": "301250036",
+        "nombre": "Mata Comisario"
+    },
+    {
+        "clave": "301250039",
+        "nombre": "Mata Naranjo"
+    },
+    {
+        "clave": "301250043",
+        "nombre": "Morón Uno"
+    },
+    {
+        "clave": "301250044",
+        "nombre": "Paso Azúcar"
+    },
+    {
+        "clave": "301250045",
+        "nombre": "Paso Frijol"
+    },
+    {
+        "clave": "301250046",
+        "nombre": "Paso Grande"
+    },
+    {
+        "clave": "301250047",
+        "nombre": "Paso Limón"
+    },
+    {
+        "clave": "301250048",
+        "nombre": "Paso Ilama"
+    },
+    {
+        "clave": "301250049",
+        "nombre": "Paso Mulato"
+    },
+    {
+        "clave": "301250053",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "301250054",
+        "nombre": "Potrerillo"
+    },
+    {
+        "clave": "301250056",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "301250057",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "301250059",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "301250062",
+        "nombre": "Rincón de los Toros"
+    },
+    {
+        "clave": "301250064",
+        "nombre": "San Alejo"
+    },
+    {
+        "clave": "301250065",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "301250066",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "301250067",
+        "nombre": "Tinajitas"
+    },
+    {
+        "clave": "301250068",
+        "nombre": "Tlanamacoyan"
+    },
+    {
+        "clave": "301250069",
+        "nombre": "La Unión de los Reyes"
+    },
+    {
+        "clave": "301250071",
+        "nombre": "Los Paredones"
+    },
+    {
+        "clave": "301250073",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "301250074",
+        "nombre": "Loma de Enmedio"
+    },
+    {
+        "clave": "301250077",
+        "nombre": "El Ixtle"
+    },
+    {
+        "clave": "301250078",
+        "nombre": "Las Trampas"
+    },
+    {
+        "clave": "301250079",
+        "nombre": "Rincón de la Soledad"
+    },
+    {
+        "clave": "301250082",
+        "nombre": "Mata de Varas"
+    },
+    {
+        "clave": "301250084",
+        "nombre": "La Peña"
+    },
+    {
+        "clave": "301250085",
+        "nombre": "Loma del Chivo"
+    },
+    {
+        "clave": "301250087",
+        "nombre": "Pocitos Actopan"
+    },
+    {
+        "clave": "301250095",
+        "nombre": "El Brasil"
+    },
+    {
+        "clave": "301250097",
+        "nombre": "Paso Vaquero"
+    },
+    {
+        "clave": "301250101",
+        "nombre": "Cañamazal"
+    },
+    {
+        "clave": "301250102",
+        "nombre": "El Cedro"
+    },
+    {
+        "clave": "301250103",
+        "nombre": "Cuatro Caminos"
+    },
+    {
+        "clave": "301250104",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "301250105",
+        "nombre": "Mata del Gallo"
+    },
+    {
+        "clave": "301250107",
+        "nombre": "Mata Larga"
+    },
+    {
+        "clave": "301250112",
+        "nombre": "Potrerillo (Los Serenas)"
+    },
+    {
+        "clave": "301250114",
+        "nombre": "Santa Cecilia"
+    },
+    {
+        "clave": "301250121",
+        "nombre": "Paso Grande Dos (La Báscula)"
+    },
+    {
+        "clave": "301250122",
+        "nombre": "Rancho Cañamazo"
+    },
+    {
+        "clave": "301250123",
+        "nombre": "Colonia Agrícola"
+    },
+    {
+        "clave": "301250124",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "301250126",
+        "nombre": "Kilómetro 3.44"
+    },
+    {
+        "clave": "301250135",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "301250136",
+        "nombre": "El Manantial"
+    },
+    {
+        "clave": "301250137",
+        "nombre": "El Cedrillo"
+    },
+    {
+        "clave": "301250138",
+        "nombre": "Rancho Chico"
+    },
+    {
+        "clave": "301250141",
+        "nombre": "Rancho Pajaritos"
+    },
+    {
+        "clave": "301250149",
+        "nombre": "Corral de Piedra"
+    },
+    {
+        "clave": "301250150",
+        "nombre": "Rancho Nuevo (Palo Gacho)"
+    },
+    {
+        "clave": "301250151",
+        "nombre": "Canaletas"
+    },
+    {
+        "clave": "301250152",
+        "nombre": "Palo Amarillo"
+    },
+    {
+        "clave": "301250153",
+        "nombre": "Los Tres Encinos"
+    },
+    {
+        "clave": "301250154",
+        "nombre": "Paso Garrapata"
+    },
+    {
+        "clave": "301250155",
+        "nombre": "Paso Mojarra"
+    },
+    {
+        "clave": "301250160",
+        "nombre": "El Paraíso (Ejido Paso del Macho)"
+    },
+    {
+        "clave": "301250162",
+        "nombre": "Las Higueras"
+    },
+    {
+        "clave": "301250163",
+        "nombre": "Plan del Roble"
+    },
+    {
+        "clave": "301250167",
+        "nombre": "La Víbora"
+    },
+    {
+        "clave": "301250171",
+        "nombre": "Rebombeo"
+    },
+    {
+        "clave": "301250173",
+        "nombre": "San Angelín"
+    },
+    {
+        "clave": "301250175",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "301250178",
+        "nombre": "Paso Naranjo"
+    },
+    {
+        "clave": "301250179",
+        "nombre": "Paso del Burro"
+    },
+    {
+        "clave": "301250180",
+        "nombre": "Piedra Fina"
+    },
+    {
+        "clave": "301250181",
+        "nombre": "Ejido el Acacio"
+    },
+    {
+        "clave": "301250182",
+        "nombre": "Ejido Emiliano Zapata"
+    },
+    {
+        "clave": "301250184",
+        "nombre": "Rincón del Chile"
+    },
+    {
+        "clave": "301250191",
+        "nombre": "Colonia los Almendros"
+    },
+    {
+        "clave": "301250192",
+        "nombre": "Los García"
+    },
+    {
+        "clave": "301250001",
+        "nombre": "Paso del Macho"
+    },
+    {
+        "clave": "301250013",
+        "nombre": "Balsa Tortuga"
+    },
+    {
+        "clave": "301250019",
+        "nombre": "Salvador Esquer Apodaca [Unidad Habitacional]"
+    },
+    {
+        "clave": "301250022",
+        "nombre": "Comalcoáhuitl"
+    },
+    {
+        "clave": "301250024",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "301250025",
+        "nombre": "El Espinal"
+    },
+    {
+        "clave": "301250028",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "301250030",
+        "nombre": "Loma del Nanche"
+    },
+    {
+        "clave": "301250035",
+        "nombre": "Mata Calabaza"
+    },
+    {
+        "clave": "301250037",
+        "nombre": "Mata Chivato"
+    },
+    {
+        "clave": "301250038",
+        "nombre": "Mata Eslavón"
+    },
+    {
+        "clave": "301250041",
+        "nombre": "Paso Grande Uno (Mata Zopilote)"
+    },
+    {
+        "clave": "301250042",
+        "nombre": "Mazapa"
+    },
+    {
+        "clave": "301250050",
+        "nombre": "Paso Tablas"
+    },
+    {
+        "clave": "301250051",
+        "nombre": "La Piedra"
+    },
+    {
+        "clave": "301250052",
+        "nombre": "Pocitos y Cañamazo"
+    },
+    {
+        "clave": "301250055",
+        "nombre": "Pozo del Monte"
+    },
+    {
+        "clave": "301250058",
+        "nombre": "Tres Encinos Raya Oscura"
+    },
+    {
+        "clave": "301250063",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "301250072",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "301250088",
+        "nombre": "Mata Freno"
+    },
+    {
+        "clave": "301250089",
+        "nombre": "El Acicate"
+    },
+    {
+        "clave": "301250092",
+        "nombre": "Las Canoas"
+    },
+    {
+        "clave": "301250093",
+        "nombre": "San José"
+    },
+    {
+        "clave": "301250100",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "301250110",
+        "nombre": "Mata Borrego (Paso Gavilán)"
+    },
+    {
+        "clave": "301250115",
+        "nombre": "Santos Pérez"
+    },
+    {
+        "clave": "301250125",
+        "nombre": "La Cabecera"
+    },
+    {
+        "clave": "301250128",
+        "nombre": "Morón Dos"
+    },
+    {
+        "clave": "301250129",
+        "nombre": "La Higuera"
+    },
+    {
+        "clave": "301250130",
+        "nombre": "Chiquihuite"
+    },
+    {
+        "clave": "301250132",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "301250139",
+        "nombre": "Las Mariposas"
+    },
+    {
+        "clave": "301250140",
+        "nombre": "Las Tiras"
+    },
+    {
+        "clave": "301250142",
+        "nombre": "Paso Juile"
+    },
+    {
+        "clave": "301250148",
+        "nombre": "Las Cruces (El Mangal)"
+    },
+    {
+        "clave": "301250159",
+        "nombre": "El Chololote (Los Acosta)"
+    },
+    {
+        "clave": "301250161",
+        "nombre": "Las Gaviotas"
+    },
+    {
+        "clave": "301250164",
+        "nombre": "Potrerillo (Los Castillos)"
+    },
+    {
+        "clave": "301250165",
+        "nombre": "Don Roque"
+    },
+    {
+        "clave": "301250166",
+        "nombre": "La Tribu"
+    },
+    {
+        "clave": "301250168",
+        "nombre": "Palo Blanco"
+    },
+    {
+        "clave": "301250169",
+        "nombre": "Rancho Progreso"
+    },
+    {
+        "clave": "301250172",
+        "nombre": "Ejido Actopan"
+    },
+    {
+        "clave": "301250174",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "301250183",
+        "nombre": "Ejido la Mariposa"
+    },
+    {
+        "clave": "301250185",
+        "nombre": "El Guaje"
+    },
+    {
+        "clave": "301250186",
+        "nombre": "Juan Rodríguez"
+    },
+    {
+        "clave": "301250187",
+        "nombre": "Los Limos"
+    },
+    {
+        "clave": "301250188",
+        "nombre": "Paso Grande"
+    },
+    {
+        "clave": "301250189",
+        "nombre": "Ampliación Rincón de los Toros"
+    },
+    {
+        "clave": "301250190",
+        "nombre": "Cerritos"
+    },
+    {
+        "clave": "301250193",
+        "nombre": "Paso Morón"
+    },
+    {
+        "clave": "301250194",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "301250195",
+        "nombre": "Rancho Gasperín"
+    },
+    {
+        "clave": "301250196",
+        "nombre": "El Escape"
+    },
+    {
+        "clave": "301250197",
+        "nombre": "San Patricio"
+    },
+    {
+        "clave": "301250198",
+        "nombre": "Margarita Zerón Pacheco"
+    },
+    {
+        "clave": "301250199",
+        "nombre": "La Perlita"
+    },
+    {
+        "clave": "301250200",
+        "nombre": "El Volador"
+    }
+]

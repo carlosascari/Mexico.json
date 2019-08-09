@@ -1,0 +1,822 @@
+[
+    {
+        "clave": "300230071",
+        "nombre": "Tepeycan"
+    },
+    {
+        "clave": "300230077",
+        "nombre": "Xontaxpan"
+    },
+    {
+        "clave": "300230081",
+        "nombre": "Aguilera"
+    },
+    {
+        "clave": "300230089",
+        "nombre": "Xilita"
+    },
+    {
+        "clave": "300230113",
+        "nombre": "Cerro de Barreras"
+    },
+    {
+        "clave": "300230133",
+        "nombre": "Cañada de Castilla"
+    },
+    {
+        "clave": "300230145",
+        "nombre": "Huapotes"
+    },
+    {
+        "clave": "300230163",
+        "nombre": "Plan de la Luz"
+    },
+    {
+        "clave": "300230167",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "300230171",
+        "nombre": "Tepetzintla"
+    },
+    {
+        "clave": "300230193",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "300230194",
+        "nombre": "Petoloya II"
+    },
+    {
+        "clave": "300230215",
+        "nombre": "Loma Alta"
+    },
+    {
+        "clave": "300230221",
+        "nombre": "La Morera"
+    },
+    {
+        "clave": "300230222",
+        "nombre": "Piedra Pinta"
+    },
+    {
+        "clave": "300230228",
+        "nombre": "Tepelxilota"
+    },
+    {
+        "clave": "300230244",
+        "nombre": "María Soledad"
+    },
+    {
+        "clave": "300230247",
+        "nombre": "Ixcuícuitl"
+    },
+    {
+        "clave": "300230003",
+        "nombre": "Ahuateno"
+    },
+    {
+        "clave": "300230004",
+        "nombre": "Ahuatepec"
+    },
+    {
+        "clave": "300230005",
+        "nombre": "Almanza"
+    },
+    {
+        "clave": "300230006",
+        "nombre": "Alseseca el Chico"
+    },
+    {
+        "clave": "300230007",
+        "nombre": "Alseseca el Grande"
+    },
+    {
+        "clave": "300230008",
+        "nombre": "Arroyo Colorado"
+    },
+    {
+        "clave": "300230009",
+        "nombre": "Arroyo Frío"
+    },
+    {
+        "clave": "300230010",
+        "nombre": "El Avión"
+    },
+    {
+        "clave": "300230011",
+        "nombre": "San Isidro (El Barranco)"
+    },
+    {
+        "clave": "300230012",
+        "nombre": "Barrancones"
+    },
+    {
+        "clave": "300230013",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "300230014",
+        "nombre": "El Campamento"
+    },
+    {
+        "clave": "300230015",
+        "nombre": "Cochota"
+    },
+    {
+        "clave": "300230016",
+        "nombre": "Copalillo II (El Palmar)"
+    },
+    {
+        "clave": "300230017",
+        "nombre": "Copalillo I"
+    },
+    {
+        "clave": "300230018",
+        "nombre": "Coyomico"
+    },
+    {
+        "clave": "300230019",
+        "nombre": "Cuauhtémoc"
+    },
+    {
+        "clave": "300230020",
+        "nombre": "Cuauzapotitán"
+    },
+    {
+        "clave": "300230021",
+        "nombre": "Chachalaca"
+    },
+    {
+        "clave": "300230022",
+        "nombre": "Chaparro Grande"
+    },
+    {
+        "clave": "300230023",
+        "nombre": "Chilacayote"
+    },
+    {
+        "clave": "300230024",
+        "nombre": "La Chivería"
+    },
+    {
+        "clave": "300230026",
+        "nombre": "El Equimite"
+    },
+    {
+        "clave": "300230027",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "300230028",
+        "nombre": "La Florida"
+    },
+    {
+        "clave": "300230029",
+        "nombre": "Independencia"
+    },
+    {
+        "clave": "300230030",
+        "nombre": "Ictzictic"
+    },
+    {
+        "clave": "300230031",
+        "nombre": "Ixtatahuía"
+    },
+    {
+        "clave": "300230032",
+        "nombre": "El Jardín"
+    },
+    {
+        "clave": "300230033",
+        "nombre": "Javier Rojo Gómez (Novara)"
+    },
+    {
+        "clave": "300230034",
+        "nombre": "Lagartos"
+    },
+    {
+        "clave": "300230036",
+        "nombre": "Loma del Rayo"
+    },
+    {
+        "clave": "300230037",
+        "nombre": "Martinica"
+    },
+    {
+        "clave": "300230038",
+        "nombre": "Miramar"
+    },
+    {
+        "clave": "300230039",
+        "nombre": "Napoala"
+    },
+    {
+        "clave": "300230040",
+        "nombre": "Naranjillo"
+    },
+    {
+        "clave": "300230042",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "300230043",
+        "nombre": "El Olmo"
+    },
+    {
+        "clave": "300230044",
+        "nombre": "Olopiota"
+    },
+    {
+        "clave": "300230045",
+        "nombre": "El Olvido"
+    },
+    {
+        "clave": "300230046",
+        "nombre": "Pahua Hueca"
+    },
+    {
+        "clave": "300230047",
+        "nombre": "Palmarcillo"
+    },
+    {
+        "clave": "300230048",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "300230050",
+        "nombre": "Papalocuautla"
+    },
+    {
+        "clave": "300230051",
+        "nombre": "El Pedrón"
+    },
+    {
+        "clave": "300230052",
+        "nombre": "Peñas de Almanza"
+    },
+    {
+        "clave": "300230053",
+        "nombre": "El Pimiento"
+    },
+    {
+        "clave": "300230054",
+        "nombre": "Plan de Arroyos"
+    },
+    {
+        "clave": "300230055",
+        "nombre": "Plan de Limón"
+    },
+    {
+        "clave": "300230057",
+        "nombre": "El Pozón"
+    },
+    {
+        "clave": "300230058",
+        "nombre": "El Progreso"
+    },
+    {
+        "clave": "300230059",
+        "nombre": "La Reforma"
+    },
+    {
+        "clave": "300230060",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "300230061",
+        "nombre": "San Bartolo"
+    },
+    {
+        "clave": "300230063",
+        "nombre": "Cerro de San Francisco"
+    },
+    {
+        "clave": "300230064",
+        "nombre": "San Pedro Buenavista"
+    },
+    {
+        "clave": "300230065",
+        "nombre": "San Salvador"
+    },
+    {
+        "clave": "300230066",
+        "nombre": "Santiago"
+    },
+    {
+        "clave": "300230067",
+        "nombre": "Sompazol"
+    },
+    {
+        "clave": "300230068",
+        "nombre": "Tatzallanala"
+    },
+    {
+        "clave": "300230069",
+        "nombre": "Tazolapa"
+    },
+    {
+        "clave": "300230072",
+        "nombre": "El Tesoro"
+    },
+    {
+        "clave": "300230073",
+        "nombre": "Tierra Nueva"
+    },
+    {
+        "clave": "300230074",
+        "nombre": "Tilzapota"
+    },
+    {
+        "clave": "300230075",
+        "nombre": "Toxtepec"
+    },
+    {
+        "clave": "300230076",
+        "nombre": "Xiocuilapa"
+    },
+    {
+        "clave": "300230079",
+        "nombre": "Zapote Redondo"
+    },
+    {
+        "clave": "300230080",
+        "nombre": "Zapotitlán"
+    },
+    {
+        "clave": "300230082",
+        "nombre": "San Pedro Altepepan"
+    },
+    {
+        "clave": "300230083",
+        "nombre": "Atenco"
+    },
+    {
+        "clave": "300230084",
+        "nombre": "Pilares"
+    },
+    {
+        "clave": "300230085",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "300230086",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "300230087",
+        "nombre": "Tallohuaya"
+    },
+    {
+        "clave": "300230088",
+        "nombre": "Tamolotes"
+    },
+    {
+        "clave": "300230092",
+        "nombre": "Texcapa"
+    },
+    {
+        "clave": "300230094",
+        "nombre": "Cueva Santa"
+    },
+    {
+        "clave": "300230097",
+        "nombre": "Moyota"
+    },
+    {
+        "clave": "300230100",
+        "nombre": "El Azotal"
+    },
+    {
+        "clave": "300230101",
+        "nombre": "Las Trojas"
+    },
+    {
+        "clave": "300230103",
+        "nombre": "Cruz Gorda"
+    },
+    {
+        "clave": "300230105",
+        "nombre": "Tepantepec"
+    },
+    {
+        "clave": "300230106",
+        "nombre": "Pochotita"
+    },
+    {
+        "clave": "300230107",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "300230109",
+        "nombre": "Santo Domingo (Arroyo Negro)"
+    },
+    {
+        "clave": "300230110",
+        "nombre": "Tlacolula"
+    },
+    {
+        "clave": "300230111",
+        "nombre": "Xicotes"
+    },
+    {
+        "clave": "300230112",
+        "nombre": "Vega del Río de San Pedro"
+    },
+    {
+        "clave": "300230114",
+        "nombre": "Tatempa"
+    },
+    {
+        "clave": "300230116",
+        "nombre": "Cuatro Caminos"
+    },
+    {
+        "clave": "300230117",
+        "nombre": "Tinajas"
+    },
+    {
+        "clave": "300230121",
+        "nombre": "Cerro del Candelero (Huipanguillo)"
+    },
+    {
+        "clave": "300230122",
+        "nombre": "Norberto Aguirre Palancares"
+    },
+    {
+        "clave": "300230124",
+        "nombre": "Agua Santa"
+    },
+    {
+        "clave": "300230125",
+        "nombre": "El Anayal"
+    },
+    {
+        "clave": "300230126",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "300230127",
+        "nombre": "La Noria (Arrieral)"
+    },
+    {
+        "clave": "300230128",
+        "nombre": "Zapotal"
+    },
+    {
+        "clave": "300230130",
+        "nombre": "Bernavés"
+    },
+    {
+        "clave": "300230131",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "300230136",
+        "nombre": "Cerro del Águila"
+    },
+    {
+        "clave": "300230137",
+        "nombre": "La Concepción"
+    },
+    {
+        "clave": "300230142",
+        "nombre": "Díaz Mirón"
+    },
+    {
+        "clave": "300230144",
+        "nombre": "El Fortín"
+    },
+    {
+        "clave": "300230146",
+        "nombre": "Huatamimilo"
+    },
+    {
+        "clave": "300230150",
+        "nombre": "El Ingenio"
+    },
+    {
+        "clave": "300230151",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "300230153",
+        "nombre": "Loma de las Flores"
+    },
+    {
+        "clave": "300230155",
+        "nombre": "María García"
+    },
+    {
+        "clave": "300230158",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "300230161",
+        "nombre": "Petoloya"
+    },
+    {
+        "clave": "300230162",
+        "nombre": "Piedra Grande"
+    },
+    {
+        "clave": "300230165",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "300230166",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "300230169",
+        "nombre": "Tacocuautla"
+    },
+    {
+        "clave": "300230172",
+        "nombre": "Toxtixtaca"
+    },
+    {
+        "clave": "300230173",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "300230178",
+        "nombre": "La Cuadrada"
+    },
+    {
+        "clave": "300230179",
+        "nombre": "Macuiltepec"
+    },
+    {
+        "clave": "300230180",
+        "nombre": "Azotillo"
+    },
+    {
+        "clave": "300230181",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "300230182",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "300230183",
+        "nombre": "Santa Rosa (El Edén)"
+    },
+    {
+        "clave": "300230184",
+        "nombre": "San José"
+    },
+    {
+        "clave": "300230185",
+        "nombre": "Coronillo"
+    },
+    {
+        "clave": "300230186",
+        "nombre": "Naranjal"
+    },
+    {
+        "clave": "300230189",
+        "nombre": "Pino Solo"
+    },
+    {
+        "clave": "300230190",
+        "nombre": "Nanzolco"
+    },
+    {
+        "clave": "300230191",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "300230196",
+        "nombre": "El Río Bobos (El Filo)"
+    },
+    {
+        "clave": "300230199",
+        "nombre": "Dos Aguas"
+    },
+    {
+        "clave": "300230200",
+        "nombre": "La Fortuna"
+    },
+    {
+        "clave": "300230207",
+        "nombre": "Tres de Mayo"
+    },
+    {
+        "clave": "300230218",
+        "nombre": "Martínez y Martínez"
+    },
+    {
+        "clave": "300230220",
+        "nombre": "Mirador II"
+    },
+    {
+        "clave": "300230223",
+        "nombre": "Pinolillo"
+    },
+    {
+        "clave": "300230224",
+        "nombre": "Plan de las Ánimas"
+    },
+    {
+        "clave": "300230226",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "300230227",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "300230230",
+        "nombre": "Xampolco"
+    },
+    {
+        "clave": "300230231",
+        "nombre": "Xochtita"
+    },
+    {
+        "clave": "300230232",
+        "nombre": "Tomata (Anexo Pilares)"
+    },
+    {
+        "clave": "300230233",
+        "nombre": "La Cascada"
+    },
+    {
+        "clave": "300230234",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "300230235",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "300230237",
+        "nombre": "La Punta"
+    },
+    {
+        "clave": "300230239",
+        "nombre": "Sierra Alta"
+    },
+    {
+        "clave": "300230241",
+        "nombre": "Acatitán"
+    },
+    {
+        "clave": "300230242",
+        "nombre": "Colonia José Preza"
+    },
+    {
+        "clave": "300230245",
+        "nombre": "El Taconazo"
+    },
+    {
+        "clave": "300230246",
+        "nombre": "El Pinal"
+    },
+    {
+        "clave": "300230250",
+        "nombre": "Colonias Pedernales"
+    },
+    {
+        "clave": "300230001",
+        "nombre": "Atzalan"
+    },
+    {
+        "clave": "300230056",
+        "nombre": "Pompeya"
+    },
+    {
+        "clave": "300230062",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "300230070",
+        "nombre": "Tepanapa"
+    },
+    {
+        "clave": "300230141",
+        "nombre": "Cuajilote (Filobobos)"
+    },
+    {
+        "clave": "300230160",
+        "nombre": "El Palmo"
+    },
+    {
+        "clave": "300230187",
+        "nombre": "Martha Ruiz"
+    },
+    {
+        "clave": "300230192",
+        "nombre": "Loma del Galón"
+    },
+    {
+        "clave": "300230195",
+        "nombre": "Pitalillo"
+    },
+    {
+        "clave": "300230197",
+        "nombre": "Portezuelo"
+    },
+    {
+        "clave": "300230198",
+        "nombre": "Alborada"
+    },
+    {
+        "clave": "300230201",
+        "nombre": "Ixtoteno Sección Cuarta (Casa Blanca)"
+    },
+    {
+        "clave": "300230202",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "300230203",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "300230204",
+        "nombre": "La Colorada"
+    },
+    {
+        "clave": "300230205",
+        "nombre": "San Ángel"
+    },
+    {
+        "clave": "300230206",
+        "nombre": "San Javier"
+    },
+    {
+        "clave": "300230208",
+        "nombre": "Arroyo Blanco"
+    },
+    {
+        "clave": "300230209",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "300230210",
+        "nombre": "El Cedral"
+    },
+    {
+        "clave": "300230211",
+        "nombre": "Cielo Azul"
+    },
+    {
+        "clave": "300230212",
+        "nombre": "Las Delicias"
+    },
+    {
+        "clave": "300230213",
+        "nombre": "La Estrella"
+    },
+    {
+        "clave": "300230214",
+        "nombre": "La Laja"
+    },
+    {
+        "clave": "300230216",
+        "nombre": "Loma Alta"
+    },
+    {
+        "clave": "300230219",
+        "nombre": "Mirador I"
+    },
+    {
+        "clave": "300230225",
+        "nombre": "La Poza"
+    },
+    {
+        "clave": "300230229",
+        "nombre": "Vega de la Peña"
+    },
+    {
+        "clave": "300230236",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "300230238",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "300230240",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "300230243",
+        "nombre": "Las Vegas"
+    },
+    {
+        "clave": "300230248",
+        "nombre": "San Juan Ahuatlán"
+    },
+    {
+        "clave": "300230249",
+        "nombre": "Los Pilares"
+    },
+    {
+        "clave": "300230251",
+        "nombre": "Seis de Mayo"
+    }
+]

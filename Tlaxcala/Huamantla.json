@@ -1,0 +1,718 @@
+[
+    {
+        "clave": "290130118",
+        "nombre": "Fracción la Natividad"
+    },
+    {
+        "clave": "290130147",
+        "nombre": "Fracción Santa Ana Ríos"
+    },
+    {
+        "clave": "290130204",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "290130212",
+        "nombre": "Santa Bárbara"
+    },
+    {
+        "clave": "290130214",
+        "nombre": "Sarita de la Montaña"
+    },
+    {
+        "clave": "290130222",
+        "nombre": "Los Cerritos (Huerta María Luisa)"
+    },
+    {
+        "clave": "290130247",
+        "nombre": "Ejido Atenco"
+    },
+    {
+        "clave": "290130002",
+        "nombre": "Colonia Altamira Guadalupe"
+    },
+    {
+        "clave": "290130006",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "290130010",
+        "nombre": "La Providencia (El Conquián)"
+    },
+    {
+        "clave": "290130015",
+        "nombre": "Colonia Hermenegildo Galeana"
+    },
+    {
+        "clave": "290130016",
+        "nombre": "Ignacio Zaragoza"
+    },
+    {
+        "clave": "290130018",
+        "nombre": "José María Morelos"
+    },
+    {
+        "clave": "290130019",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "290130025",
+        "nombre": "Los Pilares"
+    },
+    {
+        "clave": "290130032",
+        "nombre": "San Francisco Tecóac [Colonia]"
+    },
+    {
+        "clave": "290130037",
+        "nombre": "Santa Clara Sotoltepec"
+    },
+    {
+        "clave": "290130039",
+        "nombre": "NCP San José Teacalco"
+    },
+    {
+        "clave": "290130042",
+        "nombre": "Ranchería de Torres"
+    },
+    {
+        "clave": "290130044",
+        "nombre": "San José Xicohténcatl"
+    },
+    {
+        "clave": "290130045",
+        "nombre": "Santa María Magdalena Xonecuila"
+    },
+    {
+        "clave": "290130046",
+        "nombre": "Colonia el Valle"
+    },
+    {
+        "clave": "290130047",
+        "nombre": "NCP José María Morelos"
+    },
+    {
+        "clave": "290130048",
+        "nombre": "Colonia Licenciado Mauro Angulo"
+    },
+    {
+        "clave": "290130049",
+        "nombre": "General Francisco Villa"
+    },
+    {
+        "clave": "290130053",
+        "nombre": "Los Álamos [Rancho]"
+    },
+    {
+        "clave": "290130054",
+        "nombre": "Colonia Agrícola San Martín Notario"
+    },
+    {
+        "clave": "290130071",
+        "nombre": "La Lima [Ranchería]"
+    },
+    {
+        "clave": "290130076",
+        "nombre": "Colonia Francisco I. Madero la Mesa"
+    },
+    {
+        "clave": "290130077",
+        "nombre": "Colonia Francisco Villa Tecóac"
+    },
+    {
+        "clave": "290130084",
+        "nombre": "Colonia Acasillados San Martín Notario"
+    },
+    {
+        "clave": "290130090",
+        "nombre": "Colonia Francisco I. Madero Tecóac"
+    },
+    {
+        "clave": "290130091",
+        "nombre": "El Sueño"
+    },
+    {
+        "clave": "290130092",
+        "nombre": "Santa Margarita"
+    },
+    {
+        "clave": "290130097",
+        "nombre": "El Molino [Ranchería]"
+    },
+    {
+        "clave": "290130101",
+        "nombre": "Ampliación Felipe Carrillo Puerto"
+    },
+    {
+        "clave": "290130129",
+        "nombre": "San Diego Xalpatlahuaya"
+    },
+    {
+        "clave": "290130165",
+        "nombre": "Fracción Soltepec (El Rincón)"
+    },
+    {
+        "clave": "290130237",
+        "nombre": "La Mesita"
+    },
+    {
+        "clave": "290130001",
+        "nombre": "Huamantla"
+    },
+    {
+        "clave": "290130005",
+        "nombre": "San Pedro el Batán"
+    },
+    {
+        "clave": "290130007",
+        "nombre": "Huerta de la Trinidad"
+    },
+    {
+        "clave": "290130008",
+        "nombre": "El Carmen Xalpatlahuaya"
+    },
+    {
+        "clave": "290130009",
+        "nombre": "Ex-hacienda la Compañía"
+    },
+    {
+        "clave": "290130012",
+        "nombre": "Colonia Cuauhtémoc"
+    },
+    {
+        "clave": "290130013",
+        "nombre": "Colonia Chapultepec"
+    },
+    {
+        "clave": "290130014",
+        "nombre": "Ex-hacienda de Guadalupe"
+    },
+    {
+        "clave": "290130021",
+        "nombre": "San Martín Notario"
+    },
+    {
+        "clave": "290130030",
+        "nombre": "San Antonio Atenco"
+    },
+    {
+        "clave": "290130031",
+        "nombre": "San Diego Meca"
+    },
+    {
+        "clave": "290130033",
+        "nombre": "Los Sauces"
+    },
+    {
+        "clave": "290130034",
+        "nombre": "San Miguel Vista Hermosa [Rancho]"
+    },
+    {
+        "clave": "290130035",
+        "nombre": "San Miguel Báez"
+    },
+    {
+        "clave": "290130036",
+        "nombre": "Santa Ana Ríos"
+    },
+    {
+        "clave": "290130040",
+        "nombre": "Ex-hacienda Santo Domingo"
+    },
+    {
+        "clave": "290130043",
+        "nombre": "Ex-hacienda San Diego Xalpatlahuaya"
+    },
+    {
+        "clave": "290130052",
+        "nombre": "San Cristóbal de la Laguna"
+    },
+    {
+        "clave": "290130061",
+        "nombre": "Santiago Brito"
+    },
+    {
+        "clave": "290130075",
+        "nombre": "Rancho Cabildo"
+    },
+    {
+        "clave": "290130079",
+        "nombre": "San Francisco Notario"
+    },
+    {
+        "clave": "290130082",
+        "nombre": "San Pablito [Rancho]"
+    },
+    {
+        "clave": "290130085",
+        "nombre": "Ex-hacienda Santa Bárbara"
+    },
+    {
+        "clave": "290130094",
+        "nombre": "San Diego Baquedano"
+    },
+    {
+        "clave": "290130100",
+        "nombre": "Unidad Lechera San Antonio Tecopilco"
+    },
+    {
+        "clave": "290130102",
+        "nombre": "Rancho de las Flores"
+    },
+    {
+        "clave": "290130103",
+        "nombre": "Fidencio Hinojosa López"
+    },
+    {
+        "clave": "290130105",
+        "nombre": "Gonzalo López León"
+    },
+    {
+        "clave": "290130106",
+        "nombre": "Rancho Maricarmen"
+    },
+    {
+        "clave": "290130107",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "290130108",
+        "nombre": "Fracción del Rosario"
+    },
+    {
+        "clave": "290130109",
+        "nombre": "Las Bugambilias"
+    },
+    {
+        "clave": "290130110",
+        "nombre": "Ejido Yancuitlalpan"
+    },
+    {
+        "clave": "290130112",
+        "nombre": "Rosendo Loaiza Flores"
+    },
+    {
+        "clave": "290130114",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "290130116",
+        "nombre": "El Dólar"
+    },
+    {
+        "clave": "290130117",
+        "nombre": "Guadalupe López Márquez"
+    },
+    {
+        "clave": "290130122",
+        "nombre": "Cerro Alto"
+    },
+    {
+        "clave": "290130123",
+        "nombre": "La Cruz [Rancho]"
+    },
+    {
+        "clave": "290130125",
+        "nombre": "Rancho el Cristo"
+    },
+    {
+        "clave": "290130130",
+        "nombre": "Francisco Hernández"
+    },
+    {
+        "clave": "290130132",
+        "nombre": "Constantino Hernández"
+    },
+    {
+        "clave": "290130134",
+        "nombre": "La Cabaña"
+    },
+    {
+        "clave": "290130135",
+        "nombre": "Paraje Nuevo la Cruz"
+    },
+    {
+        "clave": "290130137",
+        "nombre": "Crucero de Juárez"
+    },
+    {
+        "clave": "290130139",
+        "nombre": "Silvestre García Altamirano"
+    },
+    {
+        "clave": "290130140",
+        "nombre": "Cornelio Márquez"
+    },
+    {
+        "clave": "290130142",
+        "nombre": "Ricardo Flores Magón [Deshidratadora de Alfalfa]"
+    },
+    {
+        "clave": "290130143",
+        "nombre": "Jorge Aquino"
+    },
+    {
+        "clave": "290130144",
+        "nombre": "Los Teteles"
+    },
+    {
+        "clave": "290130145",
+        "nombre": "Establo Tercera Ampliación Grupo Colectivo Benito Juárez"
+    },
+    {
+        "clave": "290130146",
+        "nombre": "Esteban Briones"
+    },
+    {
+        "clave": "290130148",
+        "nombre": "Fracción Xonecuila (Las Palmas)"
+    },
+    {
+        "clave": "290130149",
+        "nombre": "Alejandro Aguilar"
+    },
+    {
+        "clave": "290130151",
+        "nombre": "Alfredo Báez"
+    },
+    {
+        "clave": "290130153",
+        "nombre": "San Rafael Tepatlaxco el Bajo"
+    },
+    {
+        "clave": "290130157",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "290130161",
+        "nombre": "San Juan Ocotitla"
+    },
+    {
+        "clave": "290130162",
+        "nombre": "Aurelio Zepeda Rosales"
+    },
+    {
+        "clave": "290130163",
+        "nombre": "La Carreta"
+    },
+    {
+        "clave": "290130164",
+        "nombre": "Ranchito María Guadalupe"
+    },
+    {
+        "clave": "290130166",
+        "nombre": "Santa Clara [Gasolinera]"
+    },
+    {
+        "clave": "290130167",
+        "nombre": "San Jorge"
+    },
+    {
+        "clave": "290130168",
+        "nombre": "Miguel Arias"
+    },
+    {
+        "clave": "290130169",
+        "nombre": "Chapultepec [Gasolinera]"
+    },
+    {
+        "clave": "290130172",
+        "nombre": "San Juan Bautista"
+    },
+    {
+        "clave": "290130173",
+        "nombre": "San Diego (Las Animas)"
+    },
+    {
+        "clave": "290130174",
+        "nombre": "Ángel de Gabriel de Ramón"
+    },
+    {
+        "clave": "290130175",
+        "nombre": "Apolinar Rodríguez"
+    },
+    {
+        "clave": "290130176",
+        "nombre": "La Cabaña"
+    },
+    {
+        "clave": "290130177",
+        "nombre": "Candelario Sánchez"
+    },
+    {
+        "clave": "290130178",
+        "nombre": "Cruz Montiel"
+    },
+    {
+        "clave": "290130179",
+        "nombre": "Ejido Juárez"
+    },
+    {
+        "clave": "290130180",
+        "nombre": "Enrique de Gabriel de Ramón"
+    },
+    {
+        "clave": "290130181",
+        "nombre": "Ernesto Montiel"
+    },
+    {
+        "clave": "290130182",
+        "nombre": "Ex-hacienda San Bartolo"
+    },
+    {
+        "clave": "290130183",
+        "nombre": "Rancho el Tepeyac"
+    },
+    {
+        "clave": "290130184",
+        "nombre": "José Manuel Flores"
+    },
+    {
+        "clave": "290130185",
+        "nombre": "Fracción de Xonecuila"
+    },
+    {
+        "clave": "290130186",
+        "nombre": "Rancho Bonilla [Fracción]"
+    },
+    {
+        "clave": "290130187",
+        "nombre": "La Huerta"
+    },
+    {
+        "clave": "290130188",
+        "nombre": "Ernesto Gómez"
+    },
+    {
+        "clave": "290130189",
+        "nombre": "Ladislao Barrientos"
+    },
+    {
+        "clave": "290130190",
+        "nombre": "Libramiento de las Flores"
+    },
+    {
+        "clave": "290130191",
+        "nombre": "Luis Lira Hernández"
+    },
+    {
+        "clave": "290130192",
+        "nombre": "Marco Antonio González Contreras"
+    },
+    {
+        "clave": "290130193",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "290130194",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "290130195",
+        "nombre": "Las Palomas"
+    },
+    {
+        "clave": "290130196",
+        "nombre": "Parque Industrial Huamantla 2000"
+    },
+    {
+        "clave": "290130197",
+        "nombre": "La Pedrera"
+    },
+    {
+        "clave": "290130198",
+        "nombre": "El Pilar"
+    },
+    {
+        "clave": "290130199",
+        "nombre": "Los Pinos Dos"
+    },
+    {
+        "clave": "290130200",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "290130201",
+        "nombre": "Pozo Número Siete"
+    },
+    {
+        "clave": "290130202",
+        "nombre": "Rancho Cerón"
+    },
+    {
+        "clave": "290130203",
+        "nombre": "Rancho de los Pinos Altos"
+    },
+    {
+        "clave": "290130205",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "290130206",
+        "nombre": "Rancho Santa Emilia"
+    },
+    {
+        "clave": "290130207",
+        "nombre": "El Rebombeo"
+    },
+    {
+        "clave": "290130208",
+        "nombre": "Rancho María Elena"
+    },
+    {
+        "clave": "290130210",
+        "nombre": "San Antonio el Ahuilote"
+    },
+    {
+        "clave": "290130211",
+        "nombre": "San Constantino"
+    },
+    {
+        "clave": "290130213",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "290130215",
+        "nombre": "Tirso Gutiérrez"
+    },
+    {
+        "clave": "290130216",
+        "nombre": "Tubera Guadalupe"
+    },
+    {
+        "clave": "290130217",
+        "nombre": "La Virgen"
+    },
+    {
+        "clave": "290130218",
+        "nombre": "El Volante"
+    },
+    {
+        "clave": "290130219",
+        "nombre": "Fraccionamiento VIVAH (Barrio de San Lucas)"
+    },
+    {
+        "clave": "290130220",
+        "nombre": "Los Cerritos"
+    },
+    {
+        "clave": "290130221",
+        "nombre": "Fermín Vázquez Ventura"
+    },
+    {
+        "clave": "290130223",
+        "nombre": "José de Jesús Sánchez Carrillo"
+    },
+    {
+        "clave": "290130224",
+        "nombre": "José Juan Romero López"
+    },
+    {
+        "clave": "290130225",
+        "nombre": "Luciano Cuéllar Vázquez"
+    },
+    {
+        "clave": "290130226",
+        "nombre": "Pozo la Escondida"
+    },
+    {
+        "clave": "290130227",
+        "nombre": "Los Ramales"
+    },
+    {
+        "clave": "290130228",
+        "nombre": "Rocio Varela Gálvez"
+    },
+    {
+        "clave": "290130229",
+        "nombre": "San Antonio los Pinos"
+    },
+    {
+        "clave": "290130230",
+        "nombre": "La Perseverancia"
+    },
+    {
+        "clave": "290130231",
+        "nombre": "Santa Lilia"
+    },
+    {
+        "clave": "290130232",
+        "nombre": "Guillermo Reyes Florentino"
+    },
+    {
+        "clave": "290130233",
+        "nombre": "Ejido Cuauhtémoc"
+    },
+    {
+        "clave": "290130234",
+        "nombre": "Ejido Ignacio Zaragoza"
+    },
+    {
+        "clave": "290130235",
+        "nombre": "El Cristo (Don Carmelo)"
+    },
+    {
+        "clave": "290130236",
+        "nombre": "Jorge Pioquinto"
+    },
+    {
+        "clave": "290130238",
+        "nombre": "Luis Sánchez Romero"
+    },
+    {
+        "clave": "290130239",
+        "nombre": "Martín Santiago Vázquez"
+    },
+    {
+        "clave": "290130240",
+        "nombre": "Parque Ecológico Deportivo el Centenario"
+    },
+    {
+        "clave": "290130241",
+        "nombre": "Real de la Paz"
+    },
+    {
+        "clave": "290130242",
+        "nombre": "Roberto Blancas Flores"
+    },
+    {
+        "clave": "290130243",
+        "nombre": "Trinidad Altamirano Hernández"
+    },
+    {
+        "clave": "290130244",
+        "nombre": "Víctor Lima (El Establito)"
+    },
+    {
+        "clave": "290130245",
+        "nombre": "San Mateo [Rancho]"
+    },
+    {
+        "clave": "290130246",
+        "nombre": "El Arenal (Pozo Número 8)"
+    },
+    {
+        "clave": "290130248",
+        "nombre": "La Loma (Juan Flores)"
+    },
+    {
+        "clave": "290130249",
+        "nombre": "Mariano Torres"
+    },
+    {
+        "clave": "290130250",
+        "nombre": "El Rincón de los Santos [Rancho]"
+    },
+    {
+        "clave": "290130251",
+        "nombre": "Santa Magdalena"
+    },
+    {
+        "clave": "290130252",
+        "nombre": "Santo Domingo (Las Palomas)"
+    },
+    {
+        "clave": "290130253",
+        "nombre": "Bernardino Santos"
+    }
+]

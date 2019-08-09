@@ -1,0 +1,730 @@
+[
+    {
+        "clave": "200430024",
+        "nombre": "Piedra Larga"
+    },
+    {
+        "clave": "200430030",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "200430039",
+        "nombre": "Colonia Santa Rosita"
+    },
+    {
+        "clave": "200430054",
+        "nombre": "Río Viejo (Mojonera)"
+    },
+    {
+        "clave": "200430063",
+        "nombre": "Primera Curva"
+    },
+    {
+        "clave": "200430071",
+        "nombre": "Estero Guiee"
+    },
+    {
+        "clave": "200430076",
+        "nombre": "Rancho Martín Vicente"
+    },
+    {
+        "clave": "200430092",
+        "nombre": "Camotepec"
+    },
+    {
+        "clave": "200430117",
+        "nombre": "Rancho Torres"
+    },
+    {
+        "clave": "200430125",
+        "nombre": "Los Vicente"
+    },
+    {
+        "clave": "200430163",
+        "nombre": "Colonia 6 de Noviembre"
+    },
+    {
+        "clave": "200430167",
+        "nombre": "Colonia 16 de Septiembre"
+    },
+    {
+        "clave": "200430170",
+        "nombre": "Rancho de Luis Antonio Jiménez"
+    },
+    {
+        "clave": "200430178",
+        "nombre": "Rancho Tierra y Libertad"
+    },
+    {
+        "clave": "200430002",
+        "nombre": "Álvaro Obregón"
+    },
+    {
+        "clave": "200430003",
+        "nombre": "Chicapa de Castro"
+    },
+    {
+        "clave": "200430004",
+        "nombre": "Santa María del Mar"
+    },
+    {
+        "clave": "200430006",
+        "nombre": "La Ventosa"
+    },
+    {
+        "clave": "200430009",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "200430015",
+        "nombre": "Parada San Vicente"
+    },
+    {
+        "clave": "200430025",
+        "nombre": "Playa San Vicente"
+    },
+    {
+        "clave": "200430029",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "200430031",
+        "nombre": "Charis"
+    },
+    {
+        "clave": "200430059",
+        "nombre": "Pepe y Lolita"
+    },
+    {
+        "clave": "200430083",
+        "nombre": "Rancho de los Vásquez (Colonia Palomar)"
+    },
+    {
+        "clave": "200430105",
+        "nombre": "El Caballero Burro"
+    },
+    {
+        "clave": "200430124",
+        "nombre": "Colonia Jesús González Cortaza"
+    },
+    {
+        "clave": "200430145",
+        "nombre": "15 de Agosto"
+    },
+    {
+        "clave": "200430146",
+        "nombre": "Colonia 19 de Marzo (Colonia San José)"
+    },
+    {
+        "clave": "200430148",
+        "nombre": "Colonia de la Amistad"
+    },
+    {
+        "clave": "200430150",
+        "nombre": "Colonia José Yola"
+    },
+    {
+        "clave": "200430151",
+        "nombre": "Colonia Mariano Montero"
+    },
+    {
+        "clave": "200430152",
+        "nombre": "Colonia San Isidro"
+    },
+    {
+        "clave": "200430153",
+        "nombre": "Colonia San Vicente"
+    },
+    {
+        "clave": "200430158",
+        "nombre": "El Pirul (El Retiro)"
+    },
+    {
+        "clave": "200430179",
+        "nombre": "Colonia 5 de Septiembre"
+    },
+    {
+        "clave": "200430001",
+        "nombre": "Heroica Ciudad de Juchitán de Zaragoza"
+    },
+    {
+        "clave": "200430005",
+        "nombre": "La Venta"
+    },
+    {
+        "clave": "200430010",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "200430019",
+        "nombre": "Rancho Chabela"
+    },
+    {
+        "clave": "200430020",
+        "nombre": "Salinas Dubaguichi"
+    },
+    {
+        "clave": "200430021",
+        "nombre": "La Estancia (Santa Cecilia)"
+    },
+    {
+        "clave": "200430023",
+        "nombre": "Pepe y Paty"
+    },
+    {
+        "clave": "200430026",
+        "nombre": "San Marcos la Mojonera"
+    },
+    {
+        "clave": "200430027",
+        "nombre": "Salinas Santa Cruz"
+    },
+    {
+        "clave": "200430034",
+        "nombre": "Camotepec (Rancho Aquino)"
+    },
+    {
+        "clave": "200430036",
+        "nombre": "Solo Dios"
+    },
+    {
+        "clave": "200430037",
+        "nombre": "Minerva"
+    },
+    {
+        "clave": "200430038",
+        "nombre": "Los Aguacates"
+    },
+    {
+        "clave": "200430047",
+        "nombre": "Los Betanzos II"
+    },
+    {
+        "clave": "200430048",
+        "nombre": "Santa Lucía"
+    },
+    {
+        "clave": "200430051",
+        "nombre": "Onésimas (Argelino Solórzano)"
+    },
+    {
+        "clave": "200430052",
+        "nombre": "El Paso"
+    },
+    {
+        "clave": "200430053",
+        "nombre": "Los Ordaz II"
+    },
+    {
+        "clave": "200430056",
+        "nombre": "Ojo de Agua (Tolistoque)"
+    },
+    {
+        "clave": "200430057",
+        "nombre": "Los Cocos"
+    },
+    {
+        "clave": "200430058",
+        "nombre": "Nueva Vida"
+    },
+    {
+        "clave": "200430060",
+        "nombre": "Rancho Guadalupe"
+    },
+    {
+        "clave": "200430061",
+        "nombre": "Rancho Guadalupe"
+    },
+    {
+        "clave": "200430064",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "200430065",
+        "nombre": "Esquipulas"
+    },
+    {
+        "clave": "200430066",
+        "nombre": "Camotepec"
+    },
+    {
+        "clave": "200430067",
+        "nombre": "Campo Experimental Agropecuario (SARH)"
+    },
+    {
+        "clave": "200430068",
+        "nombre": "Cerro Cristo"
+    },
+    {
+        "clave": "200430069",
+        "nombre": "El Chamizal (Toledo Cueto)"
+    },
+    {
+        "clave": "200430070",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "200430072",
+        "nombre": "Rancho Agrícola"
+    },
+    {
+        "clave": "200430073",
+        "nombre": "Rancho Domitilo Márquez"
+    },
+    {
+        "clave": "200430075",
+        "nombre": "Gaspar Torres Urbieta"
+    },
+    {
+        "clave": "200430077",
+        "nombre": "La Llovizna"
+    },
+    {
+        "clave": "200430078",
+        "nombre": "Rancho Don Cutberto"
+    },
+    {
+        "clave": "200430080",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "200430081",
+        "nombre": "Rancho Chuvalessa"
+    },
+    {
+        "clave": "200430082",
+        "nombre": "Rancho Esmeralda"
+    },
+    {
+        "clave": "200430084",
+        "nombre": "Rancho Francisco"
+    },
+    {
+        "clave": "200430085",
+        "nombre": "Rancho Juanita"
+    },
+    {
+        "clave": "200430086",
+        "nombre": "Rancho Lucita"
+    },
+    {
+        "clave": "200430087",
+        "nombre": "Rancho Vera"
+    },
+    {
+        "clave": "200430088",
+        "nombre": "El Chaparral"
+    },
+    {
+        "clave": "200430089",
+        "nombre": "San Ángel"
+    },
+    {
+        "clave": "200430090",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "200430091",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "200430093",
+        "nombre": "Santa Cecilia (José Sánchez Bartolo)"
+    },
+    {
+        "clave": "200430094",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "200430095",
+        "nombre": "Los Santiago"
+    },
+    {
+        "clave": "200430096",
+        "nombre": "Juchitán"
+    },
+    {
+        "clave": "200430097",
+        "nombre": "Rancho Adelma"
+    },
+    {
+        "clave": "200430099",
+        "nombre": "Periférico Norte [Colonia]"
+    },
+    {
+        "clave": "200430100",
+        "nombre": "Rancho Huarache"
+    },
+    {
+        "clave": "200430102",
+        "nombre": "Santa Clara"
+    },
+    {
+        "clave": "200430103",
+        "nombre": "Tenería"
+    },
+    {
+        "clave": "200430104",
+        "nombre": "Rancho Alicia Matus"
+    },
+    {
+        "clave": "200430106",
+        "nombre": "Rancho Cándido Sánchez"
+    },
+    {
+        "clave": "200430107",
+        "nombre": "Dos Hermanos"
+    },
+    {
+        "clave": "200430108",
+        "nombre": "Rancho Gorgonio Antonio"
+    },
+    {
+        "clave": "200430109",
+        "nombre": "Hermanos Luis López"
+    },
+    {
+        "clave": "200430110",
+        "nombre": "Huanacastal"
+    },
+    {
+        "clave": "200430111",
+        "nombre": "La Liebre [Paraje]"
+    },
+    {
+        "clave": "200430112",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "200430113",
+        "nombre": "La Negrita"
+    },
+    {
+        "clave": "200430114",
+        "nombre": "Rancho Nemesio Valdivieso López"
+    },
+    {
+        "clave": "200430115",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "200430116",
+        "nombre": "Rancho de los Ruiz"
+    },
+    {
+        "clave": "200430118",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "200430119",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "200430120",
+        "nombre": "Rancho del Carmen"
+    },
+    {
+        "clave": "200430121",
+        "nombre": "Rancho San Luis"
+    },
+    {
+        "clave": "200430122",
+        "nombre": "Rancho San Vicente"
+    },
+    {
+        "clave": "200430123",
+        "nombre": "La Urraca"
+    },
+    {
+        "clave": "200430126",
+        "nombre": "Candelaria"
+    },
+    {
+        "clave": "200430127",
+        "nombre": "Cecilio Santiago"
+    },
+    {
+        "clave": "200430128",
+        "nombre": "Cruz Oriente de Cristo"
+    },
+    {
+        "clave": "200430129",
+        "nombre": "Esquipulas"
+    },
+    {
+        "clave": "200430130",
+        "nombre": "La Guadalupana"
+    },
+    {
+        "clave": "200430131",
+        "nombre": "5 de Septiembre"
+    },
+    {
+        "clave": "200430132",
+        "nombre": "El Olvido"
+    },
+    {
+        "clave": "200430133",
+        "nombre": "San José"
+    },
+    {
+        "clave": "200430134",
+        "nombre": "La Ventosa"
+    },
+    {
+        "clave": "200430135",
+        "nombre": "San Martín Caballero"
+    },
+    {
+        "clave": "200430136",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "200430137",
+        "nombre": "El Ángel [Rancho]"
+    },
+    {
+        "clave": "200430138",
+        "nombre": "Colonia David López Nelio"
+    },
+    {
+        "clave": "200430139",
+        "nombre": "Dos Arbolitos"
+    },
+    {
+        "clave": "200430140",
+        "nombre": "Rancho Gilberto Molina de la Cruz"
+    },
+    {
+        "clave": "200430141",
+        "nombre": "Rancho Guendanabani"
+    },
+    {
+        "clave": "200430142",
+        "nombre": "La Soledad [Rancho]"
+    },
+    {
+        "clave": "200430143",
+        "nombre": "Tenería Dos"
+    },
+    {
+        "clave": "200430144",
+        "nombre": "Virgen de Guadalupe"
+    },
+    {
+        "clave": "200430147",
+        "nombre": "Colonia Cinco Señores"
+    },
+    {
+        "clave": "200430149",
+        "nombre": "Los Platanitos"
+    },
+    {
+        "clave": "200430154",
+        "nombre": "Rancho Babel López Sánchez"
+    },
+    {
+        "clave": "200430155",
+        "nombre": "Rancho Esquipulas"
+    },
+    {
+        "clave": "200430156",
+        "nombre": "Rancho San Antonio"
+    },
+    {
+        "clave": "200430157",
+        "nombre": "Cuatro Milpas"
+    },
+    {
+        "clave": "200430159",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "200430160",
+        "nombre": "Los Tamarindos"
+    },
+    {
+        "clave": "200430161",
+        "nombre": "La Llovizna [Paraje]"
+    },
+    {
+        "clave": "200430162",
+        "nombre": "Tolistoque Morelos"
+    },
+    {
+        "clave": "200430164",
+        "nombre": "Rancho Bernardo Benítez Gallegos"
+    },
+    {
+        "clave": "200430165",
+        "nombre": "Estefanía [Colonia]"
+    },
+    {
+        "clave": "200430166",
+        "nombre": "Rancho Guadalupe"
+    },
+    {
+        "clave": "200430168",
+        "nombre": "Rancho Igú"
+    },
+    {
+        "clave": "200430169",
+        "nombre": "Rancho Javier Charis"
+    },
+    {
+        "clave": "200430171",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "200430172",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "200430173",
+        "nombre": "Las Dos Hermanas"
+    },
+    {
+        "clave": "200430174",
+        "nombre": "Rancho Roberto Rómulo"
+    },
+    {
+        "clave": "200430175",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "200430176",
+        "nombre": "Rancho San Martín Caballero"
+    },
+    {
+        "clave": "200430177",
+        "nombre": "Rancho Tamanuel"
+    },
+    {
+        "clave": "200430180",
+        "nombre": "El Chamizal"
+    },
+    {
+        "clave": "200430181",
+        "nombre": "El Chamizal Dos"
+    },
+    {
+        "clave": "200430182",
+        "nombre": "Colonia 14 de Diciembre"
+    },
+    {
+        "clave": "200430183",
+        "nombre": "Colonia López Nelio (Las Palmas)"
+    },
+    {
+        "clave": "200430184",
+        "nombre": "El Privilegio"
+    },
+    {
+        "clave": "200430185",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "200430186",
+        "nombre": "Cimarrón"
+    },
+    {
+        "clave": "200430187",
+        "nombre": "Dos Arbolitos"
+    },
+    {
+        "clave": "200430188",
+        "nombre": "El Portón Rojo"
+    },
+    {
+        "clave": "200430189",
+        "nombre": "Esquipulas (Rancho de Joel Zavala)"
+    },
+    {
+        "clave": "200430190",
+        "nombre": "Esquipulas (Rancho Girón Matus)"
+    },
+    {
+        "clave": "200430191",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "200430192",
+        "nombre": "Josué Betanzos"
+    },
+    {
+        "clave": "200430193",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "200430194",
+        "nombre": "La Juanita"
+    },
+    {
+        "clave": "200430195",
+        "nombre": "Magdalena"
+    },
+    {
+        "clave": "200430196",
+        "nombre": "Morelos"
+    },
+    {
+        "clave": "200430197",
+        "nombre": "San Martín (Rancho de Don Lino)"
+    },
+    {
+        "clave": "200430198",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "200430199",
+        "nombre": "11 de Septiembre [Colonia]"
+    },
+    {
+        "clave": "200430200",
+        "nombre": "28 de Enero [Colonia]"
+    },
+    {
+        "clave": "200430201",
+        "nombre": "30 de Marzo [Colonia]"
+    },
+    {
+        "clave": "200430202",
+        "nombre": "Alfredo Pineda [Rancho]"
+    },
+    {
+        "clave": "200430203",
+        "nombre": "Fidel Peña"
+    },
+    {
+        "clave": "200430204",
+        "nombre": "Juquilita [Colonia]"
+    },
+    {
+        "clave": "200430205",
+        "nombre": "San Vicente Goola [Colonia]"
+    },
+    {
+        "clave": "200430206",
+        "nombre": "Saúl Martínez"
+    },
+    {
+        "clave": "200430207",
+        "nombre": "Tierra Prometida"
+    },
+    {
+        "clave": "200430208",
+        "nombre": "10 de Abril [Colonia]"
+    },
+    {
+        "clave": "200430209",
+        "nombre": "Guiedanni [Rancho]"
+    },
+    {
+        "clave": "200430210",
+        "nombre": "Juquilita [Rancho]"
+    },
+    {
+        "clave": "200430211",
+        "nombre": "Simona Robles [Colonia]"
+    }
+]

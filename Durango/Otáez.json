@@ -1,0 +1,426 @@
+[
+    {
+        "clave": "100190003",
+        "nombre": "El Aguaje"
+    },
+    {
+        "clave": "100190007",
+        "nombre": "Banome"
+    },
+    {
+        "clave": "100190010",
+        "nombre": "Campanillas"
+    },
+    {
+        "clave": "100190014",
+        "nombre": "El Carrizo"
+    },
+    {
+        "clave": "100190017",
+        "nombre": "El Cerco de Piedra"
+    },
+    {
+        "clave": "100190018",
+        "nombre": "Ciénega de Olivos"
+    },
+    {
+        "clave": "100190019",
+        "nombre": "La Cieneguita"
+    },
+    {
+        "clave": "100190022",
+        "nombre": "La Cupia"
+    },
+    {
+        "clave": "100190034",
+        "nombre": "El Manzanillo"
+    },
+    {
+        "clave": "100190037",
+        "nombre": "La Mesa de Santa Cruz"
+    },
+    {
+        "clave": "100190041",
+        "nombre": "El Nopal"
+    },
+    {
+        "clave": "100190051",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "100190058",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "100190064",
+        "nombre": "La Sierrita"
+    },
+    {
+        "clave": "100190066",
+        "nombre": "Tepocatita"
+    },
+    {
+        "clave": "100190071",
+        "nombre": "El Verano"
+    },
+    {
+        "clave": "100190086",
+        "nombre": "Guaguapilla"
+    },
+    {
+        "clave": "100190178",
+        "nombre": "Las Hacienditas"
+    },
+    {
+        "clave": "100190186",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "100190189",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "100190001",
+        "nombre": "Otáez"
+    },
+    {
+        "clave": "100190008",
+        "nombre": "Santiago de Bozos (Bozos)"
+    },
+    {
+        "clave": "100190020",
+        "nombre": "Cuanas"
+    },
+    {
+        "clave": "100190024",
+        "nombre": "El Gatuñal"
+    },
+    {
+        "clave": "100190031",
+        "nombre": "Huajupa"
+    },
+    {
+        "clave": "100190039",
+        "nombre": "Santa Cruz del Molino"
+    },
+    {
+        "clave": "100190040",
+        "nombre": "El Montón de Piedras"
+    },
+    {
+        "clave": "100190046",
+        "nombre": "Priscos"
+    },
+    {
+        "clave": "100190048",
+        "nombre": "El Puerto de San Rafael"
+    },
+    {
+        "clave": "100190056",
+        "nombre": "San Ignacio de Huapipuje"
+    },
+    {
+        "clave": "100190060",
+        "nombre": "San Pedro de Azafranes"
+    },
+    {
+        "clave": "100190062",
+        "nombre": "Los Sauces"
+    },
+    {
+        "clave": "100190063",
+        "nombre": "Sierra Santa"
+    },
+    {
+        "clave": "100190073",
+        "nombre": "Zapotes"
+    },
+    {
+        "clave": "100190075",
+        "nombre": "Arranca Barbas (Nuevo Porvenir)"
+    },
+    {
+        "clave": "100190099",
+        "nombre": "El Parajito"
+    },
+    {
+        "clave": "100190103",
+        "nombre": "Piloncillos"
+    },
+    {
+        "clave": "100190113",
+        "nombre": "San José de la Laguna"
+    },
+    {
+        "clave": "100190135",
+        "nombre": "Macho Bayo"
+    },
+    {
+        "clave": "100190142",
+        "nombre": "Los Arroyos"
+    },
+    {
+        "clave": "100190146",
+        "nombre": "Ranchito de los Orozco"
+    },
+    {
+        "clave": "100190152",
+        "nombre": "El Peñol"
+    },
+    {
+        "clave": "100190173",
+        "nombre": "Bajío de Vacas (Bajío de Atocha)"
+    },
+    {
+        "clave": "100190180",
+        "nombre": "Llano Blanco"
+    },
+    {
+        "clave": "100190181",
+        "nombre": "Mundo Nuevo"
+    },
+    {
+        "clave": "100190188",
+        "nombre": "San José de la Cruz"
+    },
+    {
+        "clave": "100190009",
+        "nombre": "El Cacao"
+    },
+    {
+        "clave": "100190012",
+        "nombre": "Los Cardos"
+    },
+    {
+        "clave": "100190013",
+        "nombre": "Los Caribes"
+    },
+    {
+        "clave": "100190021",
+        "nombre": "La Colorada"
+    },
+    {
+        "clave": "100190032",
+        "nombre": "La Laguna de los Reyes"
+    },
+    {
+        "clave": "100190033",
+        "nombre": "Lechuguillas"
+    },
+    {
+        "clave": "100190036",
+        "nombre": "La Mesa de México"
+    },
+    {
+        "clave": "100190038",
+        "nombre": "Mesitas"
+    },
+    {
+        "clave": "100190042",
+        "nombre": "La Pandura"
+    },
+    {
+        "clave": "100190044",
+        "nombre": "San Miguel de Piélagos"
+    },
+    {
+        "clave": "100190045",
+        "nombre": "El Presidio"
+    },
+    {
+        "clave": "100190053",
+        "nombre": "Saicos"
+    },
+    {
+        "clave": "100190054",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "100190057",
+        "nombre": "San José de Bacis"
+    },
+    {
+        "clave": "100190059",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "100190069",
+        "nombre": "La Vega Redonda"
+    },
+    {
+        "clave": "100190070",
+        "nombre": "El Verano"
+    },
+    {
+        "clave": "100190088",
+        "nombre": "La Haciendita"
+    },
+    {
+        "clave": "100190092",
+        "nombre": "Majoíta"
+    },
+    {
+        "clave": "100190095",
+        "nombre": "El Naranjal"
+    },
+    {
+        "clave": "100190104",
+        "nombre": "El Potrero de Herrera"
+    },
+    {
+        "clave": "100190109",
+        "nombre": "Sacamova"
+    },
+    {
+        "clave": "100190118",
+        "nombre": "El Trigo"
+    },
+    {
+        "clave": "100190130",
+        "nombre": "Perdederos"
+    },
+    {
+        "clave": "100190132",
+        "nombre": "Pastores"
+    },
+    {
+        "clave": "100190136",
+        "nombre": "El Tahuitol"
+    },
+    {
+        "clave": "100190137",
+        "nombre": "La Cumbre"
+    },
+    {
+        "clave": "100190147",
+        "nombre": "Ranchito de los Aguilares"
+    },
+    {
+        "clave": "100190148",
+        "nombre": "La Becerra"
+    },
+    {
+        "clave": "100190149",
+        "nombre": "El Yesquero"
+    },
+    {
+        "clave": "100190150",
+        "nombre": "El Tanivo"
+    },
+    {
+        "clave": "100190151",
+        "nombre": "Acatita"
+    },
+    {
+        "clave": "100190155",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "100190156",
+        "nombre": "La Hacienda"
+    },
+    {
+        "clave": "100190157",
+        "nombre": "El Ranchito del Tigre"
+    },
+    {
+        "clave": "100190158",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "100190160",
+        "nombre": "Pueblo Nuevo (El Comedero)"
+    },
+    {
+        "clave": "100190162",
+        "nombre": "El Táscate"
+    },
+    {
+        "clave": "100190163",
+        "nombre": "El Chirimoyo"
+    },
+    {
+        "clave": "100190165",
+        "nombre": "Bajío Seco"
+    },
+    {
+        "clave": "100190166",
+        "nombre": "Los Borregos"
+    },
+    {
+        "clave": "100190168",
+        "nombre": "Mesa del Jagüey"
+    },
+    {
+        "clave": "100190169",
+        "nombre": "La Mesa del Pinal"
+    },
+    {
+        "clave": "100190170",
+        "nombre": "Las Papas"
+    },
+    {
+        "clave": "100190171",
+        "nombre": "El Pastor"
+    },
+    {
+        "clave": "100190172",
+        "nombre": "Los Alisos"
+    },
+    {
+        "clave": "100190174",
+        "nombre": "El Bule"
+    },
+    {
+        "clave": "100190175",
+        "nombre": "Ciénega Larga"
+    },
+    {
+        "clave": "100190176",
+        "nombre": "Las Cuchillas de Bernal"
+    },
+    {
+        "clave": "100190177",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "100190179",
+        "nombre": "La Laguna de Mejorado (La Lagunita)"
+    },
+    {
+        "clave": "100190182",
+        "nombre": "El Ojito del Caimán"
+    },
+    {
+        "clave": "100190183",
+        "nombre": "El Pinto"
+    },
+    {
+        "clave": "100190184",
+        "nombre": "El Puerto"
+    },
+    {
+        "clave": "100190185",
+        "nombre": "Los Ramírez"
+    },
+    {
+        "clave": "100190187",
+        "nombre": "San José de la Escalera"
+    },
+    {
+        "clave": "100190190",
+        "nombre": "Siete Ciénegas"
+    },
+    {
+        "clave": "100190191",
+        "nombre": "La Compuerta"
+    },
+    {
+        "clave": "100190192",
+        "nombre": "El Táscate"
+    },
+    {
+        "clave": "100190193",
+        "nombre": "El Polvorín"
+    }
+]

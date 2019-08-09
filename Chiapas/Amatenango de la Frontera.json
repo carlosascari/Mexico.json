@@ -1,0 +1,498 @@
+[
+    {
+        "clave": "70060004",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "70060009",
+        "nombre": "Cerro Cañón"
+    },
+    {
+        "clave": "70060024",
+        "nombre": "Los Mezcales"
+    },
+    {
+        "clave": "70060025",
+        "nombre": "Mira Morelia"
+    },
+    {
+        "clave": "70060030",
+        "nombre": "Monumento los Pilatos"
+    },
+    {
+        "clave": "70060032",
+        "nombre": "Nueva América"
+    },
+    {
+        "clave": "70060041",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "70060043",
+        "nombre": "Platanillo"
+    },
+    {
+        "clave": "70060077",
+        "nombre": "El Chorro"
+    },
+    {
+        "clave": "70060082",
+        "nombre": "San Antonio la Junta"
+    },
+    {
+        "clave": "70060085",
+        "nombre": "Granadillal Guanajuato"
+    },
+    {
+        "clave": "70060086",
+        "nombre": "Vueltaminas"
+    },
+    {
+        "clave": "70060087",
+        "nombre": "Las Grutas"
+    },
+    {
+        "clave": "70060088",
+        "nombre": "El Relicario"
+    },
+    {
+        "clave": "70060108",
+        "nombre": "Zacualpán"
+    },
+    {
+        "clave": "70060110",
+        "nombre": "San José de los Pozos"
+    },
+    {
+        "clave": "70060122",
+        "nombre": "Agua Escondida"
+    },
+    {
+        "clave": "70060124",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "70060138",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "70060143",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "70060002",
+        "nombre": "Aguacatillo"
+    },
+    {
+        "clave": "70060003",
+        "nombre": "Barrio Nuevo"
+    },
+    {
+        "clave": "70060006",
+        "nombre": "Carrizalito"
+    },
+    {
+        "clave": "70060010",
+        "nombre": "Cinco de Mayo"
+    },
+    {
+        "clave": "70060011",
+        "nombre": "Chiquisbil"
+    },
+    {
+        "clave": "70060012",
+        "nombre": "Escobillal"
+    },
+    {
+        "clave": "70060013",
+        "nombre": "Francisco I. Madero"
+    },
+    {
+        "clave": "70060014",
+        "nombre": "Guadalupe Victoria"
+    },
+    {
+        "clave": "70060015",
+        "nombre": "Hoja Blanca"
+    },
+    {
+        "clave": "70060016",
+        "nombre": "Huixquilar"
+    },
+    {
+        "clave": "70060017",
+        "nombre": "Sabinalito"
+    },
+    {
+        "clave": "70060019",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "70060021",
+        "nombre": "Las Marías"
+    },
+    {
+        "clave": "70060022",
+        "nombre": "La Mesilla"
+    },
+    {
+        "clave": "70060023",
+        "nombre": "México Nuevo"
+    },
+    {
+        "clave": "70060026",
+        "nombre": "La Montaña"
+    },
+    {
+        "clave": "70060028",
+        "nombre": "Monte Ordóñez"
+    },
+    {
+        "clave": "70060029",
+        "nombre": "Monte Verde"
+    },
+    {
+        "clave": "70060031",
+        "nombre": "Naranjal"
+    },
+    {
+        "clave": "70060033",
+        "nombre": "Nueva Morelia"
+    },
+    {
+        "clave": "70060034",
+        "nombre": "Nuevo Amatenango"
+    },
+    {
+        "clave": "70060036",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "70060037",
+        "nombre": "Ojo de Agua las Cruces"
+    },
+    {
+        "clave": "70060038",
+        "nombre": "El Pacayal"
+    },
+    {
+        "clave": "70060039",
+        "nombre": "Pacayalito"
+    },
+    {
+        "clave": "70060040",
+        "nombre": "Peña Bermeja"
+    },
+    {
+        "clave": "70060042",
+        "nombre": "Plan Grande"
+    },
+    {
+        "clave": "70060044",
+        "nombre": "Potrerillo"
+    },
+    {
+        "clave": "70060045",
+        "nombre": "Nueva Providencia"
+    },
+    {
+        "clave": "70060046",
+        "nombre": "La Pureza"
+    },
+    {
+        "clave": "70060047",
+        "nombre": "Nuevo Belén"
+    },
+    {
+        "clave": "70060048",
+        "nombre": "Regadillo"
+    },
+    {
+        "clave": "70060049",
+        "nombre": "La Rinconada"
+    },
+    {
+        "clave": "70060050",
+        "nombre": "Río Guerrero"
+    },
+    {
+        "clave": "70060051",
+        "nombre": "San Jerónimo"
+    },
+    {
+        "clave": "70060053",
+        "nombre": "Sonora"
+    },
+    {
+        "clave": "70060054",
+        "nombre": "Tapitzalá Número Dos"
+    },
+    {
+        "clave": "70060055",
+        "nombre": "Veinte de Noviembre"
+    },
+    {
+        "clave": "70060056",
+        "nombre": "Zacatonal"
+    },
+    {
+        "clave": "70060058",
+        "nombre": "La Carpa San José Obrero"
+    },
+    {
+        "clave": "70060059",
+        "nombre": "Flor de Mayo"
+    },
+    {
+        "clave": "70060060",
+        "nombre": "Santo Domingo"
+    },
+    {
+        "clave": "70060063",
+        "nombre": "La Lagunita"
+    },
+    {
+        "clave": "70060065",
+        "nombre": "El Tablón Chiquito (Desvío los Ramírez)"
+    },
+    {
+        "clave": "70060067",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "70060069",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "70060072",
+        "nombre": "San José"
+    },
+    {
+        "clave": "70060074",
+        "nombre": "Palestina"
+    },
+    {
+        "clave": "70060076",
+        "nombre": "Santa Ana"
+    },
+    {
+        "clave": "70060078",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "70060079",
+        "nombre": "El Zapotal"
+    },
+    {
+        "clave": "70060080",
+        "nombre": "El Bañadero"
+    },
+    {
+        "clave": "70060090",
+        "nombre": "Villa Hidalgo"
+    },
+    {
+        "clave": "70060094",
+        "nombre": "Altamirano"
+    },
+    {
+        "clave": "70060095",
+        "nombre": "Bienestar Social"
+    },
+    {
+        "clave": "70060097",
+        "nombre": "Caracol"
+    },
+    {
+        "clave": "70060098",
+        "nombre": "Nueva Victoria"
+    },
+    {
+        "clave": "70060099",
+        "nombre": "Nueva Libertad"
+    },
+    {
+        "clave": "70060101",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "70060114",
+        "nombre": "Granadillal Uno"
+    },
+    {
+        "clave": "70060115",
+        "nombre": "Ojo de Agua el Sabino"
+    },
+    {
+        "clave": "70060116",
+        "nombre": "Barrio Nuevo"
+    },
+    {
+        "clave": "70060117",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "70060118",
+        "nombre": "El Progreso"
+    },
+    {
+        "clave": "70060119",
+        "nombre": "Nuevo Ocotal"
+    },
+    {
+        "clave": "70060120",
+        "nombre": "Calera"
+    },
+    {
+        "clave": "70060123",
+        "nombre": "San Cristobalito"
+    },
+    {
+        "clave": "70060129",
+        "nombre": "Miguel Hidalgo"
+    },
+    {
+        "clave": "70060133",
+        "nombre": "Nuevo Recuerdo"
+    },
+    {
+        "clave": "70060136",
+        "nombre": "Nogales"
+    },
+    {
+        "clave": "70060137",
+        "nombre": "Altamirano"
+    },
+    {
+        "clave": "70060139",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "70060140",
+        "nombre": "Las Cruces"
+    },
+    {
+        "clave": "70060144",
+        "nombre": "El Nancito"
+    },
+    {
+        "clave": "70060146",
+        "nombre": "La Playa"
+    },
+    {
+        "clave": "70060148",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "70060149",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "70060150",
+        "nombre": "Nueva Independencia"
+    },
+    {
+        "clave": "70060152",
+        "nombre": "Vado Real"
+    },
+    {
+        "clave": "70060156",
+        "nombre": "Loma Real"
+    },
+    {
+        "clave": "70060157",
+        "nombre": "El Zapotal"
+    },
+    {
+        "clave": "70060001",
+        "nombre": "Amatenango de la Frontera"
+    },
+    {
+        "clave": "70060018",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "70060027",
+        "nombre": "Monte Florido"
+    },
+    {
+        "clave": "70060061",
+        "nombre": "La Jushtalada"
+    },
+    {
+        "clave": "70060064",
+        "nombre": "Granadillal"
+    },
+    {
+        "clave": "70060071",
+        "nombre": "Santa Isabel"
+    },
+    {
+        "clave": "70060075",
+        "nombre": "Huntaj"
+    },
+    {
+        "clave": "70060089",
+        "nombre": "Nuevo Florida No. 11"
+    },
+    {
+        "clave": "70060109",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "70060111",
+        "nombre": "Coyegual"
+    },
+    {
+        "clave": "70060125",
+        "nombre": "Caulotal"
+    },
+    {
+        "clave": "70060126",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "70060128",
+        "nombre": "El Macoyal"
+    },
+    {
+        "clave": "70060132",
+        "nombre": "Potrerillo"
+    },
+    {
+        "clave": "70060141",
+        "nombre": "La Despedida"
+    },
+    {
+        "clave": "70060142",
+        "nombre": "Guanajuatillo"
+    },
+    {
+        "clave": "70060145",
+        "nombre": "Loma bonita"
+    },
+    {
+        "clave": "70060147",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "70060151",
+        "nombre": "Ojo de Agua (El Mango)"
+    },
+    {
+        "clave": "70060153",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "70060154",
+        "nombre": "Nueva Palestina"
+    },
+    {
+        "clave": "70060155",
+        "nombre": "El Portillo"
+    },
+    {
+        "clave": "70060158",
+        "nombre": "Nuevo Michoacán"
+    }
+]

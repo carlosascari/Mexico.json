@@ -1,0 +1,578 @@
+[
+    {
+        "clave": "240070048",
+        "nombre": "El Saucito"
+    },
+    {
+        "clave": "240070081",
+        "nombre": "San José del Ramillete"
+    },
+    {
+        "clave": "240070126",
+        "nombre": "Entronque del Real"
+    },
+    {
+        "clave": "240070005",
+        "nombre": "El Blanco"
+    },
+    {
+        "clave": "240070006",
+        "nombre": "La Boquilla"
+    },
+    {
+        "clave": "240070007",
+        "nombre": "Cerro de Flores"
+    },
+    {
+        "clave": "240070011",
+        "nombre": "El Espíritu"
+    },
+    {
+        "clave": "240070012",
+        "nombre": "Gallos Blancos"
+    },
+    {
+        "clave": "240070013",
+        "nombre": "Ejido Hidalgo"
+    },
+    {
+        "clave": "240070015",
+        "nombre": "Lagunillas"
+    },
+    {
+        "clave": "240070020",
+        "nombre": "Noria de San Pedro"
+    },
+    {
+        "clave": "240070021",
+        "nombre": "Palo Blanco"
+    },
+    {
+        "clave": "240070022",
+        "nombre": "La Pinta"
+    },
+    {
+        "clave": "240070023",
+        "nombre": "Presa Verde"
+    },
+    {
+        "clave": "240070025",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "240070026",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "240070028",
+        "nombre": "Refugio de Saladito"
+    },
+    {
+        "clave": "240070029",
+        "nombre": "Refugio de las Monjas"
+    },
+    {
+        "clave": "240070030",
+        "nombre": "La Rinconada"
+    },
+    {
+        "clave": "240070031",
+        "nombre": "El Saladito"
+    },
+    {
+        "clave": "240070035",
+        "nombre": "San Antonio del Sotol"
+    },
+    {
+        "clave": "240070037",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "240070040",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "240070041",
+        "nombre": "San Mateo"
+    },
+    {
+        "clave": "240070042",
+        "nombre": "San Pablo"
+    },
+    {
+        "clave": "240070044",
+        "nombre": "San Rafael de los Facundos"
+    },
+    {
+        "clave": "240070045",
+        "nombre": "Santa Rita del Sotol"
+    },
+    {
+        "clave": "240070050",
+        "nombre": "Tanque Nuevo"
+    },
+    {
+        "clave": "240070059",
+        "nombre": "San José de la Porra"
+    },
+    {
+        "clave": "240070062",
+        "nombre": "Progreso"
+    },
+    {
+        "clave": "240070065",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "240070087",
+        "nombre": "Perpetuo Socorro"
+    },
+    {
+        "clave": "240070090",
+        "nombre": "Rancho Santa Rosa"
+    },
+    {
+        "clave": "240070001",
+        "nombre": "Cedral"
+    },
+    {
+        "clave": "240070008",
+        "nombre": "La Crucita"
+    },
+    {
+        "clave": "240070009",
+        "nombre": "La Cruz"
+    },
+    {
+        "clave": "240070010",
+        "nombre": "El Cuarejo"
+    },
+    {
+        "clave": "240070014",
+        "nombre": "Jesús María"
+    },
+    {
+        "clave": "240070017",
+        "nombre": "El Llano del Pinto"
+    },
+    {
+        "clave": "240070018",
+        "nombre": "Las Majadas"
+    },
+    {
+        "clave": "240070019",
+        "nombre": "Noria de Dolores"
+    },
+    {
+        "clave": "240070024",
+        "nombre": "Rancho el Cono del Progreso"
+    },
+    {
+        "clave": "240070032",
+        "nombre": "Salitrillos del Refugio"
+    },
+    {
+        "clave": "240070033",
+        "nombre": "Saltillito"
+    },
+    {
+        "clave": "240070034",
+        "nombre": "San Antonio de los Montoya"
+    },
+    {
+        "clave": "240070036",
+        "nombre": "San Francisco de los Ejidos"
+    },
+    {
+        "clave": "240070039",
+        "nombre": "San Juanito"
+    },
+    {
+        "clave": "240070043",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "240070046",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "240070051",
+        "nombre": "Zamarripa"
+    },
+    {
+        "clave": "240070052",
+        "nombre": "La Candelaria"
+    },
+    {
+        "clave": "240070053",
+        "nombre": "La Estancia"
+    },
+    {
+        "clave": "240070056",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "240070057",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "240070058",
+        "nombre": "Los Orozco"
+    },
+    {
+        "clave": "240070061",
+        "nombre": "Rancho San Miguel"
+    },
+    {
+        "clave": "240070064",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "240070066",
+        "nombre": "Mesa de los Molina"
+    },
+    {
+        "clave": "240070068",
+        "nombre": "Rancho San Isidro"
+    },
+    {
+        "clave": "240070073",
+        "nombre": "Rancho Covadonga"
+    },
+    {
+        "clave": "240070075",
+        "nombre": "El Esfuerzo"
+    },
+    {
+        "clave": "240070076",
+        "nombre": "Rancho San Francisco"
+    },
+    {
+        "clave": "240070077",
+        "nombre": "Rancho Granja Chica"
+    },
+    {
+        "clave": "240070078",
+        "nombre": "San Ignacio del Carmen"
+    },
+    {
+        "clave": "240070079",
+        "nombre": "Rancho San Ignacio"
+    },
+    {
+        "clave": "240070080",
+        "nombre": "La Joyita"
+    },
+    {
+        "clave": "240070082",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "240070083",
+        "nombre": "Majada del Cerro Chato"
+    },
+    {
+        "clave": "240070084",
+        "nombre": "Majada la Perra"
+    },
+    {
+        "clave": "240070085",
+        "nombre": "La Perla (Nogalar)"
+    },
+    {
+        "clave": "240070086",
+        "nombre": "Quinta Hawai (Los Orejanos)"
+    },
+    {
+        "clave": "240070088",
+        "nombre": "El Pequeño"
+    },
+    {
+        "clave": "240070089",
+        "nombre": "Rancho Santa Martha"
+    },
+    {
+        "clave": "240070091",
+        "nombre": "Santa Isabel"
+    },
+    {
+        "clave": "240070092",
+        "nombre": "Rancho Vallarta"
+    },
+    {
+        "clave": "240070093",
+        "nombre": "Rancho las Vegas"
+    },
+    {
+        "clave": "240070095",
+        "nombre": "Los Alvarado (San José del Ramillete)"
+    },
+    {
+        "clave": "240070096",
+        "nombre": "Majadas Joyas del Alto"
+    },
+    {
+        "clave": "240070101",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "240070102",
+        "nombre": "Rancho la Joya"
+    },
+    {
+        "clave": "240070103",
+        "nombre": "Rancho el Bajío"
+    },
+    {
+        "clave": "240070104",
+        "nombre": "Rancho Acapulco"
+    },
+    {
+        "clave": "240070105",
+        "nombre": "Rancho el Bonito"
+    },
+    {
+        "clave": "240070108",
+        "nombre": "Rancho las Joyas (San José de los Gaytanes)"
+    },
+    {
+        "clave": "240070109",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "240070110",
+        "nombre": "Rancho Paso del Norte"
+    },
+    {
+        "clave": "240070111",
+        "nombre": "Rancho Río Escondido"
+    },
+    {
+        "clave": "240070112",
+        "nombre": "Rancho San Roberto"
+    },
+    {
+        "clave": "240070113",
+        "nombre": "Rancho San Ángel"
+    },
+    {
+        "clave": "240070115",
+        "nombre": "San Elías"
+    },
+    {
+        "clave": "240070117",
+        "nombre": "Loma Linda"
+    },
+    {
+        "clave": "240070118",
+        "nombre": "Rancho Maricar"
+    },
+    {
+        "clave": "240070121",
+        "nombre": "La Candelaria"
+    },
+    {
+        "clave": "240070122",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "240070123",
+        "nombre": "La Concordia"
+    },
+    {
+        "clave": "240070124",
+        "nombre": "El Consuelo"
+    },
+    {
+        "clave": "240070125",
+        "nombre": "La Corcovia"
+    },
+    {
+        "clave": "240070127",
+        "nombre": "Restaurant Fiesta"
+    },
+    {
+        "clave": "240070128",
+        "nombre": "El Jobián"
+    },
+    {
+        "clave": "240070129",
+        "nombre": "Cocina Mexicana [Restaurante]"
+    },
+    {
+        "clave": "240070130",
+        "nombre": "La Joya de Elías"
+    },
+    {
+        "clave": "240070131",
+        "nombre": "Nueva Rosita"
+    },
+    {
+        "clave": "240070132",
+        "nombre": "La Pasta"
+    },
+    {
+        "clave": "240070133",
+        "nombre": "Pila de Cedros"
+    },
+    {
+        "clave": "240070134",
+        "nombre": "Pozo Número Diecinueve SAPSA"
+    },
+    {
+        "clave": "240070135",
+        "nombre": "Rancho del Perro (La Granja)"
+    },
+    {
+        "clave": "240070136",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "240070137",
+        "nombre": "San Roque"
+    },
+    {
+        "clave": "240070138",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "240070139",
+        "nombre": "Rancho Santo Domingo"
+    },
+    {
+        "clave": "240070140",
+        "nombre": "Colonia Lázaro Cárdenas"
+    },
+    {
+        "clave": "240070141",
+        "nombre": "Santa Catarina"
+    },
+    {
+        "clave": "240070142",
+        "nombre": "David Ortega de León"
+    },
+    {
+        "clave": "240070143",
+        "nombre": "Casa Blanca (Majada Ejido Zamarripa)"
+    },
+    {
+        "clave": "240070144",
+        "nombre": "La Concordia (Lorenzo Guerrero)"
+    },
+    {
+        "clave": "240070145",
+        "nombre": "Los Desmontes"
+    },
+    {
+        "clave": "240070146",
+        "nombre": "Francisco Gloria"
+    },
+    {
+        "clave": "240070147",
+        "nombre": "Héctor Ávila"
+    },
+    {
+        "clave": "240070148",
+        "nombre": "Majada José de León"
+    },
+    {
+        "clave": "240070149",
+        "nombre": "Majada Santiago Sánchez"
+    },
+    {
+        "clave": "240070150",
+        "nombre": "Rancho el Carmen"
+    },
+    {
+        "clave": "240070151",
+        "nombre": "Rancho San Benito"
+    },
+    {
+        "clave": "240070152",
+        "nombre": "Rancho San Martín"
+    },
+    {
+        "clave": "240070153",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "240070154",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "240070155",
+        "nombre": "Los Segovia"
+    },
+    {
+        "clave": "240070156",
+        "nombre": "Fraccionamiento Llanos de San Gabriel"
+    },
+    {
+        "clave": "240070157",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "240070158",
+        "nombre": "Casa Ejidal Santa Rita del Sotol"
+    },
+    {
+        "clave": "240070159",
+        "nombre": "Ejido Victoria San Manuel"
+    },
+    {
+        "clave": "240070160",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "240070161",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "240070162",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "240070163",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "240070164",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "240070165",
+        "nombre": "Los Arrieros"
+    },
+    {
+        "clave": "240070166",
+        "nombre": "El Aljibe de Procuro"
+    },
+    {
+        "clave": "240070167",
+        "nombre": "Rancho la Rinconada"
+    },
+    {
+        "clave": "240070168",
+        "nombre": "Colonia Real"
+    },
+    {
+        "clave": "240070169",
+        "nombre": "El Puerto"
+    },
+    {
+        "clave": "240070170",
+        "nombre": "Huerta de los Díaz"
+    },
+    {
+        "clave": "240070171",
+        "nombre": "Las Joyas"
+    },
+    {
+        "clave": "240070172",
+        "nombre": "Los Nogales"
+    },
+    {
+        "clave": "240070173",
+        "nombre": "Los Vázquez"
+    }
+]

@@ -1,0 +1,562 @@
+[
+    {
+        "clave": "190230200",
+        "nombre": "Luis Donaldo Colosio"
+    },
+    {
+        "clave": "190230001",
+        "nombre": "General Treviño"
+    },
+    {
+        "clave": "190230002",
+        "nombre": "Alejos Hinojosa"
+    },
+    {
+        "clave": "190230003",
+        "nombre": "Buena Vista (Aracelia Salinas)"
+    },
+    {
+        "clave": "190230004",
+        "nombre": "El Golfo (Hiram Hinojosa Hinojosa)"
+    },
+    {
+        "clave": "190230005",
+        "nombre": "Buena Vista (Juan Garza)"
+    },
+    {
+        "clave": "190230007",
+        "nombre": "Las Comas (Pedro Maldonado)"
+    },
+    {
+        "clave": "190230008",
+        "nombre": "El Conde (Oscar Guerra)"
+    },
+    {
+        "clave": "190230009",
+        "nombre": "El Cerrito (Leonel Hinojosa)"
+    },
+    {
+        "clave": "190230012",
+        "nombre": "El Faro"
+    },
+    {
+        "clave": "190230014",
+        "nombre": "Los Vela (Marcelino Vela)"
+    },
+    {
+        "clave": "190230016",
+        "nombre": "Aparicio García"
+    },
+    {
+        "clave": "190230018",
+        "nombre": "Simón Villegas (El Alto)"
+    },
+    {
+        "clave": "190230019",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "190230022",
+        "nombre": "San Lorenzo (Lorenzo Hinojosa)"
+    },
+    {
+        "clave": "190230023",
+        "nombre": "Los Maldonado"
+    },
+    {
+        "clave": "190230026",
+        "nombre": "Ramón Pérez"
+    },
+    {
+        "clave": "190230027",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "190230028",
+        "nombre": "Rincón Cadena"
+    },
+    {
+        "clave": "190230029",
+        "nombre": "El Bajo (Rosvelt Maldonado)"
+    },
+    {
+        "clave": "190230030",
+        "nombre": "San Javier"
+    },
+    {
+        "clave": "190230033",
+        "nombre": "Las Ranitas (Juan Manuel García)"
+    },
+    {
+        "clave": "190230034",
+        "nombre": "La Violeta"
+    },
+    {
+        "clave": "190230035",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "190230036",
+        "nombre": "El Canelo (Las Palmas)"
+    },
+    {
+        "clave": "190230037",
+        "nombre": "Sonora (Mario Madrigal Guerra)"
+    },
+    {
+        "clave": "190230039",
+        "nombre": "La Grulla (Irma Villanueva)"
+    },
+    {
+        "clave": "190230041",
+        "nombre": "El Gabacho (Leonor Moreno)"
+    },
+    {
+        "clave": "190230043",
+        "nombre": "El Águila (Jesús Cabrera)"
+    },
+    {
+        "clave": "190230044",
+        "nombre": "Antonio González"
+    },
+    {
+        "clave": "190230046",
+        "nombre": "Siete de Enero"
+    },
+    {
+        "clave": "190230047",
+        "nombre": "San Rafael (Dos Hermanos)"
+    },
+    {
+        "clave": "190230048",
+        "nombre": "La Condesa (Vicente Canales)"
+    },
+    {
+        "clave": "190230050",
+        "nombre": "Carlos Valadez Salinas (Los Valadez)"
+    },
+    {
+        "clave": "190230051",
+        "nombre": "Gregorio Valadez (Los Valadez)"
+    },
+    {
+        "clave": "190230054",
+        "nombre": "El León"
+    },
+    {
+        "clave": "190230056",
+        "nombre": "Labor del Alto (Simplicio Hinojosa)"
+    },
+    {
+        "clave": "190230057",
+        "nombre": "Los Góngora"
+    },
+    {
+        "clave": "190230059",
+        "nombre": "San Andrés"
+    },
+    {
+        "clave": "190230060",
+        "nombre": "El Tres (Omar Hinojosa Vela)"
+    },
+    {
+        "clave": "190230062",
+        "nombre": "El Jalpeño (Eduviges Hinojosa)"
+    },
+    {
+        "clave": "190230063",
+        "nombre": "El Arroyito Sarabia (Manuel Villegas)"
+    },
+    {
+        "clave": "190230064",
+        "nombre": "Los Madrigal"
+    },
+    {
+        "clave": "190230067",
+        "nombre": "El Atipul (Antonio García)"
+    },
+    {
+        "clave": "190230068",
+        "nombre": "El Beny-ceno"
+    },
+    {
+        "clave": "190230069",
+        "nombre": "Buena Vista (Elvia García)"
+    },
+    {
+        "clave": "190230071",
+        "nombre": "El León (Emigdio Garza)"
+    },
+    {
+        "clave": "190230072",
+        "nombre": "El Viento Libre (Víctor Gómez Garza)"
+    },
+    {
+        "clave": "190230076",
+        "nombre": "El Charolito (El Charol)"
+    },
+    {
+        "clave": "190230080",
+        "nombre": "Las Pititas (Ignacio García)"
+    },
+    {
+        "clave": "190230082",
+        "nombre": "El Alto (Daniel Martínez)"
+    },
+    {
+        "clave": "190230085",
+        "nombre": "Antonio Rodríguez"
+    },
+    {
+        "clave": "190230088",
+        "nombre": "El Milagro"
+    },
+    {
+        "clave": "190230090",
+        "nombre": "Los Chapa (Ramón Chapa)"
+    },
+    {
+        "clave": "190230091",
+        "nombre": "El Conde"
+    },
+    {
+        "clave": "190230093",
+        "nombre": "Loma Alta (El Dos)"
+    },
+    {
+        "clave": "190230094",
+        "nombre": "Rodolfo Suárez (El Nogalito)"
+    },
+    {
+        "clave": "190230095",
+        "nombre": "San Javier (Erlin Madrigal)"
+    },
+    {
+        "clave": "190230096",
+        "nombre": "Barrientos"
+    },
+    {
+        "clave": "190230097",
+        "nombre": "Filemón Jáuregui (El Raiceño)"
+    },
+    {
+        "clave": "190230098",
+        "nombre": "Guadalupe Barrientos (San Román)"
+    },
+    {
+        "clave": "190230099",
+        "nombre": "El Guayacán (Delfino Villarreal Cantú)"
+    },
+    {
+        "clave": "190230100",
+        "nombre": "El Guajillal"
+    },
+    {
+        "clave": "190230102",
+        "nombre": "El Charquito Redondo (José Pedro Madrigal)"
+    },
+    {
+        "clave": "190230104",
+        "nombre": "La Leona (Cayetano Del Bosque)"
+    },
+    {
+        "clave": "190230106",
+        "nombre": "Loma Linda"
+    },
+    {
+        "clave": "190230108",
+        "nombre": "Minita (Hipólito Garza)"
+    },
+    {
+        "clave": "190230109",
+        "nombre": "Los Montemayor"
+    },
+    {
+        "clave": "190230110",
+        "nombre": "La Escondida (Felícitas Mendoza)"
+    },
+    {
+        "clave": "190230111",
+        "nombre": "El Rey (Rodolfo Madrigal)"
+    },
+    {
+        "clave": "190230112",
+        "nombre": "Los Fresnos (Magno Hinojosa)"
+    },
+    {
+        "clave": "190230113",
+        "nombre": "Protacio Jáuregui (El Llano)"
+    },
+    {
+        "clave": "190230114",
+        "nombre": "Ramiro Hinojosa Alanís"
+    },
+    {
+        "clave": "190230115",
+        "nombre": "Antonio García"
+    },
+    {
+        "clave": "190230118",
+        "nombre": "Abiel Sáenz (San José)"
+    },
+    {
+        "clave": "190230120",
+        "nombre": "El Sauz (Aurelio Salinas)"
+    },
+    {
+        "clave": "190230121",
+        "nombre": "Senovia Castillo"
+    },
+    {
+        "clave": "190230123",
+        "nombre": "Minerva (El Siete)"
+    },
+    {
+        "clave": "190230124",
+        "nombre": "El Rosillo (Alfredo Cabrera García)"
+    },
+    {
+        "clave": "190230126",
+        "nombre": "El Tesoro"
+    },
+    {
+        "clave": "190230128",
+        "nombre": "Ventura Macías (La Curva)"
+    },
+    {
+        "clave": "190230130",
+        "nombre": "Cayetano Del Bosque (Las Flechas)"
+    },
+    {
+        "clave": "190230131",
+        "nombre": "El Mirador (Antonio Zavala)"
+    },
+    {
+        "clave": "190230132",
+        "nombre": "San Blas (Baldo García)"
+    },
+    {
+        "clave": "190230135",
+        "nombre": "Gregorio Palomino"
+    },
+    {
+        "clave": "190230136",
+        "nombre": "Burra Blanca (Eduviges Hinojosa)"
+    },
+    {
+        "clave": "190230141",
+        "nombre": "El Plato (José Ángel Garza)"
+    },
+    {
+        "clave": "190230142",
+        "nombre": "Las Tres Marías (Regelso Serna)"
+    },
+    {
+        "clave": "190230143",
+        "nombre": "El Jabalí (Oziel Mata)"
+    },
+    {
+        "clave": "190230144",
+        "nombre": "Cristelo Martínez (Las Lomas)"
+    },
+    {
+        "clave": "190230145",
+        "nombre": "El Castillo (Norma Herminia Pérez)"
+    },
+    {
+        "clave": "190230146",
+        "nombre": "El Porvenir (Carlos Salinas González)"
+    },
+    {
+        "clave": "190230147",
+        "nombre": "Laura Idalia"
+    },
+    {
+        "clave": "190230148",
+        "nombre": "El Muñeco (Adrián Aroldo Garza Cantú)"
+    },
+    {
+        "clave": "190230149",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "190230150",
+        "nombre": "San Cayetano (Noé Salinas)"
+    },
+    {
+        "clave": "190230151",
+        "nombre": "El Uno (Roel Hinojosa)"
+    },
+    {
+        "clave": "190230152",
+        "nombre": "El Divisador (José García Maldonado)"
+    },
+    {
+        "clave": "190230153",
+        "nombre": "El Mira (Armando Cantú)"
+    },
+    {
+        "clave": "190230154",
+        "nombre": "El Chimal (Raquel Salinas)"
+    },
+    {
+        "clave": "190230155",
+        "nombre": "Cuatro Caminos (Everardo Villarreal Molina)"
+    },
+    {
+        "clave": "190230156",
+        "nombre": "José Madrigal"
+    },
+    {
+        "clave": "190230157",
+        "nombre": "El Marinero (Álvaro Moreno)"
+    },
+    {
+        "clave": "190230158",
+        "nombre": "Noel Madrigal"
+    },
+    {
+        "clave": "190230159",
+        "nombre": "Paso del Nogal (Nicasio Molina)"
+    },
+    {
+        "clave": "190230160",
+        "nombre": "El Palenque (José Santos Cadena)"
+    },
+    {
+        "clave": "190230161",
+        "nombre": "El Cureño (Arturo Gutiérrez)"
+    },
+    {
+        "clave": "190230162",
+        "nombre": "Fidel Maldonado"
+    },
+    {
+        "clave": "190230163",
+        "nombre": "El Trompo"
+    },
+    {
+        "clave": "190230164",
+        "nombre": "Mercedes Gutiérrez (El Olvido)"
+    },
+    {
+        "clave": "190230165",
+        "nombre": "Úrsulo Zamora"
+    },
+    {
+        "clave": "190230166",
+        "nombre": "Jesús Villarreal"
+    },
+    {
+        "clave": "190230168",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "190230169",
+        "nombre": "Encarnación Cadena"
+    },
+    {
+        "clave": "190230170",
+        "nombre": "Régulo Villanueva"
+    },
+    {
+        "clave": "190230171",
+        "nombre": "Andalio Molina"
+    },
+    {
+        "clave": "190230172",
+        "nombre": "Las Palmas (Antonio Torres)"
+    },
+    {
+        "clave": "190230173",
+        "nombre": "La Alameda (Dagoberto Moreno)"
+    },
+    {
+        "clave": "190230174",
+        "nombre": "Erasmo Madrigal Garza"
+    },
+    {
+        "clave": "190230175",
+        "nombre": "El Reposo (Simplicio Hinojosa)"
+    },
+    {
+        "clave": "190230176",
+        "nombre": "Mario Moreno"
+    },
+    {
+        "clave": "190230177",
+        "nombre": "Julia Ríos"
+    },
+    {
+        "clave": "190230178",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "190230179",
+        "nombre": "El Guayacán (Javier Garza)"
+    },
+    {
+        "clave": "190230180",
+        "nombre": "Rubén Suárez"
+    },
+    {
+        "clave": "190230181",
+        "nombre": "El Regional"
+    },
+    {
+        "clave": "190230182",
+        "nombre": "General Treviño"
+    },
+    {
+        "clave": "190230183",
+        "nombre": "Los Naranjos (Santa Imelda)"
+    },
+    {
+        "clave": "190230184",
+        "nombre": "General Treviño"
+    },
+    {
+        "clave": "190230186",
+        "nombre": "Donaciano García"
+    },
+    {
+        "clave": "190230188",
+        "nombre": "Juan Antonio González"
+    },
+    {
+        "clave": "190230191",
+        "nombre": "La Molienda (Israel Salinas)"
+    },
+    {
+        "clave": "190230192",
+        "nombre": "El Recuerdo"
+    },
+    {
+        "clave": "190230193",
+        "nombre": "Antonio Reyna"
+    },
+    {
+        "clave": "190230194",
+        "nombre": "Jesús Gerardo García"
+    },
+    {
+        "clave": "190230195",
+        "nombre": "Las Copas (Luis Moreno)"
+    },
+    {
+        "clave": "190230196",
+        "nombre": "San Francisco (Roel Salinas)"
+    },
+    {
+        "clave": "190230197",
+        "nombre": "Tomás Cavazos"
+    },
+    {
+        "clave": "190230198",
+        "nombre": "San José"
+    },
+    {
+        "clave": "190230199",
+        "nombre": "Ana Christina"
+    }
+]

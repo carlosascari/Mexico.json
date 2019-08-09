@@ -1,0 +1,666 @@
+[
+    {
+        "clave": "240060003",
+        "nombre": "Agua Blanca"
+    },
+    {
+        "clave": "240060024",
+        "nombre": "San José de Milpitas"
+    },
+    {
+        "clave": "240060028",
+        "nombre": "El Pastor de Coronados"
+    },
+    {
+        "clave": "240060052",
+        "nombre": "Tahonas del Jordán"
+    },
+    {
+        "clave": "240060053",
+        "nombre": "Tahonitas del Salto"
+    },
+    {
+        "clave": "240060075",
+        "nombre": "Lavaderos"
+    },
+    {
+        "clave": "240060078",
+        "nombre": "La Milpita"
+    },
+    {
+        "clave": "240060085",
+        "nombre": "El Barranco"
+    },
+    {
+        "clave": "240060107",
+        "nombre": "El Duraznillo"
+    },
+    {
+        "clave": "240060114",
+        "nombre": "El Pozo Viejo"
+    },
+    {
+        "clave": "240060116",
+        "nombre": "Los Huíngaros"
+    },
+    {
+        "clave": "240060120",
+        "nombre": "Los Azules"
+    },
+    {
+        "clave": "240060137",
+        "nombre": "La Lagunita (Maguey Mocho)"
+    },
+    {
+        "clave": "240060156",
+        "nombre": "Viborillas"
+    },
+    {
+        "clave": "240060171",
+        "nombre": "El Oreganal"
+    },
+    {
+        "clave": "240060178",
+        "nombre": "Valle Verde"
+    },
+    {
+        "clave": "240060183",
+        "nombre": "Desmontes de Catorce (Los Tahonitas)"
+    },
+    {
+        "clave": "240060002",
+        "nombre": "Las Adjuntas"
+    },
+    {
+        "clave": "240060005",
+        "nombre": "Alamitos de los Díaz"
+    },
+    {
+        "clave": "240060006",
+        "nombre": "La Alberca"
+    },
+    {
+        "clave": "240060008",
+        "nombre": "Becerras"
+    },
+    {
+        "clave": "240060009",
+        "nombre": "La Cañada"
+    },
+    {
+        "clave": "240060010",
+        "nombre": "La Cardoncita"
+    },
+    {
+        "clave": "240060011",
+        "nombre": "Castañón"
+    },
+    {
+        "clave": "240060013",
+        "nombre": "Los Catorce"
+    },
+    {
+        "clave": "240060014",
+        "nombre": "Charco Largo"
+    },
+    {
+        "clave": "240060015",
+        "nombre": "Guadalupe del Carnicero (La Maroma)"
+    },
+    {
+        "clave": "240060017",
+        "nombre": "Jesús de Coronados"
+    },
+    {
+        "clave": "240060018",
+        "nombre": "El Jordán"
+    },
+    {
+        "clave": "240060021",
+        "nombre": "Las Margaritas"
+    },
+    {
+        "clave": "240060022",
+        "nombre": "Real de Maroma"
+    },
+    {
+        "clave": "240060023",
+        "nombre": "El Mastranto"
+    },
+    {
+        "clave": "240060025",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "240060027",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "240060031",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "240060032",
+        "nombre": "El Potrero"
+    },
+    {
+        "clave": "240060034",
+        "nombre": "El Refugio de Coronados"
+    },
+    {
+        "clave": "240060035",
+        "nombre": "Refugio de los Amayas"
+    },
+    {
+        "clave": "240060036",
+        "nombre": "El Refugio (La Luz)"
+    },
+    {
+        "clave": "240060037",
+        "nombre": "El Salto"
+    },
+    {
+        "clave": "240060038",
+        "nombre": "San Antonio de Coronados"
+    },
+    {
+        "clave": "240060039",
+        "nombre": "San Antonio de la Cruz"
+    },
+    {
+        "clave": "240060040",
+        "nombre": "San Cristóbal"
+    },
+    {
+        "clave": "240060041",
+        "nombre": "San Francisco del Refugio"
+    },
+    {
+        "clave": "240060042",
+        "nombre": "San José de Coronados"
+    },
+    {
+        "clave": "240060043",
+        "nombre": "San José de los Quintos"
+    },
+    {
+        "clave": "240060044",
+        "nombre": "San Juan de Matanzas"
+    },
+    {
+        "clave": "240060049",
+        "nombre": "Santa Cruz de Carretas"
+    },
+    {
+        "clave": "240060050",
+        "nombre": "Santa Cruz del Mogote"
+    },
+    {
+        "clave": "240060051",
+        "nombre": "Santa María del Refugio"
+    },
+    {
+        "clave": "240060054",
+        "nombre": "Tanque de Arenas"
+    },
+    {
+        "clave": "240060055",
+        "nombre": "Tanque de Dolores"
+    },
+    {
+        "clave": "240060058",
+        "nombre": "Vigas de Coronados"
+    },
+    {
+        "clave": "240060060",
+        "nombre": "El Tecolote"
+    },
+    {
+        "clave": "240060061",
+        "nombre": "El Rayito"
+    },
+    {
+        "clave": "240060073",
+        "nombre": "El Garabato"
+    },
+    {
+        "clave": "240060079",
+        "nombre": "El Huizachal"
+    },
+    {
+        "clave": "240060084",
+        "nombre": "Las Adjuntas"
+    },
+    {
+        "clave": "240060096",
+        "nombre": "La Borrega"
+    },
+    {
+        "clave": "240060134",
+        "nombre": "El Espolón"
+    },
+    {
+        "clave": "240060145",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "240060170",
+        "nombre": "Los Ojitos de Agua"
+    },
+    {
+        "clave": "240060176",
+        "nombre": "Las Relaciones"
+    },
+    {
+        "clave": "240060180",
+        "nombre": "La Pila"
+    },
+    {
+        "clave": "240060187",
+        "nombre": "Real de Catorce"
+    },
+    {
+        "clave": "240060001",
+        "nombre": "Real de Catorce"
+    },
+    {
+        "clave": "240060004",
+        "nombre": "Alamaritos de Coronados"
+    },
+    {
+        "clave": "240060007",
+        "nombre": "Ave María"
+    },
+    {
+        "clave": "240060012",
+        "nombre": "Estación Catorce"
+    },
+    {
+        "clave": "240060016",
+        "nombre": "La Hediondilla"
+    },
+    {
+        "clave": "240060019",
+        "nombre": "La Leona"
+    },
+    {
+        "clave": "240060020",
+        "nombre": "Loma Blanca"
+    },
+    {
+        "clave": "240060026",
+        "nombre": "Palma del Arco"
+    },
+    {
+        "clave": "240060029",
+        "nombre": "Perros Duros"
+    },
+    {
+        "clave": "240060030",
+        "nombre": "Poblazón"
+    },
+    {
+        "clave": "240060033",
+        "nombre": "Ranchito de Coronados"
+    },
+    {
+        "clave": "240060045",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "240060047",
+        "nombre": "San Rafael de Torres"
+    },
+    {
+        "clave": "240060056",
+        "nombre": "Tierras Negras"
+    },
+    {
+        "clave": "240060057",
+        "nombre": "El Verde"
+    },
+    {
+        "clave": "240060059",
+        "nombre": "Estación Wadley"
+    },
+    {
+        "clave": "240060062",
+        "nombre": "Corrales"
+    },
+    {
+        "clave": "240060068",
+        "nombre": "El Picacho"
+    },
+    {
+        "clave": "240060071",
+        "nombre": "Tanque Charco Cercado"
+    },
+    {
+        "clave": "240060076",
+        "nombre": "Las Amarillas"
+    },
+    {
+        "clave": "240060081",
+        "nombre": "Las Ánimas"
+    },
+    {
+        "clave": "240060082",
+        "nombre": "La Cieneguita de Sosa"
+    },
+    {
+        "clave": "240060083",
+        "nombre": "La Lagunita"
+    },
+    {
+        "clave": "240060086",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "240060088",
+        "nombre": "Charco del Mono"
+    },
+    {
+        "clave": "240060089",
+        "nombre": "Charco Colorado"
+    },
+    {
+        "clave": "240060093",
+        "nombre": "Los Pames"
+    },
+    {
+        "clave": "240060094",
+        "nombre": "Los Reyes"
+    },
+    {
+        "clave": "240060095",
+        "nombre": "Las Auras"
+    },
+    {
+        "clave": "240060099",
+        "nombre": "Socavón de Purísima"
+    },
+    {
+        "clave": "240060101",
+        "nombre": "La Noria de San Rafael de Torres"
+    },
+    {
+        "clave": "240060103",
+        "nombre": "Bedao"
+    },
+    {
+        "clave": "240060104",
+        "nombre": "El Capadero"
+    },
+    {
+        "clave": "240060105",
+        "nombre": "El Cedro"
+    },
+    {
+        "clave": "240060106",
+        "nombre": "Cerrito Güero"
+    },
+    {
+        "clave": "240060108",
+        "nombre": "Retas"
+    },
+    {
+        "clave": "240060110",
+        "nombre": "San Gregorio de los Martínez"
+    },
+    {
+        "clave": "240060111",
+        "nombre": "San José de los Lucas"
+    },
+    {
+        "clave": "240060113",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "240060115",
+        "nombre": "El Arrastradero (El Barranco)"
+    },
+    {
+        "clave": "240060117",
+        "nombre": "Puerto de las Vacas"
+    },
+    {
+        "clave": "240060118",
+        "nombre": "El Puerto de San Jacobo"
+    },
+    {
+        "clave": "240060119",
+        "nombre": "Las Sevillas"
+    },
+    {
+        "clave": "240060121",
+        "nombre": "Los Cuatro Caminos"
+    },
+    {
+        "clave": "240060122",
+        "nombre": "Collado"
+    },
+    {
+        "clave": "240060123",
+        "nombre": "Puerto de la Cruz"
+    },
+    {
+        "clave": "240060124",
+        "nombre": "Rancho Cocuy"
+    },
+    {
+        "clave": "240060125",
+        "nombre": "Las Amapolas"
+    },
+    {
+        "clave": "240060126",
+        "nombre": "El Arenal"
+    },
+    {
+        "clave": "240060127",
+        "nombre": "La Biznaga"
+    },
+    {
+        "clave": "240060128",
+        "nombre": "Las Cabecitas"
+    },
+    {
+        "clave": "240060130",
+        "nombre": "Santa Rita [Compañía Minera]"
+    },
+    {
+        "clave": "240060131",
+        "nombre": "La Continental (La Fábrica)"
+    },
+    {
+        "clave": "240060132",
+        "nombre": "El Cristo"
+    },
+    {
+        "clave": "240060135",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "240060136",
+        "nombre": "Loma Blanca Dos"
+    },
+    {
+        "clave": "240060138",
+        "nombre": "Majada Antonio Vallejo"
+    },
+    {
+        "clave": "240060140",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "240060141",
+        "nombre": "Mezquite Chino"
+    },
+    {
+        "clave": "240060142",
+        "nombre": "Los Muertos"
+    },
+    {
+        "clave": "240060143",
+        "nombre": "Los Negritos"
+    },
+    {
+        "clave": "240060147",
+        "nombre": "Los Rayos"
+    },
+    {
+        "clave": "240060148",
+        "nombre": "La Sabanilla"
+    },
+    {
+        "clave": "240060149",
+        "nombre": "El Duraznillal (San Francisco)"
+    },
+    {
+        "clave": "240060150",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "240060151",
+        "nombre": "Santo Niño"
+    },
+    {
+        "clave": "240060152",
+        "nombre": "Tanque la Mulita"
+    },
+    {
+        "clave": "240060153",
+        "nombre": "La Gamuza (Tanque Nuevo)"
+    },
+    {
+        "clave": "240060154",
+        "nombre": "El Tejón"
+    },
+    {
+        "clave": "240060159",
+        "nombre": "La Cantera"
+    },
+    {
+        "clave": "240060160",
+        "nombre": "El Pelotazo"
+    },
+    {
+        "clave": "240060161",
+        "nombre": "Puerto del Palillo"
+    },
+    {
+        "clave": "240060162",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "240060163",
+        "nombre": "Cerrito de la Piedra"
+    },
+    {
+        "clave": "240060164",
+        "nombre": "Cieneguita de Quijano"
+    },
+    {
+        "clave": "240060165",
+        "nombre": "Ejido las Lechuzas [COPLAMAR]"
+    },
+    {
+        "clave": "240060166",
+        "nombre": "La Majada de Tacho"
+    },
+    {
+        "clave": "240060167",
+        "nombre": "Mina de Concepción"
+    },
+    {
+        "clave": "240060168",
+        "nombre": "Mina la Fortuna"
+    },
+    {
+        "clave": "240060169",
+        "nombre": "La Mulita (José Villanueva)"
+    },
+    {
+        "clave": "240060172",
+        "nombre": "Parcela de los Novios"
+    },
+    {
+        "clave": "240060173",
+        "nombre": "Pozo Nueva Esperanza"
+    },
+    {
+        "clave": "240060174",
+        "nombre": "Rancho Nebtashi (Tigre Azul)"
+    },
+    {
+        "clave": "240060175",
+        "nombre": "Real de Catorce"
+    },
+    {
+        "clave": "240060177",
+        "nombre": "San Gabriel"
+    },
+    {
+        "clave": "240060179",
+        "nombre": "Boquilla de Barrabás"
+    },
+    {
+        "clave": "240060181",
+        "nombre": "Rancho el Pollo"
+    },
+    {
+        "clave": "240060182",
+        "nombre": "Cerrito Blanco"
+    },
+    {
+        "clave": "240060184",
+        "nombre": "El Magueyal"
+    },
+    {
+        "clave": "240060185",
+        "nombre": "Mesa del Venado"
+    },
+    {
+        "clave": "240060186",
+        "nombre": "La Hediondilla"
+    },
+    {
+        "clave": "240060188",
+        "nombre": "Real de Catorce"
+    },
+    {
+        "clave": "240060189",
+        "nombre": "Cerrito de San José"
+    },
+    {
+        "clave": "240060190",
+        "nombre": "La Peña"
+    },
+    {
+        "clave": "240060191",
+        "nombre": "Los Colorines"
+    },
+    {
+        "clave": "240060192",
+        "nombre": "Poca Luz"
+    },
+    {
+        "clave": "240060193",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "240060194",
+        "nombre": "Sierra Hermosa"
+    },
+    {
+        "clave": "240060195",
+        "nombre": "Tanque de Pulgas"
+    },
+    {
+        "clave": "240060196",
+        "nombre": "La Pasadita"
+    },
+    {
+        "clave": "240060197",
+        "nombre": "Santa Clara"
+    }
+]

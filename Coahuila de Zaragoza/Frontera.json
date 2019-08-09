@@ -1,0 +1,910 @@
+[
+    {
+        "clave": "50100007",
+        "nombre": "Pozuelos de Arriba"
+    },
+    {
+        "clave": "50100225",
+        "nombre": "Lázaro Contreras Hernández"
+    },
+    {
+        "clave": "50100006",
+        "nombre": "Pozuelos de Abajo"
+    },
+    {
+        "clave": "50100084",
+        "nombre": "Fidencio Mendoza Castillo [Sector de Producción Número 1]"
+    },
+    {
+        "clave": "50100090",
+        "nombre": "Acatlán"
+    },
+    {
+        "clave": "50100091",
+        "nombre": "Hermosa Provincia"
+    },
+    {
+        "clave": "50100184",
+        "nombre": "El Borrego (Pueblo Nuevo)"
+    },
+    {
+        "clave": "50100001",
+        "nombre": "Frontera"
+    },
+    {
+        "clave": "50100002",
+        "nombre": "La Cruz"
+    },
+    {
+        "clave": "50100003",
+        "nombre": "Nuevo Poblado de Fresnillo (Fresnillo)"
+    },
+    {
+        "clave": "50100005",
+        "nombre": "Ocho de Enero"
+    },
+    {
+        "clave": "50100008",
+        "nombre": "El Chapote"
+    },
+    {
+        "clave": "50100009",
+        "nombre": "Colón"
+    },
+    {
+        "clave": "50100010",
+        "nombre": "San Isidro (El Alemán)"
+    },
+    {
+        "clave": "50100012",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "50100015",
+        "nombre": "La Molienda"
+    },
+    {
+        "clave": "50100018",
+        "nombre": "La Pila"
+    },
+    {
+        "clave": "50100019",
+        "nombre": "El Papalote"
+    },
+    {
+        "clave": "50100021",
+        "nombre": "Fraccionamiento San Antonio"
+    },
+    {
+        "clave": "50100022",
+        "nombre": "La Polka 1"
+    },
+    {
+        "clave": "50100023",
+        "nombre": "La Polka 1 (Las Carmelitas)"
+    },
+    {
+        "clave": "50100030",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "50100031",
+        "nombre": "La Mota"
+    },
+    {
+        "clave": "50100032",
+        "nombre": "El Encino"
+    },
+    {
+        "clave": "50100036",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "50100037",
+        "nombre": "Fresnillo (AHMSA)"
+    },
+    {
+        "clave": "50100039",
+        "nombre": "Jesús Calleros Palma"
+    },
+    {
+        "clave": "50100040",
+        "nombre": "La Polka 1 (Mario Villalobos)"
+    },
+    {
+        "clave": "50100041",
+        "nombre": "Rancho Grande [Plaza de Toros]"
+    },
+    {
+        "clave": "50100043",
+        "nombre": "La Polka 1 (Luis Gutiérrez)"
+    },
+    {
+        "clave": "50100044",
+        "nombre": "San Pedro (La Polka 1)"
+    },
+    {
+        "clave": "50100045",
+        "nombre": "Gerardo Coronado"
+    },
+    {
+        "clave": "50100046",
+        "nombre": "Ninguno [Ciudad Sanitaria]"
+    },
+    {
+        "clave": "50100047",
+        "nombre": "Juan Antonio"
+    },
+    {
+        "clave": "50100048",
+        "nombre": "Encarnación"
+    },
+    {
+        "clave": "50100049",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "50100052",
+        "nombre": "Esteban Martínez Alonso (Ejido de Estancias)"
+    },
+    {
+        "clave": "50100053",
+        "nombre": "José Gelacio Orozco"
+    },
+    {
+        "clave": "50100055",
+        "nombre": "Las Moras"
+    },
+    {
+        "clave": "50100056",
+        "nombre": "Roberto Rivera"
+    },
+    {
+        "clave": "50100058",
+        "nombre": "Gustavo García"
+    },
+    {
+        "clave": "50100060",
+        "nombre": "Rancho del Consuelo (Los Mona)"
+    },
+    {
+        "clave": "50100064",
+        "nombre": "Los Cárdenas (Marcial Cárdenas Villastrigo)"
+    },
+    {
+        "clave": "50100067",
+        "nombre": "Guadalupe Ramos Martínez (Guadalupe)"
+    },
+    {
+        "clave": "50100069",
+        "nombre": "Los Álamos"
+    },
+    {
+        "clave": "50100071",
+        "nombre": "Quinta José (Alejandro Arroyo Gómez)"
+    },
+    {
+        "clave": "50100073",
+        "nombre": "Jesús Martínez"
+    },
+    {
+        "clave": "50100074",
+        "nombre": "Guillermo Gutiérrez Fraustro (La Aurora)"
+    },
+    {
+        "clave": "50100076",
+        "nombre": "Juan Rodríguez"
+    },
+    {
+        "clave": "50100077",
+        "nombre": "La Aurora Uno"
+    },
+    {
+        "clave": "50100078",
+        "nombre": "Raúl García Morales"
+    },
+    {
+        "clave": "50100079",
+        "nombre": "Rendón [Granja]"
+    },
+    {
+        "clave": "50100080",
+        "nombre": "Santa Alicia (Reynold Peña Cruz)"
+    },
+    {
+        "clave": "50100081",
+        "nombre": "La Polka 1 (Roberto Ortegón)"
+    },
+    {
+        "clave": "50100083",
+        "nombre": "Milagros (Gustavo Fidencio González Vega)"
+    },
+    {
+        "clave": "50100088",
+        "nombre": "Miguel Mona"
+    },
+    {
+        "clave": "50100092",
+        "nombre": "El Alto"
+    },
+    {
+        "clave": "50100093",
+        "nombre": "Los Auces"
+    },
+    {
+        "clave": "50100094",
+        "nombre": "José Isidro Silva"
+    },
+    {
+        "clave": "50100095",
+        "nombre": "José Ángel Ibarra"
+    },
+    {
+        "clave": "50100096",
+        "nombre": "Rogelio González De la Cruz"
+    },
+    {
+        "clave": "50100097",
+        "nombre": "José Flores Molina"
+    },
+    {
+        "clave": "50100098",
+        "nombre": "Marcelo Escobedo Arévalo"
+    },
+    {
+        "clave": "50100100",
+        "nombre": "Crescencio García"
+    },
+    {
+        "clave": "50100101",
+        "nombre": "Popa Mona"
+    },
+    {
+        "clave": "50100102",
+        "nombre": "Mona"
+    },
+    {
+        "clave": "50100104",
+        "nombre": "José Arturo Barrera"
+    },
+    {
+        "clave": "50100105",
+        "nombre": "José Ignacio Dávila"
+    },
+    {
+        "clave": "50100106",
+        "nombre": "Jorge De los Santos"
+    },
+    {
+        "clave": "50100107",
+        "nombre": "Los Temporales (Mario Salazar Garza)"
+    },
+    {
+        "clave": "50100108",
+        "nombre": "Colonia Doctor Esteban Martínez"
+    },
+    {
+        "clave": "50100110",
+        "nombre": "Estancias de San Juan Bautista"
+    },
+    {
+        "clave": "50100111",
+        "nombre": "Gerardo Galindo Moreno"
+    },
+    {
+        "clave": "50100112",
+        "nombre": "La Polka 1 (La Piedad)"
+    },
+    {
+        "clave": "50100113",
+        "nombre": "Quinta la Polka"
+    },
+    {
+        "clave": "50100114",
+        "nombre": "La Polka 1 (Abel Salazar Santos)"
+    },
+    {
+        "clave": "50100115",
+        "nombre": "La Polka 1 (Higinio Aguilar Coronado)"
+    },
+    {
+        "clave": "50100116",
+        "nombre": "Las Lupitas"
+    },
+    {
+        "clave": "50100117",
+        "nombre": "Los Compadres"
+    },
+    {
+        "clave": "50100118",
+        "nombre": "El Milagro (Dennis Coffey)"
+    },
+    {
+        "clave": "50100119",
+        "nombre": "El Alto de Estancias (Francisco De Alba)"
+    },
+    {
+        "clave": "50100120",
+        "nombre": "Casa Blanca (El Alto)"
+    },
+    {
+        "clave": "50100121",
+        "nombre": "Santos Peña"
+    },
+    {
+        "clave": "50100122",
+        "nombre": "El Suspiro (Hitler Valdez)"
+    },
+    {
+        "clave": "50100123",
+        "nombre": "Alfredo Paredes"
+    },
+    {
+        "clave": "50100124",
+        "nombre": "Alfredo Paredes"
+    },
+    {
+        "clave": "50100125",
+        "nombre": "Fidencio Rodríguez"
+    },
+    {
+        "clave": "50100126",
+        "nombre": "Efrén"
+    },
+    {
+        "clave": "50100127",
+        "nombre": "Armando Machado"
+    },
+    {
+        "clave": "50100128",
+        "nombre": "Lupita"
+    },
+    {
+        "clave": "50100129",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "50100130",
+        "nombre": "Enrique Castillo"
+    },
+    {
+        "clave": "50100132",
+        "nombre": "Macondo (Santa Irene)"
+    },
+    {
+        "clave": "50100133",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "50100134",
+        "nombre": "La Polka Dos"
+    },
+    {
+        "clave": "50100135",
+        "nombre": "Jesús Peña Suárez"
+    },
+    {
+        "clave": "50100136",
+        "nombre": "El Alto (José Morales Rodríguez)"
+    },
+    {
+        "clave": "50100137",
+        "nombre": "Fidencio Peña Peña e Hijos"
+    },
+    {
+        "clave": "50100138",
+        "nombre": "El Coyote (Rogelio Córdoba)"
+    },
+    {
+        "clave": "50100139",
+        "nombre": "El Refugio (Juan Hermilo Arauza)"
+    },
+    {
+        "clave": "50100141",
+        "nombre": "Ramón Suárez Corona"
+    },
+    {
+        "clave": "50100142",
+        "nombre": "La Lupita"
+    },
+    {
+        "clave": "50100143",
+        "nombre": "La Esperanza (Jaime Mario Castellanos Córdova)"
+    },
+    {
+        "clave": "50100144",
+        "nombre": "El Tesoro (Antonio De la Cruz Rodríguez)"
+    },
+    {
+        "clave": "50100145",
+        "nombre": "Los Martínez"
+    },
+    {
+        "clave": "50100146",
+        "nombre": "La Puerta"
+    },
+    {
+        "clave": "50100147",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "50100148",
+        "nombre": "Santa Anita"
+    },
+    {
+        "clave": "50100149",
+        "nombre": "La Granjita (Hortencia Barajas)"
+    },
+    {
+        "clave": "50100150",
+        "nombre": "La Puerta"
+    },
+    {
+        "clave": "50100151",
+        "nombre": "La Atravezada"
+    },
+    {
+        "clave": "50100152",
+        "nombre": "Santa Inés"
+    },
+    {
+        "clave": "50100153",
+        "nombre": "Santa Inés (De la Herradura)"
+    },
+    {
+        "clave": "50100154",
+        "nombre": "Orica"
+    },
+    {
+        "clave": "50100155",
+        "nombre": "Santa Inés (Salvador Martínez)"
+    },
+    {
+        "clave": "50100158",
+        "nombre": "La Polka 1 (Beto Garibay Asís)"
+    },
+    {
+        "clave": "50100159",
+        "nombre": "Los Pinabetes (Carlos Huerta Moreno)"
+    },
+    {
+        "clave": "50100160",
+        "nombre": "Chayín (Eliseo Briones Alcocer)"
+    },
+    {
+        "clave": "50100161",
+        "nombre": "Artemio Serna Zamur"
+    },
+    {
+        "clave": "50100162",
+        "nombre": "La Polka 1 (Balneario Marisol)"
+    },
+    {
+        "clave": "50100163",
+        "nombre": "Jaime Martínez Maltos"
+    },
+    {
+        "clave": "50100164",
+        "nombre": "La Polka 1 (Manuel Flores Guzmán)"
+    },
+    {
+        "clave": "50100165",
+        "nombre": "El Venado (Francisco Raúl Ballesteros Peña)"
+    },
+    {
+        "clave": "50100167",
+        "nombre": "Osvaldo Suárez Salazar"
+    },
+    {
+        "clave": "50100168",
+        "nombre": "Cruz Castellanos García"
+    },
+    {
+        "clave": "50100169",
+        "nombre": "Eduardo Alvarado Morones"
+    },
+    {
+        "clave": "50100170",
+        "nombre": "Ninguno [Club To Ton]"
+    },
+    {
+        "clave": "50100171",
+        "nombre": "Juan García Venegas"
+    },
+    {
+        "clave": "50100172",
+        "nombre": "Beatriz Del Río"
+    },
+    {
+        "clave": "50100173",
+        "nombre": "Francisco Rosciano"
+    },
+    {
+        "clave": "50100174",
+        "nombre": "Calderones Ranch (Calderón Liñán)"
+    },
+    {
+        "clave": "50100175",
+        "nombre": "Jaime Quirino"
+    },
+    {
+        "clave": "50100176",
+        "nombre": "Colonia Diana Laura Riojas de Colosio"
+    },
+    {
+        "clave": "50100177",
+        "nombre": "El Junco"
+    },
+    {
+        "clave": "50100178",
+        "nombre": "Los Panchos"
+    },
+    {
+        "clave": "50100179",
+        "nombre": "El Establo"
+    },
+    {
+        "clave": "50100180",
+        "nombre": "San José"
+    },
+    {
+        "clave": "50100181",
+        "nombre": "Ampliación Doctor Esteban Martínez"
+    },
+    {
+        "clave": "50100182",
+        "nombre": "Antonio Ramos"
+    },
+    {
+        "clave": "50100183",
+        "nombre": "Tomás Escobedo"
+    },
+    {
+        "clave": "50100185",
+        "nombre": "La Cabaña"
+    },
+    {
+        "clave": "50100186",
+        "nombre": "La Cabaña"
+    },
+    {
+        "clave": "50100187",
+        "nombre": "Corralitos"
+    },
+    {
+        "clave": "50100188",
+        "nombre": "Enrique Martínez y Martínez"
+    },
+    {
+        "clave": "50100189",
+        "nombre": "San Isidro [Confinamiento Industrial]"
+    },
+    {
+        "clave": "50100190",
+        "nombre": "Las Cuatas"
+    },
+    {
+        "clave": "50100191",
+        "nombre": "Cuatro Caminos (La Hermosa)"
+    },
+    {
+        "clave": "50100192",
+        "nombre": "Dámaso González Sánchez"
+    },
+    {
+        "clave": "50100193",
+        "nombre": "David Ramírez"
+    },
+    {
+        "clave": "50100194",
+        "nombre": "Efraín Asís"
+    },
+    {
+        "clave": "50100195",
+        "nombre": "Eleuterio Sánchez Mata"
+    },
+    {
+        "clave": "50100196",
+        "nombre": "Erika Rocío Rendón Lara"
+    },
+    {
+        "clave": "50100197",
+        "nombre": "Fidencio Martínez"
+    },
+    {
+        "clave": "50100198",
+        "nombre": "Fracción Ejidal Pozuelos de Abajo"
+    },
+    {
+        "clave": "50100199",
+        "nombre": "Gonzalo Castillo Alvarado"
+    },
+    {
+        "clave": "50100200",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "50100201",
+        "nombre": "Hermilo Ramos"
+    },
+    {
+        "clave": "50100202",
+        "nombre": "Jesús Candelario Martínez Pacheco"
+    },
+    {
+        "clave": "50100203",
+        "nombre": "Valle Verde (Álvarez Hernández)"
+    },
+    {
+        "clave": "50100204",
+        "nombre": "Manuel Escobedo Arévalo"
+    },
+    {
+        "clave": "50100205",
+        "nombre": "Arturo Reyes"
+    },
+    {
+        "clave": "50100206",
+        "nombre": "La Mota (Nazario Escobedo)"
+    },
+    {
+        "clave": "50100207",
+        "nombre": "Olga Alicia"
+    },
+    {
+        "clave": "50100208",
+        "nombre": "Pablo Sánchez"
+    },
+    {
+        "clave": "50100209",
+        "nombre": "Pedro Requena"
+    },
+    {
+        "clave": "50100210",
+        "nombre": "La Acerera [Planta de Transmisión de Radio]"
+    },
+    {
+        "clave": "50100211",
+        "nombre": "Quinta Nora Patricia"
+    },
+    {
+        "clave": "50100212",
+        "nombre": "Ramiro Castillo Guía"
+    },
+    {
+        "clave": "50100213",
+        "nombre": "René Rivas Urbina"
+    },
+    {
+        "clave": "50100214",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "50100215",
+        "nombre": "Gabino Rodríguez"
+    },
+    {
+        "clave": "50100216",
+        "nombre": "Santa Leticia"
+    },
+    {
+        "clave": "50100217",
+        "nombre": "Villarreal"
+    },
+    {
+        "clave": "50100218",
+        "nombre": "Carlos Rodríguez"
+    },
+    {
+        "clave": "50100219",
+        "nombre": "Los Juanes"
+    },
+    {
+        "clave": "50100220",
+        "nombre": "Alberto Villa Arias"
+    },
+    {
+        "clave": "50100221",
+        "nombre": "Los Dávila"
+    },
+    {
+        "clave": "50100222",
+        "nombre": "San Antonio (Nuevo Paraíso)"
+    },
+    {
+        "clave": "50100223",
+        "nombre": "Juana María Suarez Riojas"
+    },
+    {
+        "clave": "50100224",
+        "nombre": "La Villita"
+    },
+    {
+        "clave": "50100226",
+        "nombre": "Luis Gerardo Arocha González"
+    },
+    {
+        "clave": "50100227",
+        "nombre": "José Luis Garza del Toro"
+    },
+    {
+        "clave": "50100228",
+        "nombre": "El Paraíso (Ricardo Medrano)"
+    },
+    {
+        "clave": "50100229",
+        "nombre": "El Vivero"
+    },
+    {
+        "clave": "50100230",
+        "nombre": "Jesús Mendoza"
+    },
+    {
+        "clave": "50100231",
+        "nombre": "Quinta Ángeles"
+    },
+    {
+        "clave": "50100232",
+        "nombre": "Rancho de la Pina (Raúl Montemayor Valdés)"
+    },
+    {
+        "clave": "50100233",
+        "nombre": "Escobar"
+    },
+    {
+        "clave": "50100234",
+        "nombre": "Rancho 3 R"
+    },
+    {
+        "clave": "50100235",
+        "nombre": "El Pequeño (Jesús Candelario Martínez Pacheco)"
+    },
+    {
+        "clave": "50100236",
+        "nombre": "El Topo"
+    },
+    {
+        "clave": "50100237",
+        "nombre": "Francisco Moncada"
+    },
+    {
+        "clave": "50100238",
+        "nombre": "El Encanto (La Bandera)"
+    },
+    {
+        "clave": "50100239",
+        "nombre": "José Luis Rodríguez Vázquez"
+    },
+    {
+        "clave": "50100240",
+        "nombre": "El Trébol"
+    },
+    {
+        "clave": "50100241",
+        "nombre": "Monclova [Centro Ecuestre]"
+    },
+    {
+        "clave": "50100242",
+        "nombre": "El Chupadero (Salvador Gutiérrez Flores)"
+    },
+    {
+        "clave": "50100243",
+        "nombre": "José Alberto Asís Calderón"
+    },
+    {
+        "clave": "50100244",
+        "nombre": "Juan Sifuentes Rodríguez"
+    },
+    {
+        "clave": "50100245",
+        "nombre": "Juan Morín Duarte"
+    },
+    {
+        "clave": "50100246",
+        "nombre": "Obdulia Dávila Gloria"
+    },
+    {
+        "clave": "50100247",
+        "nombre": "Elvia Martínez Guajardo"
+    },
+    {
+        "clave": "50100248",
+        "nombre": "Ramos Ranch (Carlos Ramos Reyes)"
+    },
+    {
+        "clave": "50100249",
+        "nombre": "El Paraíso (Héctor Ramón Samaniego Casarez)"
+    },
+    {
+        "clave": "50100250",
+        "nombre": "Tres Potrillos"
+    },
+    {
+        "clave": "50100251",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "50100252",
+        "nombre": "Las Alazanas"
+    },
+    {
+        "clave": "50100253",
+        "nombre": "Eloy Limón"
+    },
+    {
+        "clave": "50100254",
+        "nombre": "Santa Clara"
+    },
+    {
+        "clave": "50100255",
+        "nombre": "Julia Elena Ortega García"
+    },
+    {
+        "clave": "50100256",
+        "nombre": "Cuatro Milpas"
+    },
+    {
+        "clave": "50100257",
+        "nombre": "Los Williamsón"
+    },
+    {
+        "clave": "50100258",
+        "nombre": "El Borrego"
+    },
+    {
+        "clave": "50100259",
+        "nombre": "La Morita"
+    },
+    {
+        "clave": "50100260",
+        "nombre": "Elba Méndez de León"
+    },
+    {
+        "clave": "50100261",
+        "nombre": "Barajas"
+    },
+    {
+        "clave": "50100262",
+        "nombre": "Sandra Luz Méndez González"
+    },
+    {
+        "clave": "50100263",
+        "nombre": "Enrique Martel Sifuentes"
+    },
+    {
+        "clave": "50100264",
+        "nombre": "Eulalio Méndez González"
+    },
+    {
+        "clave": "50100265",
+        "nombre": "Rodolfo Méndez González"
+    },
+    {
+        "clave": "50100266",
+        "nombre": "Juan Pablo Mata Estrada"
+    },
+    {
+        "clave": "50100267",
+        "nombre": "Sagrado Corazón de Jesús"
+    },
+    {
+        "clave": "50100268",
+        "nombre": "Petra Gaytán Orozco"
+    },
+    {
+        "clave": "50100269",
+        "nombre": "Eduardo Gutiérrez Sánchez"
+    },
+    {
+        "clave": "50100270",
+        "nombre": "La Isla (Graciela Rodríguez Moreno)"
+    },
+    {
+        "clave": "50100271",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "50100272",
+        "nombre": "Magdalena"
+    }
+]

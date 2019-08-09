@@ -1,0 +1,2370 @@
+[
+    {
+        "clave": "100070032",
+        "nombre": "Arcinas"
+    },
+    {
+        "clave": "100070056",
+        "nombre": "Chihuahuita (Chihuahuita Viejo)"
+    },
+    {
+        "clave": "100070066",
+        "nombre": "Eureka de Media Luna (Eureka)"
+    },
+    {
+        "clave": "100070068",
+        "nombre": "Filadelfia"
+    },
+    {
+        "clave": "100070082",
+        "nombre": "Independencia"
+    },
+    {
+        "clave": "100070088",
+        "nombre": "José María Morelos y Pavón"
+    },
+    {
+        "clave": "100070102",
+        "nombre": "Las Macitas"
+    },
+    {
+        "clave": "100070108",
+        "nombre": "Noé"
+    },
+    {
+        "clave": "100070114",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "100070117",
+        "nombre": "La Plata"
+    },
+    {
+        "clave": "100070155",
+        "nombre": "El Triunfo"
+    },
+    {
+        "clave": "100070185",
+        "nombre": "El Progreso"
+    },
+    {
+        "clave": "100070228",
+        "nombre": "San Roque"
+    },
+    {
+        "clave": "100070302",
+        "nombre": "El Barro 33 (El Treinta y Tres)"
+    },
+    {
+        "clave": "100070304",
+        "nombre": "Establo Madrid"
+    },
+    {
+        "clave": "100070315",
+        "nombre": "Las Palmas [Granja]"
+    },
+    {
+        "clave": "100070318",
+        "nombre": "El Alto del Chivo (Romero Rosas)"
+    },
+    {
+        "clave": "100070449",
+        "nombre": "Los Eucaliptos"
+    },
+    {
+        "clave": "100070451",
+        "nombre": "El Fénix [Propiedad Privada]"
+    },
+    {
+        "clave": "100070483",
+        "nombre": "Jericó [Propiedad Privada]"
+    },
+    {
+        "clave": "100070550",
+        "nombre": "Ríos [Granja]"
+    },
+    {
+        "clave": "100070588",
+        "nombre": "Colonia Establera San Francisco"
+    },
+    {
+        "clave": "100070607",
+        "nombre": "El Tuanon [Propiedad Privada]"
+    },
+    {
+        "clave": "100070657",
+        "nombre": "La Platilla (La Nueva) [Nuevo Centro de Población]"
+    },
+    {
+        "clave": "100070659",
+        "nombre": "Las Lechuzas (Las Brujas)"
+    },
+    {
+        "clave": "100070661",
+        "nombre": "Hermanos Quezada"
+    },
+    {
+        "clave": "100070691",
+        "nombre": "Rancho Gordo"
+    },
+    {
+        "clave": "100070715",
+        "nombre": "Rancho San Luis (Granja Ríos)"
+    },
+    {
+        "clave": "100070728",
+        "nombre": "Familia López Zapata"
+    },
+    {
+        "clave": "100070845",
+        "nombre": "Colonia San Ángel"
+    },
+    {
+        "clave": "100070860",
+        "nombre": "Roberto Ríos"
+    },
+    {
+        "clave": "100070882",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "100070001",
+        "nombre": "Gómez Palacio"
+    },
+    {
+        "clave": "100070029",
+        "nombre": "Granja Ana [Propiedad Privada]"
+    },
+    {
+        "clave": "100070030",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "100070031",
+        "nombre": "Aquiles Serdán"
+    },
+    {
+        "clave": "100070033",
+        "nombre": "Arturo Martínez Adame"
+    },
+    {
+        "clave": "100070034",
+        "nombre": "La Aurora"
+    },
+    {
+        "clave": "100070035",
+        "nombre": "Pequeña Bahía"
+    },
+    {
+        "clave": "100070036",
+        "nombre": "El Barro"
+    },
+    {
+        "clave": "100070037",
+        "nombre": "Bella Unión"
+    },
+    {
+        "clave": "100070039",
+        "nombre": "Berlín"
+    },
+    {
+        "clave": "100070040",
+        "nombre": "Brittingham"
+    },
+    {
+        "clave": "100070041",
+        "nombre": "Bucareli"
+    },
+    {
+        "clave": "100070042",
+        "nombre": "Colonia Agrícola Buendía"
+    },
+    {
+        "clave": "100070043",
+        "nombre": "El Cairo Dos [Granja]"
+    },
+    {
+        "clave": "100070044",
+        "nombre": "California"
+    },
+    {
+        "clave": "100070045",
+        "nombre": "El Cariño"
+    },
+    {
+        "clave": "100070046",
+        "nombre": "El Castillo"
+    },
+    {
+        "clave": "100070048",
+        "nombre": "El Compás"
+    },
+    {
+        "clave": "100070049",
+        "nombre": "La Competencia"
+    },
+    {
+        "clave": "100070051",
+        "nombre": "El Consuelo"
+    },
+    {
+        "clave": "100070052",
+        "nombre": "El Cortijo"
+    },
+    {
+        "clave": "100070053",
+        "nombre": "Cuatro de Diciembre (Sagundo)"
+    },
+    {
+        "clave": "100070057",
+        "nombre": "18 de Marzo"
+    },
+    {
+        "clave": "100070058",
+        "nombre": "Dinamita"
+    },
+    {
+        "clave": "100070059",
+        "nombre": "Dolores (La Borrega)"
+    },
+    {
+        "clave": "100070060",
+        "nombre": "El Duraznito"
+    },
+    {
+        "clave": "100070061",
+        "nombre": "Eliaf (El Chorizo)"
+    },
+    {
+        "clave": "100070062",
+        "nombre": "Ensenada"
+    },
+    {
+        "clave": "100070063",
+        "nombre": "San Carlos (La Escondida) [Propiedad Privada]"
+    },
+    {
+        "clave": "100070064",
+        "nombre": "Esmeralda"
+    },
+    {
+        "clave": "100070065",
+        "nombre": "La Estrella"
+    },
+    {
+        "clave": "100070067",
+        "nombre": "El Fénix"
+    },
+    {
+        "clave": "100070069",
+        "nombre": "La Flor"
+    },
+    {
+        "clave": "100070074",
+        "nombre": "Establo la Gallega"
+    },
+    {
+        "clave": "100070076",
+        "nombre": "Glorieta"
+    },
+    {
+        "clave": "100070077",
+        "nombre": "Villa Gregorio García"
+    },
+    {
+        "clave": "100070079",
+        "nombre": "Huitrón"
+    },
+    {
+        "clave": "100070081",
+        "nombre": "San Judas Tadeo"
+    },
+    {
+        "clave": "100070085",
+        "nombre": "Jerusalem"
+    },
+    {
+        "clave": "100070086",
+        "nombre": "Jiménez (Jiménez Uno)"
+    },
+    {
+        "clave": "100070087",
+        "nombre": "Jolo (Diecinueve de Octubre)"
+    },
+    {
+        "clave": "100070089",
+        "nombre": "El Junco"
+    },
+    {
+        "clave": "100070090",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "100070092",
+        "nombre": "Las Lechuzas (Las Brujas)"
+    },
+    {
+        "clave": "100070097",
+        "nombre": "El Manantial [Propiedad Privada]"
+    },
+    {
+        "clave": "100070098",
+        "nombre": "Manila"
+    },
+    {
+        "clave": "100070100",
+        "nombre": "Las Margaritas"
+    },
+    {
+        "clave": "100070101",
+        "nombre": "María Antonieta"
+    },
+    {
+        "clave": "100070107",
+        "nombre": "Nazas (Las Lagartijas)"
+    },
+    {
+        "clave": "100070109",
+        "nombre": "Estación Noé"
+    },
+    {
+        "clave": "100070112",
+        "nombre": "Nuevo Jericó"
+    },
+    {
+        "clave": "100070113",
+        "nombre": "Numancia"
+    },
+    {
+        "clave": "100070115",
+        "nombre": "Pastor Rouaix"
+    },
+    {
+        "clave": "100070118",
+        "nombre": "Las Playas"
+    },
+    {
+        "clave": "100070119",
+        "nombre": "Poanas"
+    },
+    {
+        "clave": "100070120",
+        "nombre": "La Popular"
+    },
+    {
+        "clave": "100070122",
+        "nombre": "Providencia"
+    },
+    {
+        "clave": "100070123",
+        "nombre": "Puente de la Torreña"
+    },
+    {
+        "clave": "100070124",
+        "nombre": "El Quemado"
+    },
+    {
+        "clave": "100070126",
+        "nombre": "Reforma"
+    },
+    {
+        "clave": "100070128",
+        "nombre": "El Retoño"
+    },
+    {
+        "clave": "100070129",
+        "nombre": "Rinconada"
+    },
+    {
+        "clave": "100070130",
+        "nombre": "Rinconada"
+    },
+    {
+        "clave": "100070131",
+        "nombre": "Rincón de Santa Cruz"
+    },
+    {
+        "clave": "100070132",
+        "nombre": "San Alberto"
+    },
+    {
+        "clave": "100070133",
+        "nombre": "San Alejandro (El Socorro)"
+    },
+    {
+        "clave": "100070135",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "100070136",
+        "nombre": "San Gabriel"
+    },
+    {
+        "clave": "100070139",
+        "nombre": "San José de Viñedo"
+    },
+    {
+        "clave": "100070140",
+        "nombre": "San Ramiro"
+    },
+    {
+        "clave": "100070141",
+        "nombre": "San Ramón"
+    },
+    {
+        "clave": "100070144",
+        "nombre": "San Sebastián"
+    },
+    {
+        "clave": "100070145",
+        "nombre": "Santa Clara"
+    },
+    {
+        "clave": "100070147",
+        "nombre": "Santa Cruz Luján"
+    },
+    {
+        "clave": "100070148",
+        "nombre": "Santa Julia"
+    },
+    {
+        "clave": "100070151",
+        "nombre": "Seis de Octubre"
+    },
+    {
+        "clave": "100070152",
+        "nombre": "La Tehua"
+    },
+    {
+        "clave": "100070154",
+        "nombre": "Transporte"
+    },
+    {
+        "clave": "100070156",
+        "nombre": "El Valle de Eureka"
+    },
+    {
+        "clave": "100070157",
+        "nombre": "La Vega del Paraíso"
+    },
+    {
+        "clave": "100070158",
+        "nombre": "El Veintinueve de Agosto"
+    },
+    {
+        "clave": "100070159",
+        "nombre": "Venecia"
+    },
+    {
+        "clave": "100070160",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "100070161",
+        "nombre": "El Vergelito"
+    },
+    {
+        "clave": "100070162",
+        "nombre": "Vicente Nava"
+    },
+    {
+        "clave": "100070163",
+        "nombre": "Estación Viñedo"
+    },
+    {
+        "clave": "100070171",
+        "nombre": "Acapulco"
+    },
+    {
+        "clave": "100070172",
+        "nombre": "Venustiano Carranza"
+    },
+    {
+        "clave": "100070174",
+        "nombre": "Grupo Solidario Pamplona (Granja Hidalgo)"
+    },
+    {
+        "clave": "100070176",
+        "nombre": "La Rosita (Progreso Chiquito)"
+    },
+    {
+        "clave": "100070177",
+        "nombre": "La Paz [Granja]"
+    },
+    {
+        "clave": "100070179",
+        "nombre": "El Solito [Propiedad Privada]"
+    },
+    {
+        "clave": "100070182",
+        "nombre": "Las Coyoteras"
+    },
+    {
+        "clave": "100070183",
+        "nombre": "La Luz"
+    },
+    {
+        "clave": "100070191",
+        "nombre": "Pequeña Propiedad Esmeralda"
+    },
+    {
+        "clave": "100070192",
+        "nombre": "Paraíso Sector Tres (Los Górgoros)"
+    },
+    {
+        "clave": "100070193",
+        "nombre": "Pastor Rouaix (Jaboncillo)"
+    },
+    {
+        "clave": "100070194",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "100070209",
+        "nombre": "Corea"
+    },
+    {
+        "clave": "100070212",
+        "nombre": "El Chimal"
+    },
+    {
+        "clave": "100070214",
+        "nombre": "Jolo [Propiedad Privada]"
+    },
+    {
+        "clave": "100070215",
+        "nombre": "La Cantabra [Granja]"
+    },
+    {
+        "clave": "100070217",
+        "nombre": "Martha (El Colorado) [Granja]"
+    },
+    {
+        "clave": "100070220",
+        "nombre": "Noelie [Granja]"
+    },
+    {
+        "clave": "100070223",
+        "nombre": "Palo Blanco"
+    },
+    {
+        "clave": "100070224",
+        "nombre": "Granja el Rocío [Propiedad Privada]"
+    },
+    {
+        "clave": "100070225",
+        "nombre": "La Pequeña Santana"
+    },
+    {
+        "clave": "100070227",
+        "nombre": "San Luisito"
+    },
+    {
+        "clave": "100070229",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "100070230",
+        "nombre": "Toledo [Propiedad Privada]"
+    },
+    {
+        "clave": "100070233",
+        "nombre": "Alborada [Granja]"
+    },
+    {
+        "clave": "100070235",
+        "nombre": "La Chilla"
+    },
+    {
+        "clave": "100070237",
+        "nombre": "Propiedad Privada Filadelfia"
+    },
+    {
+        "clave": "100070238",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "100070243",
+        "nombre": "Pátzcuaro"
+    },
+    {
+        "clave": "100070244",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "100070246",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "100070248",
+        "nombre": "El Gato"
+    },
+    {
+        "clave": "100070252",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "100070254",
+        "nombre": "Dos Hermanas"
+    },
+    {
+        "clave": "100070257",
+        "nombre": "La Goleta"
+    },
+    {
+        "clave": "100070259",
+        "nombre": "Guerrero [Granja]"
+    },
+    {
+        "clave": "100070262",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "100070264",
+        "nombre": "El Celo"
+    },
+    {
+        "clave": "100070272",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "100070273",
+        "nombre": "Trece de Marzo"
+    },
+    {
+        "clave": "100070276",
+        "nombre": "La Encantada"
+    },
+    {
+        "clave": "100070278",
+        "nombre": "Pueblo Nuevo (El Siete)"
+    },
+    {
+        "clave": "100070279",
+        "nombre": "El Volado"
+    },
+    {
+        "clave": "100070281",
+        "nombre": "Fuente Bella"
+    },
+    {
+        "clave": "100070282",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "100070284",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "100070287",
+        "nombre": "El Trébol"
+    },
+    {
+        "clave": "100070288",
+        "nombre": "Resumideros"
+    },
+    {
+        "clave": "100070289",
+        "nombre": "América Uno"
+    },
+    {
+        "clave": "100070292",
+        "nombre": "Sierra Hermosa"
+    },
+    {
+        "clave": "100070294",
+        "nombre": "Nextlalpan"
+    },
+    {
+        "clave": "100070295",
+        "nombre": "Horeb [Propiedad Privada]"
+    },
+    {
+        "clave": "100070316",
+        "nombre": "El Garcés"
+    },
+    {
+        "clave": "100070321",
+        "nombre": "Pequeña Berlín"
+    },
+    {
+        "clave": "100070322",
+        "nombre": "Establo Bremen"
+    },
+    {
+        "clave": "100070325",
+        "nombre": "El Triángulo [Sociedad de Producción Rural]"
+    },
+    {
+        "clave": "100070326",
+        "nombre": "Chihuahuita (Chihuahuita Nuevo)"
+    },
+    {
+        "clave": "100070327",
+        "nombre": "Establo Chilchota"
+    },
+    {
+        "clave": "100070329",
+        "nombre": "El Coronel"
+    },
+    {
+        "clave": "100070331",
+        "nombre": "Vilma Ale de Herrera (Las Cuadritas)"
+    },
+    {
+        "clave": "100070333",
+        "nombre": "Dolores"
+    },
+    {
+        "clave": "100070334",
+        "nombre": "La Esperanza (Tyson de México)"
+    },
+    {
+        "clave": "100070335",
+        "nombre": "La Fosa"
+    },
+    {
+        "clave": "100070337",
+        "nombre": "Los Órganos (La Gloria)"
+    },
+    {
+        "clave": "100070339",
+        "nombre": "Granja Guadalupe"
+    },
+    {
+        "clave": "100070340",
+        "nombre": "Ideal [Granja]"
+    },
+    {
+        "clave": "100070341",
+        "nombre": "Ilhuicamina"
+    },
+    {
+        "clave": "100070345",
+        "nombre": "Las 3 Marías"
+    },
+    {
+        "clave": "100070348",
+        "nombre": "El Mezquite (Cantú)"
+    },
+    {
+        "clave": "100070349",
+        "nombre": "Mi Tumba"
+    },
+    {
+        "clave": "100070350",
+        "nombre": "El Olivo (Nombre de Dios)"
+    },
+    {
+        "clave": "100070352",
+        "nombre": "Pastor Rouaix (Pénjamo)"
+    },
+    {
+        "clave": "100070354",
+        "nombre": "Pimentel (El Socorrito)"
+    },
+    {
+        "clave": "100070355",
+        "nombre": "Purísima"
+    },
+    {
+        "clave": "100070356",
+        "nombre": "Los Ramos [Propiedad Privada]"
+    },
+    {
+        "clave": "100070359",
+        "nombre": "El Recuerdo"
+    },
+    {
+        "clave": "100070362",
+        "nombre": "El Solito"
+    },
+    {
+        "clave": "100070363",
+        "nombre": "San Agustín (Corrales las Luisas)"
+    },
+    {
+        "clave": "100070364",
+        "nombre": "San Gerardo"
+    },
+    {
+        "clave": "100070365",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "100070366",
+        "nombre": "Cemix"
+    },
+    {
+        "clave": "100070369",
+        "nombre": "San Pedro [Propiedad Privada]"
+    },
+    {
+        "clave": "100070370",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "100070371",
+        "nombre": "El Carmen [Propiedad Privada]"
+    },
+    {
+        "clave": "100070372",
+        "nombre": "Santa Gertrudis"
+    },
+    {
+        "clave": "100070373",
+        "nombre": "Santa Lucina"
+    },
+    {
+        "clave": "100070375",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "100070376",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "100070377",
+        "nombre": "Parcela Número Treinta (Hernández Gutiérrez)"
+    },
+    {
+        "clave": "100070378",
+        "nombre": "Rancho Tampico"
+    },
+    {
+        "clave": "100070379",
+        "nombre": "Paraíso Sector 3 (La Tijera)"
+    },
+    {
+        "clave": "100070384",
+        "nombre": "Las Virginias"
+    },
+    {
+        "clave": "100070386",
+        "nombre": "Gaucín Luján"
+    },
+    {
+        "clave": "100070387",
+        "nombre": "Acapulco [Propiedad Privada]"
+    },
+    {
+        "clave": "100070388",
+        "nombre": "Pablo Larriñaga"
+    },
+    {
+        "clave": "100070389",
+        "nombre": "La Ampliación"
+    },
+    {
+        "clave": "100070390",
+        "nombre": "Ampueros"
+    },
+    {
+        "clave": "100070392",
+        "nombre": "Localidad Sin Nombre (Andrade Adame)"
+    },
+    {
+        "clave": "100070393",
+        "nombre": "Los Andrade"
+    },
+    {
+        "clave": "100070395",
+        "nombre": "Santa Cruz (El Aparecido)"
+    },
+    {
+        "clave": "100070396",
+        "nombre": "Ja (La Huraña) [Granja]"
+    },
+    {
+        "clave": "100070398",
+        "nombre": "Sepúlveda"
+    },
+    {
+        "clave": "100070400",
+        "nombre": "Arreola Hernández"
+    },
+    {
+        "clave": "100070401",
+        "nombre": "Astillero"
+    },
+    {
+        "clave": "100070402",
+        "nombre": "La Aurora"
+    },
+    {
+        "clave": "100070405",
+        "nombre": "La Becerra"
+    },
+    {
+        "clave": "100070406",
+        "nombre": "Bethel"
+    },
+    {
+        "clave": "100070407",
+        "nombre": "Bethel [Granja]"
+    },
+    {
+        "clave": "100070408",
+        "nombre": "Bethel Dos"
+    },
+    {
+        "clave": "100070409",
+        "nombre": "Ejido Buendía (La Caseta)"
+    },
+    {
+        "clave": "100070411",
+        "nombre": "Las Carmelas"
+    },
+    {
+        "clave": "100070412",
+        "nombre": "El Compás [Propiedad Privada]"
+    },
+    {
+        "clave": "100070415",
+        "nombre": "Curva de Camacho"
+    },
+    {
+        "clave": "100070421",
+        "nombre": "Cordero Castro"
+    },
+    {
+        "clave": "100070422",
+        "nombre": "La Escondida (Cordero Reyes)"
+    },
+    {
+        "clave": "100070424",
+        "nombre": "Chapingo"
+    },
+    {
+        "clave": "100070425",
+        "nombre": "Delgado Santa Rosa"
+    },
+    {
+        "clave": "100070427",
+        "nombre": "Desarrollo Lácteo (Deslac) [Propiedad Privada]"
+    },
+    {
+        "clave": "100070428",
+        "nombre": "Dolores"
+    },
+    {
+        "clave": "100070430",
+        "nombre": "Padilla Salas"
+    },
+    {
+        "clave": "100070431",
+        "nombre": "Santa Rosita"
+    },
+    {
+        "clave": "100070432",
+        "nombre": "Don Mely [Granja]"
+    },
+    {
+        "clave": "100070437",
+        "nombre": "Rancho Puerto Arturo"
+    },
+    {
+        "clave": "100070438",
+        "nombre": "Puerto Arturo (El Solito) [Granja]"
+    },
+    {
+        "clave": "100070439",
+        "nombre": "El Pitayo"
+    },
+    {
+        "clave": "100070440",
+        "nombre": "Sociedad de Producción Rural Erasun"
+    },
+    {
+        "clave": "100070441",
+        "nombre": "El Eriazo"
+    },
+    {
+        "clave": "100070445",
+        "nombre": "Localidad sin Nombre (David Esquivel)"
+    },
+    {
+        "clave": "100070447",
+        "nombre": "Gorosti (Granja Esther) [Granja]"
+    },
+    {
+        "clave": "100070448",
+        "nombre": "Los Eucaliptos"
+    },
+    {
+        "clave": "100070454",
+        "nombre": "Florencio Casas"
+    },
+    {
+        "clave": "100070455",
+        "nombre": "Fortuna de Rancho Güero"
+    },
+    {
+        "clave": "100070456",
+        "nombre": "La Fortuna"
+    },
+    {
+        "clave": "100070457",
+        "nombre": "La Fortuna"
+    },
+    {
+        "clave": "100070460",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "100070462",
+        "nombre": "Ganadera Gilio"
+    },
+    {
+        "clave": "100070465",
+        "nombre": "Gaucín Araiza"
+    },
+    {
+        "clave": "100070467",
+        "nombre": "Granja Gema"
+    },
+    {
+        "clave": "100070469",
+        "nombre": "Avícola Aurora"
+    },
+    {
+        "clave": "100070470",
+        "nombre": "Don Roberto"
+    },
+    {
+        "clave": "100070471",
+        "nombre": "J. Guadalupe Rodríguez"
+    },
+    {
+        "clave": "100070472",
+        "nombre": "Cuatro de Julio"
+    },
+    {
+        "clave": "100070473",
+        "nombre": "Gutiérrez Parra [Propiedad Privada]"
+    },
+    {
+        "clave": "100070474",
+        "nombre": "Lagusol"
+    },
+    {
+        "clave": "100070479",
+        "nombre": "El Indio"
+    },
+    {
+        "clave": "100070480",
+        "nombre": "Isidro Morales"
+    },
+    {
+        "clave": "100070482",
+        "nombre": "La Jarita"
+    },
+    {
+        "clave": "100070486",
+        "nombre": "Noria José Bolaños"
+    },
+    {
+        "clave": "100070488",
+        "nombre": "Los Ríos (José María Morelos) [Granja]"
+    },
+    {
+        "clave": "100070491",
+        "nombre": "Ampliación el Vergelito Sur"
+    },
+    {
+        "clave": "100070492",
+        "nombre": "Leticia [Granja]"
+    },
+    {
+        "clave": "100070493",
+        "nombre": "Leticias [Granja]"
+    },
+    {
+        "clave": "100070494",
+        "nombre": "Localidad Sin Nombre (Adame Guillén)"
+    },
+    {
+        "clave": "100070496",
+        "nombre": "Santa Sofía"
+    },
+    {
+        "clave": "100070497",
+        "nombre": "Granja los Lirios (Florencia)"
+    },
+    {
+        "clave": "100070498",
+        "nombre": "López Zapata"
+    },
+    {
+        "clave": "100070501",
+        "nombre": "Dulce María (La Luz)"
+    },
+    {
+        "clave": "100070502",
+        "nombre": "Juan Llanes"
+    },
+    {
+        "clave": "100070506",
+        "nombre": "Mapimí [Granja]"
+    },
+    {
+        "clave": "100070507",
+        "nombre": "San José [Grupo Avícola]"
+    },
+    {
+        "clave": "100070511",
+        "nombre": "Tres Marías"
+    },
+    {
+        "clave": "100070512",
+        "nombre": "Localidad Sin Nombre (Martínez Hernández)"
+    },
+    {
+        "clave": "100070513",
+        "nombre": "Localidad Sin Nombre (Zapata Martínez)"
+    },
+    {
+        "clave": "100070514",
+        "nombre": "Martínez Leyva"
+    },
+    {
+        "clave": "100070516",
+        "nombre": "Los Mirasoles"
+    },
+    {
+        "clave": "100070517",
+        "nombre": "Mi Viejo"
+    },
+    {
+        "clave": "100070519",
+        "nombre": "Los Nogales [Granja]"
+    },
+    {
+        "clave": "100070520",
+        "nombre": "Amparo [Granja]"
+    },
+    {
+        "clave": "100070522",
+        "nombre": "Nuevo Amanecer"
+    },
+    {
+        "clave": "100070523",
+        "nombre": "Los Olivos"
+    },
+    {
+        "clave": "100070524",
+        "nombre": "Quinta Alina"
+    },
+    {
+        "clave": "100070525",
+        "nombre": "Familia Sánchez Ramírez"
+    },
+    {
+        "clave": "100070526",
+        "nombre": "Localidad Sin Nombre (Sánchez Villa)"
+    },
+    {
+        "clave": "100070530",
+        "nombre": "Colonia Agrícola la Popular"
+    },
+    {
+        "clave": "100070531",
+        "nombre": "García [Granja]"
+    },
+    {
+        "clave": "100070533",
+        "nombre": "Porvenir"
+    },
+    {
+        "clave": "100070534",
+        "nombre": "El Vuelo del Águila"
+    },
+    {
+        "clave": "100070535",
+        "nombre": "Ideagema [Granja]"
+    },
+    {
+        "clave": "100070536",
+        "nombre": "La Providencia (Gibraltar)"
+    },
+    {
+        "clave": "100070537",
+        "nombre": "Establo el Porvenir"
+    },
+    {
+        "clave": "100070538",
+        "nombre": "Lupita [Granja]"
+    },
+    {
+        "clave": "100070539",
+        "nombre": "Los Potrillos"
+    },
+    {
+        "clave": "100070540",
+        "nombre": "Quinta Rosy"
+    },
+    {
+        "clave": "100070541",
+        "nombre": "Tierra Linda"
+    },
+    {
+        "clave": "100070543",
+        "nombre": "Ramona Hermosillo"
+    },
+    {
+        "clave": "100070544",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "100070546",
+        "nombre": "El Recuerdo"
+    },
+    {
+        "clave": "100070547",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "100070548",
+        "nombre": "La Revancha"
+    },
+    {
+        "clave": "100070549",
+        "nombre": "Reyes Castro [Propiedad Privada]"
+    },
+    {
+        "clave": "100070551",
+        "nombre": "Chávez [Granja]"
+    },
+    {
+        "clave": "100070552",
+        "nombre": "Rivera Llanes"
+    },
+    {
+        "clave": "100070553",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "100070554",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "100070555",
+        "nombre": "San Aurelio"
+    },
+    {
+        "clave": "100070557",
+        "nombre": "San Felipe [Propiedad Privada]"
+    },
+    {
+        "clave": "100070558",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "100070559",
+        "nombre": "San José [Granja]"
+    },
+    {
+        "clave": "100070560",
+        "nombre": "González Toscano"
+    },
+    {
+        "clave": "100070561",
+        "nombre": "San José"
+    },
+    {
+        "clave": "100070563",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "100070564",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "100070565",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "100070567",
+        "nombre": "La Hermida"
+    },
+    {
+        "clave": "100070569",
+        "nombre": "San Pedro Dos"
+    },
+    {
+        "clave": "100070572",
+        "nombre": "Santa Herminia"
+    },
+    {
+        "clave": "100070575",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "100070581",
+        "nombre": "Noria Sector Diez"
+    },
+    {
+        "clave": "100070582",
+        "nombre": "Noria Sector Veintitrés"
+    },
+    {
+        "clave": "100070584",
+        "nombre": "Granja San Antonio"
+    },
+    {
+        "clave": "100070589",
+        "nombre": "El Tajito"
+    },
+    {
+        "clave": "100070590",
+        "nombre": "Tajo Viejo"
+    },
+    {
+        "clave": "100070591",
+        "nombre": "Las Teresas"
+    },
+    {
+        "clave": "100070592",
+        "nombre": "Transporte Dos"
+    },
+    {
+        "clave": "100070593",
+        "nombre": "Transporte Dos"
+    },
+    {
+        "clave": "100070598",
+        "nombre": "Familia Barba Gutiérrez"
+    },
+    {
+        "clave": "100070599",
+        "nombre": "Familia Sánchez Macías"
+    },
+    {
+        "clave": "100070600",
+        "nombre": "Tres Marías"
+    },
+    {
+        "clave": "100070602",
+        "nombre": "Tres Robles"
+    },
+    {
+        "clave": "100070603",
+        "nombre": "Tres Victorias"
+    },
+    {
+        "clave": "100070604",
+        "nombre": "El Triunfillo (El Triunfito)"
+    },
+    {
+        "clave": "100070605",
+        "nombre": "El Quemado"
+    },
+    {
+        "clave": "100070606",
+        "nombre": "Familia Sánchez Aguilar"
+    },
+    {
+        "clave": "100070608",
+        "nombre": "Valdez [Granja]"
+    },
+    {
+        "clave": "100070610",
+        "nombre": "Vázquez [Granja]"
+    },
+    {
+        "clave": "100070611",
+        "nombre": "Vázquez [Propiedad Privada]"
+    },
+    {
+        "clave": "100070614",
+        "nombre": "Noria Venecia Cinco"
+    },
+    {
+        "clave": "100070616",
+        "nombre": "Noria Venecia de la Sociedad"
+    },
+    {
+        "clave": "100070617",
+        "nombre": "Viñasol"
+    },
+    {
+        "clave": "100070620",
+        "nombre": "Yolanda [Granja]"
+    },
+    {
+        "clave": "100070621",
+        "nombre": "Familia Zapata Rosales"
+    },
+    {
+        "clave": "100070622",
+        "nombre": "Rancho Nuevo (Zurita)"
+    },
+    {
+        "clave": "100070629",
+        "nombre": "Rancho Rosalba"
+    },
+    {
+        "clave": "100070636",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "100070638",
+        "nombre": "Establo el Vergel"
+    },
+    {
+        "clave": "100070640",
+        "nombre": "Centro de Acopio (Granja Blanca)"
+    },
+    {
+        "clave": "100070641",
+        "nombre": "Granja Porcina Noé"
+    },
+    {
+        "clave": "100070642",
+        "nombre": "Bugambilia (María Cristina) [Granja]"
+    },
+    {
+        "clave": "100070644",
+        "nombre": "La Estrella [Propiedad Privada]"
+    },
+    {
+        "clave": "100070648",
+        "nombre": "Pozo Pancho Villa"
+    },
+    {
+        "clave": "100070650",
+        "nombre": "Noria la Tres"
+    },
+    {
+        "clave": "100070651",
+        "nombre": "Noria la Cuatro"
+    },
+    {
+        "clave": "100070652",
+        "nombre": "El Vergelito"
+    },
+    {
+        "clave": "100070654",
+        "nombre": "Dulce María"
+    },
+    {
+        "clave": "100070660",
+        "nombre": "Familia Vázquez"
+    },
+    {
+        "clave": "100070663",
+        "nombre": "Localidad Sin Nombre (Borrego Macias)"
+    },
+    {
+        "clave": "100070664",
+        "nombre": "El Pato"
+    },
+    {
+        "clave": "100070665",
+        "nombre": "Familia Valdez Favela"
+    },
+    {
+        "clave": "100070666",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "100070667",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "100070668",
+        "nombre": "Familia Martínez Andrade"
+    },
+    {
+        "clave": "100070669",
+        "nombre": "Prevedel [Granja]"
+    },
+    {
+        "clave": "100070670",
+        "nombre": "Santa Inés"
+    },
+    {
+        "clave": "100070671",
+        "nombre": "Las Mercedes F2"
+    },
+    {
+        "clave": "100070673",
+        "nombre": "El Chorizo (Familia Torres)"
+    },
+    {
+        "clave": "100070674",
+        "nombre": "El Polvorón (Rivera Zapata)"
+    },
+    {
+        "clave": "100070676",
+        "nombre": "Familia Vargas Aguilar"
+    },
+    {
+        "clave": "100070677",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "100070678",
+        "nombre": "Los Dulces Nombres (Gutiérrez Barba) [Granja]"
+    },
+    {
+        "clave": "100070679",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "100070684",
+        "nombre": "San José Enmira [Propiedad Privada]"
+    },
+    {
+        "clave": "100070685",
+        "nombre": "El Pilar"
+    },
+    {
+        "clave": "100070686",
+        "nombre": "La Magdalena (Fresnedo) [Granja]"
+    },
+    {
+        "clave": "100070688",
+        "nombre": "El Castillo [Granja]"
+    },
+    {
+        "clave": "100070689",
+        "nombre": "Claudia Leticia (El Castillo) [Granja]"
+    },
+    {
+        "clave": "100070692",
+        "nombre": "San José del Viñedo [Propiedad Privada]"
+    },
+    {
+        "clave": "100070695",
+        "nombre": "Rancho Parajitos"
+    },
+    {
+        "clave": "100070698",
+        "nombre": "Cairo Dos"
+    },
+    {
+        "clave": "100070699",
+        "nombre": "Cerdo Real"
+    },
+    {
+        "clave": "100070700",
+        "nombre": "Colonia Seis de Julio (Nuevo Noé)"
+    },
+    {
+        "clave": "100070701",
+        "nombre": "El Cariño"
+    },
+    {
+        "clave": "100070702",
+        "nombre": "Las Cuatitas"
+    },
+    {
+        "clave": "100070703",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "100070705",
+        "nombre": "La Fosa"
+    },
+    {
+        "clave": "100070706",
+        "nombre": "El Nogueral 555 (Campo Real)"
+    },
+    {
+        "clave": "100070707",
+        "nombre": "Elvira [Granja]"
+    },
+    {
+        "clave": "100070708",
+        "nombre": "Gaby [Granja]"
+    },
+    {
+        "clave": "100070709",
+        "nombre": "Jézala"
+    },
+    {
+        "clave": "100070710",
+        "nombre": "Granja la Borrega"
+    },
+    {
+        "clave": "100070711",
+        "nombre": "La Gavia (Pozo Número 84) [Granja]"
+    },
+    {
+        "clave": "100070712",
+        "nombre": "La Popular [Granja]"
+    },
+    {
+        "clave": "100070718",
+        "nombre": "Vianey [Granja]"
+    },
+    {
+        "clave": "100070719",
+        "nombre": "Juan Manuel"
+    },
+    {
+        "clave": "100070720",
+        "nombre": "Ladrilleras el Vergel"
+    },
+    {
+        "clave": "100070721",
+        "nombre": "Pozo Número Dos"
+    },
+    {
+        "clave": "100070722",
+        "nombre": "Ranchito Nuevo Gómez (Hernández Bautista)"
+    },
+    {
+        "clave": "100070723",
+        "nombre": "El Empaque"
+    },
+    {
+        "clave": "100070724",
+        "nombre": "Juan Rodríguez"
+    },
+    {
+        "clave": "100070725",
+        "nombre": "Familia Martínez López"
+    },
+    {
+        "clave": "100070726",
+        "nombre": "Fernando Turrubiates"
+    },
+    {
+        "clave": "100070727",
+        "nombre": "Ascensión Cruz"
+    },
+    {
+        "clave": "100070730",
+        "nombre": "Familia Ramírez Pérez"
+    },
+    {
+        "clave": "100070732",
+        "nombre": "El Esfuerzo [Granja]"
+    },
+    {
+        "clave": "100070733",
+        "nombre": "Familia Reséndiz Montoya"
+    },
+    {
+        "clave": "100070734",
+        "nombre": "Familia Cordero Rosales"
+    },
+    {
+        "clave": "100070735",
+        "nombre": "Familia Rodríguez Cordero"
+    },
+    {
+        "clave": "100070737",
+        "nombre": "Los Magueyes"
+    },
+    {
+        "clave": "100070739",
+        "nombre": "José Antúnez"
+    },
+    {
+        "clave": "100070740",
+        "nombre": "Molino los Antúnez"
+    },
+    {
+        "clave": "100070741",
+        "nombre": "El Sol [Granja]"
+    },
+    {
+        "clave": "100070742",
+        "nombre": "La Noria de Jaboncillo"
+    },
+    {
+        "clave": "100070743",
+        "nombre": "Noria de Jiménez Dos"
+    },
+    {
+        "clave": "100070744",
+        "nombre": "Noria de la Tehua"
+    },
+    {
+        "clave": "100070745",
+        "nombre": "Noria del Consuelo"
+    },
+    {
+        "clave": "100070746",
+        "nombre": "La Noria del Gavilán"
+    },
+    {
+        "clave": "100070747",
+        "nombre": "Pequeña Propiedad California"
+    },
+    {
+        "clave": "100070748",
+        "nombre": "Noria Gregorio García"
+    },
+    {
+        "clave": "100070749",
+        "nombre": "Noria la Tres (Carlos Berlangas)"
+    },
+    {
+        "clave": "100070751",
+        "nombre": "Noria de la Virginia"
+    },
+    {
+        "clave": "100070752",
+        "nombre": "Noria Sector Dos"
+    },
+    {
+        "clave": "100070754",
+        "nombre": "Los Olivos"
+    },
+    {
+        "clave": "100070757",
+        "nombre": "El Pilar"
+    },
+    {
+        "clave": "100070758",
+        "nombre": "Los Pinabetes"
+    },
+    {
+        "clave": "100070759",
+        "nombre": "Quinta el Capricho"
+    },
+    {
+        "clave": "100070760",
+        "nombre": "Quinta Esperanza"
+    },
+    {
+        "clave": "100070761",
+        "nombre": "Las Tres B"
+    },
+    {
+        "clave": "100070762",
+        "nombre": "Rancho Guadalupe"
+    },
+    {
+        "clave": "100070763",
+        "nombre": "Rancho la Hectárea"
+    },
+    {
+        "clave": "100070764",
+        "nombre": "Jiménez 2-A (El Arenal)"
+    },
+    {
+        "clave": "100070765",
+        "nombre": "El Chaparral"
+    },
+    {
+        "clave": "100070766",
+        "nombre": "San Sergio"
+    },
+    {
+        "clave": "100070767",
+        "nombre": "Santa Angélica"
+    },
+    {
+        "clave": "100070769",
+        "nombre": "Zoqui [Granja]"
+    },
+    {
+        "clave": "100070772",
+        "nombre": "El Treinta y Uno"
+    },
+    {
+        "clave": "100070773",
+        "nombre": "Los Treinta"
+    },
+    {
+        "clave": "100070775",
+        "nombre": "Ganadera Solórzano"
+    },
+    {
+        "clave": "100070776",
+        "nombre": "Buendía"
+    },
+    {
+        "clave": "100070777",
+        "nombre": "Las Carmelitas"
+    },
+    {
+        "clave": "100070778",
+        "nombre": "Andrés Jiménez"
+    },
+    {
+        "clave": "100070780",
+        "nombre": "José Saldaña"
+    },
+    {
+        "clave": "100070781",
+        "nombre": "Familia García Escobedo"
+    },
+    {
+        "clave": "100070782",
+        "nombre": "Localidad Sin Nombre (González Venegas)"
+    },
+    {
+        "clave": "100070783",
+        "nombre": "Rigoberto Becerra"
+    },
+    {
+        "clave": "100070786",
+        "nombre": "Las Margaritas"
+    },
+    {
+        "clave": "100070788",
+        "nombre": "Noria el Recuerdo"
+    },
+    {
+        "clave": "100070789",
+        "nombre": "Familia Esquivel"
+    },
+    {
+        "clave": "100070790",
+        "nombre": "La Fe"
+    },
+    {
+        "clave": "100070791",
+        "nombre": "Aedo"
+    },
+    {
+        "clave": "100070792",
+        "nombre": "El Águila"
+    },
+    {
+        "clave": "100070793",
+        "nombre": "Ampliación Bucareli"
+    },
+    {
+        "clave": "100070794",
+        "nombre": "Caseta Kilómetro 17 Canal Sacramento"
+    },
+    {
+        "clave": "100070795",
+        "nombre": "Caseta Kilómetro 11 más 458"
+    },
+    {
+        "clave": "100070796",
+        "nombre": "Las Cribas"
+    },
+    {
+        "clave": "100070797",
+        "nombre": "Los Delgado"
+    },
+    {
+        "clave": "100070798",
+        "nombre": "Dos Amigos"
+    },
+    {
+        "clave": "100070799",
+        "nombre": "El Duraznito"
+    },
+    {
+        "clave": "100070800",
+        "nombre": "El Durazno"
+    },
+    {
+        "clave": "100070801",
+        "nombre": "Establo Britingham"
+    },
+    {
+        "clave": "100070802",
+        "nombre": "Fraccionamiento Miravalles"
+    },
+    {
+        "clave": "100070805",
+        "nombre": "San Alberto [Granja]"
+    },
+    {
+        "clave": "100070806",
+        "nombre": "Familia Aldama Sánchez"
+    },
+    {
+        "clave": "100070807",
+        "nombre": "Localidad Sin Nombre (Amparo Delgado)"
+    },
+    {
+        "clave": "100070808",
+        "nombre": "Familia Mota Andrade"
+    },
+    {
+        "clave": "100070809",
+        "nombre": "Localidad Sin Nombre (Carreón Valles)"
+    },
+    {
+        "clave": "100070810",
+        "nombre": "Consuelo Orozco"
+    },
+    {
+        "clave": "100070811",
+        "nombre": "Familia Guadarrama L."
+    },
+    {
+        "clave": "100070812",
+        "nombre": "Familia Torres"
+    },
+    {
+        "clave": "100070813",
+        "nombre": "La Lagunita"
+    },
+    {
+        "clave": "100070814",
+        "nombre": "Francisco Esparza A."
+    },
+    {
+        "clave": "100070815",
+        "nombre": "Familia García Delgadillo"
+    },
+    {
+        "clave": "100070816",
+        "nombre": "Familia Gutiérrez Parra"
+    },
+    {
+        "clave": "100070817",
+        "nombre": "Jaime Romero"
+    },
+    {
+        "clave": "100070818",
+        "nombre": "Juan Larriñaga"
+    },
+    {
+        "clave": "100070819",
+        "nombre": "Familia Llanes Ontiveros"
+    },
+    {
+        "clave": "100070820",
+        "nombre": "Nuevo Gómez"
+    },
+    {
+        "clave": "100070821",
+        "nombre": "Rutilio García"
+    },
+    {
+        "clave": "100070822",
+        "nombre": "Malam"
+    },
+    {
+        "clave": "100070823",
+        "nombre": "Los Martínez"
+    },
+    {
+        "clave": "100070824",
+        "nombre": "Modelorama Agrícola"
+    },
+    {
+        "clave": "100070825",
+        "nombre": "Nuevo Emiliano Zapata"
+    },
+    {
+        "clave": "100070826",
+        "nombre": "Noria Cuatro"
+    },
+    {
+        "clave": "100070827",
+        "nombre": "Noria 273"
+    },
+    {
+        "clave": "100070828",
+        "nombre": "Noria 1926"
+    },
+    {
+        "clave": "100070829",
+        "nombre": "Residencial San Alberto"
+    },
+    {
+        "clave": "100070830",
+        "nombre": "La Lagunita"
+    },
+    {
+        "clave": "100070831",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "100070832",
+        "nombre": "San Ramón"
+    },
+    {
+        "clave": "100070833",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "100070834",
+        "nombre": "Santa Gertrudis"
+    },
+    {
+        "clave": "100070835",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "100070836",
+        "nombre": "La Vega"
+    },
+    {
+        "clave": "100070837",
+        "nombre": "Nueva York"
+    },
+    {
+        "clave": "100070838",
+        "nombre": "Palo Hueco"
+    },
+    {
+        "clave": "100070839",
+        "nombre": "Autódromo Marco Magaña (De la Laguna)"
+    },
+    {
+        "clave": "100070840",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "100070841",
+        "nombre": "Aurelio Rodríguez"
+    },
+    {
+        "clave": "100070842",
+        "nombre": "Familia Cordero Flores"
+    },
+    {
+        "clave": "100070843",
+        "nombre": "Huerto Sofía"
+    },
+    {
+        "clave": "100070844",
+        "nombre": "California Crianza"
+    },
+    {
+        "clave": "100070846",
+        "nombre": "El Eriazo (La Noria)"
+    },
+    {
+        "clave": "100070847",
+        "nombre": "Fraccionamiento Rincón de San Alberto"
+    },
+    {
+        "clave": "100070848",
+        "nombre": "San Francisco [Granja]"
+    },
+    {
+        "clave": "100070849",
+        "nombre": "Tres Estrellas [Granja]"
+    },
+    {
+        "clave": "100070850",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "100070851",
+        "nombre": "Antonio Torres"
+    },
+    {
+        "clave": "100070852",
+        "nombre": "Familia Cisneros Calzada"
+    },
+    {
+        "clave": "100070853",
+        "nombre": "Cruz Arreola"
+    },
+    {
+        "clave": "100070854",
+        "nombre": "Dagoberto Ramón Arellano"
+    },
+    {
+        "clave": "100070855",
+        "nombre": "Familia Cosio Cepeda"
+    },
+    {
+        "clave": "100070856",
+        "nombre": "Guadalupe Berlanga"
+    },
+    {
+        "clave": "100070857",
+        "nombre": "José Robles"
+    },
+    {
+        "clave": "100070858",
+        "nombre": "Jacinto Camacho"
+    },
+    {
+        "clave": "100070859",
+        "nombre": "Ramiro Rojas"
+    },
+    {
+        "clave": "100070861",
+        "nombre": "Mármoles Castro"
+    },
+    {
+        "clave": "100070862",
+        "nombre": "Noria 1981 (Los Ruiz)"
+    },
+    {
+        "clave": "100070863",
+        "nombre": "Nuevo Barro"
+    },
+    {
+        "clave": "100070864",
+        "nombre": "Noria Paraíso"
+    },
+    {
+        "clave": "100070865",
+        "nombre": "Noria San Gonzalo"
+    },
+    {
+        "clave": "100070866",
+        "nombre": "Noria la Una"
+    },
+    {
+        "clave": "100070867",
+        "nombre": "El Recuerdo [Propiedad Privada]"
+    },
+    {
+        "clave": "100070868",
+        "nombre": "Venecia [Propiedad Privada]"
+    },
+    {
+        "clave": "100070869",
+        "nombre": "Quinta Bam Bam"
+    },
+    {
+        "clave": "100070870",
+        "nombre": "Quinta el Retiro"
+    },
+    {
+        "clave": "100070871",
+        "nombre": "Quinta las Ilusiones"
+    },
+    {
+        "clave": "100070872",
+        "nombre": "Quinta Lilian"
+    },
+    {
+        "clave": "100070873",
+        "nombre": "Quinta Santa Mónica"
+    },
+    {
+        "clave": "100070874",
+        "nombre": "Quinta Santa Teresa"
+    },
+    {
+        "clave": "100070876",
+        "nombre": "Villas de San Fermin"
+    },
+    {
+        "clave": "100070877",
+        "nombre": "Cerrada Santa Dolores"
+    },
+    {
+        "clave": "100070878",
+        "nombre": "Cerrada San Marcos"
+    },
+    {
+        "clave": "100070879",
+        "nombre": "Cerrada 16"
+    },
+    {
+        "clave": "100070880",
+        "nombre": "Colonia Ernesto Herrera"
+    },
+    {
+        "clave": "100070881",
+        "nombre": "Fraccionamiento Leticia Herrera"
+    },
+    {
+        "clave": "100070883",
+        "nombre": "Localidad sin Nombre (Juan Leyva)"
+    },
+    {
+        "clave": "100070884",
+        "nombre": "Real de San Sebastian (Pedro Luna Solís)"
+    },
+    {
+        "clave": "100070885",
+        "nombre": "Nuevo Emiliano Zapata II"
+    },
+    {
+        "clave": "100070886",
+        "nombre": "Minerales Industrializados del Norte"
+    },
+    {
+        "clave": "100070889",
+        "nombre": "Ampliación el Fénix"
+    },
+    {
+        "clave": "100070890",
+        "nombre": "Campo C"
+    },
+    {
+        "clave": "100070891",
+        "nombre": "El Mezquite"
+    },
+    {
+        "clave": "100070892",
+        "nombre": "Establo el Compás (Noria Número 5)"
+    },
+    {
+        "clave": "100070893",
+        "nombre": "Los Contreras (El Castillo) [Granja]"
+    },
+    {
+        "clave": "100070894",
+        "nombre": "La Empresa (Pánfilo Gaytán)"
+    },
+    {
+        "clave": "100070895",
+        "nombre": "La Isla (Los Amaya)"
+    },
+    {
+        "clave": "100070896",
+        "nombre": "La Rumorosa (Las Conchas)"
+    },
+    {
+        "clave": "100070897",
+        "nombre": "Nicolás Roque"
+    },
+    {
+        "clave": "100070898",
+        "nombre": "Víctor Carrillo Hernández"
+    },
+    {
+        "clave": "100070899",
+        "nombre": "Industrial Guajardo"
+    },
+    {
+        "clave": "100070900",
+        "nombre": "María Teresa"
+    },
+    {
+        "clave": "100070901",
+        "nombre": "Noria 1919"
+    },
+    {
+        "clave": "100070902",
+        "nombre": "Noria San Martín"
+    },
+    {
+        "clave": "100070903",
+        "nombre": "Pénjamo"
+    },
+    {
+        "clave": "100070904",
+        "nombre": "Productos Agropecuarios 2 y 2"
+    },
+    {
+        "clave": "100070905",
+        "nombre": "Quinta Armonía"
+    },
+    {
+        "clave": "100070906",
+        "nombre": "Sector II"
+    },
+    {
+        "clave": "100070907",
+        "nombre": "Viñasol II"
+    },
+    {
+        "clave": "100070908",
+        "nombre": "San José (Noria la Dos)"
+    },
+    {
+        "clave": "100070909",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "100070910",
+        "nombre": "Francisco Villa (Los Sierra)"
+    },
+    {
+        "clave": "100070911",
+        "nombre": "Corralitos"
+    },
+    {
+        "clave": "100070912",
+        "nombre": "Nato Hernández"
+    },
+    {
+        "clave": "100070913",
+        "nombre": "Tito Samaniego"
+    },
+    {
+        "clave": "100070914",
+        "nombre": "Reyes Sánchez [Granja Avícola]"
+    },
+    {
+        "clave": "100070915",
+        "nombre": "Juan Carlos Silva Bernal"
+    },
+    {
+        "clave": "100070916",
+        "nombre": "Los Anfibios"
+    },
+    {
+        "clave": "100070917",
+        "nombre": "Marmolera Mauro Lozano"
+    },
+    {
+        "clave": "100070918",
+        "nombre": "Marmolera Pérez Antúnez"
+    },
+    {
+        "clave": "100070919",
+        "nombre": "Castañeda"
+    },
+    {
+        "clave": "100070920",
+        "nombre": "David Gausín"
+    },
+    {
+        "clave": "100070921",
+        "nombre": "Francisco Mercado"
+    },
+    {
+        "clave": "100070922",
+        "nombre": "Moisés López"
+    },
+    {
+        "clave": "100070923",
+        "nombre": "Noel Gausín"
+    },
+    {
+        "clave": "100070924",
+        "nombre": "Nuevo Gómez Dos"
+    },
+    {
+        "clave": "100070925",
+        "nombre": "Ramiro Canales"
+    },
+    {
+        "clave": "100070926",
+        "nombre": "Roberto García"
+    },
+    {
+        "clave": "100070927",
+        "nombre": "Villas Urbi del Cedro (Villas del Cedro)"
+    },
+    {
+        "clave": "100070928",
+        "nombre": "La Cabaña (Familia Padilla)"
+    },
+    {
+        "clave": "100070929",
+        "nombre": "Camilo Ceniceros"
+    },
+    {
+        "clave": "100070930",
+        "nombre": "La Capilla [Granja]"
+    },
+    {
+        "clave": "100070931",
+        "nombre": "Carlos Gerardo Valdés Bohigas"
+    },
+    {
+        "clave": "100070932",
+        "nombre": "El Consuelo Tres [Noria]"
+    },
+    {
+        "clave": "100070933",
+        "nombre": "Desarrollo Dorado de Milagros A.C. [Hogar de Personas de la Tercera Edad]"
+    },
+    {
+        "clave": "100070934",
+        "nombre": "Miguel Samaniego"
+    },
+    {
+        "clave": "100070935",
+        "nombre": "Familia Sánchez Montalvo"
+    }
+]

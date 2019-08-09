@@ -1,0 +1,758 @@
+[
+    {
+        "clave": "180120007",
+        "nombre": "El Capomo"
+    },
+    {
+        "clave": "180120010",
+        "nombre": "José María Mercado"
+    },
+    {
+        "clave": "180120011",
+        "nombre": "El Cora"
+    },
+    {
+        "clave": "180120017",
+        "nombre": "El Espino"
+    },
+    {
+        "clave": "180120021",
+        "nombre": "Huaynamota"
+    },
+    {
+        "clave": "180120030",
+        "nombre": "El Madrigaleño"
+    },
+    {
+        "clave": "180120038",
+        "nombre": "Pintadeño"
+    },
+    {
+        "clave": "180120042",
+        "nombre": "Reforma Agraria (La Colorada)"
+    },
+    {
+        "clave": "180120044",
+        "nombre": "Singaita"
+    },
+    {
+        "clave": "180120045",
+        "nombre": "Tecuitata"
+    },
+    {
+        "clave": "180120046",
+        "nombre": "Colonia el Tepeyac (Cofradía)"
+    },
+    {
+        "clave": "180120051",
+        "nombre": "Puerto de Lindavista"
+    },
+    {
+        "clave": "180120059",
+        "nombre": "La Manzanilla"
+    },
+    {
+        "clave": "180120134",
+        "nombre": "Crucero a los Cocos"
+    },
+    {
+        "clave": "180120001",
+        "nombre": "San Blas"
+    },
+    {
+        "clave": "180120003",
+        "nombre": "Aticama"
+    },
+    {
+        "clave": "180120004",
+        "nombre": "Aután"
+    },
+    {
+        "clave": "180120005",
+        "nombre": "La Bajada"
+    },
+    {
+        "clave": "180120006",
+        "nombre": "Boca del Asadero"
+    },
+    {
+        "clave": "180120008",
+        "nombre": "El Carleño"
+    },
+    {
+        "clave": "180120009",
+        "nombre": "Laureles y Góngora (El Ciruelo)"
+    },
+    {
+        "clave": "180120013",
+        "nombre": "La Culebra"
+    },
+    {
+        "clave": "180120014",
+        "nombre": "Chacalilla"
+    },
+    {
+        "clave": "180120015",
+        "nombre": "La Chiltera"
+    },
+    {
+        "clave": "180120016",
+        "nombre": "La Chiripa"
+    },
+    {
+        "clave": "180120018",
+        "nombre": "La Goma"
+    },
+    {
+        "clave": "180120019",
+        "nombre": "Guadalupe Victoria"
+    },
+    {
+        "clave": "180120020",
+        "nombre": "Huaristemba"
+    },
+    {
+        "clave": "180120023",
+        "nombre": "Isla del Conde"
+    },
+    {
+        "clave": "180120024",
+        "nombre": "Las Islitas"
+    },
+    {
+        "clave": "180120025",
+        "nombre": "Jalcocotán"
+    },
+    {
+        "clave": "180120026",
+        "nombre": "Jolotemba"
+    },
+    {
+        "clave": "180120027",
+        "nombre": "Laureles y Góngora (El Limón)"
+    },
+    {
+        "clave": "180120028",
+        "nombre": "La Libertad"
+    },
+    {
+        "clave": "180120029",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "180120031",
+        "nombre": "Matanchén (La Aguada)"
+    },
+    {
+        "clave": "180120032",
+        "nombre": "Mecatán"
+    },
+    {
+        "clave": "180120033",
+        "nombre": "Navarrete"
+    },
+    {
+        "clave": "180120034",
+        "nombre": "El Palillo"
+    },
+    {
+        "clave": "180120035",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "180120036",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "180120037",
+        "nombre": "Pimientillo"
+    },
+    {
+        "clave": "180120039",
+        "nombre": "Playa de los Cocos"
+    },
+    {
+        "clave": "180120041",
+        "nombre": "Playa de Ramírez"
+    },
+    {
+        "clave": "180120043",
+        "nombre": "Santa Cruz de Miramar"
+    },
+    {
+        "clave": "180120053",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "180120054",
+        "nombre": "El Galaviz"
+    },
+    {
+        "clave": "180120055",
+        "nombre": "San Antonio (El Vado)"
+    },
+    {
+        "clave": "180120056",
+        "nombre": "El Aguate"
+    },
+    {
+        "clave": "180120061",
+        "nombre": "La Presa Tizonta"
+    },
+    {
+        "clave": "180120062",
+        "nombre": "El Gato"
+    },
+    {
+        "clave": "180120063",
+        "nombre": "La Convalecencia"
+    },
+    {
+        "clave": "180120066",
+        "nombre": "La Tovara"
+    },
+    {
+        "clave": "180120067",
+        "nombre": "Los Alacranes"
+    },
+    {
+        "clave": "180120068",
+        "nombre": "El Bosque"
+    },
+    {
+        "clave": "180120070",
+        "nombre": "Costa Verde"
+    },
+    {
+        "clave": "180120071",
+        "nombre": "El Desengaño"
+    },
+    {
+        "clave": "180120072",
+        "nombre": "Campamento Laguna del Toro"
+    },
+    {
+        "clave": "180120073",
+        "nombre": "Bahía de Matanchén"
+    },
+    {
+        "clave": "180120074",
+        "nombre": "Campamento Hospital (Veinte de Noviembre)"
+    },
+    {
+        "clave": "180120075",
+        "nombre": "Jardines de Miramar"
+    },
+    {
+        "clave": "180120076",
+        "nombre": "Lote IV"
+    },
+    {
+        "clave": "180120077",
+        "nombre": "Campamento Morelos"
+    },
+    {
+        "clave": "180120078",
+        "nombre": "Campamento Nayarit"
+    },
+    {
+        "clave": "180120079",
+        "nombre": "Puerto Balleto (Isla María Madre)"
+    },
+    {
+        "clave": "180120080",
+        "nombre": "Campamento Rehilete"
+    },
+    {
+        "clave": "180120081",
+        "nombre": "Rincón de Matanchén"
+    },
+    {
+        "clave": "180120082",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "180120083",
+        "nombre": "Campamento Zacatal"
+    },
+    {
+        "clave": "180120126",
+        "nombre": "Campamento Cica (Bugambilias)"
+    },
+    {
+        "clave": "180120127",
+        "nombre": "La Fortuna (Lote III Tizonta)"
+    },
+    {
+        "clave": "180120128",
+        "nombre": "Antonio Fonseca"
+    },
+    {
+        "clave": "180120129",
+        "nombre": "Campamento Camarón"
+    },
+    {
+        "clave": "180120130",
+        "nombre": "Campamento San Juan Papelillo"
+    },
+    {
+        "clave": "180120131",
+        "nombre": "Tizonta (El Gato)"
+    },
+    {
+        "clave": "180120132",
+        "nombre": "Campamento Aserradero"
+    },
+    {
+        "clave": "180120133",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "180120135",
+        "nombre": "El Salado"
+    },
+    {
+        "clave": "180120140",
+        "nombre": "La Cumbre II"
+    },
+    {
+        "clave": "180120141",
+        "nombre": "Darío Ramírez"
+    },
+    {
+        "clave": "180120146",
+        "nombre": "Centro de Acopio Camaronero Alapsa"
+    },
+    {
+        "clave": "180120147",
+        "nombre": "Potrero Grande (Rancho la Escondida)"
+    },
+    {
+        "clave": "180120150",
+        "nombre": "Granja de Alberto Parra"
+    },
+    {
+        "clave": "180120153",
+        "nombre": "La Coyula (Playa los Cocos)"
+    },
+    {
+        "clave": "180120155",
+        "nombre": "El Crucero del Espino"
+    },
+    {
+        "clave": "180120156",
+        "nombre": "Granja Chinchorro Camaronero"
+    },
+    {
+        "clave": "180120157",
+        "nombre": "El Solito [Empacadora]"
+    },
+    {
+        "clave": "180120158",
+        "nombre": "Finca de Jarero"
+    },
+    {
+        "clave": "180120159",
+        "nombre": "Playas de Matanchén [Fraccionamiento]"
+    },
+    {
+        "clave": "180120160",
+        "nombre": "Granja de Acuacultura los Ponchos"
+    },
+    {
+        "clave": "180120161",
+        "nombre": "Granja J Rangel Becerra Zepeda"
+    },
+    {
+        "clave": "180120162",
+        "nombre": "Nuevo Chapultepec [Balneario]"
+    },
+    {
+        "clave": "180120163",
+        "nombre": "Paraíso Miramar"
+    },
+    {
+        "clave": "180120164",
+        "nombre": "Playa Amor"
+    },
+    {
+        "clave": "180120166",
+        "nombre": "Playa los Limones"
+    },
+    {
+        "clave": "180120168",
+        "nombre": "La Puntilla"
+    },
+    {
+        "clave": "180120169",
+        "nombre": "Ramada la Cabaña"
+    },
+    {
+        "clave": "180120170",
+        "nombre": "El Corte"
+    },
+    {
+        "clave": "180120171",
+        "nombre": "El Solito"
+    },
+    {
+        "clave": "180120172",
+        "nombre": "El Tepeyac"
+    },
+    {
+        "clave": "180120173",
+        "nombre": "Rancho Mercedes (Gustavo Luna Rodríguez)"
+    },
+    {
+        "clave": "180120174",
+        "nombre": "Restaurante el Paz"
+    },
+    {
+        "clave": "180120176",
+        "nombre": "El Varal"
+    },
+    {
+        "clave": "180120177",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "180120179",
+        "nombre": "Localidad Sin Nombre"
+    },
+    {
+        "clave": "180120180",
+        "nombre": "El Cocodrilario"
+    },
+    {
+        "clave": "180120181",
+        "nombre": "Los Indios [Granja]"
+    },
+    {
+        "clave": "180120183",
+        "nombre": "Huerta de Nardo Arvizu"
+    },
+    {
+        "clave": "180120184",
+        "nombre": "El Cuatro"
+    },
+    {
+        "clave": "180120185",
+        "nombre": "Rancho Alfonso Vallarta (El Capomo)"
+    },
+    {
+        "clave": "180120186",
+        "nombre": "Rancho del Sol"
+    },
+    {
+        "clave": "180120187",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "180120188",
+        "nombre": "Lo de Don Nico (Tía Pancha)"
+    },
+    {
+        "clave": "180120189",
+        "nombre": "Acuacultura Industrial del Matatipac"
+    },
+    {
+        "clave": "180120190",
+        "nombre": "Granja Camaronera la Providencia"
+    },
+    {
+        "clave": "180120191",
+        "nombre": "Granja Camaronera sin nombre"
+    },
+    {
+        "clave": "180120192",
+        "nombre": "Granja Jazmín"
+    },
+    {
+        "clave": "180120193",
+        "nombre": "Sociedad de Producción Rural Tsikuri"
+    },
+    {
+        "clave": "180120194",
+        "nombre": "Huerta de Daniel Tiznado"
+    },
+    {
+        "clave": "180120195",
+        "nombre": "Aquanova"
+    },
+    {
+        "clave": "180120196",
+        "nombre": "Acuacolters de la Paz SA de CV"
+    },
+    {
+        "clave": "180120197",
+        "nombre": "Acuacultura Integral SA de CV"
+    },
+    {
+        "clave": "180120198",
+        "nombre": "Centro de Acopio Misis"
+    },
+    {
+        "clave": "180120199",
+        "nombre": "José María Roble Naya"
+    },
+    {
+        "clave": "180120200",
+        "nombre": "Ramada Jiménez"
+    },
+    {
+        "clave": "180120201",
+        "nombre": "Restaurante el Marlin"
+    },
+    {
+        "clave": "180120202",
+        "nombre": "Restaurante Cabaña de San Cristóbal"
+    },
+    {
+        "clave": "180120203",
+        "nombre": "Las Azaleas"
+    },
+    {
+        "clave": "180120204",
+        "nombre": "La Barrenada"
+    },
+    {
+        "clave": "180120205",
+        "nombre": "Casa de Portón Blanco"
+    },
+    {
+        "clave": "180120206",
+        "nombre": "Casa de Teja"
+    },
+    {
+        "clave": "180120207",
+        "nombre": "Localidad Sin Nombre"
+    },
+    {
+        "clave": "180120208",
+        "nombre": "Miguel Dueñas"
+    },
+    {
+        "clave": "180120209",
+        "nombre": "La Chiltera Vieja"
+    },
+    {
+        "clave": "180120210",
+        "nombre": "La Empacadora"
+    },
+    {
+        "clave": "180120211",
+        "nombre": "Localidad Sin Nombre"
+    },
+    {
+        "clave": "180120212",
+        "nombre": "Laboratorio Acuícola Dorita S.A. de C.V."
+    },
+    {
+        "clave": "180120213",
+        "nombre": "El Chiflón Dos"
+    },
+    {
+        "clave": "180120214",
+        "nombre": "Rancho el Pochis"
+    },
+    {
+        "clave": "180120215",
+        "nombre": "La Reata"
+    },
+    {
+        "clave": "180120216",
+        "nombre": "Rancho Montaño"
+    },
+    {
+        "clave": "180120217",
+        "nombre": "Rastro Municipal"
+    },
+    {
+        "clave": "180120218",
+        "nombre": "Restaurante Etc"
+    },
+    {
+        "clave": "180120219",
+        "nombre": "Restaurante los Caporales"
+    },
+    {
+        "clave": "180120220",
+        "nombre": "Restaurante Villa Cervantina"
+    },
+    {
+        "clave": "180120221",
+        "nombre": "San Pedrito"
+    },
+    {
+        "clave": "180120222",
+        "nombre": "El Limoncito"
+    },
+    {
+        "clave": "180120223",
+        "nombre": "La Pequeña"
+    },
+    {
+        "clave": "180120224",
+        "nombre": "Crucero del Llano"
+    },
+    {
+        "clave": "180120225",
+        "nombre": "Dionisio Gaudales"
+    },
+    {
+        "clave": "180120226",
+        "nombre": "El Reliz del Toro"
+    },
+    {
+        "clave": "180120227",
+        "nombre": "Las Antenas"
+    },
+    {
+        "clave": "180120228",
+        "nombre": "La Curva"
+    },
+    {
+        "clave": "180120229",
+        "nombre": "Efraín López"
+    },
+    {
+        "clave": "180120230",
+        "nombre": "Elías Salas"
+    },
+    {
+        "clave": "180120231",
+        "nombre": "Reyes [Grupo Agrícola]"
+    },
+    {
+        "clave": "180120232",
+        "nombre": "Paraje del Rey"
+    },
+    {
+        "clave": "180120233",
+        "nombre": "Pozo Bravo"
+    },
+    {
+        "clave": "180120234",
+        "nombre": "Rancho Rodríguez"
+    },
+    {
+        "clave": "180120235",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "180120236",
+        "nombre": "Zoquipa"
+    },
+    {
+        "clave": "180120237",
+        "nombre": "Loma de Oro"
+    },
+    {
+        "clave": "180120238",
+        "nombre": "Limoncito Hills"
+    },
+    {
+        "clave": "180120239",
+        "nombre": "Rancho Alcaraz"
+    },
+    {
+        "clave": "180120240",
+        "nombre": "Los Tilos"
+    },
+    {
+        "clave": "180120241",
+        "nombre": "Ticha"
+    },
+    {
+        "clave": "180120242",
+        "nombre": "Agua Caliente (Las Mancuernas)"
+    },
+    {
+        "clave": "180120243",
+        "nombre": "La Brecha (Flores Guzmán)"
+    },
+    {
+        "clave": "180120244",
+        "nombre": "El Crucero de Huaristemba"
+    },
+    {
+        "clave": "180120245",
+        "nombre": "Chanón [Empacadora]"
+    },
+    {
+        "clave": "180120246",
+        "nombre": "Los Bernal Salas"
+    },
+    {
+        "clave": "180120247",
+        "nombre": "Francisco Guevara García"
+    },
+    {
+        "clave": "180120248",
+        "nombre": "La Escondida [Granja]"
+    },
+    {
+        "clave": "180120249",
+        "nombre": "José Antonio Galindo Prado"
+    },
+    {
+        "clave": "180120250",
+        "nombre": "Juventino Arellano"
+    },
+    {
+        "clave": "180120251",
+        "nombre": "Los Limones (J. Guadalupe Gómez)"
+    },
+    {
+        "clave": "180120252",
+        "nombre": "El Solito [Agrícola]"
+    },
+    {
+        "clave": "180120253",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "180120254",
+        "nombre": "Palo Blanco"
+    },
+    {
+        "clave": "180120255",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "180120256",
+        "nombre": "Efraín Bugarín"
+    },
+    {
+        "clave": "180120257",
+        "nombre": "Ecológico EKA"
+    },
+    {
+        "clave": "180120258",
+        "nombre": "Rancho Galván"
+    },
+    {
+        "clave": "180120259",
+        "nombre": "Rancho Ochoa"
+    },
+    {
+        "clave": "180120260",
+        "nombre": "Valentín Maya"
+    },
+    {
+        "clave": "180120261",
+        "nombre": "Teodoro Villaseñor"
+    },
+    {
+        "clave": "180120262",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "180120263",
+        "nombre": "El Sheriff"
+    },
+    {
+        "clave": "180120264",
+        "nombre": "Los Girasoles [Rancho]"
+    }
+]

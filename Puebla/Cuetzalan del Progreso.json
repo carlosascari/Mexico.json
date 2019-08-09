@@ -1,0 +1,718 @@
+[
+    {
+        "clave": "210430012",
+        "nombre": "Limonco"
+    },
+    {
+        "clave": "210430018",
+        "nombre": "Tacopizacta"
+    },
+    {
+        "clave": "210430023",
+        "nombre": "Tepetitán Zacatipan"
+    },
+    {
+        "clave": "210430025",
+        "nombre": "Texochico"
+    },
+    {
+        "clave": "210430029",
+        "nombre": "Xalcuahuta"
+    },
+    {
+        "clave": "210430030",
+        "nombre": "Xalpanat"
+    },
+    {
+        "clave": "210430043",
+        "nombre": "Atexolahua"
+    },
+    {
+        "clave": "210430053",
+        "nombre": "Ahuateno"
+    },
+    {
+        "clave": "210430055",
+        "nombre": "Xaltzinta"
+    },
+    {
+        "clave": "210430058",
+        "nombre": "Atmolón"
+    },
+    {
+        "clave": "210430059",
+        "nombre": "Pesmapán"
+    },
+    {
+        "clave": "210430061",
+        "nombre": "Sesectahuacal"
+    },
+    {
+        "clave": "210430062",
+        "nombre": "Totocuahuta (Tamaya)"
+    },
+    {
+        "clave": "210430064",
+        "nombre": "Quezapa"
+    },
+    {
+        "clave": "210430069",
+        "nombre": "Xiutecuapan"
+    },
+    {
+        "clave": "210430081",
+        "nombre": "Malacayotan"
+    },
+    {
+        "clave": "210430084",
+        "nombre": "Santioapan"
+    },
+    {
+        "clave": "210430085",
+        "nombre": "Kapola"
+    },
+    {
+        "clave": "210430087",
+        "nombre": "Tatahuictaltipan"
+    },
+    {
+        "clave": "210430090",
+        "nombre": "Tencuix"
+    },
+    {
+        "clave": "210430093",
+        "nombre": "Cuamono"
+    },
+    {
+        "clave": "210430106",
+        "nombre": "Apazapán"
+    },
+    {
+        "clave": "210430112",
+        "nombre": "Tzoncomala"
+    },
+    {
+        "clave": "210430114",
+        "nombre": "Tecuahuta"
+    },
+    {
+        "clave": "210430116",
+        "nombre": "Tenexteta"
+    },
+    {
+        "clave": "210430117",
+        "nombre": "Talix"
+    },
+    {
+        "clave": "210430120",
+        "nombre": "Xala"
+    },
+    {
+        "clave": "210430133",
+        "nombre": "Coapan"
+    },
+    {
+        "clave": "210430148",
+        "nombre": "Xaltepec"
+    },
+    {
+        "clave": "210430155",
+        "nombre": "Xocota"
+    },
+    {
+        "clave": "210430158",
+        "nombre": "Tenango Zacatipan"
+    },
+    {
+        "clave": "210430161",
+        "nombre": "Xalticpac"
+    },
+    {
+        "clave": "210430163",
+        "nombre": "Atemolón"
+    },
+    {
+        "clave": "210430164",
+        "nombre": "Cedral Atalpan"
+    },
+    {
+        "clave": "210430167",
+        "nombre": "Cuetzaltepec"
+    },
+    {
+        "clave": "210430169",
+        "nombre": "Cerro de Nectepec"
+    },
+    {
+        "clave": "210430170",
+        "nombre": "Achiauta"
+    },
+    {
+        "clave": "210430171",
+        "nombre": "Santa Eduviges"
+    },
+    {
+        "clave": "210430175",
+        "nombre": "Xaltipanapa"
+    },
+    {
+        "clave": "210430177",
+        "nombre": "Tixapan"
+    },
+    {
+        "clave": "210430184",
+        "nombre": "Naltzincuauhta"
+    },
+    {
+        "clave": "210430185",
+        "nombre": "Tajkuilol"
+    },
+    {
+        "clave": "210430188",
+        "nombre": "Tecazo"
+    },
+    {
+        "clave": "210430189",
+        "nombre": "Tepetzalán"
+    },
+    {
+        "clave": "210430190",
+        "nombre": "Teshuatita"
+    },
+    {
+        "clave": "210430192",
+        "nombre": "Tzontejco"
+    },
+    {
+        "clave": "210430208",
+        "nombre": "Cuatro Caminos"
+    },
+    {
+        "clave": "210430209",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "210430211",
+        "nombre": "Tahuil"
+    },
+    {
+        "clave": "210430212",
+        "nombre": "Xiloxúchitl"
+    },
+    {
+        "clave": "210430215",
+        "nombre": "Cuamayta"
+    },
+    {
+        "clave": "210430217",
+        "nombre": "Tepetitan Chico"
+    },
+    {
+        "clave": "210430220",
+        "nombre": "Ixmatatepec"
+    },
+    {
+        "clave": "210430222",
+        "nombre": "Mexcaltepec"
+    },
+    {
+        "clave": "210430223",
+        "nombre": "Pochoco"
+    },
+    {
+        "clave": "210430227",
+        "nombre": "Zopilotepec"
+    },
+    {
+        "clave": "210430002",
+        "nombre": "Acaxiloco"
+    },
+    {
+        "clave": "210430003",
+        "nombre": "Alahuacapan"
+    },
+    {
+        "clave": "210430004",
+        "nombre": "Ayotzinapan"
+    },
+    {
+        "clave": "210430005",
+        "nombre": "Cuauhtamazaco"
+    },
+    {
+        "clave": "210430006",
+        "nombre": "Cuauhtapanaloyan"
+    },
+    {
+        "clave": "210430007",
+        "nombre": "Cuichat"
+    },
+    {
+        "clave": "210430008",
+        "nombre": "Chichicazapan"
+    },
+    {
+        "clave": "210430009",
+        "nombre": "Equimita"
+    },
+    {
+        "clave": "210430010",
+        "nombre": "La Galera"
+    },
+    {
+        "clave": "210430011",
+        "nombre": "Ixtahuata"
+    },
+    {
+        "clave": "210430013",
+        "nombre": "Nectepec"
+    },
+    {
+        "clave": "210430014",
+        "nombre": "Pahpatapán"
+    },
+    {
+        "clave": "210430015",
+        "nombre": "Pepexta"
+    },
+    {
+        "clave": "210430016",
+        "nombre": "Pinahuista"
+    },
+    {
+        "clave": "210430019",
+        "nombre": "Tacuapan"
+    },
+    {
+        "clave": "210430020",
+        "nombre": "Taxipéhuatl"
+    },
+    {
+        "clave": "210430021",
+        "nombre": "Tenextepec"
+    },
+    {
+        "clave": "210430022",
+        "nombre": "Tepango"
+    },
+    {
+        "clave": "210430024",
+        "nombre": "Tepetzintán"
+    },
+    {
+        "clave": "210430026",
+        "nombre": "San Andrés Tzicuilan"
+    },
+    {
+        "clave": "210430027",
+        "nombre": "Tzinacapan"
+    },
+    {
+        "clave": "210430028",
+        "nombre": "Vista Hermosa"
+    },
+    {
+        "clave": "210430031",
+        "nombre": "Xalpantzingo"
+    },
+    {
+        "clave": "210430033",
+        "nombre": "Xaltipan"
+    },
+    {
+        "clave": "210430034",
+        "nombre": "Xiloxochico de Rafael Ávila Camacho"
+    },
+    {
+        "clave": "210430036",
+        "nombre": "Xocoyolo"
+    },
+    {
+        "clave": "210430037",
+        "nombre": "Santiago Yancuitlalpan"
+    },
+    {
+        "clave": "210430038",
+        "nombre": "Yohualichan"
+    },
+    {
+        "clave": "210430039",
+        "nombre": "Zacatipan"
+    },
+    {
+        "clave": "210430040",
+        "nombre": "Tepetzalan Tzicuilan"
+    },
+    {
+        "clave": "210430041",
+        "nombre": "Octimaxal Sur"
+    },
+    {
+        "clave": "210430045",
+        "nombre": "La Tranca"
+    },
+    {
+        "clave": "210430046",
+        "nombre": "Santa Cruz Tatempa"
+    },
+    {
+        "clave": "210430047",
+        "nombre": "Tenango"
+    },
+    {
+        "clave": "210430048",
+        "nombre": "La Piedad"
+    },
+    {
+        "clave": "210430049",
+        "nombre": "Xochical"
+    },
+    {
+        "clave": "210430050",
+        "nombre": "Tzanatco"
+    },
+    {
+        "clave": "210430051",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "210430052",
+        "nombre": "Cohuatichan"
+    },
+    {
+        "clave": "210430057",
+        "nombre": "Caxaltepec"
+    },
+    {
+        "clave": "210430067",
+        "nombre": "Chicueyaco"
+    },
+    {
+        "clave": "210430068",
+        "nombre": "Tuzamapan"
+    },
+    {
+        "clave": "210430071",
+        "nombre": "Cacatecuauta"
+    },
+    {
+        "clave": "210430072",
+        "nombre": "Olopioco"
+    },
+    {
+        "clave": "210430073",
+        "nombre": "Huaxtitán"
+    },
+    {
+        "clave": "210430075",
+        "nombre": "Zoquiapan"
+    },
+    {
+        "clave": "210430076",
+        "nombre": "Cozamalomila"
+    },
+    {
+        "clave": "210430078",
+        "nombre": "Tecoltepec"
+    },
+    {
+        "clave": "210430079",
+        "nombre": "Tonalix"
+    },
+    {
+        "clave": "210430083",
+        "nombre": "Tepetzingo"
+    },
+    {
+        "clave": "210430086",
+        "nombre": "Octimaxal Norte"
+    },
+    {
+        "clave": "210430091",
+        "nombre": "Tepetzalan de Miguel Hidalgo"
+    },
+    {
+        "clave": "210430092",
+        "nombre": "Reyeshogpan de Hidalgo (El Mirador)"
+    },
+    {
+        "clave": "210430094",
+        "nombre": "Las Vigas"
+    },
+    {
+        "clave": "210430095",
+        "nombre": "Pilinchaco"
+    },
+    {
+        "clave": "210430100",
+        "nombre": "Nahuiogpan"
+    },
+    {
+        "clave": "210430107",
+        "nombre": "Calatepec"
+    },
+    {
+        "clave": "210430110",
+        "nombre": "Zuapilaco"
+    },
+    {
+        "clave": "210430113",
+        "nombre": "Limontitán"
+    },
+    {
+        "clave": "210430115",
+        "nombre": "Pahuatahu"
+    },
+    {
+        "clave": "210430122",
+        "nombre": "Tenkizapan"
+    },
+    {
+        "clave": "210430123",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "210430126",
+        "nombre": "Amateno"
+    },
+    {
+        "clave": "210430128",
+        "nombre": "Las Hamacas"
+    },
+    {
+        "clave": "210430129",
+        "nombre": "Macuilacaco"
+    },
+    {
+        "clave": "210430132",
+        "nombre": "Atepatahua"
+    },
+    {
+        "clave": "210430134",
+        "nombre": "Cuahutamanca"
+    },
+    {
+        "clave": "210430138",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "210430146",
+        "nombre": "Tepetitán Reyeshogpan de Hidalgo"
+    },
+    {
+        "clave": "210430147",
+        "nombre": "Tetsijtsilín"
+    },
+    {
+        "clave": "210430154",
+        "nombre": "Pesmapán"
+    },
+    {
+        "clave": "210430156",
+        "nombre": "Pagmaco"
+    },
+    {
+        "clave": "210430159",
+        "nombre": "Cahuayogco"
+    },
+    {
+        "clave": "210430160",
+        "nombre": "Atalpan"
+    },
+    {
+        "clave": "210430165",
+        "nombre": "Los Manantiales"
+    },
+    {
+        "clave": "210430176",
+        "nombre": "Atequiza"
+    },
+    {
+        "clave": "210430179",
+        "nombre": "Chauta"
+    },
+    {
+        "clave": "210430180",
+        "nombre": "Tazalolpan"
+    },
+    {
+        "clave": "210430191",
+        "nombre": "Tzojiaco"
+    },
+    {
+        "clave": "210430201",
+        "nombre": "Taltzintán"
+    },
+    {
+        "clave": "210430203",
+        "nombre": "Tenanikán"
+    },
+    {
+        "clave": "210430205",
+        "nombre": "Chilcuauhta"
+    },
+    {
+        "clave": "210430206",
+        "nombre": "Texixila"
+    },
+    {
+        "clave": "210430207",
+        "nombre": "Xiliapan"
+    },
+    {
+        "clave": "210430213",
+        "nombre": "Ziltepec"
+    },
+    {
+        "clave": "210430214",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "210430216",
+        "nombre": "Tecolapa"
+    },
+    {
+        "clave": "210430218",
+        "nombre": "Anaytitan"
+    },
+    {
+        "clave": "210430219",
+        "nombre": "Ayohapan"
+    },
+    {
+        "clave": "210430221",
+        "nombre": "Kuahuxiutitan"
+    },
+    {
+        "clave": "210430225",
+        "nombre": "Tatoxcac"
+    },
+    {
+        "clave": "210430226",
+        "nombre": "Totolichipi"
+    },
+    {
+        "clave": "210430001",
+        "nombre": "Ciudad de Cuetzalan"
+    },
+    {
+        "clave": "210430032",
+        "nombre": "Xalta"
+    },
+    {
+        "clave": "210430065",
+        "nombre": "Cuaololtitán"
+    },
+    {
+        "clave": "210430066",
+        "nombre": "Cohuateno"
+    },
+    {
+        "clave": "210430070",
+        "nombre": "Amatitán"
+    },
+    {
+        "clave": "210430111",
+        "nombre": "Octatitán"
+    },
+    {
+        "clave": "210430125",
+        "nombre": "Pantepec"
+    },
+    {
+        "clave": "210430136",
+        "nombre": "Monte Alto"
+    },
+    {
+        "clave": "210430137",
+        "nombre": "El Naranjal"
+    },
+    {
+        "clave": "210430140",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "210430142",
+        "nombre": "San Fermín"
+    },
+    {
+        "clave": "210430143",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "210430144",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "210430157",
+        "nombre": "Texayacatitan"
+    },
+    {
+        "clave": "210430162",
+        "nombre": "Talix"
+    },
+    {
+        "clave": "210430168",
+        "nombre": "Atecalan"
+    },
+    {
+        "clave": "210430172",
+        "nombre": "Atechayán"
+    },
+    {
+        "clave": "210430173",
+        "nombre": "Tagchinolapa"
+    },
+    {
+        "clave": "210430174",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "210430181",
+        "nombre": "Tagchicteco Tamayan"
+    },
+    {
+        "clave": "210430182",
+        "nombre": "Xalostoc"
+    },
+    {
+        "clave": "210430183",
+        "nombre": "Finca San José y San Ángel"
+    },
+    {
+        "clave": "210430187",
+        "nombre": "Teacal"
+    },
+    {
+        "clave": "210430194",
+        "nombre": "Xocota"
+    },
+    {
+        "clave": "210430196",
+        "nombre": "Atepolihui (Ostocapal)"
+    },
+    {
+        "clave": "210430197",
+        "nombre": "Dolores"
+    },
+    {
+        "clave": "210430198",
+        "nombre": "Finca Tenexteta"
+    },
+    {
+        "clave": "210430199",
+        "nombre": "La Isla"
+    },
+    {
+        "clave": "210430200",
+        "nombre": "Ixtactepec"
+    },
+    {
+        "clave": "210430210",
+        "nombre": "Zacapoaxteco"
+    },
+    {
+        "clave": "210430224",
+        "nombre": "Pochotitan"
+    }
+]

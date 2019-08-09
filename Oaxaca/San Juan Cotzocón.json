@@ -1,0 +1,774 @@
+[
+    {
+        "clave": "201900008",
+        "nombre": "Eva Sámano de López Mateos"
+    },
+    {
+        "clave": "201900029",
+        "nombre": "Tres Islas"
+    },
+    {
+        "clave": "201900055",
+        "nombre": "El Campanario"
+    },
+    {
+        "clave": "201900079",
+        "nombre": "Ejido Emilio Ramírez Ortega (Rancho Chile)"
+    },
+    {
+        "clave": "201900098",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "201900168",
+        "nombre": "Arroyo Venado"
+    },
+    {
+        "clave": "201900001",
+        "nombre": "San Juan Cotzocón"
+    },
+    {
+        "clave": "201900002",
+        "nombre": "Arroyo Carrizal"
+    },
+    {
+        "clave": "201900003",
+        "nombre": "Arroyo Encino"
+    },
+    {
+        "clave": "201900004",
+        "nombre": "Arroyo Peña Amarilla"
+    },
+    {
+        "clave": "201900006",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "201900007",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "201900011",
+        "nombre": "Jaltepec de Candoyoc"
+    },
+    {
+        "clave": "201900012",
+        "nombre": "La Libertad"
+    },
+    {
+        "clave": "201900013",
+        "nombre": "María Lombardo de Caso"
+    },
+    {
+        "clave": "201900014",
+        "nombre": "Santa María Matamoros"
+    },
+    {
+        "clave": "201900017",
+        "nombre": "Nuevo Cerro Mojarra"
+    },
+    {
+        "clave": "201900018",
+        "nombre": "San Juan Otzolotepec"
+    },
+    {
+        "clave": "201900020",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "201900021",
+        "nombre": "Profesor Julio de la Fuente"
+    },
+    {
+        "clave": "201900022",
+        "nombre": "Santa María Puxmetacán"
+    },
+    {
+        "clave": "201900023",
+        "nombre": "San Felipe Zihualtepec"
+    },
+    {
+        "clave": "201900024",
+        "nombre": "Santa Rosa Zihualtepec"
+    },
+    {
+        "clave": "201900025",
+        "nombre": "El Tesoro"
+    },
+    {
+        "clave": "201900033",
+        "nombre": "La Primavera"
+    },
+    {
+        "clave": "201900035",
+        "nombre": "Desviación a San Felipe (La Gasolinera)"
+    },
+    {
+        "clave": "201900037",
+        "nombre": "La Estrella"
+    },
+    {
+        "clave": "201900040",
+        "nombre": "Desviación Sabana"
+    },
+    {
+        "clave": "201900075",
+        "nombre": "El Privilegio [Rancho]"
+    },
+    {
+        "clave": "201900148",
+        "nombre": "Max Agustín Correa"
+    },
+    {
+        "clave": "201900159",
+        "nombre": "Ejido Miguel Herrera Lara"
+    },
+    {
+        "clave": "201900191",
+        "nombre": "Colonia Jardines de María Lombardo de Caso"
+    },
+    {
+        "clave": "201900209",
+        "nombre": "Colonia Loma Linda"
+    },
+    {
+        "clave": "201900015",
+        "nombre": "Miguel Hidalgo"
+    },
+    {
+        "clave": "201900016",
+        "nombre": "La Nueva Raza"
+    },
+    {
+        "clave": "201900019",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "201900030",
+        "nombre": "La Charola"
+    },
+    {
+        "clave": "201900031",
+        "nombre": "El Treinta y Seis"
+    },
+    {
+        "clave": "201900032",
+        "nombre": "El Campanario"
+    },
+    {
+        "clave": "201900034",
+        "nombre": "La Sabana [Campamento Forestal]"
+    },
+    {
+        "clave": "201900036",
+        "nombre": "Arroyo Mojarra"
+    },
+    {
+        "clave": "201900038",
+        "nombre": "Los Raudales"
+    },
+    {
+        "clave": "201900039",
+        "nombre": "Santa Sofía"
+    },
+    {
+        "clave": "201900041",
+        "nombre": "Santa Hilaria"
+    },
+    {
+        "clave": "201900052",
+        "nombre": "La Arena [Rancho]"
+    },
+    {
+        "clave": "201900053",
+        "nombre": "Arroyo Zapote"
+    },
+    {
+        "clave": "201900054",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "201900056",
+        "nombre": "Las Cañadas"
+    },
+    {
+        "clave": "201900057",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "201900058",
+        "nombre": "Loma Alta [Rancho]"
+    },
+    {
+        "clave": "201900059",
+        "nombre": "Dos Arbolitos"
+    },
+    {
+        "clave": "201900060",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "201900061",
+        "nombre": "La Estrella"
+    },
+    {
+        "clave": "201900062",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "201900063",
+        "nombre": "La Granja"
+    },
+    {
+        "clave": "201900064",
+        "nombre": "La Herradura [Rancho]"
+    },
+    {
+        "clave": "201900065",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "201900066",
+        "nombre": "Rancho de Margarito Blanco Ortiz"
+    },
+    {
+        "clave": "201900067",
+        "nombre": "Atanacio Carbajal"
+    },
+    {
+        "clave": "201900068",
+        "nombre": "Rancho de Galdino Camacho Basilio"
+    },
+    {
+        "clave": "201900069",
+        "nombre": "Rancho de Jacinto Garrido"
+    },
+    {
+        "clave": "201900070",
+        "nombre": "Rancho de José Nicolás"
+    },
+    {
+        "clave": "201900071",
+        "nombre": "Rancho de Rafael Alcalá Sarmiento"
+    },
+    {
+        "clave": "201900072",
+        "nombre": "Arroyo Concha"
+    },
+    {
+        "clave": "201900073",
+        "nombre": "Rancho de Wilfrido Oceguera"
+    },
+    {
+        "clave": "201900074",
+        "nombre": "Los Pinos [Rancho]"
+    },
+    {
+        "clave": "201900076",
+        "nombre": "Los Pulido"
+    },
+    {
+        "clave": "201900077",
+        "nombre": "San Lorenzo [Rancho]"
+    },
+    {
+        "clave": "201900078",
+        "nombre": "El Triángulo"
+    },
+    {
+        "clave": "201900080",
+        "nombre": "Los Cocos"
+    },
+    {
+        "clave": "201900081",
+        "nombre": "Rancho Lupita"
+    },
+    {
+        "clave": "201900082",
+        "nombre": "Los San Juanes"
+    },
+    {
+        "clave": "201900083",
+        "nombre": "San Pedro Amuzgos"
+    },
+    {
+        "clave": "201900084",
+        "nombre": "Los Tres Hermanos"
+    },
+    {
+        "clave": "201900085",
+        "nombre": "Los Tres Hermanos"
+    },
+    {
+        "clave": "201900086",
+        "nombre": "Los Vásquez"
+    },
+    {
+        "clave": "201900087",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "201900089",
+        "nombre": "Antonio Aguilar"
+    },
+    {
+        "clave": "201900090",
+        "nombre": "Basem"
+    },
+    {
+        "clave": "201900091",
+        "nombre": "El Bonanza"
+    },
+    {
+        "clave": "201900092",
+        "nombre": "Calzada los Pinos"
+    },
+    {
+        "clave": "201900093",
+        "nombre": "El Progreso (El Gordo)"
+    },
+    {
+        "clave": "201900094",
+        "nombre": "Las Dos Cruces [Rancho]"
+    },
+    {
+        "clave": "201900095",
+        "nombre": "Eugenio Muñoz"
+    },
+    {
+        "clave": "201900096",
+        "nombre": "Francisco Pérez"
+    },
+    {
+        "clave": "201900097",
+        "nombre": "El Gigante"
+    },
+    {
+        "clave": "201900099",
+        "nombre": "La Guayaba"
+    },
+    {
+        "clave": "201900100",
+        "nombre": "Rancho Hermanos José"
+    },
+    {
+        "clave": "201900101",
+        "nombre": "Hermilo Regino María"
+    },
+    {
+        "clave": "201900102",
+        "nombre": "Las Higueras"
+    },
+    {
+        "clave": "201900103",
+        "nombre": "Joaquín Regino María"
+    },
+    {
+        "clave": "201900104",
+        "nombre": "Jorge Ramírez"
+    },
+    {
+        "clave": "201900105",
+        "nombre": "Juan Sebastián"
+    },
+    {
+        "clave": "201900106",
+        "nombre": "El Alacrán"
+    },
+    {
+        "clave": "201900107",
+        "nombre": "Santa Cristina"
+    },
+    {
+        "clave": "201900108",
+        "nombre": "Laguna Seca"
+    },
+    {
+        "clave": "201900109",
+        "nombre": "Los Limones"
+    },
+    {
+        "clave": "201900110",
+        "nombre": "El Manguito"
+    },
+    {
+        "clave": "201900111",
+        "nombre": "Los Manguitos"
+    },
+    {
+        "clave": "201900112",
+        "nombre": "El Rodeo (Mateo Vásquez)"
+    },
+    {
+        "clave": "201900113",
+        "nombre": "Arroyo Cacao"
+    },
+    {
+        "clave": "201900114",
+        "nombre": "Arroyo Borracho"
+    },
+    {
+        "clave": "201900115",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "201900116",
+        "nombre": "El Tamarindo"
+    },
+    {
+        "clave": "201900117",
+        "nombre": "El Patio la Sabana"
+    },
+    {
+        "clave": "201900118",
+        "nombre": "La Pimienta"
+    },
+    {
+        "clave": "201900119",
+        "nombre": "Progreso"
+    },
+    {
+        "clave": "201900120",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "201900121",
+        "nombre": "Rafael Juárez"
+    },
+    {
+        "clave": "201900122",
+        "nombre": "Taurino (Rancho Taurino)"
+    },
+    {
+        "clave": "201900123",
+        "nombre": "El Recuerdo"
+    },
+    {
+        "clave": "201900124",
+        "nombre": "El Puente [Rancho]"
+    },
+    {
+        "clave": "201900125",
+        "nombre": "Rodolfo Bellma"
+    },
+    {
+        "clave": "201900126",
+        "nombre": "Rodolfo Bellma"
+    },
+    {
+        "clave": "201900127",
+        "nombre": "Romeo Arquino"
+    },
+    {
+        "clave": "201900128",
+        "nombre": "Virgen María [Rancho]"
+    },
+    {
+        "clave": "201900129",
+        "nombre": "El Sacrificio"
+    },
+    {
+        "clave": "201900131",
+        "nombre": "Los San Juanes Dos"
+    },
+    {
+        "clave": "201900132",
+        "nombre": "Rancho San Miguel"
+    },
+    {
+        "clave": "201900133",
+        "nombre": "Santa Sofía [Rancho]"
+    },
+    {
+        "clave": "201900134",
+        "nombre": "Santa Isabel"
+    },
+    {
+        "clave": "201900135",
+        "nombre": "La Perla"
+    },
+    {
+        "clave": "201900136",
+        "nombre": "Saturnino López"
+    },
+    {
+        "clave": "201900137",
+        "nombre": "Serafín Infante"
+    },
+    {
+        "clave": "201900138",
+        "nombre": "El Platanar"
+    },
+    {
+        "clave": "201900139",
+        "nombre": "La Doble A"
+    },
+    {
+        "clave": "201900140",
+        "nombre": "Los Cocos"
+    },
+    {
+        "clave": "201900141",
+        "nombre": "El Diamante"
+    },
+    {
+        "clave": "201900142",
+        "nombre": "Rancho Don Luis"
+    },
+    {
+        "clave": "201900143",
+        "nombre": "Rancho Dos Hermanos"
+    },
+    {
+        "clave": "201900144",
+        "nombre": "Rancho Dos Hermanos"
+    },
+    {
+        "clave": "201900145",
+        "nombre": "ITE (Esteban Torralba Infante)"
+    },
+    {
+        "clave": "201900146",
+        "nombre": "El Laurel"
+    },
+    {
+        "clave": "201900147",
+        "nombre": "La Montañita"
+    },
+    {
+        "clave": "201900149",
+        "nombre": "Modesta García Rojas"
+    },
+    {
+        "clave": "201900150",
+        "nombre": "Los Mangos"
+    },
+    {
+        "clave": "201900151",
+        "nombre": "Rancho Litesa"
+    },
+    {
+        "clave": "201900152",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "201900153",
+        "nombre": "Santa Isabel"
+    },
+    {
+        "clave": "201900154",
+        "nombre": "Santa Lucía"
+    },
+    {
+        "clave": "201900155",
+        "nombre": "Santiago Apóstol"
+    },
+    {
+        "clave": "201900156",
+        "nombre": "Arroyo Zapote"
+    },
+    {
+        "clave": "201900157",
+        "nombre": "Yocundo Huescas"
+    },
+    {
+        "clave": "201900158",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "201900160",
+        "nombre": "Elí Pacheco Ramírez"
+    },
+    {
+        "clave": "201900161",
+        "nombre": "Eric Villanueva"
+    },
+    {
+        "clave": "201900162",
+        "nombre": "Germán Mejía"
+    },
+    {
+        "clave": "201900163",
+        "nombre": "La Fortuna"
+    },
+    {
+        "clave": "201900164",
+        "nombre": "Honorio García"
+    },
+    {
+        "clave": "201900165",
+        "nombre": "Princesa y los Tres Potrillos"
+    },
+    {
+        "clave": "201900166",
+        "nombre": "Zamora"
+    },
+    {
+        "clave": "201900167",
+        "nombre": "Cerro Alto"
+    },
+    {
+        "clave": "201900169",
+        "nombre": "La Bugambilia"
+    },
+    {
+        "clave": "201900170",
+        "nombre": "La Gravera"
+    },
+    {
+        "clave": "201900171",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "201900172",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "201900173",
+        "nombre": "Los Ortega"
+    },
+    {
+        "clave": "201900174",
+        "nombre": "Palo Dulce"
+    },
+    {
+        "clave": "201900175",
+        "nombre": "Ranchito del Barrio Pobre"
+    },
+    {
+        "clave": "201900176",
+        "nombre": "Rancho Escondido"
+    },
+    {
+        "clave": "201900177",
+        "nombre": "Ricardo Tijerina"
+    },
+    {
+        "clave": "201900178",
+        "nombre": "Rosalino García Diego"
+    },
+    {
+        "clave": "201900179",
+        "nombre": "Los Tres Hermanos"
+    },
+    {
+        "clave": "201900180",
+        "nombre": "Los Tres Hermanos"
+    },
+    {
+        "clave": "201900181",
+        "nombre": "Amparo García (Las Higueras)"
+    },
+    {
+        "clave": "201900182",
+        "nombre": "Javier Canseco"
+    },
+    {
+        "clave": "201900183",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "201900184",
+        "nombre": "El Universo"
+    },
+    {
+        "clave": "201900185",
+        "nombre": "El Canutillo"
+    },
+    {
+        "clave": "201900186",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "201900187",
+        "nombre": "Los Jiménez"
+    },
+    {
+        "clave": "201900188",
+        "nombre": "Las Malvinas"
+    },
+    {
+        "clave": "201900189",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "201900190",
+        "nombre": "El Pozo"
+    },
+    {
+        "clave": "201900192",
+        "nombre": "El Arco"
+    },
+    {
+        "clave": "201900193",
+        "nombre": "El Dragón"
+    },
+    {
+        "clave": "201900194",
+        "nombre": "El Milagro"
+    },
+    {
+        "clave": "201900195",
+        "nombre": "El Tauro"
+    },
+    {
+        "clave": "201900196",
+        "nombre": "Zihualtepec [Granja]"
+    },
+    {
+        "clave": "201900197",
+        "nombre": "Juquilita"
+    },
+    {
+        "clave": "201900198",
+        "nombre": "La Perlita"
+    },
+    {
+        "clave": "201900199",
+        "nombre": "Los Tres Amigos (Rancho Taurino)"
+    },
+    {
+        "clave": "201900200",
+        "nombre": "Piedra Viva"
+    },
+    {
+        "clave": "201900201",
+        "nombre": "Unión de Arroyos"
+    },
+    {
+        "clave": "201900202",
+        "nombre": "Santiago Vásquez Sánchez"
+    },
+    {
+        "clave": "201900203",
+        "nombre": "Concepción Gómez"
+    },
+    {
+        "clave": "201900204",
+        "nombre": "Las Palmas [Rancho]"
+    },
+    {
+        "clave": "201900205",
+        "nombre": "Raúl Ramírez"
+    },
+    {
+        "clave": "201900206",
+        "nombre": "Rancho Eulogia Tapia Tapia"
+    },
+    {
+        "clave": "201900207",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "201900208",
+        "nombre": "Santa Jimena"
+    },
+    {
+        "clave": "201900210",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "201900211",
+        "nombre": "Los 3 García"
+    }
+]

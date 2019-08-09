@@ -1,0 +1,606 @@
+[
+    {
+        "clave": "70660002",
+        "nombre": "La Alianza"
+    },
+    {
+        "clave": "70660005",
+        "nombre": "Aurora Esquipulas"
+    },
+    {
+        "clave": "70660006",
+        "nombre": "La Barranca"
+    },
+    {
+        "clave": "70660007",
+        "nombre": "Betania"
+    },
+    {
+        "clave": "70660010",
+        "nombre": "El Carmen Duraznal"
+    },
+    {
+        "clave": "70660011",
+        "nombre": "La Unión Carmen Reforma"
+    },
+    {
+        "clave": "70660025",
+        "nombre": "Dolores Petaquil"
+    },
+    {
+        "clave": "70660027",
+        "nombre": "Encanto Chixté"
+    },
+    {
+        "clave": "70660038",
+        "nombre": "La Isla"
+    },
+    {
+        "clave": "70660044",
+        "nombre": "Los Mangos"
+    },
+    {
+        "clave": "70660053",
+        "nombre": "Paraíso Molosh"
+    },
+    {
+        "clave": "70660056",
+        "nombre": "Paraíso Sepeltón"
+    },
+    {
+        "clave": "70660061",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "70660064",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "70660067",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "70660069",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "70660071",
+        "nombre": "San Clemente"
+    },
+    {
+        "clave": "70660074",
+        "nombre": "San Benito"
+    },
+    {
+        "clave": "70660076",
+        "nombre": "San Caralampio"
+    },
+    {
+        "clave": "70660077",
+        "nombre": "San Carlos Corralito"
+    },
+    {
+        "clave": "70660080",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "70660081",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "70660083",
+        "nombre": "San Francisco el Triunfo"
+    },
+    {
+        "clave": "70660084",
+        "nombre": "San Isidro Viejo"
+    },
+    {
+        "clave": "70660087",
+        "nombre": "San José Bochtic"
+    },
+    {
+        "clave": "70660088",
+        "nombre": "San José Buenavista Primero"
+    },
+    {
+        "clave": "70660089",
+        "nombre": "San José Buenavista Segundo"
+    },
+    {
+        "clave": "70660090",
+        "nombre": "San José Chactú"
+    },
+    {
+        "clave": "70660094",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "70660095",
+        "nombre": "El Roblar"
+    },
+    {
+        "clave": "70660096",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "70660097",
+        "nombre": "Santa Cruz (Corazón de Jesús)"
+    },
+    {
+        "clave": "70660098",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "70660102",
+        "nombre": "Santiago Alcachofas (Pikinteel)"
+    },
+    {
+        "clave": "70660103",
+        "nombre": "Santiago los Sabinos"
+    },
+    {
+        "clave": "70660105",
+        "nombre": "Nueva Santa Cruz Yaxté"
+    },
+    {
+        "clave": "70660110",
+        "nombre": "La Mesa Buenavista"
+    },
+    {
+        "clave": "70660116",
+        "nombre": "Esmeralda"
+    },
+    {
+        "clave": "70660121",
+        "nombre": "San Luis Usig"
+    },
+    {
+        "clave": "70660127",
+        "nombre": "Cristo Rey Chactú"
+    },
+    {
+        "clave": "70660145",
+        "nombre": "Corralito Pedernal (Zaquilá)"
+    },
+    {
+        "clave": "70660153",
+        "nombre": "Emiliano Zapata Segundo"
+    },
+    {
+        "clave": "70660158",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "70660162",
+        "nombre": "San José del Carmen"
+    },
+    {
+        "clave": "70660164",
+        "nombre": "Dolores"
+    },
+    {
+        "clave": "70660166",
+        "nombre": "Guadalupe Victoria"
+    },
+    {
+        "clave": "70660168",
+        "nombre": "Liquidámbar"
+    },
+    {
+        "clave": "70660169",
+        "nombre": "Lotero"
+    },
+    {
+        "clave": "70660171",
+        "nombre": "Montecristo"
+    },
+    {
+        "clave": "70660172",
+        "nombre": "Nueva Galilea"
+    },
+    {
+        "clave": "70660174",
+        "nombre": "Nuevo Progreso"
+    },
+    {
+        "clave": "70660177",
+        "nombre": "El Ocotal"
+    },
+    {
+        "clave": "70660180",
+        "nombre": "El Pequeño Roblar"
+    },
+    {
+        "clave": "70660182",
+        "nombre": "Nuevo Refugio"
+    },
+    {
+        "clave": "70660187",
+        "nombre": "San José Buenavista Tercero"
+    },
+    {
+        "clave": "70660191",
+        "nombre": "San Martín Caballero"
+    },
+    {
+        "clave": "70660192",
+        "nombre": "Fracción San Martín el Triunfo"
+    },
+    {
+        "clave": "70660193",
+        "nombre": "San Roque"
+    },
+    {
+        "clave": "70660199",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "70660204",
+        "nombre": "El Horizonte"
+    },
+    {
+        "clave": "70660210",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "70660213",
+        "nombre": "La Esmeralda"
+    },
+    {
+        "clave": "70660216",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "70660217",
+        "nombre": "Los Naranjos"
+    },
+    {
+        "clave": "70660233",
+        "nombre": "San José la Aurora"
+    },
+    {
+        "clave": "70660236",
+        "nombre": "Lindavista"
+    },
+    {
+        "clave": "70660239",
+        "nombre": "Guadalupe Tepeyac"
+    },
+    {
+        "clave": "70660244",
+        "nombre": "El Campo"
+    },
+    {
+        "clave": "70660245",
+        "nombre": "La Ceibita"
+    },
+    {
+        "clave": "70660246",
+        "nombre": "Los Chorros"
+    },
+    {
+        "clave": "70660251",
+        "nombre": "Nuevo San Carlos"
+    },
+    {
+        "clave": "70660252",
+        "nombre": "Peña Blanca"
+    },
+    {
+        "clave": "70660257",
+        "nombre": "Yab Muctana"
+    },
+    {
+        "clave": "70660259",
+        "nombre": "Nueva Santa Rosa"
+    },
+    {
+        "clave": "70660263",
+        "nombre": "Fracción San Caralampio"
+    },
+    {
+        "clave": "70660264",
+        "nombre": "San Miguel Loteros"
+    },
+    {
+        "clave": "70660265",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "70660267",
+        "nombre": "Santa Rosalía"
+    },
+    {
+        "clave": "70660269",
+        "nombre": "Nueva Maravillas"
+    },
+    {
+        "clave": "70660270",
+        "nombre": "Fracción Rosario"
+    },
+    {
+        "clave": "70660273",
+        "nombre": "El Naranjal"
+    },
+    {
+        "clave": "70660275",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "70660001",
+        "nombre": "Pantelhó"
+    },
+    {
+        "clave": "70660020",
+        "nombre": "Las Limas Chitamucum"
+    },
+    {
+        "clave": "70660032",
+        "nombre": "Esquipulas Viejo"
+    },
+    {
+        "clave": "70660041",
+        "nombre": "Nueva Reforma"
+    },
+    {
+        "clave": "70660042",
+        "nombre": "Las Limas"
+    },
+    {
+        "clave": "70660050",
+        "nombre": "Nueva Linda"
+    },
+    {
+        "clave": "70660068",
+        "nombre": "El Roblar Chishtontic"
+    },
+    {
+        "clave": "70660082",
+        "nombre": "San Francisco de Asís"
+    },
+    {
+        "clave": "70660086",
+        "nombre": "San Joaquín"
+    },
+    {
+        "clave": "70660099",
+        "nombre": "Aquiles Serdán (Santa Lucía)"
+    },
+    {
+        "clave": "70660107",
+        "nombre": "La Victoria"
+    },
+    {
+        "clave": "70660167",
+        "nombre": "Guadalupe la Lámina"
+    },
+    {
+        "clave": "70660173",
+        "nombre": "Nueva Jerusalén"
+    },
+    {
+        "clave": "70660271",
+        "nombre": "San Antonio el Encanto"
+    },
+    {
+        "clave": "70660003",
+        "nombre": "Nueva Aurora Chica"
+    },
+    {
+        "clave": "70660009",
+        "nombre": "Los Caprichos (El Cafetal)"
+    },
+    {
+        "clave": "70660012",
+        "nombre": "Carmen (Las Vertientes)"
+    },
+    {
+        "clave": "70660013",
+        "nombre": "Carmen Puerto Rico"
+    },
+    {
+        "clave": "70660017",
+        "nombre": "Chacalho"
+    },
+    {
+        "clave": "70660031",
+        "nombre": "El Espinita"
+    },
+    {
+        "clave": "70660039",
+        "nombre": "El Janeiro"
+    },
+    {
+        "clave": "70660046",
+        "nombre": "Montecristo"
+    },
+    {
+        "clave": "70660048",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "70660051",
+        "nombre": "Pabuchil"
+    },
+    {
+        "clave": "70660060",
+        "nombre": "La Piedad"
+    },
+    {
+        "clave": "70660063",
+        "nombre": "El Progreso"
+    },
+    {
+        "clave": "70660101",
+        "nombre": "Santa Rosalía Dos"
+    },
+    {
+        "clave": "70660147",
+        "nombre": "Baquelté"
+    },
+    {
+        "clave": "70660148",
+        "nombre": "Bolontón"
+    },
+    {
+        "clave": "70660155",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "70660157",
+        "nombre": "Silvano Carmen"
+    },
+    {
+        "clave": "70660160",
+        "nombre": "La Aurora"
+    },
+    {
+        "clave": "70660163",
+        "nombre": "Cintalapa"
+    },
+    {
+        "clave": "70660165",
+        "nombre": "Porvenir"
+    },
+    {
+        "clave": "70660170",
+        "nombre": "Macedonia"
+    },
+    {
+        "clave": "70660175",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "70660176",
+        "nombre": "Nueva Santa Cruz"
+    },
+    {
+        "clave": "70660181",
+        "nombre": "El Porvenir Cacateal"
+    },
+    {
+        "clave": "70660183",
+        "nombre": "San Antonio Grande"
+    },
+    {
+        "clave": "70660185",
+        "nombre": "San Francisco de las Nubes"
+    },
+    {
+        "clave": "70660188",
+        "nombre": "San José Chitic"
+    },
+    {
+        "clave": "70660189",
+        "nombre": "San José las Palmas"
+    },
+    {
+        "clave": "70660194",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "70660195",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "70660198",
+        "nombre": "La Esperanza Popol"
+    },
+    {
+        "clave": "70660206",
+        "nombre": "La Esmeralda"
+    },
+    {
+        "clave": "70660208",
+        "nombre": "Las Delicias"
+    },
+    {
+        "clave": "70660211",
+        "nombre": "Lago de María (El Arenal)"
+    },
+    {
+        "clave": "70660218",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "70660219",
+        "nombre": "San Benito"
+    },
+    {
+        "clave": "70660232",
+        "nombre": "Paredón"
+    },
+    {
+        "clave": "70660237",
+        "nombre": "Ocotal"
+    },
+    {
+        "clave": "70660243",
+        "nombre": "Palmar"
+    },
+    {
+        "clave": "70660247",
+        "nombre": "Fracción San Francisco"
+    },
+    {
+        "clave": "70660248",
+        "nombre": "La Frontera"
+    },
+    {
+        "clave": "70660249",
+        "nombre": "Guadalupe de la Peña"
+    },
+    {
+        "clave": "70660253",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "70660254",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "70660255",
+        "nombre": "San José el Recreo"
+    },
+    {
+        "clave": "70660256",
+        "nombre": "San Ramón"
+    },
+    {
+        "clave": "70660258",
+        "nombre": "Nueva Israelita"
+    },
+    {
+        "clave": "70660260",
+        "nombre": "Nicolás Aguilar Pérez"
+    },
+    {
+        "clave": "70660261",
+        "nombre": "Paraíso"
+    },
+    {
+        "clave": "70660262",
+        "nombre": "Producción Cacateal"
+    },
+    {
+        "clave": "70660266",
+        "nombre": "Santa Rosalía"
+    },
+    {
+        "clave": "70660268",
+        "nombre": "Santo Domingo"
+    },
+    {
+        "clave": "70660272",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "70660274",
+        "nombre": "Los Naranjos"
+    },
+    {
+        "clave": "70660276",
+        "nombre": "Nueva Esperanza"
+    }
+]

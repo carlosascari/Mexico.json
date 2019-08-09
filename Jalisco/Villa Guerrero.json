@@ -1,0 +1,762 @@
+[
+    {
+        "clave": "141150011",
+        "nombre": "El Baño"
+    },
+    {
+        "clave": "141150015",
+        "nombre": "El Carnicero"
+    },
+    {
+        "clave": "141150018",
+        "nombre": "La Ciénega de los Márquez (La Ciénega)"
+    },
+    {
+        "clave": "141150042",
+        "nombre": "La Labor"
+    },
+    {
+        "clave": "141150086",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "141150094",
+        "nombre": "Tlacuitapan"
+    },
+    {
+        "clave": "141150116",
+        "nombre": "Los Valles"
+    },
+    {
+        "clave": "141150136",
+        "nombre": "Rancho de Enmedio (Manillas)"
+    },
+    {
+        "clave": "141150165",
+        "nombre": "La Cofradía"
+    },
+    {
+        "clave": "141150270",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "141150275",
+        "nombre": "Puerto del Viento"
+    },
+    {
+        "clave": "141150003",
+        "nombre": "Adjuntas del Norte"
+    },
+    {
+        "clave": "141150008",
+        "nombre": "San Lorenzo de Atzqueltán"
+    },
+    {
+        "clave": "141150013",
+        "nombre": "La Boquilla"
+    },
+    {
+        "clave": "141150021",
+        "nombre": "Las Conchas (La Concha)"
+    },
+    {
+        "clave": "141150035",
+        "nombre": "La Guásima"
+    },
+    {
+        "clave": "141150040",
+        "nombre": "Izolta"
+    },
+    {
+        "clave": "141150041",
+        "nombre": "Juanacatic"
+    },
+    {
+        "clave": "141150048",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "141150060",
+        "nombre": "La Nopalera (Arroyo de Agua)"
+    },
+    {
+        "clave": "141150061",
+        "nombre": "Ojo de Agua de Cardos"
+    },
+    {
+        "clave": "141150066",
+        "nombre": "Patáhuac (Patagua)"
+    },
+    {
+        "clave": "141150069",
+        "nombre": "El Pirul"
+    },
+    {
+        "clave": "141150083",
+        "nombre": "San Buenaventura"
+    },
+    {
+        "clave": "141150090",
+        "nombre": "Los Sauces"
+    },
+    {
+        "clave": "141150099",
+        "nombre": "Zacatequillas"
+    },
+    {
+        "clave": "141150150",
+        "nombre": "Capellanía"
+    },
+    {
+        "clave": "141150152",
+        "nombre": "El Patito"
+    },
+    {
+        "clave": "141150184",
+        "nombre": "La Aviación"
+    },
+    {
+        "clave": "141150001",
+        "nombre": "Villa Guerrero"
+    },
+    {
+        "clave": "141150005",
+        "nombre": "El Alamito"
+    },
+    {
+        "clave": "141150009",
+        "nombre": "Bajío de Sánchez (El Bajío)"
+    },
+    {
+        "clave": "141150010",
+        "nombre": "Charco Largo Bajío de las Carretas"
+    },
+    {
+        "clave": "141150016",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "141150017",
+        "nombre": "Casa Blanca (Potrero)"
+    },
+    {
+        "clave": "141150023",
+        "nombre": "Hacienda de Conejos (Conejos)"
+    },
+    {
+        "clave": "141150024",
+        "nombre": "Conformidad"
+    },
+    {
+        "clave": "141150025",
+        "nombre": "El Copalillo"
+    },
+    {
+        "clave": "141150026",
+        "nombre": "El Coporo"
+    },
+    {
+        "clave": "141150028",
+        "nombre": "El Charco Largo"
+    },
+    {
+        "clave": "141150029",
+        "nombre": "Los Charcos"
+    },
+    {
+        "clave": "141150031",
+        "nombre": "Escondida de Navarro (La Escondida)"
+    },
+    {
+        "clave": "141150032",
+        "nombre": "Las Flores"
+    },
+    {
+        "clave": "141150033",
+        "nombre": "Gavilantita"
+    },
+    {
+        "clave": "141150036",
+        "nombre": "Rancho del Guayabo"
+    },
+    {
+        "clave": "141150037",
+        "nombre": "La Hiedra"
+    },
+    {
+        "clave": "141150038",
+        "nombre": "Huejotitán"
+    },
+    {
+        "clave": "141150039",
+        "nombre": "El Huizachal"
+    },
+    {
+        "clave": "141150043",
+        "nombre": "Las Lajas"
+    },
+    {
+        "clave": "141150045",
+        "nombre": "Loma del Zapote"
+    },
+    {
+        "clave": "141150046",
+        "nombre": "Lomas del Huizache (Lomas de Murillo)"
+    },
+    {
+        "clave": "141150049",
+        "nombre": "Llano Grande"
+    },
+    {
+        "clave": "141150050",
+        "nombre": "Cerro de los Metates"
+    },
+    {
+        "clave": "141150051",
+        "nombre": "La Mesa Alta"
+    },
+    {
+        "clave": "141150052",
+        "nombre": "Las Mesas"
+    },
+    {
+        "clave": "141150054",
+        "nombre": "La Mezquitera"
+    },
+    {
+        "clave": "141150055",
+        "nombre": "Los Mezquites"
+    },
+    {
+        "clave": "141150058",
+        "nombre": "La Mora"
+    },
+    {
+        "clave": "141150059",
+        "nombre": "Los Nogales"
+    },
+    {
+        "clave": "141150062",
+        "nombre": "Ojo de Agua de Escotos"
+    },
+    {
+        "clave": "141150063",
+        "nombre": "La Palma del Tule (La Palma)"
+    },
+    {
+        "clave": "141150064",
+        "nombre": "La Palmita"
+    },
+    {
+        "clave": "141150065",
+        "nombre": "La Pastoría"
+    },
+    {
+        "clave": "141150067",
+        "nombre": "La Pila"
+    },
+    {
+        "clave": "141150068",
+        "nombre": "El Pino (El Pino de María)"
+    },
+    {
+        "clave": "141150070",
+        "nombre": "El Plan"
+    },
+    {
+        "clave": "141150073",
+        "nombre": "El Portal"
+    },
+    {
+        "clave": "141150074",
+        "nombre": "Pozo Zarco"
+    },
+    {
+        "clave": "141150075",
+        "nombre": "La Presa"
+    },
+    {
+        "clave": "141150077",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "141150078",
+        "nombre": "La Rinconada (El Rincón Verde)"
+    },
+    {
+        "clave": "141150079",
+        "nombre": "Los Sabinos"
+    },
+    {
+        "clave": "141150080",
+        "nombre": "Salitrillo"
+    },
+    {
+        "clave": "141150084",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "141150087",
+        "nombre": "San Pedro"
+    },
+    {
+        "clave": "141150088",
+        "nombre": "Santa Cruz de Buenos Aires"
+    },
+    {
+        "clave": "141150089",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "141150091",
+        "nombre": "Los Tecolotes"
+    },
+    {
+        "clave": "141150092",
+        "nombre": "Tecuejes"
+    },
+    {
+        "clave": "141150093",
+        "nombre": "Tierras Blancas"
+    },
+    {
+        "clave": "141150096",
+        "nombre": "El Tule"
+    },
+    {
+        "clave": "141150097",
+        "nombre": "Uribes"
+    },
+    {
+        "clave": "141150098",
+        "nombre": "Las Víboras"
+    },
+    {
+        "clave": "141150100",
+        "nombre": "Zataray Grande"
+    },
+    {
+        "clave": "141150101",
+        "nombre": "Las Cruces"
+    },
+    {
+        "clave": "141150102",
+        "nombre": "Medina"
+    },
+    {
+        "clave": "141150104",
+        "nombre": "Chichihua"
+    },
+    {
+        "clave": "141150105",
+        "nombre": "Las Moras"
+    },
+    {
+        "clave": "141150106",
+        "nombre": "Las Azucenas"
+    },
+    {
+        "clave": "141150108",
+        "nombre": "El Toril"
+    },
+    {
+        "clave": "141150109",
+        "nombre": "El Cántaro"
+    },
+    {
+        "clave": "141150111",
+        "nombre": "La Ventana"
+    },
+    {
+        "clave": "141150112",
+        "nombre": "El Toloache"
+    },
+    {
+        "clave": "141150113",
+        "nombre": "La Burrita"
+    },
+    {
+        "clave": "141150117",
+        "nombre": "Las Tijeras"
+    },
+    {
+        "clave": "141150118",
+        "nombre": "Las Higueras"
+    },
+    {
+        "clave": "141150119",
+        "nombre": "El Tambor"
+    },
+    {
+        "clave": "141150127",
+        "nombre": "Esquivel"
+    },
+    {
+        "clave": "141150129",
+        "nombre": "Las Lajitas"
+    },
+    {
+        "clave": "141150130",
+        "nombre": "Las Liebres"
+    },
+    {
+        "clave": "141150131",
+        "nombre": "El Laurel"
+    },
+    {
+        "clave": "141150133",
+        "nombre": "El Pinito"
+    },
+    {
+        "clave": "141150134",
+        "nombre": "El Contadero"
+    },
+    {
+        "clave": "141150137",
+        "nombre": "La Calera"
+    },
+    {
+        "clave": "141150140",
+        "nombre": "Cañada del Colorín"
+    },
+    {
+        "clave": "141150141",
+        "nombre": "Agua Nueva"
+    },
+    {
+        "clave": "141150142",
+        "nombre": "Las Albóndigas"
+    },
+    {
+        "clave": "141150143",
+        "nombre": "Los Guajolotes"
+    },
+    {
+        "clave": "141150144",
+        "nombre": "La Junta"
+    },
+    {
+        "clave": "141150145",
+        "nombre": "Las Vigas"
+    },
+    {
+        "clave": "141150146",
+        "nombre": "Los Tepetates"
+    },
+    {
+        "clave": "141150148",
+        "nombre": "Las Tapias"
+    },
+    {
+        "clave": "141150149",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "141150151",
+        "nombre": "Las Huertitas"
+    },
+    {
+        "clave": "141150153",
+        "nombre": "Los Cajoncillos"
+    },
+    {
+        "clave": "141150156",
+        "nombre": "Vielmas"
+    },
+    {
+        "clave": "141150157",
+        "nombre": "La Loma de las Estacas"
+    },
+    {
+        "clave": "141150158",
+        "nombre": "Las Higuerillas"
+    },
+    {
+        "clave": "141150159",
+        "nombre": "La Pila Colorada"
+    },
+    {
+        "clave": "141150163",
+        "nombre": "Las Adjuntas"
+    },
+    {
+        "clave": "141150164",
+        "nombre": "La Casa Colorada (La Puertilla)"
+    },
+    {
+        "clave": "141150166",
+        "nombre": "El Puertecito de Santa Cruz"
+    },
+    {
+        "clave": "141150168",
+        "nombre": "Encarnación"
+    },
+    {
+        "clave": "141150169",
+        "nombre": "El Escalón"
+    },
+    {
+        "clave": "141150170",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "141150171",
+        "nombre": "La Loma de Charco Largo"
+    },
+    {
+        "clave": "141150174",
+        "nombre": "La Flecha"
+    },
+    {
+        "clave": "141150176",
+        "nombre": "Los Pilares"
+    },
+    {
+        "clave": "141150177",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "141150178",
+        "nombre": "Sabino Quemado"
+    },
+    {
+        "clave": "141150200",
+        "nombre": "La Playa"
+    },
+    {
+        "clave": "141150201",
+        "nombre": "Arroyo Zarco"
+    },
+    {
+        "clave": "141150207",
+        "nombre": "El Potrerillo"
+    },
+    {
+        "clave": "141150208",
+        "nombre": "Ojo de Agua de Huertas"
+    },
+    {
+        "clave": "141150209",
+        "nombre": "El Mezquital"
+    },
+    {
+        "clave": "141150211",
+        "nombre": "El Guamúchil"
+    },
+    {
+        "clave": "141150212",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "141150213",
+        "nombre": "Aguacatillo"
+    },
+    {
+        "clave": "141150214",
+        "nombre": "Agua Salada"
+    },
+    {
+        "clave": "141150215",
+        "nombre": "Picacho"
+    },
+    {
+        "clave": "141150216",
+        "nombre": "Antonio Raygoza"
+    },
+    {
+        "clave": "141150218",
+        "nombre": "Arroyo de los Alacranes"
+    },
+    {
+        "clave": "141150219",
+        "nombre": "Atibuey"
+    },
+    {
+        "clave": "141150220",
+        "nombre": "El Banco (El Potrero del Banco)"
+    },
+    {
+        "clave": "141150221",
+        "nombre": "Rancho de María Raygoza"
+    },
+    {
+        "clave": "141150222",
+        "nombre": "La Ciénega de Santa Cruz"
+    },
+    {
+        "clave": "141150223",
+        "nombre": "La Compañía"
+    },
+    {
+        "clave": "141150225",
+        "nombre": "El Chorrito"
+    },
+    {
+        "clave": "141150226",
+        "nombre": "El Fortín"
+    },
+    {
+        "clave": "141150227",
+        "nombre": "La Fragua"
+    },
+    {
+        "clave": "141150228",
+        "nombre": "La Garruñera (El Toril)"
+    },
+    {
+        "clave": "141150229",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "141150230",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "141150231",
+        "nombre": "Loma de San Buenaventura"
+    },
+    {
+        "clave": "141150232",
+        "nombre": "Los López"
+    },
+    {
+        "clave": "141150233",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "141150234",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "141150235",
+        "nombre": "Mesa de Capellanía (La Mesa)"
+    },
+    {
+        "clave": "141150236",
+        "nombre": "Mesa de la Laguna"
+    },
+    {
+        "clave": "141150237",
+        "nombre": "Las Mesas"
+    },
+    {
+        "clave": "141150238",
+        "nombre": "Mezquite Gacho"
+    },
+    {
+        "clave": "141150239",
+        "nombre": "La Noria"
+    },
+    {
+        "clave": "141150240",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "141150241",
+        "nombre": "El Pino"
+    },
+    {
+        "clave": "141150242",
+        "nombre": "Pozo Zarco"
+    },
+    {
+        "clave": "141150243",
+        "nombre": "La Puerta Blanca"
+    },
+    {
+        "clave": "141150244",
+        "nombre": "El Ranchito de las Cruces"
+    },
+    {
+        "clave": "141150245",
+        "nombre": "Rancho la Huerta"
+    },
+    {
+        "clave": "141150246",
+        "nombre": "Rancho la Loma"
+    },
+    {
+        "clave": "141150248",
+        "nombre": "San Clemente"
+    },
+    {
+        "clave": "141150249",
+        "nombre": "San José"
+    },
+    {
+        "clave": "141150250",
+        "nombre": "Salto (Santo)"
+    },
+    {
+        "clave": "141150251",
+        "nombre": "El Salto"
+    },
+    {
+        "clave": "141150252",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "141150254",
+        "nombre": "La Sorrueda"
+    },
+    {
+        "clave": "141150255",
+        "nombre": "Los Sotoles"
+    },
+    {
+        "clave": "141150256",
+        "nombre": "La Taberna"
+    },
+    {
+        "clave": "141150257",
+        "nombre": "El Tejaban"
+    },
+    {
+        "clave": "141150258",
+        "nombre": "Las Tortugas"
+    },
+    {
+        "clave": "141150259",
+        "nombre": "La Troja (El Potrero del Banco)"
+    },
+    {
+        "clave": "141150260",
+        "nombre": "Zataray Chico"
+    },
+    {
+        "clave": "141150261",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "141150262",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "141150263",
+        "nombre": "Arroyo Zarco"
+    },
+    {
+        "clave": "141150264",
+        "nombre": "El Banco"
+    },
+    {
+        "clave": "141150267",
+        "nombre": "Las Juntas"
+    },
+    {
+        "clave": "141150271",
+        "nombre": "El Ventiadero"
+    },
+    {
+        "clave": "141150273",
+        "nombre": "El Papel"
+    },
+    {
+        "clave": "141150274",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "141150276",
+        "nombre": "El Ranchito"
+    }
+]

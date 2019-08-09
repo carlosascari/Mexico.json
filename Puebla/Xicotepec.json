@@ -1,0 +1,438 @@
+[
+    {
+        "clave": "211970009",
+        "nombre": "La Magdalena"
+    },
+    {
+        "clave": "211970035",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "211970040",
+        "nombre": "El Tepeyac"
+    },
+    {
+        "clave": "211970042",
+        "nombre": "El Zoquital"
+    },
+    {
+        "clave": "211970052",
+        "nombre": "Los Piñales (Agua Dulce)"
+    },
+    {
+        "clave": "211970054",
+        "nombre": "La Garcita"
+    },
+    {
+        "clave": "211970055",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "211970058",
+        "nombre": "Finca Puebla (Casa Blanca)"
+    },
+    {
+        "clave": "211970059",
+        "nombre": "El Sauce Chico"
+    },
+    {
+        "clave": "211970064",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "211970067",
+        "nombre": "Las Águilas"
+    },
+    {
+        "clave": "211970070",
+        "nombre": "Cilima (La Bomba)"
+    },
+    {
+        "clave": "211970075",
+        "nombre": "Pachtepec"
+    },
+    {
+        "clave": "211970076",
+        "nombre": "Santa Luz Buenavista"
+    },
+    {
+        "clave": "211970084",
+        "nombre": "Lomas de Monte Cristo"
+    },
+    {
+        "clave": "211970086",
+        "nombre": "Quinta Lilia"
+    },
+    {
+        "clave": "211970087",
+        "nombre": "San José (El Cerrito)"
+    },
+    {
+        "clave": "211970091",
+        "nombre": "Tlaxpanala (Las Trancas)"
+    },
+    {
+        "clave": "211970101",
+        "nombre": "Cerro del Tepeyac"
+    },
+    {
+        "clave": "211970105",
+        "nombre": "Linda Vista"
+    },
+    {
+        "clave": "211970112",
+        "nombre": "Teotitlán (El Brinco)"
+    },
+    {
+        "clave": "211970002",
+        "nombre": "Ahuaxintitla"
+    },
+    {
+        "clave": "211970003",
+        "nombre": "Atequexquitla"
+    },
+    {
+        "clave": "211970004",
+        "nombre": "Gilberto Camacho"
+    },
+    {
+        "clave": "211970005",
+        "nombre": "Ixtepec"
+    },
+    {
+        "clave": "211970006",
+        "nombre": "Jalapilla"
+    },
+    {
+        "clave": "211970007",
+        "nombre": "El Jonote"
+    },
+    {
+        "clave": "211970008",
+        "nombre": "Los Limones"
+    },
+    {
+        "clave": "211970010",
+        "nombre": "Mecatlán de las Flores"
+    },
+    {
+        "clave": "211970011",
+        "nombre": "Monte Grande de Zaragoza"
+    },
+    {
+        "clave": "211970012",
+        "nombre": "Nactanca Grande"
+    },
+    {
+        "clave": "211970013",
+        "nombre": "Los Naranjos"
+    },
+    {
+        "clave": "211970014",
+        "nombre": "San Antonio Ocopetlatlán"
+    },
+    {
+        "clave": "211970015",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "211970016",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "211970017",
+        "nombre": "San Agustín Atlihuácan"
+    },
+    {
+        "clave": "211970019",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "211970020",
+        "nombre": "San Pedro Itztla"
+    },
+    {
+        "clave": "211970021",
+        "nombre": "Santa Cruz Grande"
+    },
+    {
+        "clave": "211970022",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "211970024",
+        "nombre": "Tepapatlaxco"
+    },
+    {
+        "clave": "211970025",
+        "nombre": "El Tepetate"
+    },
+    {
+        "clave": "211970026",
+        "nombre": "Tlapehuala"
+    },
+    {
+        "clave": "211970027",
+        "nombre": "Tlaxcalantongo"
+    },
+    {
+        "clave": "211970028",
+        "nombre": "Tulancinguillo"
+    },
+    {
+        "clave": "211970029",
+        "nombre": "Villa Ávila Camacho (La Ceiba)"
+    },
+    {
+        "clave": "211970030",
+        "nombre": "El Cajón"
+    },
+    {
+        "clave": "211970033",
+        "nombre": "Loma Larga"
+    },
+    {
+        "clave": "211970036",
+        "nombre": "El Refugio (Los Tamarindos)"
+    },
+    {
+        "clave": "211970037",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "211970038",
+        "nombre": "Santa Cruz Chica"
+    },
+    {
+        "clave": "211970048",
+        "nombre": "Ejido de Nactanca"
+    },
+    {
+        "clave": "211970049",
+        "nombre": "Ejido de Rancho Nuevo (El Ojite)"
+    },
+    {
+        "clave": "211970050",
+        "nombre": "Cerro de los Limones"
+    },
+    {
+        "clave": "211970053",
+        "nombre": "El Porvenir Ejido"
+    },
+    {
+        "clave": "211970056",
+        "nombre": "Nactanca Chica (La Colonia)"
+    },
+    {
+        "clave": "211970066",
+        "nombre": "El Sauce Grande"
+    },
+    {
+        "clave": "211970071",
+        "nombre": "Dos Caminos"
+    },
+    {
+        "clave": "211970080",
+        "nombre": "Los Cedros"
+    },
+    {
+        "clave": "211970081",
+        "nombre": "La Cueva de la Mona"
+    },
+    {
+        "clave": "211970082",
+        "nombre": "La Chivería"
+    },
+    {
+        "clave": "211970083",
+        "nombre": "Duraznotla"
+    },
+    {
+        "clave": "211970085",
+        "nombre": "Ojo de Agua (Primera Sección)"
+    },
+    {
+        "clave": "211970090",
+        "nombre": "El Tabacal"
+    },
+    {
+        "clave": "211970093",
+        "nombre": "El Salto (La Ceiba)"
+    },
+    {
+        "clave": "211970094",
+        "nombre": "Villa de las Flores"
+    },
+    {
+        "clave": "211970095",
+        "nombre": "Los Arroyos"
+    },
+    {
+        "clave": "211970097",
+        "nombre": "El Conejo"
+    },
+    {
+        "clave": "211970098",
+        "nombre": "Lomas Verdes"
+    },
+    {
+        "clave": "211970099",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "211970104",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "211970106",
+        "nombre": "Morelos"
+    },
+    {
+        "clave": "211970113",
+        "nombre": "Tranca de Fierro"
+    },
+    {
+        "clave": "211970114",
+        "nombre": "Unidad Deportiva (Ocotzotal)"
+    },
+    {
+        "clave": "211970001",
+        "nombre": "Xicotepec de Juárez"
+    },
+    {
+        "clave": "211970018",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "211970023",
+        "nombre": "Techachal"
+    },
+    {
+        "clave": "211970031",
+        "nombre": "Arroyo Seco"
+    },
+    {
+        "clave": "211970032",
+        "nombre": "El Rubí"
+    },
+    {
+        "clave": "211970034",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "211970041",
+        "nombre": "Tierra Negra"
+    },
+    {
+        "clave": "211970057",
+        "nombre": "Los Pocitos"
+    },
+    {
+        "clave": "211970061",
+        "nombre": "La Roca"
+    },
+    {
+        "clave": "211970062",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "211970065",
+        "nombre": "La Providencia"
+    },
+    {
+        "clave": "211970068",
+        "nombre": "La Cascada (Las Chacas)"
+    },
+    {
+        "clave": "211970069",
+        "nombre": "El Bordo (Tancaxeque)"
+    },
+    {
+        "clave": "211970072",
+        "nombre": "Ejido de Tlaxcalantongo (La Segunda)"
+    },
+    {
+        "clave": "211970073",
+        "nombre": "El Infierno (Valle Verde)"
+    },
+    {
+        "clave": "211970074",
+        "nombre": "Nuevo Orleans"
+    },
+    {
+        "clave": "211970077",
+        "nombre": "Tecolotla"
+    },
+    {
+        "clave": "211970078",
+        "nombre": "Benito Ánimas"
+    },
+    {
+        "clave": "211970079",
+        "nombre": "Las Cañadas"
+    },
+    {
+        "clave": "211970088",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "211970089",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "211970092",
+        "nombre": "Tres Arroyos"
+    },
+    {
+        "clave": "211970096",
+        "nombre": "El Chamizal"
+    },
+    {
+        "clave": "211970100",
+        "nombre": "Santa Catarina"
+    },
+    {
+        "clave": "211970102",
+        "nombre": "Chicopanal"
+    },
+    {
+        "clave": "211970103",
+        "nombre": "Los Flores"
+    },
+    {
+        "clave": "211970107",
+        "nombre": "La Muralla"
+    },
+    {
+        "clave": "211970108",
+        "nombre": "Pensamiento Mexicano"
+    },
+    {
+        "clave": "211970109",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "211970110",
+        "nombre": "San Fernandito"
+    },
+    {
+        "clave": "211970111",
+        "nombre": "El Tarro"
+    },
+    {
+        "clave": "211970115",
+        "nombre": "Cuetzalingo"
+    },
+    {
+        "clave": "211970116",
+        "nombre": "El Carpintero"
+    },
+    {
+        "clave": "211970117",
+        "nombre": "El Paranal"
+    },
+    {
+        "clave": "211970118",
+        "nombre": "El Torreón"
+    }
+]

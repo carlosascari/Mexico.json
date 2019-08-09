@@ -1,0 +1,594 @@
+[
+    {
+        "clave": "270170060",
+        "nombre": "Veinte de Noviembre"
+    },
+    {
+        "clave": "270170117",
+        "nombre": "Centenario del fallecimiento del Coronel Gregorio Méndez Magaña"
+    },
+    {
+        "clave": "270170126",
+        "nombre": "La Florida"
+    },
+    {
+        "clave": "270170129",
+        "nombre": "Bella Vista"
+    },
+    {
+        "clave": "270170130",
+        "nombre": "El Martillo"
+    },
+    {
+        "clave": "270170183",
+        "nombre": "Nueva Jerusalén"
+    },
+    {
+        "clave": "270170185",
+        "nombre": "Reyes Morales"
+    },
+    {
+        "clave": "270170190",
+        "nombre": "San Claudio"
+    },
+    {
+        "clave": "270170194",
+        "nombre": "Luis Echeverría Álvarez 2da. Sección"
+    },
+    {
+        "clave": "270170203",
+        "nombre": "Cuatro Hermanos"
+    },
+    {
+        "clave": "270170218",
+        "nombre": "El Pensamiento"
+    },
+    {
+        "clave": "270170002",
+        "nombre": "Acatlipa"
+    },
+    {
+        "clave": "270170003",
+        "nombre": "Adolfo López Mateos"
+    },
+    {
+        "clave": "270170005",
+        "nombre": "Arena de Hidalgo"
+    },
+    {
+        "clave": "270170006",
+        "nombre": "El Bejucal"
+    },
+    {
+        "clave": "270170007",
+        "nombre": "Benito Juárez 1ra. Sección"
+    },
+    {
+        "clave": "270170008",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "270170012",
+        "nombre": "Canitzán"
+    },
+    {
+        "clave": "270170013",
+        "nombre": "Centro Usumacinta"
+    },
+    {
+        "clave": "270170014",
+        "nombre": "José María Pino Suárez 2da. Sección"
+    },
+    {
+        "clave": "270170015",
+        "nombre": "Cortijo Nuevo 1ra. Sección"
+    },
+    {
+        "clave": "270170016",
+        "nombre": "Corregidora Ortiz de Domínguez"
+    },
+    {
+        "clave": "270170017",
+        "nombre": "Chaculjí"
+    },
+    {
+        "clave": "270170019",
+        "nombre": "Emiliano Zapata 1ra. Sección"
+    },
+    {
+        "clave": "270170020",
+        "nombre": "Emiliano Zapata 2da. Sección (El Carmen)"
+    },
+    {
+        "clave": "270170021",
+        "nombre": "Esperanza Norte (El Veinte)"
+    },
+    {
+        "clave": "270170023",
+        "nombre": "Estapilla"
+    },
+    {
+        "clave": "270170024",
+        "nombre": "Estapilla 2da. Sección"
+    },
+    {
+        "clave": "270170026",
+        "nombre": "El Faisán 2da. Sección"
+    },
+    {
+        "clave": "270170027",
+        "nombre": "Francisco I. Madero Ríos"
+    },
+    {
+        "clave": "270170030",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "270170032",
+        "nombre": "Guadalupe Victoria"
+    },
+    {
+        "clave": "270170033",
+        "nombre": "Guayacán"
+    },
+    {
+        "clave": "270170037",
+        "nombre": "Gregorio Méndez"
+    },
+    {
+        "clave": "270170038",
+        "nombre": "Hermenegildo Galeana"
+    },
+    {
+        "clave": "270170039",
+        "nombre": "Ignacio Zaragoza"
+    },
+    {
+        "clave": "270170041",
+        "nombre": "Independencia"
+    },
+    {
+        "clave": "270170044",
+        "nombre": "José María Pino Suárez 1ra. Sección"
+    },
+    {
+        "clave": "270170046",
+        "nombre": "El Manantial"
+    },
+    {
+        "clave": "270170050",
+        "nombre": "Miguel Hidalgo"
+    },
+    {
+        "clave": "270170052",
+        "nombre": "Tenosique 1ra. Sección (El Mool)"
+    },
+    {
+        "clave": "270170053",
+        "nombre": "Niños Héroes"
+    },
+    {
+        "clave": "270170054",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "270170056",
+        "nombre": "Nuevo México"
+    },
+    {
+        "clave": "270170059",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "270170062",
+        "nombre": "El Palmar"
+    },
+    {
+        "clave": "270170063",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "270170064",
+        "nombre": "Pomoná 1ra. Sección"
+    },
+    {
+        "clave": "270170065",
+        "nombre": "Pomoná 2da. Sección"
+    },
+    {
+        "clave": "270170066",
+        "nombre": "Nuevo Progreso"
+    },
+    {
+        "clave": "270170067",
+        "nombre": "Rancho Grande"
+    },
+    {
+        "clave": "270170068",
+        "nombre": "El Recreo"
+    },
+    {
+        "clave": "270170069",
+        "nombre": "Redención del Campesino"
+    },
+    {
+        "clave": "270170071",
+        "nombre": "Reforma Agraria"
+    },
+    {
+        "clave": "270170073",
+        "nombre": "El Roblar"
+    },
+    {
+        "clave": "270170075",
+        "nombre": "San Isidro Guasiván"
+    },
+    {
+        "clave": "270170076",
+        "nombre": "San Isidro las Pozas"
+    },
+    {
+        "clave": "270170078",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "270170079",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "270170080",
+        "nombre": "Santa Lucía"
+    },
+    {
+        "clave": "270170081",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "270170082",
+        "nombre": "Santo Tomás"
+    },
+    {
+        "clave": "270170083",
+        "nombre": "Sueños de Oro"
+    },
+    {
+        "clave": "270170087",
+        "nombre": "Veteranos de la Revolución"
+    },
+    {
+        "clave": "270170090",
+        "nombre": "El Xotal 2da. Sección"
+    },
+    {
+        "clave": "270170091",
+        "nombre": "Los Rieles de San José"
+    },
+    {
+        "clave": "270170092",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "270170093",
+        "nombre": "Javier Rojo Gómez"
+    },
+    {
+        "clave": "270170094",
+        "nombre": "Luis Echeverría Álvarez 1ra. Sección"
+    },
+    {
+        "clave": "270170096",
+        "nombre": "Ignacio Allende"
+    },
+    {
+        "clave": "270170097",
+        "nombre": "Álvaro Obregón"
+    },
+    {
+        "clave": "270170098",
+        "nombre": "La Estancia"
+    },
+    {
+        "clave": "270170099",
+        "nombre": "Francisco I. Madero Cortazar"
+    },
+    {
+        "clave": "270170100",
+        "nombre": "El Repasto"
+    },
+    {
+        "clave": "270170101",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "270170107",
+        "nombre": "Emiliano Zapata 3ra. Sección (Los Cedros)"
+    },
+    {
+        "clave": "270170114",
+        "nombre": "Cortijo Nuevo 2da. Sección"
+    },
+    {
+        "clave": "270170123",
+        "nombre": "Chospac"
+    },
+    {
+        "clave": "270170132",
+        "nombre": "Paso de la Sabana"
+    },
+    {
+        "clave": "270170140",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "270170147",
+        "nombre": "La Última Lucha"
+    },
+    {
+        "clave": "270170149",
+        "nombre": "Ignacio Zaragoza"
+    },
+    {
+        "clave": "270170154",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "270170155",
+        "nombre": "Cerro Norte"
+    },
+    {
+        "clave": "270170156",
+        "nombre": "Arena de Hidalgo"
+    },
+    {
+        "clave": "270170157",
+        "nombre": "Plan de San Antonio"
+    },
+    {
+        "clave": "270170159",
+        "nombre": "Icorsa"
+    },
+    {
+        "clave": "270170160",
+        "nombre": "Crisóforo Chiñas"
+    },
+    {
+        "clave": "270170165",
+        "nombre": "Dieciséis de Septiembre"
+    },
+    {
+        "clave": "270170167",
+        "nombre": "Diez de Mayo"
+    },
+    {
+        "clave": "270170182",
+        "nombre": "Carlos Pellicer Cámara"
+    },
+    {
+        "clave": "270170193",
+        "nombre": "Tata Lázaro"
+    },
+    {
+        "clave": "270170198",
+        "nombre": "Lucio Blanco"
+    },
+    {
+        "clave": "270170199",
+        "nombre": "El Faisán 3ra. Sección (Chiniquijá)"
+    },
+    {
+        "clave": "270170200",
+        "nombre": "El Copo"
+    },
+    {
+        "clave": "270170201",
+        "nombre": "Isla la Isla"
+    },
+    {
+        "clave": "270170205",
+        "nombre": "Benito Juárez 2da. Sección"
+    },
+    {
+        "clave": "270170208",
+        "nombre": "Punta de Montaña"
+    },
+    {
+        "clave": "270170212",
+        "nombre": "La Planada"
+    },
+    {
+        "clave": "270170213",
+        "nombre": "Canitzán 2da. Sección"
+    },
+    {
+        "clave": "270170215",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "270170216",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "270170220",
+        "nombre": "El Xotal 1ra. Sección"
+    },
+    {
+        "clave": "270170221",
+        "nombre": "Certeza"
+    },
+    {
+        "clave": "270170001",
+        "nombre": "Tenosique de Pino Suárez"
+    },
+    {
+        "clave": "270170009",
+        "nombre": "Boca del Cerro"
+    },
+    {
+        "clave": "270170025",
+        "nombre": "El Faisán 1ra. Sección"
+    },
+    {
+        "clave": "270170042",
+        "nombre": "La Isla"
+    },
+    {
+        "clave": "270170086",
+        "nombre": "Usumacinta"
+    },
+    {
+        "clave": "270170116",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "270170118",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "270170119",
+        "nombre": "El Cobá"
+    },
+    {
+        "clave": "270170120",
+        "nombre": "Buenos Aires (Cucufato)"
+    },
+    {
+        "clave": "270170121",
+        "nombre": "El Chivacal"
+    },
+    {
+        "clave": "270170122",
+        "nombre": "El Choncoy"
+    },
+    {
+        "clave": "270170125",
+        "nombre": "La Engorda"
+    },
+    {
+        "clave": "270170127",
+        "nombre": "Gracias de Dios"
+    },
+    {
+        "clave": "270170128",
+        "nombre": "El Guanal"
+    },
+    {
+        "clave": "270170134",
+        "nombre": "Pictum"
+    },
+    {
+        "clave": "270170135",
+        "nombre": "Piedra Santa"
+    },
+    {
+        "clave": "270170136",
+        "nombre": "Rancho Caído"
+    },
+    {
+        "clave": "270170143",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "270170148",
+        "nombre": "El Venado"
+    },
+    {
+        "clave": "270170158",
+        "nombre": "Chelena"
+    },
+    {
+        "clave": "270170161",
+        "nombre": "El Barí"
+    },
+    {
+        "clave": "270170166",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "270170168",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "270170169",
+        "nombre": "Eulogio Moreno"
+    },
+    {
+        "clave": "270170171",
+        "nombre": "Peor es Nada"
+    },
+    {
+        "clave": "270170172",
+        "nombre": "El Aguacate"
+    },
+    {
+        "clave": "270170174",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "270170176",
+        "nombre": "El Mercebel"
+    },
+    {
+        "clave": "270170177",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "270170179",
+        "nombre": "Las Tenazas"
+    },
+    {
+        "clave": "270170187",
+        "nombre": "San Miguel (Zetechen)"
+    },
+    {
+        "clave": "270170188",
+        "nombre": "Nuevo Mundo"
+    },
+    {
+        "clave": "270170189",
+        "nombre": "Mil Amores"
+    },
+    {
+        "clave": "270170191",
+        "nombre": "San Juan de la Montaña"
+    },
+    {
+        "clave": "270170192",
+        "nombre": "La Argentina"
+    },
+    {
+        "clave": "270170195",
+        "nombre": "La Terminal"
+    },
+    {
+        "clave": "270170202",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "270170206",
+        "nombre": "Torno Largo"
+    },
+    {
+        "clave": "270170209",
+        "nombre": "La Lucha"
+    },
+    {
+        "clave": "270170210",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "270170211",
+        "nombre": "Colonia Solidaridad"
+    },
+    {
+        "clave": "270170214",
+        "nombre": "El Chorrito"
+    },
+    {
+        "clave": "270170217",
+        "nombre": "Nueva Esperanza (Santa Isabel)"
+    },
+    {
+        "clave": "270170219",
+        "nombre": "Pollo Solo"
+    }
+]

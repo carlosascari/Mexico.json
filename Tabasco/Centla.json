@@ -1,0 +1,938 @@
+[
+    {
+        "clave": "270030064",
+        "nombre": "Boca Grande 1ra. Sección"
+    },
+    {
+        "clave": "270030124",
+        "nombre": "Llanuras de Centla"
+    },
+    {
+        "clave": "270030135",
+        "nombre": "Paquillal"
+    },
+    {
+        "clave": "270030136",
+        "nombre": "Boca Grande 2da. Sección (Paquillalito)"
+    },
+    {
+        "clave": "270030140",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "270030163",
+        "nombre": "Tasajera"
+    },
+    {
+        "clave": "270030216",
+        "nombre": "Tembladeras"
+    },
+    {
+        "clave": "270030227",
+        "nombre": "Rómulo Cachón Ponce (Hormiguero)"
+    },
+    {
+        "clave": "270030228",
+        "nombre": "Lázaro Cárdenas (El Guao)"
+    },
+    {
+        "clave": "270030230",
+        "nombre": "El Porvenir (De Quintín Arauz)"
+    },
+    {
+        "clave": "270030264",
+        "nombre": "Cañaveral Corcovado"
+    },
+    {
+        "clave": "270030307",
+        "nombre": "Josefa Ortíz de Domínguez"
+    },
+    {
+        "clave": "270030317",
+        "nombre": "Chilapa 2da. Sección (Cañaveralito)"
+    },
+    {
+        "clave": "270030320",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "270030326",
+        "nombre": "Rómulo Cachón"
+    },
+    {
+        "clave": "270030330",
+        "nombre": "María del Rosario Gutiérrez Eskildsen"
+    },
+    {
+        "clave": "270030002",
+        "nombre": "Álvaro Obregón (Santa Cruz)"
+    },
+    {
+        "clave": "270030003",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "270030004",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "270030005",
+        "nombre": "Boca de Chilapa"
+    },
+    {
+        "clave": "270030006",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "270030007",
+        "nombre": "Carlos A. Madrazo"
+    },
+    {
+        "clave": "270030009",
+        "nombre": "Carlos Rovirosa 2da. Sección"
+    },
+    {
+        "clave": "270030014",
+        "nombre": "La Constancia"
+    },
+    {
+        "clave": "270030015",
+        "nombre": "Cuauhtémoc"
+    },
+    {
+        "clave": "270030016",
+        "nombre": "Chicozapote 1ra. Sección"
+    },
+    {
+        "clave": "270030017",
+        "nombre": "Chichicastle 1ra. Sección"
+    },
+    {
+        "clave": "270030018",
+        "nombre": "Chichicastle 2da. Sección"
+    },
+    {
+        "clave": "270030019",
+        "nombre": "Chichicastle 3ra. Sección"
+    },
+    {
+        "clave": "270030020",
+        "nombre": "Chilapa 2da. Sección"
+    },
+    {
+        "clave": "270030021",
+        "nombre": "Chilapa 1ra. Sección (Margen Izquierda)"
+    },
+    {
+        "clave": "270030022",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "270030023",
+        "nombre": "Escobas (Chilapa Escoba)"
+    },
+    {
+        "clave": "270030025",
+        "nombre": "La Estrella"
+    },
+    {
+        "clave": "270030026",
+        "nombre": "Felipe Carrillo Puerto Norte (Carrillito)"
+    },
+    {
+        "clave": "270030028",
+        "nombre": "Felipe Carrillo Puerto Sur (Carrillón)"
+    },
+    {
+        "clave": "270030031",
+        "nombre": "Gobernador Cruz"
+    },
+    {
+        "clave": "270030034",
+        "nombre": "Los Ídolos (Margen Derecha)"
+    },
+    {
+        "clave": "270030035",
+        "nombre": "Ignacio Allende"
+    },
+    {
+        "clave": "270030036",
+        "nombre": "Ignacio Zaragoza"
+    },
+    {
+        "clave": "270030039",
+        "nombre": "Libertad de Allende"
+    },
+    {
+        "clave": "270030040",
+        "nombre": "Miguel Hidalgo"
+    },
+    {
+        "clave": "270030042",
+        "nombre": "Mixteca 1ra. Sección"
+    },
+    {
+        "clave": "270030043",
+        "nombre": "José María Morelos y Pavón"
+    },
+    {
+        "clave": "270030045",
+        "nombre": "Nuevo Centla"
+    },
+    {
+        "clave": "270030046",
+        "nombre": "Potrerillo"
+    },
+    {
+        "clave": "270030048",
+        "nombre": "Quintín Aráuz"
+    },
+    {
+        "clave": "270030049",
+        "nombre": "Ribera Alta 1ra. Sección"
+    },
+    {
+        "clave": "270030050",
+        "nombre": "Ribera Alta 2da. Sección (Salsipuedes)"
+    },
+    {
+        "clave": "270030052",
+        "nombre": "San José de Simón Sarlat"
+    },
+    {
+        "clave": "270030053",
+        "nombre": "Barra de San Pedro"
+    },
+    {
+        "clave": "270030054",
+        "nombre": "San Roque"
+    },
+    {
+        "clave": "270030056",
+        "nombre": "Simón Sarlat"
+    },
+    {
+        "clave": "270030057",
+        "nombre": "Tabasquillo 1ra. Sección"
+    },
+    {
+        "clave": "270030058",
+        "nombre": "Tabasquillo 2da. Sección"
+    },
+    {
+        "clave": "270030059",
+        "nombre": "Tres Brazos"
+    },
+    {
+        "clave": "270030060",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "270030061",
+        "nombre": "Vicente Guerrero"
+    },
+    {
+        "clave": "270030062",
+        "nombre": "La Victoria"
+    },
+    {
+        "clave": "270030063",
+        "nombre": "Arroyo Polo 3ra. Sección"
+    },
+    {
+        "clave": "270030070",
+        "nombre": "El Bellote"
+    },
+    {
+        "clave": "270030071",
+        "nombre": "Cañaveral"
+    },
+    {
+        "clave": "270030072",
+        "nombre": "El Guajuco"
+    },
+    {
+        "clave": "270030073",
+        "nombre": "El Guatope"
+    },
+    {
+        "clave": "270030074",
+        "nombre": "La Montaña"
+    },
+    {
+        "clave": "270030075",
+        "nombre": "El Limón (De Vicente Guerrero)"
+    },
+    {
+        "clave": "270030077",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "270030079",
+        "nombre": "El Triunfo"
+    },
+    {
+        "clave": "270030081",
+        "nombre": "La Pimienta"
+    },
+    {
+        "clave": "270030082",
+        "nombre": "La Sábana"
+    },
+    {
+        "clave": "270030083",
+        "nombre": "Pico de Oro"
+    },
+    {
+        "clave": "270030085",
+        "nombre": "San Román"
+    },
+    {
+        "clave": "270030087",
+        "nombre": "Las Porfías"
+    },
+    {
+        "clave": "270030089",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "270030090",
+        "nombre": "Francisco Villa"
+    },
+    {
+        "clave": "270030091",
+        "nombre": "Miguel Hidalgo 2da. Sección"
+    },
+    {
+        "clave": "270030092",
+        "nombre": "Nueva Esperanza de Quintín Aráuz"
+    },
+    {
+        "clave": "270030094",
+        "nombre": "Gregorio Méndez Magaña"
+    },
+    {
+        "clave": "270030099",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "270030103",
+        "nombre": "El Coco"
+    },
+    {
+        "clave": "270030105",
+        "nombre": "Chicozapote 2da. Sección"
+    },
+    {
+        "clave": "270030106",
+        "nombre": "Las Delicias"
+    },
+    {
+        "clave": "270030112",
+        "nombre": "El Faisán"
+    },
+    {
+        "clave": "270030114",
+        "nombre": "Fronterita"
+    },
+    {
+        "clave": "270030127",
+        "nombre": "Mixteca 2da. Sección"
+    },
+    {
+        "clave": "270030128",
+        "nombre": "Mixteca 3ra. Sección"
+    },
+    {
+        "clave": "270030132",
+        "nombre": "Las Palmeras"
+    },
+    {
+        "clave": "270030147",
+        "nombre": "Ribera Alta 3ra. Sección"
+    },
+    {
+        "clave": "270030152",
+        "nombre": "San Juanito de Tres Brazos"
+    },
+    {
+        "clave": "270030157",
+        "nombre": "Santa Ana"
+    },
+    {
+        "clave": "270030164",
+        "nombre": "José María Morelos y Pavón (Tintalillo)"
+    },
+    {
+        "clave": "270030185",
+        "nombre": "El Limón de Simón Sarlat"
+    },
+    {
+        "clave": "270030188",
+        "nombre": "El Bosque"
+    },
+    {
+        "clave": "270030211",
+        "nombre": "Arroyo Polo 2da. Sección"
+    },
+    {
+        "clave": "270030212",
+        "nombre": "Arroyo Polo 1ra. Sección"
+    },
+    {
+        "clave": "270030213",
+        "nombre": "Luis Echeverría Álvarez"
+    },
+    {
+        "clave": "270030214",
+        "nombre": "El Palmar"
+    },
+    {
+        "clave": "270030219",
+        "nombre": "Punta el Manglar"
+    },
+    {
+        "clave": "270030226",
+        "nombre": "Chilapa 1ra. Sección (Margen Derecha)"
+    },
+    {
+        "clave": "270030236",
+        "nombre": "Las Tijeras"
+    },
+    {
+        "clave": "270030237",
+        "nombre": "Ribera Alta Salsipuedes (Salsipuedes)"
+    },
+    {
+        "clave": "270030238",
+        "nombre": "Boca de Pantoja"
+    },
+    {
+        "clave": "270030240",
+        "nombre": "Ribera Alta de Cuauhtémoc"
+    },
+    {
+        "clave": "270030241",
+        "nombre": "Adolfo López Mateos"
+    },
+    {
+        "clave": "270030242",
+        "nombre": "Lázaro Cárdenas"
+    },
+    {
+        "clave": "270030245",
+        "nombre": "Libertad de Allende"
+    },
+    {
+        "clave": "270030247",
+        "nombre": "El Naranjal"
+    },
+    {
+        "clave": "270030248",
+        "nombre": "Veintisiete de Febrero"
+    },
+    {
+        "clave": "270030249",
+        "nombre": "Leandro Rovirosa Wade 2da. Sección"
+    },
+    {
+        "clave": "270030250",
+        "nombre": "El Carmen 1ra. Sección"
+    },
+    {
+        "clave": "270030251",
+        "nombre": "Constancia y Venecia"
+    },
+    {
+        "clave": "270030252",
+        "nombre": "García"
+    },
+    {
+        "clave": "270030253",
+        "nombre": "Niños Héroes"
+    },
+    {
+        "clave": "270030255",
+        "nombre": "Miguel Hidalgo 1ra. Sección"
+    },
+    {
+        "clave": "270030257",
+        "nombre": "Kilómetro 18"
+    },
+    {
+        "clave": "270030258",
+        "nombre": "Francisco I. Madero"
+    },
+    {
+        "clave": "270030276",
+        "nombre": "El Pajaral (Los Pescadores)"
+    },
+    {
+        "clave": "270030279",
+        "nombre": "San José del Carmen"
+    },
+    {
+        "clave": "270030280",
+        "nombre": "Francisco Villa (Guano Solo)"
+    },
+    {
+        "clave": "270030284",
+        "nombre": "Carlos Rovirosa 2da. Sección (La Costeñita)"
+    },
+    {
+        "clave": "270030292",
+        "nombre": "Revolución"
+    },
+    {
+        "clave": "270030298",
+        "nombre": "Leandro Rovirosa Wade 1ra. Sección"
+    },
+    {
+        "clave": "270030302",
+        "nombre": "Francisco I. Madero (La Montaña)"
+    },
+    {
+        "clave": "270030306",
+        "nombre": "Ribera Alta 2da. Sección"
+    },
+    {
+        "clave": "270030315",
+        "nombre": "Hablan los Hechos (Santa Rosa)"
+    },
+    {
+        "clave": "270030319",
+        "nombre": "El Carmen 2da. Sección"
+    },
+    {
+        "clave": "270030322",
+        "nombre": "El Palmar"
+    },
+    {
+        "clave": "270030323",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "270030324",
+        "nombre": "Paso de Tabasquillo"
+    },
+    {
+        "clave": "270030331",
+        "nombre": "Caparroso"
+    },
+    {
+        "clave": "270030332",
+        "nombre": "Álvaro Obregón 2da. Sección (El Lechugal)"
+    },
+    {
+        "clave": "270030333",
+        "nombre": "El Vergel de Allende"
+    },
+    {
+        "clave": "270030334",
+        "nombre": "Luis Donaldo Colosio Murrieta"
+    },
+    {
+        "clave": "270030335",
+        "nombre": "San José de Simón Sarlat (El Coco)"
+    },
+    {
+        "clave": "270030336",
+        "nombre": "Los Ídolos Margen Izquierda"
+    },
+    {
+        "clave": "270030001",
+        "nombre": "Frontera"
+    },
+    {
+        "clave": "270030008",
+        "nombre": "Carlos Rovirosa 1ra. Sección"
+    },
+    {
+        "clave": "270030010",
+        "nombre": "Loma el Nanzal"
+    },
+    {
+        "clave": "270030024",
+        "nombre": "Nueva Esperanza (San Pedrito)"
+    },
+    {
+        "clave": "270030027",
+        "nombre": "Felipe Carrillo Puerto (Centro)"
+    },
+    {
+        "clave": "270030030",
+        "nombre": "Francisco I. Madero"
+    },
+    {
+        "clave": "270030037",
+        "nombre": "Jalapita"
+    },
+    {
+        "clave": "270030038",
+        "nombre": "San José (La Ilusión)"
+    },
+    {
+        "clave": "270030041",
+        "nombre": "Miramar"
+    },
+    {
+        "clave": "270030076",
+        "nombre": "El Milagro"
+    },
+    {
+        "clave": "270030096",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "270030097",
+        "nombre": "La Bellota"
+    },
+    {
+        "clave": "270030098",
+        "nombre": "El Palmar (Buenavista)"
+    },
+    {
+        "clave": "270030104",
+        "nombre": "La Concepción"
+    },
+    {
+        "clave": "270030107",
+        "nombre": "El Encanto"
+    },
+    {
+        "clave": "270030108",
+        "nombre": "La Encina y el Porvenir"
+    },
+    {
+        "clave": "270030109",
+        "nombre": "El Escoro"
+    },
+    {
+        "clave": "270030113",
+        "nombre": "Los Pericos"
+    },
+    {
+        "clave": "270030115",
+        "nombre": "El Gabanudo"
+    },
+    {
+        "clave": "270030116",
+        "nombre": "Augusto Gómez Villanueva"
+    },
+    {
+        "clave": "270030119",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "270030120",
+        "nombre": "Isla del Buey"
+    },
+    {
+        "clave": "270030121",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "270030122",
+        "nombre": "Lerma"
+    },
+    {
+        "clave": "270030125",
+        "nombre": "Las Mercedes"
+    },
+    {
+        "clave": "270030126",
+        "nombre": "Las Mercedes"
+    },
+    {
+        "clave": "270030129",
+        "nombre": "Santander (Mal Paso)"
+    },
+    {
+        "clave": "270030130",
+        "nombre": "La Montaña"
+    },
+    {
+        "clave": "270030133",
+        "nombre": "Palo Alto (Palo Quemado)"
+    },
+    {
+        "clave": "270030139",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "270030141",
+        "nombre": "La Punta del Buey"
+    },
+    {
+        "clave": "270030142",
+        "nombre": "Cuatro Hermanos"
+    },
+    {
+        "clave": "270030143",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "270030145",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "270030146",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "270030148",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "270030149",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "270030154",
+        "nombre": "La Suiza Uno (San Martín)"
+    },
+    {
+        "clave": "270030155",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "270030156",
+        "nombre": "San Ramón"
+    },
+    {
+        "clave": "270030158",
+        "nombre": "Santa Andrea"
+    },
+    {
+        "clave": "270030159",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "270030160",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "270030161",
+        "nombre": "Nuevo San Luis"
+    },
+    {
+        "clave": "270030162",
+        "nombre": "La Suiza"
+    },
+    {
+        "clave": "270030165",
+        "nombre": "El Tulipán"
+    },
+    {
+        "clave": "270030166",
+        "nombre": "Santa María de la Victoria"
+    },
+    {
+        "clave": "270030167",
+        "nombre": "El Yucatecal"
+    },
+    {
+        "clave": "270030175",
+        "nombre": "Francisco I. Madero"
+    },
+    {
+        "clave": "270030183",
+        "nombre": "La Holanda (San Pedrito)"
+    },
+    {
+        "clave": "270030186",
+        "nombre": "El Palmar (Rabelo)"
+    },
+    {
+        "clave": "270030189",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "270030190",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "270030191",
+        "nombre": "El Faro"
+    },
+    {
+        "clave": "270030195",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "270030196",
+        "nombre": "El Conti"
+    },
+    {
+        "clave": "270030200",
+        "nombre": "El Recreo (El Tumbo)"
+    },
+    {
+        "clave": "270030201",
+        "nombre": "El Recreo"
+    },
+    {
+        "clave": "270030206",
+        "nombre": "San José"
+    },
+    {
+        "clave": "270030207",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "270030208",
+        "nombre": "La Tigrera"
+    },
+    {
+        "clave": "270030210",
+        "nombre": "Miraflores (La Bellota)"
+    },
+    {
+        "clave": "270030215",
+        "nombre": "El Gran Chaparral"
+    },
+    {
+        "clave": "270030221",
+        "nombre": "Los Guácimos"
+    },
+    {
+        "clave": "270030224",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "270030231",
+        "nombre": "Santa Leonor"
+    },
+    {
+        "clave": "270030232",
+        "nombre": "El Pitayo"
+    },
+    {
+        "clave": "270030239",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "270030243",
+        "nombre": "Mocambo (Cantarrana)"
+    },
+    {
+        "clave": "270030244",
+        "nombre": "El Gorgojo (Santa Rosa)"
+    },
+    {
+        "clave": "270030254",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "270030259",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "270030261",
+        "nombre": "El Rin"
+    },
+    {
+        "clave": "270030262",
+        "nombre": "Fraccionamiento Miramar"
+    },
+    {
+        "clave": "270030265",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "270030266",
+        "nombre": "El Danzi"
+    },
+    {
+        "clave": "270030270",
+        "nombre": "Gran Chaparral y Faisán"
+    },
+    {
+        "clave": "270030278",
+        "nombre": "San Lorenzo"
+    },
+    {
+        "clave": "270030281",
+        "nombre": "Benito Juárez Lechugal"
+    },
+    {
+        "clave": "270030287",
+        "nombre": "El Privilegio (Buenavista)"
+    },
+    {
+        "clave": "270030288",
+        "nombre": "Sacramento"
+    },
+    {
+        "clave": "270030290",
+        "nombre": "José Herrera Taku"
+    },
+    {
+        "clave": "270030291",
+        "nombre": "El Reflejo"
+    },
+    {
+        "clave": "270030293",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "270030296",
+        "nombre": "El Carmen (El Uno)"
+    },
+    {
+        "clave": "270030297",
+        "nombre": "San José"
+    },
+    {
+        "clave": "270030299",
+        "nombre": "El Socorro"
+    },
+    {
+        "clave": "270030300",
+        "nombre": "Altamira"
+    },
+    {
+        "clave": "270030303",
+        "nombre": "Mesa Dorada"
+    },
+    {
+        "clave": "270030304",
+        "nombre": "San Nicolás"
+    },
+    {
+        "clave": "270030308",
+        "nombre": "Frontera"
+    },
+    {
+        "clave": "270030314",
+        "nombre": "San Jorge (Pravia)"
+    },
+    {
+        "clave": "270030316",
+        "nombre": "Alta Vista"
+    },
+    {
+        "clave": "270030318",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "270030321",
+        "nombre": "Macayo"
+    },
+    {
+        "clave": "270030325",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "270030327",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "270030328",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "270030329",
+        "nombre": "Santa Teresa"
+    }
+]

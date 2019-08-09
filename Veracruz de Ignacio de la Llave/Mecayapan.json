@@ -1,0 +1,442 @@
+[
+    {
+        "clave": "301040027",
+        "nombre": "Arroyo Texizapan"
+    },
+    {
+        "clave": "301040043",
+        "nombre": "Olapan"
+    },
+    {
+        "clave": "301040045",
+        "nombre": "Plan Agrario"
+    },
+    {
+        "clave": "301040060",
+        "nombre": "Santa Cecilia (La Línea)"
+    },
+    {
+        "clave": "301040151",
+        "nombre": "Mecayapan Dos"
+    },
+    {
+        "clave": "301040001",
+        "nombre": "Mecayapan"
+    },
+    {
+        "clave": "301040002",
+        "nombre": "Los Arrecifes"
+    },
+    {
+        "clave": "301040004",
+        "nombre": "Cerro de la Palma"
+    },
+    {
+        "clave": "301040006",
+        "nombre": "Encino Amarillo"
+    },
+    {
+        "clave": "301040008",
+        "nombre": "Huazuntlán"
+    },
+    {
+        "clave": "301040009",
+        "nombre": "Ixhuapan"
+    },
+    {
+        "clave": "301040010",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "301040013",
+        "nombre": "La Perla del Golfo"
+    },
+    {
+        "clave": "301040016",
+        "nombre": "El Rubí"
+    },
+    {
+        "clave": "301040017",
+        "nombre": "San Andrés Chamilpa"
+    },
+    {
+        "clave": "301040022",
+        "nombre": "Tonalapa"
+    },
+    {
+        "clave": "301040024",
+        "nombre": "Vicente Guerrero"
+    },
+    {
+        "clave": "301040050",
+        "nombre": "El Salado"
+    },
+    {
+        "clave": "301040077",
+        "nombre": "La Escalera"
+    },
+    {
+        "clave": "301040095",
+        "nombre": "El Alegre"
+    },
+    {
+        "clave": "301040117",
+        "nombre": "Rancho Ihueras"
+    },
+    {
+        "clave": "301040118",
+        "nombre": "El Paraíso (San Francisco)"
+    },
+    {
+        "clave": "301040139",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "301040152",
+        "nombre": "La Nueva Esperanza"
+    },
+    {
+        "clave": "301040157",
+        "nombre": "Rancho Sánchez"
+    },
+    {
+        "clave": "301040026",
+        "nombre": "Utrera Blanco (Y Qué)"
+    },
+    {
+        "clave": "301040033",
+        "nombre": "Chilapa"
+    },
+    {
+        "clave": "301040034",
+        "nombre": "La Curva"
+    },
+    {
+        "clave": "301040035",
+        "nombre": "El Progreso"
+    },
+    {
+        "clave": "301040036",
+        "nombre": "Los Tulipanes"
+    },
+    {
+        "clave": "301040038",
+        "nombre": "Guasinapa"
+    },
+    {
+        "clave": "301040042",
+        "nombre": "La Mina (Guillermo Castro Cervantes)"
+    },
+    {
+        "clave": "301040044",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "301040046",
+        "nombre": "Playa de Oriente (Apolonio Hernández Hernández)"
+    },
+    {
+        "clave": "301040048",
+        "nombre": "Sagitario"
+    },
+    {
+        "clave": "301040051",
+        "nombre": "Santo Domingo"
+    },
+    {
+        "clave": "301040062",
+        "nombre": "La Línea"
+    },
+    {
+        "clave": "301040068",
+        "nombre": "Juan Morales"
+    },
+    {
+        "clave": "301040069",
+        "nombre": "El Mangal (Agustín Ramírez García)"
+    },
+    {
+        "clave": "301040070",
+        "nombre": "El Cocal"
+    },
+    {
+        "clave": "301040071",
+        "nombre": "La Lajilla"
+    },
+    {
+        "clave": "301040074",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "301040075",
+        "nombre": "La Gloria"
+    },
+    {
+        "clave": "301040080",
+        "nombre": "El Garrido (Benito Garrido González)"
+    },
+    {
+        "clave": "301040082",
+        "nombre": "El Chaparral"
+    },
+    {
+        "clave": "301040083",
+        "nombre": "El Norteño"
+    },
+    {
+        "clave": "301040087",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "301040094",
+        "nombre": "El Oasis"
+    },
+    {
+        "clave": "301040096",
+        "nombre": "El Rubí"
+    },
+    {
+        "clave": "301040097",
+        "nombre": "El Diamante (Francisco Méndez Vázquez)"
+    },
+    {
+        "clave": "301040100",
+        "nombre": "El Faro de Zapotitlán"
+    },
+    {
+        "clave": "301040101",
+        "nombre": "El Rubí (Samuel Lagunes Sánchez)"
+    },
+    {
+        "clave": "301040104",
+        "nombre": "Los Mangos (Oscar Alarcón Rodríguez)"
+    },
+    {
+        "clave": "301040108",
+        "nombre": "El Garrafón (Enrique Noval)"
+    },
+    {
+        "clave": "301040111",
+        "nombre": "El Oasis (Isabel Rivas Uscanga)"
+    },
+    {
+        "clave": "301040112",
+        "nombre": "Los Naranjos (Rubén Hernández Capetillo)"
+    },
+    {
+        "clave": "301040114",
+        "nombre": "La Primavera"
+    },
+    {
+        "clave": "301040116",
+        "nombre": "La Majapa (Pedro Hernández Almendra)"
+    },
+    {
+        "clave": "301040119",
+        "nombre": "Ana María Bello Méndez"
+    },
+    {
+        "clave": "301040120",
+        "nombre": "Boca de Guasinapa"
+    },
+    {
+        "clave": "301040121",
+        "nombre": "El Capulín (Bernardino Sánchez Portilla)"
+    },
+    {
+        "clave": "301040122",
+        "nombre": "Los Cedros"
+    },
+    {
+        "clave": "301040123",
+        "nombre": "El Cerrito"
+    },
+    {
+        "clave": "301040124",
+        "nombre": "La Esmeralda"
+    },
+    {
+        "clave": "301040125",
+        "nombre": "El Fundador (Tomás Sosa Hernández)"
+    },
+    {
+        "clave": "301040126",
+        "nombre": "Xalapa (San Rafael) [Granja]"
+    },
+    {
+        "clave": "301040127",
+        "nombre": "Isidro Bautista Luis (El Mangal)"
+    },
+    {
+        "clave": "301040128",
+        "nombre": "Juan Pérez Carmona"
+    },
+    {
+        "clave": "301040129",
+        "nombre": "Las Maravillas"
+    },
+    {
+        "clave": "301040130",
+        "nombre": "Miramar"
+    },
+    {
+        "clave": "301040131",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "301040132",
+        "nombre": "Norberto Hernández (El Jazmín)"
+    },
+    {
+        "clave": "301040133",
+        "nombre": "El Olmeca (Santa Rosa)"
+    },
+    {
+        "clave": "301040135",
+        "nombre": "El Palmar (Antonio Sánchez Zárate)"
+    },
+    {
+        "clave": "301040136",
+        "nombre": "El Palmar (Clemente Domínguez Hernández)"
+    },
+    {
+        "clave": "301040137",
+        "nombre": "La Piedra (José Luis Díaz Bautista)"
+    },
+    {
+        "clave": "301040140",
+        "nombre": "San José"
+    },
+    {
+        "clave": "301040141",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "301040143",
+        "nombre": "El Toro (Francisco Castro Martínez)"
+    },
+    {
+        "clave": "301040144",
+        "nombre": "Tres Encinos"
+    },
+    {
+        "clave": "301040145",
+        "nombre": "Los Tres Mangos"
+    },
+    {
+        "clave": "301040149",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "301040150",
+        "nombre": "Mataleña"
+    },
+    {
+        "clave": "301040155",
+        "nombre": "Progreso II"
+    },
+    {
+        "clave": "301040158",
+        "nombre": "El Tigre"
+    },
+    {
+        "clave": "301040159",
+        "nombre": "Mario Bautista Luis"
+    },
+    {
+        "clave": "301040160",
+        "nombre": "Omar"
+    },
+    {
+        "clave": "301040161",
+        "nombre": "Las Palmitas (Huazuntlán)"
+    },
+    {
+        "clave": "301040162",
+        "nombre": "Las Tres Hermanas (Germán Lugo)"
+    },
+    {
+        "clave": "301040163",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "301040164",
+        "nombre": "Mario Viveros Hernández"
+    },
+    {
+        "clave": "301040165",
+        "nombre": "Agua Clara"
+    },
+    {
+        "clave": "301040166",
+        "nombre": "El Palmar"
+    },
+    {
+        "clave": "301040167",
+        "nombre": "Eleodoro Malpica"
+    },
+    {
+        "clave": "301040168",
+        "nombre": "Rancho Señal"
+    },
+    {
+        "clave": "301040169",
+        "nombre": "San José"
+    },
+    {
+        "clave": "301040170",
+        "nombre": "Alfre Dos"
+    },
+    {
+        "clave": "301040171",
+        "nombre": "Los Encinos"
+    },
+    {
+        "clave": "301040172",
+        "nombre": "Esteban González Primo"
+    },
+    {
+        "clave": "301040173",
+        "nombre": "La Victoria"
+    },
+    {
+        "clave": "301040174",
+        "nombre": "Los Jorges"
+    },
+    {
+        "clave": "301040175",
+        "nombre": "Palmira"
+    },
+    {
+        "clave": "301040176",
+        "nombre": "Los Dos Pinos"
+    },
+    {
+        "clave": "301040177",
+        "nombre": "El Rey"
+    },
+    {
+        "clave": "301040178",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "301040179",
+        "nombre": "José del Carmen Fernández Prieto"
+    },
+    {
+        "clave": "301040180",
+        "nombre": "Mi Reyna"
+    },
+    {
+        "clave": "301040181",
+        "nombre": "Rancho Tayolero"
+    },
+    {
+        "clave": "301040182",
+        "nombre": "Potrero del Llano"
+    },
+    {
+        "clave": "301040183",
+        "nombre": "El Diamante (Ricardo Méndez Romero)"
+    }
+]

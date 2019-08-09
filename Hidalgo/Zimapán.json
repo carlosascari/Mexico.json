@@ -1,0 +1,690 @@
+[
+    {
+        "clave": "130840037",
+        "nombre": "La Ortiga"
+    },
+    {
+        "clave": "130840057",
+        "nombre": "Tolimán"
+    },
+    {
+        "clave": "130840058",
+        "nombre": "Las Vegas"
+    },
+    {
+        "clave": "130840060",
+        "nombre": "Verdosas"
+    },
+    {
+        "clave": "130840068",
+        "nombre": "San Cristóbal"
+    },
+    {
+        "clave": "130840082",
+        "nombre": "San Felipe"
+    },
+    {
+        "clave": "130840113",
+        "nombre": "Mezquite Primero"
+    },
+    {
+        "clave": "130840117",
+        "nombre": "Puerto Zapote (La Nopalera)"
+    },
+    {
+        "clave": "130840120",
+        "nombre": "Las Piletas"
+    },
+    {
+        "clave": "130840146",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "130840153",
+        "nombre": "Iglesia Vieja"
+    },
+    {
+        "clave": "130840169",
+        "nombre": "El Sauz"
+    },
+    {
+        "clave": "130840002",
+        "nombre": "Las Adjuntas"
+    },
+    {
+        "clave": "130840003",
+        "nombre": "El Aguacatito"
+    },
+    {
+        "clave": "130840004",
+        "nombre": "Aguas Blancas"
+    },
+    {
+        "clave": "130840005",
+        "nombre": "Álvaro Obregón (Temuthe)"
+    },
+    {
+        "clave": "130840008",
+        "nombre": "Boñhú"
+    },
+    {
+        "clave": "130840010",
+        "nombre": "Camposanto del Oro"
+    },
+    {
+        "clave": "130840011",
+        "nombre": "Cerro Colorado"
+    },
+    {
+        "clave": "130840013",
+        "nombre": "Cobrecito"
+    },
+    {
+        "clave": "130840014",
+        "nombre": "El Cuarto"
+    },
+    {
+        "clave": "130840016",
+        "nombre": "Coaxithi"
+    },
+    {
+        "clave": "130840019",
+        "nombre": "Durango"
+    },
+    {
+        "clave": "130840020",
+        "nombre": "Los Duraznos"
+    },
+    {
+        "clave": "130840021",
+        "nombre": "Tzijay (Emiliano Zapata)"
+    },
+    {
+        "clave": "130840022",
+        "nombre": "Encarnación"
+    },
+    {
+        "clave": "130840023",
+        "nombre": "La Estanzuela"
+    },
+    {
+        "clave": "130840025",
+        "nombre": "Garabatos (Garabatos la Estancia)"
+    },
+    {
+        "clave": "130840026",
+        "nombre": "Jagüey Colorado"
+    },
+    {
+        "clave": "130840028",
+        "nombre": "Llanitos"
+    },
+    {
+        "clave": "130840029",
+        "nombre": "Llano Segundo"
+    },
+    {
+        "clave": "130840031",
+        "nombre": "Maguey Verde"
+    },
+    {
+        "clave": "130840032",
+        "nombre": "La Majada Grande"
+    },
+    {
+        "clave": "130840033",
+        "nombre": "La Manzana"
+    },
+    {
+        "clave": "130840034",
+        "nombre": "Megüí"
+    },
+    {
+        "clave": "130840035",
+        "nombre": "El Mezquite Segundo"
+    },
+    {
+        "clave": "130840036",
+        "nombre": "Morelos (Trancas)"
+    },
+    {
+        "clave": "130840040",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "130840041",
+        "nombre": "Puerto del Ángel"
+    },
+    {
+        "clave": "130840042",
+        "nombre": "Puerto Juárez"
+    },
+    {
+        "clave": "130840043",
+        "nombre": "La Rinconada"
+    },
+    {
+        "clave": "130840046",
+        "nombre": "San Andrés (Toxthi)"
+    },
+    {
+        "clave": "130840047",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "130840048",
+        "nombre": "San José del Oro (San Vicente)"
+    },
+    {
+        "clave": "130840051",
+        "nombre": "Sóstenes Vega (Xithá Segundo Cedho)"
+    },
+    {
+        "clave": "130840052",
+        "nombre": "Tadhé"
+    },
+    {
+        "clave": "130840053",
+        "nombre": "El Tathí"
+    },
+    {
+        "clave": "130840054",
+        "nombre": "Taxthó"
+    },
+    {
+        "clave": "130840055",
+        "nombre": "Tenguedhó"
+    },
+    {
+        "clave": "130840061",
+        "nombre": "Vicente Guerrero (El Tablón)"
+    },
+    {
+        "clave": "130840062",
+        "nombre": "Xajhá"
+    },
+    {
+        "clave": "130840064",
+        "nombre": "Xhitá Primero"
+    },
+    {
+        "clave": "130840065",
+        "nombre": "Xodhé"
+    },
+    {
+        "clave": "130840066",
+        "nombre": "Yerbabuena"
+    },
+    {
+        "clave": "130840067",
+        "nombre": "Yethay"
+    },
+    {
+        "clave": "130840069",
+        "nombre": "Codornices"
+    },
+    {
+        "clave": "130840070",
+        "nombre": "Puerto del Efe"
+    },
+    {
+        "clave": "130840071",
+        "nombre": "La Cruz (Ejido de la Cruz)"
+    },
+    {
+        "clave": "130840072",
+        "nombre": "Doxthi la Sabina (La Sabina)"
+    },
+    {
+        "clave": "130840073",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "130840074",
+        "nombre": "Pontihú"
+    },
+    {
+        "clave": "130840076",
+        "nombre": "San Miguel Tetillas"
+    },
+    {
+        "clave": "130840078",
+        "nombre": "Francisco Villa (Llano Segundo)"
+    },
+    {
+        "clave": "130840079",
+        "nombre": "La Ventolera"
+    },
+    {
+        "clave": "130840083",
+        "nombre": "Barrón"
+    },
+    {
+        "clave": "130840088",
+        "nombre": "San Antonio (Cuauhtémoc)"
+    },
+    {
+        "clave": "130840089",
+        "nombre": "Puerto Colorado"
+    },
+    {
+        "clave": "130840090",
+        "nombre": "El Álamo"
+    },
+    {
+        "clave": "130840093",
+        "nombre": "Botha"
+    },
+    {
+        "clave": "130840094",
+        "nombre": "Bothiña"
+    },
+    {
+        "clave": "130840095",
+        "nombre": "Cajay"
+    },
+    {
+        "clave": "130840096",
+        "nombre": "La Calera"
+    },
+    {
+        "clave": "130840100",
+        "nombre": "Cuesta Blanca"
+    },
+    {
+        "clave": "130840101",
+        "nombre": "El Dedhó"
+    },
+    {
+        "clave": "130840105",
+        "nombre": "Ex-hacienda la Estancia"
+    },
+    {
+        "clave": "130840106",
+        "nombre": "Cazay"
+    },
+    {
+        "clave": "130840107",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "130840110",
+        "nombre": "La Majada"
+    },
+    {
+        "clave": "130840111",
+        "nombre": "Los Mármoles"
+    },
+    {
+        "clave": "130840112",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "130840115",
+        "nombre": "El Muhí"
+    },
+    {
+        "clave": "130840116",
+        "nombre": "Los Nogales"
+    },
+    {
+        "clave": "130840118",
+        "nombre": "El Palmar"
+    },
+    {
+        "clave": "130840119",
+        "nombre": "Pelillos"
+    },
+    {
+        "clave": "130840121",
+        "nombre": "Potreritos"
+    },
+    {
+        "clave": "130840122",
+        "nombre": "Puerto de Vigas"
+    },
+    {
+        "clave": "130840124",
+        "nombre": "Puerto Xodhe"
+    },
+    {
+        "clave": "130840127",
+        "nombre": "La Ruda"
+    },
+    {
+        "clave": "130840130",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "130840131",
+        "nombre": "La Tinaja Durango"
+    },
+    {
+        "clave": "130840137",
+        "nombre": "Xindhó Segundo (Xindhó Saucillo)"
+    },
+    {
+        "clave": "130840142",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "130840148",
+        "nombre": "La Cebada"
+    },
+    {
+        "clave": "130840149",
+        "nombre": "Puerto la Palma (Cerrito Enmedio)"
+    },
+    {
+        "clave": "130840150",
+        "nombre": "Cuesta Texquedhó"
+    },
+    {
+        "clave": "130840155",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "130840156",
+        "nombre": "La Mesa de Camposanto del Oro"
+    },
+    {
+        "clave": "130840159",
+        "nombre": "Pozo Hondo"
+    },
+    {
+        "clave": "130840160",
+        "nombre": "Puertecito del Megüi"
+    },
+    {
+        "clave": "130840167",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "130840168",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "130840170",
+        "nombre": "Taxthó"
+    },
+    {
+        "clave": "130840171",
+        "nombre": "El Tepozán"
+    },
+    {
+        "clave": "130840172",
+        "nombre": "El Tepozán"
+    },
+    {
+        "clave": "130840173",
+        "nombre": "Tierras Amarillas"
+    },
+    {
+        "clave": "130840174",
+        "nombre": "Toxhi"
+    },
+    {
+        "clave": "130840175",
+        "nombre": "Tzitzi"
+    },
+    {
+        "clave": "130840177",
+        "nombre": "Changui"
+    },
+    {
+        "clave": "130840180",
+        "nombre": "Los Pilares"
+    },
+    {
+        "clave": "130840182",
+        "nombre": "El Carrizal"
+    },
+    {
+        "clave": "130840184",
+        "nombre": "El Organal"
+    },
+    {
+        "clave": "130840185",
+        "nombre": "Las Pilas"
+    },
+    {
+        "clave": "130840187",
+        "nombre": "San Vicente"
+    },
+    {
+        "clave": "130840188",
+        "nombre": "La Barranca del Muhí"
+    },
+    {
+        "clave": "130840190",
+        "nombre": "Ejido Vicente Guerrero (Los Potreros)"
+    },
+    {
+        "clave": "130840001",
+        "nombre": "Zimapán"
+    },
+    {
+        "clave": "130840006",
+        "nombre": "Apezco"
+    },
+    {
+        "clave": "130840007",
+        "nombre": "Benito Juárez (Detzani)"
+    },
+    {
+        "clave": "130840012",
+        "nombre": "El Cerrote"
+    },
+    {
+        "clave": "130840017",
+        "nombre": "El Dedho"
+    },
+    {
+        "clave": "130840018",
+        "nombre": "Doxthí"
+    },
+    {
+        "clave": "130840024",
+        "nombre": "Francisco I. Madero (Guadalupe)"
+    },
+    {
+        "clave": "130840027",
+        "nombre": "Lázaro Cárdenas (Remedios)"
+    },
+    {
+        "clave": "130840039",
+        "nombre": "Plutarco Elías Calles (Santiago)"
+    },
+    {
+        "clave": "130840044",
+        "nombre": "El Rincón"
+    },
+    {
+        "clave": "130840045",
+        "nombre": "El Salitre"
+    },
+    {
+        "clave": "130840049",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "130840050",
+        "nombre": "El Saucillo"
+    },
+    {
+        "clave": "130840056",
+        "nombre": "Tinthé"
+    },
+    {
+        "clave": "130840059",
+        "nombre": "Venustiano Carranza (San Pedro)"
+    },
+    {
+        "clave": "130840063",
+        "nombre": "Xindhó Guadalupe"
+    },
+    {
+        "clave": "130840075",
+        "nombre": "Puetzey"
+    },
+    {
+        "clave": "130840077",
+        "nombre": "El Aguacatal"
+    },
+    {
+        "clave": "130840081",
+        "nombre": "Pared Blanca"
+    },
+    {
+        "clave": "130840092",
+        "nombre": "Mina Balcones"
+    },
+    {
+        "clave": "130840098",
+        "nombre": "Los Carrizos"
+    },
+    {
+        "clave": "130840099",
+        "nombre": "Cruz Pinta"
+    },
+    {
+        "clave": "130840102",
+        "nombre": "Mina el Espíritu"
+    },
+    {
+        "clave": "130840103",
+        "nombre": "Mina Carrizal (Peñoles)"
+    },
+    {
+        "clave": "130840104",
+        "nombre": "Mina el Monte"
+    },
+    {
+        "clave": "130840109",
+        "nombre": "Llano Blanco"
+    },
+    {
+        "clave": "130840114",
+        "nombre": "La Milpota"
+    },
+    {
+        "clave": "130840123",
+        "nombre": "Puerto de la Estancia"
+    },
+    {
+        "clave": "130840126",
+        "nombre": "El Rodeo"
+    },
+    {
+        "clave": "130840128",
+        "nombre": "Mina San Guillermo (Lomo de Toro)"
+    },
+    {
+        "clave": "130840129",
+        "nombre": "San Juan [Rancho]"
+    },
+    {
+        "clave": "130840132",
+        "nombre": "Tlalpan"
+    },
+    {
+        "clave": "130840133",
+        "nombre": "El Tule"
+    },
+    {
+        "clave": "130840135",
+        "nombre": "Villa Nueva"
+    },
+    {
+        "clave": "130840136",
+        "nombre": "Xhitá Segundo (San Isidro)"
+    },
+    {
+        "clave": "130840141",
+        "nombre": "Xindhó Primero"
+    },
+    {
+        "clave": "130840144",
+        "nombre": "Puerto Ingeniero Isidro Díaz"
+    },
+    {
+        "clave": "130840145",
+        "nombre": "El Sabino"
+    },
+    {
+        "clave": "130840147",
+        "nombre": "La Casota"
+    },
+    {
+        "clave": "130840151",
+        "nombre": "Ejido de la Cruz"
+    },
+    {
+        "clave": "130840152",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "130840154",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "130840157",
+        "nombre": "Mina Concordia"
+    },
+    {
+        "clave": "130840158",
+        "nombre": "Peña Colorada"
+    },
+    {
+        "clave": "130840161",
+        "nombre": "Puerto Jagüey (Puerto de Guaymas)"
+    },
+    {
+        "clave": "130840162",
+        "nombre": "Puerto Montero"
+    },
+    {
+        "clave": "130840163",
+        "nombre": "Puerto Yerbabuena"
+    },
+    {
+        "clave": "130840164",
+        "nombre": "El Rancho"
+    },
+    {
+        "clave": "130840165",
+        "nombre": "El Salitre"
+    },
+    {
+        "clave": "130840166",
+        "nombre": "San Francisco Texquedho"
+    },
+    {
+        "clave": "130840176",
+        "nombre": "La Venta de Coaxithi"
+    },
+    {
+        "clave": "130840178",
+        "nombre": "Xindhó San Pedro"
+    },
+    {
+        "clave": "130840179",
+        "nombre": "El Zapote"
+    },
+    {
+        "clave": "130840181",
+        "nombre": "Agua Vaya"
+    },
+    {
+        "clave": "130840183",
+        "nombre": "La Loma"
+    },
+    {
+        "clave": "130840186",
+        "nombre": "Maguey Blanco"
+    },
+    {
+        "clave": "130840189",
+        "nombre": "Llano Norte"
+    }
+]

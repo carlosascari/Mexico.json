@@ -1,0 +1,734 @@
+[
+    {
+        "clave": "50350151",
+        "nombre": "La Colonia"
+    },
+    {
+        "clave": "50350155",
+        "nombre": "Doce de Diciembre"
+    },
+    {
+        "clave": "50350162",
+        "nombre": "Jalisco"
+    },
+    {
+        "clave": "50350190",
+        "nombre": "La Sagra"
+    },
+    {
+        "clave": "50350199",
+        "nombre": "La Trinidad"
+    },
+    {
+        "clave": "50350296",
+        "nombre": "La Nueva Colonia (Peralta)"
+    },
+    {
+        "clave": "50350322",
+        "nombre": "Montolleras"
+    },
+    {
+        "clave": "50350001",
+        "nombre": "Torreón"
+    },
+    {
+        "clave": "50350143",
+        "nombre": "Albia"
+    },
+    {
+        "clave": "50350145",
+        "nombre": "Ampuero (La Arenosa)"
+    },
+    {
+        "clave": "50350146",
+        "nombre": "Barreal de Guadalupe"
+    },
+    {
+        "clave": "50350147",
+        "nombre": "Campo Sagrado (Los Álvarez) [Establo]"
+    },
+    {
+        "clave": "50350148",
+        "nombre": "Carroceras"
+    },
+    {
+        "clave": "50350150",
+        "nombre": "Ciudad de los Niños [Internado]"
+    },
+    {
+        "clave": "50350152",
+        "nombre": "La Concha"
+    },
+    {
+        "clave": "50350153",
+        "nombre": "La Conchita Roja"
+    },
+    {
+        "clave": "50350156",
+        "nombre": "El Duraznito (El Ranchito)"
+    },
+    {
+        "clave": "50350157",
+        "nombre": "La Fe"
+    },
+    {
+        "clave": "50350158",
+        "nombre": "La Flor de Jimulco"
+    },
+    {
+        "clave": "50350163",
+        "nombre": "Jimulco"
+    },
+    {
+        "clave": "50350165",
+        "nombre": "Juan Eugenio"
+    },
+    {
+        "clave": "50350168",
+        "nombre": "Quince de Mayo (Las Magdalenas)"
+    },
+    {
+        "clave": "50350172",
+        "nombre": "El Mostrenco (Euskal)"
+    },
+    {
+        "clave": "50350174",
+        "nombre": "Nuevo Mieleras (La Tres)"
+    },
+    {
+        "clave": "50350175",
+        "nombre": "Otto (Estación Otto)"
+    },
+    {
+        "clave": "50350176",
+        "nombre": "El Pacífico"
+    },
+    {
+        "clave": "50350177",
+        "nombre": "La Palma"
+    },
+    {
+        "clave": "50350178",
+        "nombre": "La Partida"
+    },
+    {
+        "clave": "50350179",
+        "nombre": "Paso del Águila"
+    },
+    {
+        "clave": "50350180",
+        "nombre": "La Paz"
+    },
+    {
+        "clave": "50350182",
+        "nombre": "La Perla"
+    },
+    {
+        "clave": "50350183",
+        "nombre": "El Perú"
+    },
+    {
+        "clave": "50350184",
+        "nombre": "El Pozo de Calvo"
+    },
+    {
+        "clave": "50350186",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "50350187",
+        "nombre": "Ricardo Flores Magón"
+    },
+    {
+        "clave": "50350197",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "50350202",
+        "nombre": "Sector Uno Zaragoza (Los Arenales)"
+    },
+    {
+        "clave": "50350204",
+        "nombre": "Providencia"
+    },
+    {
+        "clave": "50350205",
+        "nombre": "Nueva la Paz"
+    },
+    {
+        "clave": "50350209",
+        "nombre": "El Cuatro"
+    },
+    {
+        "clave": "50350211",
+        "nombre": "La Cigüeña"
+    },
+    {
+        "clave": "50350214",
+        "nombre": "El Rosario (El Clavel)"
+    },
+    {
+        "clave": "50350219",
+        "nombre": "La América"
+    },
+    {
+        "clave": "50350220",
+        "nombre": "Braña [Granja]"
+    },
+    {
+        "clave": "50350222",
+        "nombre": "La Estrella"
+    },
+    {
+        "clave": "50350225",
+        "nombre": "Amapolas [Escobera]"
+    },
+    {
+        "clave": "50350228",
+        "nombre": "Amapolas Uno"
+    },
+    {
+        "clave": "50350252",
+        "nombre": "Corrales de Belén"
+    },
+    {
+        "clave": "50350258",
+        "nombre": "Colonia Diez de Abril (El Queso)"
+    },
+    {
+        "clave": "50350259",
+        "nombre": "Aztlan"
+    },
+    {
+        "clave": "50350260",
+        "nombre": "La Barranca"
+    },
+    {
+        "clave": "50350262",
+        "nombre": "Los Álvarez (San Esteban)"
+    },
+    {
+        "clave": "50350263",
+        "nombre": "Torreón [Club de Caza y Tiro]"
+    },
+    {
+        "clave": "50350264",
+        "nombre": "La Compuerta"
+    },
+    {
+        "clave": "50350265",
+        "nombre": "Juan Eugenio Cinco (Cuba)"
+    },
+    {
+        "clave": "50350266",
+        "nombre": "El Doce"
+    },
+    {
+        "clave": "50350270",
+        "nombre": "La Fortuna"
+    },
+    {
+        "clave": "50350274",
+        "nombre": "Juan Eugenio Número Uno"
+    },
+    {
+        "clave": "50350275",
+        "nombre": "Juan Eugenio Número Dos"
+    },
+    {
+        "clave": "50350278",
+        "nombre": "Mieleras [Aeropuerto]"
+    },
+    {
+        "clave": "50350279",
+        "nombre": "Nakodochez (La Joyita)"
+    },
+    {
+        "clave": "50350281",
+        "nombre": "La Noria Cuatro"
+    },
+    {
+        "clave": "50350282",
+        "nombre": "Noria de la Trinidad"
+    },
+    {
+        "clave": "50350285",
+        "nombre": "Noria del Tres"
+    },
+    {
+        "clave": "50350286",
+        "nombre": "Noria del Uno"
+    },
+    {
+        "clave": "50350288",
+        "nombre": "Noria la Joya Número Dos"
+    },
+    {
+        "clave": "50350289",
+        "nombre": "Sector la Perla Número Nueve"
+    },
+    {
+        "clave": "50350290",
+        "nombre": "Noria la Perla Número Nueve (Montebello)"
+    },
+    {
+        "clave": "50350291",
+        "nombre": "La Noria Once"
+    },
+    {
+        "clave": "50350292",
+        "nombre": "Noria Cuatro (La Joya)"
+    },
+    {
+        "clave": "50350293",
+        "nombre": "La Noria Seis"
+    },
+    {
+        "clave": "50350297",
+        "nombre": "Planta la Herradura"
+    },
+    {
+        "clave": "50350298",
+        "nombre": "La Presa de la Flor"
+    },
+    {
+        "clave": "50350299",
+        "nombre": "La Joyita (Recreativo la Hacienda)"
+    },
+    {
+        "clave": "50350304",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "50350305",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "50350306",
+        "nombre": "Sector Cuatro la Concha"
+    },
+    {
+        "clave": "50350312",
+        "nombre": "Valle de la Rosita"
+    },
+    {
+        "clave": "50350313",
+        "nombre": "Vallecillos"
+    },
+    {
+        "clave": "50350318",
+        "nombre": "Noria del Sector Dos"
+    },
+    {
+        "clave": "50350319",
+        "nombre": "Juan Eugenio Cinco (Noria Nueva York)"
+    },
+    {
+        "clave": "50350321",
+        "nombre": "La Mancha (Albia Sociedad)"
+    },
+    {
+        "clave": "50350325",
+        "nombre": "Congregación San Esteban"
+    },
+    {
+        "clave": "50350329",
+        "nombre": "Los Azulejos [Campestre]"
+    },
+    {
+        "clave": "50350330",
+        "nombre": "Noria Paso del Águila"
+    },
+    {
+        "clave": "50350331",
+        "nombre": "La Cuchilla"
+    },
+    {
+        "clave": "50350333",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "50350337",
+        "nombre": "Autodromo"
+    },
+    {
+        "clave": "50350338",
+        "nombre": "El Águila"
+    },
+    {
+        "clave": "50350339",
+        "nombre": "José De las Fuentes Rodríguez"
+    },
+    {
+        "clave": "50350345",
+        "nombre": "El Cercado (El Perico)"
+    },
+    {
+        "clave": "50350348",
+        "nombre": "La Rosa"
+    },
+    {
+        "clave": "50350350",
+        "nombre": "Noria la Cinco la Paz"
+    },
+    {
+        "clave": "50350355",
+        "nombre": "Noria Sector Seis A la Concha"
+    },
+    {
+        "clave": "50350356",
+        "nombre": "Noria Sector Dieciocho la Concha (Noria Uno)"
+    },
+    {
+        "clave": "50350357",
+        "nombre": "Noria de la Conchita Roja (Noria 855)"
+    },
+    {
+        "clave": "50350358",
+        "nombre": "Noria Sector Tres la Concha"
+    },
+    {
+        "clave": "50350359",
+        "nombre": "Noria de la Sociedad"
+    },
+    {
+        "clave": "50350361",
+        "nombre": "Los Milagros"
+    },
+    {
+        "clave": "50350363",
+        "nombre": "La Familia"
+    },
+    {
+        "clave": "50350364",
+        "nombre": "Nueva Unión (San Alberto)"
+    },
+    {
+        "clave": "50350365",
+        "nombre": "Sin Cabeza"
+    },
+    {
+        "clave": "50350366",
+        "nombre": "Taller los Azulejos"
+    },
+    {
+        "clave": "50350367",
+        "nombre": "José Handal (La Concha)"
+    },
+    {
+        "clave": "50350368",
+        "nombre": "Marsella"
+    },
+    {
+        "clave": "50350371",
+        "nombre": "Kilómetro Doce (Sector Uno)"
+    },
+    {
+        "clave": "50350372",
+        "nombre": "La Cúpula"
+    },
+    {
+        "clave": "50350373",
+        "nombre": "Ávila Camacho (El Coronel)"
+    },
+    {
+        "clave": "50350375",
+        "nombre": "La Polka (Albia Sector Tres)"
+    },
+    {
+        "clave": "50350376",
+        "nombre": "Albia"
+    },
+    {
+        "clave": "50350377",
+        "nombre": "Noria Sector Cinco"
+    },
+    {
+        "clave": "50350378",
+        "nombre": "La Concha"
+    },
+    {
+        "clave": "50350379",
+        "nombre": "Paso del Águila"
+    },
+    {
+        "clave": "50350380",
+        "nombre": "Ana [Establo]"
+    },
+    {
+        "clave": "50350381",
+        "nombre": "Ramos [Granja]"
+    },
+    {
+        "clave": "50350382",
+        "nombre": "Sector Uno Ricardo Flores Magon (Noria 1945)"
+    },
+    {
+        "clave": "50350384",
+        "nombre": "Noria 773 (La Partida)"
+    },
+    {
+        "clave": "50350385",
+        "nombre": "La Nopalera"
+    },
+    {
+        "clave": "50350386",
+        "nombre": "Sector Doce A Santa Fe"
+    },
+    {
+        "clave": "50350387",
+        "nombre": "Noria Sector Uno San Agustín"
+    },
+    {
+        "clave": "50350389",
+        "nombre": "Jaboncillal"
+    },
+    {
+        "clave": "50350392",
+        "nombre": "José E. López Gurza (San Agustín)"
+    },
+    {
+        "clave": "50350393",
+        "nombre": "Guillermo Ordaz Trejo (El Paraíso)"
+    },
+    {
+        "clave": "50350394",
+        "nombre": "Juan Ríos (El Moral)"
+    },
+    {
+        "clave": "50350396",
+        "nombre": "Feliciano Amador Gómez (La Joya)"
+    },
+    {
+        "clave": "50350398",
+        "nombre": "El Cariño (Patricio González Olguín)"
+    },
+    {
+        "clave": "50350399",
+        "nombre": "Villa Acuña"
+    },
+    {
+        "clave": "50350400",
+        "nombre": "José Vaquera (El Arenalito)"
+    },
+    {
+        "clave": "50350401",
+        "nombre": "La Malinche"
+    },
+    {
+        "clave": "50350402",
+        "nombre": "Leonel López (El Nopal)"
+    },
+    {
+        "clave": "50350403",
+        "nombre": "Fraccionamiento Mayran (Colonia Independiente)"
+    },
+    {
+        "clave": "50350404",
+        "nombre": "El Estanque"
+    },
+    {
+        "clave": "50350405",
+        "nombre": "Valparaíso"
+    },
+    {
+        "clave": "50350406",
+        "nombre": "La Joyita Dos (Ismael Soto González)"
+    },
+    {
+        "clave": "50350407",
+        "nombre": "Braulio Fernández Aguirre (Providencia)"
+    },
+    {
+        "clave": "50350408",
+        "nombre": "Agustín Escalera Ramírez (Las Albercas)"
+    },
+    {
+        "clave": "50350410",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "50350411",
+        "nombre": "El Chaparral"
+    },
+    {
+        "clave": "50350412",
+        "nombre": "Fraccionamiento los Profesionistas"
+    },
+    {
+        "clave": "50350413",
+        "nombre": "Los Rosales (Alvino Rosales)"
+    },
+    {
+        "clave": "50350414",
+        "nombre": "Jesús María Echavarría [Recreativo]"
+    },
+    {
+        "clave": "50350415",
+        "nombre": "Enrique Solís (Sector Seis A)"
+    },
+    {
+        "clave": "50350416",
+        "nombre": "Antonio Noriega"
+    },
+    {
+        "clave": "50350417",
+        "nombre": "San Gerardo (Cardenchal)"
+    },
+    {
+        "clave": "50350418",
+        "nombre": "Mayran"
+    },
+    {
+        "clave": "50350419",
+        "nombre": "Residencia de Ancianos Quinta las Margaritas"
+    },
+    {
+        "clave": "50350420",
+        "nombre": "Sergio Montaño Pérez (La Joya)"
+    },
+    {
+        "clave": "50350421",
+        "nombre": "Anselmo Ramírez Esquivel"
+    },
+    {
+        "clave": "50350422",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "50350423",
+        "nombre": "Ricarda (Rika)"
+    },
+    {
+        "clave": "50350424",
+        "nombre": "La Robla"
+    },
+    {
+        "clave": "50350425",
+        "nombre": "Monte Alegre"
+    },
+    {
+        "clave": "50350426",
+        "nombre": "Las Moras"
+    },
+    {
+        "clave": "50350427",
+        "nombre": "La Noria del Perú"
+    },
+    {
+        "clave": "50350428",
+        "nombre": "Fraccionamiento Ex-Hacienda la Joya"
+    },
+    {
+        "clave": "50350429",
+        "nombre": "El Diamante"
+    },
+    {
+        "clave": "50350430",
+        "nombre": "Cruz Colunga"
+    },
+    {
+        "clave": "50350431",
+        "nombre": "Diana"
+    },
+    {
+        "clave": "50350432",
+        "nombre": "Fraccionamiento Residencial San Armando"
+    },
+    {
+        "clave": "50350433",
+        "nombre": "La Libertad"
+    },
+    {
+        "clave": "50350434",
+        "nombre": "Salvador López"
+    },
+    {
+        "clave": "50350435",
+        "nombre": "La Noria (la Rosita)"
+    },
+    {
+        "clave": "50350436",
+        "nombre": "Elgera"
+    },
+    {
+        "clave": "50350437",
+        "nombre": "El Encino"
+    },
+    {
+        "clave": "50350438",
+        "nombre": "Enrique Murey García"
+    },
+    {
+        "clave": "50350439",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "50350440",
+        "nombre": "La Magaña"
+    },
+    {
+        "clave": "50350441",
+        "nombre": "San Esteban"
+    },
+    {
+        "clave": "50350442",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "50350443",
+        "nombre": "Santa Gema"
+    },
+    {
+        "clave": "50350444",
+        "nombre": "Quinta San Nicolás [Club Hípico]"
+    },
+    {
+        "clave": "50350445",
+        "nombre": "Fraccionamiento la Perla"
+    },
+    {
+        "clave": "50350446",
+        "nombre": "Fraccionamiento Villas del Renacimiento"
+    },
+    {
+        "clave": "50350447",
+        "nombre": "Antonio Guerrero"
+    },
+    {
+        "clave": "50350448",
+        "nombre": "Villas del Renacimiento"
+    },
+    {
+        "clave": "50350449",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "50350450",
+        "nombre": "Covadonga"
+    },
+    {
+        "clave": "50350451",
+        "nombre": "Fraccionamiento la Noria"
+    },
+    {
+        "clave": "50350452",
+        "nombre": "Fraccionamiento Residencial Rancho Alegre"
+    },
+    {
+        "clave": "50350453",
+        "nombre": "Fraccionamiento Veredas de Santa Fe"
+    },
+    {
+        "clave": "50350454",
+        "nombre": "Santa Fe [Granja Porcina]"
+    },
+    {
+        "clave": "50350455",
+        "nombre": "Fraccionamiento Lagos"
+    },
+    {
+        "clave": "50350456",
+        "nombre": "Mariano Pineda Rodríguez"
+    }
+]

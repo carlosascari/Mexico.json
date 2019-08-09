@@ -1,0 +1,514 @@
+[
+    {
+        "clave": "120520003",
+        "nombre": "Arroyo Cumiapa"
+    },
+    {
+        "clave": "120520004",
+        "nombre": "Arroyo Mixtecolapa (Mixtecolapa)"
+    },
+    {
+        "clave": "120520005",
+        "nombre": "Rancho Calixto"
+    },
+    {
+        "clave": "120520006",
+        "nombre": "Buena Vista"
+    },
+    {
+        "clave": "120520011",
+        "nombre": "Jicamaltepec de la Montaña"
+    },
+    {
+        "clave": "120520020",
+        "nombre": "Potrerillo Coapinole"
+    },
+    {
+        "clave": "120520022",
+        "nombre": "Río Iguapa"
+    },
+    {
+        "clave": "120520024",
+        "nombre": "Zentixtlahuaca"
+    },
+    {
+        "clave": "120520026",
+        "nombre": "Yoloxóchitl"
+    },
+    {
+        "clave": "120520033",
+        "nombre": "Llano Guaje"
+    },
+    {
+        "clave": "120520035",
+        "nombre": "El Recodo"
+    },
+    {
+        "clave": "120520037",
+        "nombre": "Tuxtepec (Cofradía)"
+    },
+    {
+        "clave": "120520038",
+        "nombre": "Pajarito Chiquito"
+    },
+    {
+        "clave": "120520039",
+        "nombre": "Xihuitepec"
+    },
+    {
+        "clave": "120520042",
+        "nombre": "Cerro Zapote"
+    },
+    {
+        "clave": "120520043",
+        "nombre": "Llano Silleta"
+    },
+    {
+        "clave": "120520044",
+        "nombre": "Coyul (Coyul Chiquito)"
+    },
+    {
+        "clave": "120520062",
+        "nombre": "Camalotillo (El Camalotillo)"
+    },
+    {
+        "clave": "120520063",
+        "nombre": "Hondura Tigre"
+    },
+    {
+        "clave": "120520065",
+        "nombre": "Cerro Limón"
+    },
+    {
+        "clave": "120520069",
+        "nombre": "Nejapa"
+    },
+    {
+        "clave": "120520077",
+        "nombre": "Arroyo Faisán"
+    },
+    {
+        "clave": "120520078",
+        "nombre": "Arroyo Hoja de Venado"
+    },
+    {
+        "clave": "120520082",
+        "nombre": "Pie de Cabra"
+    },
+    {
+        "clave": "120520087",
+        "nombre": "Arroyo Limón (Arroyo Lima)"
+    },
+    {
+        "clave": "120520088",
+        "nombre": "Cacalutla (Paso Cacalutla)"
+    },
+    {
+        "clave": "120520089",
+        "nombre": "Paraje Ocotero Santa Cruz (Paraje Santa Cruz)"
+    },
+    {
+        "clave": "120520094",
+        "nombre": "Atotonilco"
+    },
+    {
+        "clave": "120520095",
+        "nombre": "El Manguito"
+    },
+    {
+        "clave": "120520096",
+        "nombre": "Mixtecapa"
+    },
+    {
+        "clave": "120520099",
+        "nombre": "Tecomazuche (Pie de la Hamaca)"
+    },
+    {
+        "clave": "120520101",
+        "nombre": "Cerro Cantón"
+    },
+    {
+        "clave": "120520106",
+        "nombre": "Barrio de Guadalupe"
+    },
+    {
+        "clave": "120520107",
+        "nombre": "Cruz Alta"
+    },
+    {
+        "clave": "120520108",
+        "nombre": "Llano de Maguey"
+    },
+    {
+        "clave": "120520110",
+        "nombre": "Colonia la Guadalupe"
+    },
+    {
+        "clave": "120520111",
+        "nombre": "Arroyo del Mango"
+    },
+    {
+        "clave": "120520113",
+        "nombre": "El Recodo Dos"
+    },
+    {
+        "clave": "120520115",
+        "nombre": "Tierra Colorada"
+    },
+    {
+        "clave": "120520117",
+        "nombre": "Pie de Tierra Blanca (Tierra Blanca)"
+    },
+    {
+        "clave": "120520118",
+        "nombre": "La Parota"
+    },
+    {
+        "clave": "120520121",
+        "nombre": "Tierra Azul (Barranca Tierra Azul)"
+    },
+    {
+        "clave": "120520126",
+        "nombre": "Cuatro Caminos"
+    },
+    {
+        "clave": "120520130",
+        "nombre": "Palo de Tehuaje"
+    },
+    {
+        "clave": "120520131",
+        "nombre": "Piedra Grande"
+    },
+    {
+        "clave": "120520133",
+        "nombre": "Tejoruco"
+    },
+    {
+        "clave": "120520134",
+        "nombre": "Altepec"
+    },
+    {
+        "clave": "120520145",
+        "nombre": "El Llanito"
+    },
+    {
+        "clave": "120520146",
+        "nombre": "El Mirador"
+    },
+    {
+        "clave": "120520147",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "120520149",
+        "nombre": "Renacimiento"
+    },
+    {
+        "clave": "120520150",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "120520153",
+        "nombre": "Rancho Abdías Acevedo"
+    },
+    {
+        "clave": "120520001",
+        "nombre": "San Luis Acatlán"
+    },
+    {
+        "clave": "120520002",
+        "nombre": "Los Achotes"
+    },
+    {
+        "clave": "120520007",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "120520008",
+        "nombre": "Cuanacaxtitlán"
+    },
+    {
+        "clave": "120520009",
+        "nombre": "Pueblo Hidalgo"
+    },
+    {
+        "clave": "120520010",
+        "nombre": "Horcasitas (Atotonilco de Horcasitas)"
+    },
+    {
+        "clave": "120520012",
+        "nombre": "Jolotichán"
+    },
+    {
+        "clave": "120520013",
+        "nombre": "Loma Bonita"
+    },
+    {
+        "clave": "120520014",
+        "nombre": "El Mesón"
+    },
+    {
+        "clave": "120520015",
+        "nombre": "Miahuichán"
+    },
+    {
+        "clave": "120520017",
+        "nombre": "Pascala del Oro"
+    },
+    {
+        "clave": "120520018",
+        "nombre": "Piedra Ancha"
+    },
+    {
+        "clave": "120520021",
+        "nombre": "Poza Verde"
+    },
+    {
+        "clave": "120520025",
+        "nombre": "Tlaxcalixtlahuaca"
+    },
+    {
+        "clave": "120520040",
+        "nombre": "Pajarito Grande (Pájaro Grande)"
+    },
+    {
+        "clave": "120520061",
+        "nombre": "Jicamaltepec (El Mango)"
+    },
+    {
+        "clave": "120520093",
+        "nombre": "El Mamey (Plan del Mamey)"
+    },
+    {
+        "clave": "120520144",
+        "nombre": "Colonia San Marcos Tuxtepec"
+    },
+    {
+        "clave": "120520148",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "120520151",
+        "nombre": "Colonia Santa Cruz el Mesón"
+    },
+    {
+        "clave": "120520154",
+        "nombre": "Pirotécnicos Mixtecos"
+    },
+    {
+        "clave": "120520019",
+        "nombre": "Piedra Quebrada"
+    },
+    {
+        "clave": "120520023",
+        "nombre": "San José Vista Hermosa"
+    },
+    {
+        "clave": "120520027",
+        "nombre": "Rancho Zacatecomate"
+    },
+    {
+        "clave": "120520048",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "120520050",
+        "nombre": "Rancho Rivera (La Huerta Rivera)"
+    },
+    {
+        "clave": "120520054",
+        "nombre": "Rancho Velasco (Rancho Chinantla)"
+    },
+    {
+        "clave": "120520056",
+        "nombre": "La Guadalupe"
+    },
+    {
+        "clave": "120520067",
+        "nombre": "Yoloxóchitl Viejo"
+    },
+    {
+        "clave": "120520070",
+        "nombre": "El Pipe"
+    },
+    {
+        "clave": "120520071",
+        "nombre": "Rancho Rivera (La Cuesta del Nanche)"
+    },
+    {
+        "clave": "120520072",
+        "nombre": "El Tejoruco (El Zapote)"
+    },
+    {
+        "clave": "120520073",
+        "nombre": "Inés Carranza Oropeza"
+    },
+    {
+        "clave": "120520075",
+        "nombre": "Rancho los Limos"
+    },
+    {
+        "clave": "120520076",
+        "nombre": "Rancho Guillén (La Tranca)"
+    },
+    {
+        "clave": "120520079",
+        "nombre": "Cafetal Escondido"
+    },
+    {
+        "clave": "120520084",
+        "nombre": "Barrio el Barrero"
+    },
+    {
+        "clave": "120520085",
+        "nombre": "Rancho el Cuajilote (El Cuajilote)"
+    },
+    {
+        "clave": "120520090",
+        "nombre": "Cerro Gavilán"
+    },
+    {
+        "clave": "120520091",
+        "nombre": "Arroyo Mamey (Plan de Mamey)"
+    },
+    {
+        "clave": "120520092",
+        "nombre": "San Luisito"
+    },
+    {
+        "clave": "120520097",
+        "nombre": "Rancho el Tecolote"
+    },
+    {
+        "clave": "120520098",
+        "nombre": "El Socorro"
+    },
+    {
+        "clave": "120520100",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "120520102",
+        "nombre": "Filo Largo"
+    },
+    {
+        "clave": "120520103",
+        "nombre": "El Manguito"
+    },
+    {
+        "clave": "120520104",
+        "nombre": "Rancho Andraca"
+    },
+    {
+        "clave": "120520105",
+        "nombre": "Huerta Darío Pastrana"
+    },
+    {
+        "clave": "120520109",
+        "nombre": "Arroyo Limón"
+    },
+    {
+        "clave": "120520112",
+        "nombre": "Palma Sola (Plan de Guayaba)"
+    },
+    {
+        "clave": "120520114",
+        "nombre": "San José de Cacalutla"
+    },
+    {
+        "clave": "120520116",
+        "nombre": "El Hijadero"
+    },
+    {
+        "clave": "120520120",
+        "nombre": "Plan la Tejería (El Mesón Viejo)"
+    },
+    {
+        "clave": "120520122",
+        "nombre": "Chahuichaqueta"
+    },
+    {
+        "clave": "120520123",
+        "nombre": "El Aterrizaje"
+    },
+    {
+        "clave": "120520124",
+        "nombre": "Tres Rios"
+    },
+    {
+        "clave": "120520125",
+        "nombre": "Arroyo Limón"
+    },
+    {
+        "clave": "120520127",
+        "nombre": "El Zacatón"
+    },
+    {
+        "clave": "120520128",
+        "nombre": "La Raya"
+    },
+    {
+        "clave": "120520129",
+        "nombre": "Loma de Parota"
+    },
+    {
+        "clave": "120520132",
+        "nombre": "San Miguel Re'ediin"
+    },
+    {
+        "clave": "120520135",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "120520136",
+        "nombre": "Huerta Bonifacio Jiménez"
+    },
+    {
+        "clave": "120520137",
+        "nombre": "Rancho Javier Hernández"
+    },
+    {
+        "clave": "120520138",
+        "nombre": "Rancho Josefina Guillén"
+    },
+    {
+        "clave": "120520139",
+        "nombre": "Arroyo Lodo"
+    },
+    {
+        "clave": "120520140",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "120520141",
+        "nombre": "Piedra Chimeca"
+    },
+    {
+        "clave": "120520142",
+        "nombre": "Rancho Fausto Nava"
+    },
+    {
+        "clave": "120520143",
+        "nombre": "Rancho Flaviano Solís"
+    },
+    {
+        "clave": "120520152",
+        "nombre": "Luz de la Montaña"
+    },
+    {
+        "clave": "120520155",
+        "nombre": "Crucero de los Achotes"
+    },
+    {
+        "clave": "120520156",
+        "nombre": "El Mirasol"
+    },
+    {
+        "clave": "120520159",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "120520160",
+        "nombre": "Plan de Iguala"
+    }
+]

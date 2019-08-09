@@ -1,0 +1,790 @@
+[
+    {
+        "clave": "140230232",
+        "nombre": "Loma del Ocotillo"
+    },
+    {
+        "clave": "140230032",
+        "nombre": "Puerta de Cadenas"
+    },
+    {
+        "clave": "140230001",
+        "nombre": "Ciudad Guzmán"
+    },
+    {
+        "clave": "140230003",
+        "nombre": "Atequizayán"
+    },
+    {
+        "clave": "140230005",
+        "nombre": "Los Depósitos"
+    },
+    {
+        "clave": "140230008",
+        "nombre": "La Mesa (El Fresnito)"
+    },
+    {
+        "clave": "140230011",
+        "nombre": "La Catarina"
+    },
+    {
+        "clave": "140230014",
+        "nombre": "Ciudad Guzmán [Aeropista]"
+    },
+    {
+        "clave": "140230016",
+        "nombre": "Los Chilares"
+    },
+    {
+        "clave": "140230019",
+        "nombre": "Salitral"
+    },
+    {
+        "clave": "140230020",
+        "nombre": "La Tropicana"
+    },
+    {
+        "clave": "140230021",
+        "nombre": "El Canutillo"
+    },
+    {
+        "clave": "140230023",
+        "nombre": "Rancho las Flores"
+    },
+    {
+        "clave": "140230024",
+        "nombre": "Apastepe"
+    },
+    {
+        "clave": "140230026",
+        "nombre": "El Ojo de Agua"
+    },
+    {
+        "clave": "140230028",
+        "nombre": "La Fortuna"
+    },
+    {
+        "clave": "140230030",
+        "nombre": "El Recreo"
+    },
+    {
+        "clave": "140230031",
+        "nombre": "El Aguaje de Tía Chepa"
+    },
+    {
+        "clave": "140230034",
+        "nombre": "San Bernardo"
+    },
+    {
+        "clave": "140230037",
+        "nombre": "Rancho la Curva"
+    },
+    {
+        "clave": "140230038",
+        "nombre": "El Campanario"
+    },
+    {
+        "clave": "140230039",
+        "nombre": "La Mora"
+    },
+    {
+        "clave": "140230040",
+        "nombre": "Jesús Moreno"
+    },
+    {
+        "clave": "140230042",
+        "nombre": "La Cascada"
+    },
+    {
+        "clave": "140230043",
+        "nombre": "Las Cascadas"
+    },
+    {
+        "clave": "140230044",
+        "nombre": "Ninguno [FESEOCSA]"
+    },
+    {
+        "clave": "140230050",
+        "nombre": "Camichines Uno"
+    },
+    {
+        "clave": "140230062",
+        "nombre": "Rancho Santa Julia"
+    },
+    {
+        "clave": "140230063",
+        "nombre": "Agro González"
+    },
+    {
+        "clave": "140230064",
+        "nombre": "Tamazula [Alcoholera]"
+    },
+    {
+        "clave": "140230065",
+        "nombre": "Hacienda Caporales"
+    },
+    {
+        "clave": "140230066",
+        "nombre": "Los Arroyitos"
+    },
+    {
+        "clave": "140230067",
+        "nombre": "Arroyo Hondo"
+    },
+    {
+        "clave": "140230068",
+        "nombre": "Ninguno [Aserradero]"
+    },
+    {
+        "clave": "140230069",
+        "nombre": "Manuel Núñez [Aserradero Monte Verde]"
+    },
+    {
+        "clave": "140230070",
+        "nombre": "Pinares del Sur [Distribuidora]"
+    },
+    {
+        "clave": "140230071",
+        "nombre": "El Calvario"
+    },
+    {
+        "clave": "140230072",
+        "nombre": "Camichines"
+    },
+    {
+        "clave": "140230073",
+        "nombre": "El Campanario"
+    },
+    {
+        "clave": "140230074",
+        "nombre": "Las Canoitas"
+    },
+    {
+        "clave": "140230075",
+        "nombre": "La Cantera"
+    },
+    {
+        "clave": "140230076",
+        "nombre": "La Carreta"
+    },
+    {
+        "clave": "140230077",
+        "nombre": "Ciudad Guzmán [Caseta Número Dieciocho]"
+    },
+    {
+        "clave": "140230078",
+        "nombre": "Ciudad Guzmán [CERESO]"
+    },
+    {
+        "clave": "140230079",
+        "nombre": "Cerrito el Olote"
+    },
+    {
+        "clave": "140230080",
+        "nombre": "El Chaparro"
+    },
+    {
+        "clave": "140230081",
+        "nombre": "Los Charcos"
+    },
+    {
+        "clave": "140230082",
+        "nombre": "El Charquito"
+    },
+    {
+        "clave": "140230083",
+        "nombre": "Chicalote"
+    },
+    {
+        "clave": "140230084",
+        "nombre": "El Chirimoyo"
+    },
+    {
+        "clave": "140230085",
+        "nombre": "Britania"
+    },
+    {
+        "clave": "140230086",
+        "nombre": "Campesinos [Club Deportivo]"
+    },
+    {
+        "clave": "140230087",
+        "nombre": "La Cohetería"
+    },
+    {
+        "clave": "140230088",
+        "nombre": "La Laguna [Cohetería]"
+    },
+    {
+        "clave": "140230089",
+        "nombre": "El Colorín"
+    },
+    {
+        "clave": "140230090",
+        "nombre": "El Columpio"
+    },
+    {
+        "clave": "140230091",
+        "nombre": "Ninguno [Comisión Federal de Electricidad]"
+    },
+    {
+        "clave": "140230092",
+        "nombre": "Constructora Portezuelos"
+    },
+    {
+        "clave": "140230093",
+        "nombre": "Crucero de Apastepe"
+    },
+    {
+        "clave": "140230094",
+        "nombre": "Crucero del Fresnito"
+    },
+    {
+        "clave": "140230095",
+        "nombre": "La Cruz del Agua"
+    },
+    {
+        "clave": "140230096",
+        "nombre": "La Cumbre"
+    },
+    {
+        "clave": "140230097",
+        "nombre": "Ninguno [DICOSUR]"
+    },
+    {
+        "clave": "140230098",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "140230099",
+        "nombre": "Ciudad Guzmán [Estación de Carga]"
+    },
+    {
+        "clave": "140230100",
+        "nombre": "El Fresno"
+    },
+    {
+        "clave": "140230101",
+        "nombre": "El Oasis [Granja]"
+    },
+    {
+        "clave": "140230102",
+        "nombre": "Los Camichines [Granja]"
+    },
+    {
+        "clave": "140230103",
+        "nombre": "Granja Pascual Galindo"
+    },
+    {
+        "clave": "140230104",
+        "nombre": "Jesús Rodríguez [Granja]"
+    },
+    {
+        "clave": "140230105",
+        "nombre": "Ninguno [Rancho AVICOV]"
+    },
+    {
+        "clave": "140230106",
+        "nombre": "La Herradura"
+    },
+    {
+        "clave": "140230107",
+        "nombre": "El Huizache"
+    },
+    {
+        "clave": "140230108",
+        "nombre": "La Huizachera"
+    },
+    {
+        "clave": "140230109",
+        "nombre": "Ninguno [Instituto Tecnológico de Ciudad Guzmán]"
+    },
+    {
+        "clave": "140230110",
+        "nombre": "La Laguna"
+    },
+    {
+        "clave": "140230111",
+        "nombre": "La Laguna (Tío Piri)"
+    },
+    {
+        "clave": "140230112",
+        "nombre": "La Llave Uno"
+    },
+    {
+        "clave": "140230113",
+        "nombre": "La Tachica"
+    },
+    {
+        "clave": "140230114",
+        "nombre": "El Laurel"
+    },
+    {
+        "clave": "140230115",
+        "nombre": "La Loma de los Caballos"
+    },
+    {
+        "clave": "140230116",
+        "nombre": "La Loma Rabona"
+    },
+    {
+        "clave": "140230117",
+        "nombre": "Maderera Zapotlán de Orozco"
+    },
+    {
+        "clave": "140230118",
+        "nombre": "Mesa del Pastor"
+    },
+    {
+        "clave": "140230119",
+        "nombre": "Ninguno [Mexicana Central de Madera]"
+    },
+    {
+        "clave": "140230120",
+        "nombre": "La Mezquitera"
+    },
+    {
+        "clave": "140230121",
+        "nombre": "La Mezquitera (Trinidad Vázquez)"
+    },
+    {
+        "clave": "140230122",
+        "nombre": "Rancho la Primavera"
+    },
+    {
+        "clave": "140230123",
+        "nombre": "La Ocotillera"
+    },
+    {
+        "clave": "140230124",
+        "nombre": "Palos Altos"
+    },
+    {
+        "clave": "140230125",
+        "nombre": "Pastor de Arriba"
+    },
+    {
+        "clave": "140230126",
+        "nombre": "Colonia del Fresno"
+    },
+    {
+        "clave": "140230127",
+        "nombre": "Los Pilares"
+    },
+    {
+        "clave": "140230128",
+        "nombre": "Rancho la Mojonera"
+    },
+    {
+        "clave": "140230129",
+        "nombre": "El Polvorín"
+    },
+    {
+        "clave": "140230130",
+        "nombre": "Los Polvorines"
+    },
+    {
+        "clave": "140230131",
+        "nombre": "El Pozo del Agua"
+    },
+    {
+        "clave": "140230132",
+        "nombre": "Las Primaveras"
+    },
+    {
+        "clave": "140230133",
+        "nombre": "Las Puentecitas"
+    },
+    {
+        "clave": "140230134",
+        "nombre": "Puertecito (José Castillo)"
+    },
+    {
+        "clave": "140230135",
+        "nombre": "Los Ramos"
+    },
+    {
+        "clave": "140230136",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "140230137",
+        "nombre": "Rancho los Agustines"
+    },
+    {
+        "clave": "140230138",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "140230139",
+        "nombre": "Las Luchas"
+    },
+    {
+        "clave": "140230140",
+        "nombre": "Rancho de Don Luis Martínez"
+    },
+    {
+        "clave": "140230141",
+        "nombre": "Rancho de Jorge Vázquez (El Super Loco)"
+    },
+    {
+        "clave": "140230142",
+        "nombre": "Rancho de los Romero"
+    },
+    {
+        "clave": "140230143",
+        "nombre": "Rancho de Luis Cisneros"
+    },
+    {
+        "clave": "140230144",
+        "nombre": "Rancho del Gringo"
+    },
+    {
+        "clave": "140230145",
+        "nombre": "Rancho del Toro"
+    },
+    {
+        "clave": "140230146",
+        "nombre": "Rancho Don Ricardo"
+    },
+    {
+        "clave": "140230147",
+        "nombre": "Rancho el Durazno"
+    },
+    {
+        "clave": "140230148",
+        "nombre": "Rancho el Estribo"
+    },
+    {
+        "clave": "140230149",
+        "nombre": "Rancho el Guamúchil"
+    },
+    {
+        "clave": "140230150",
+        "nombre": "Rancho el Lindero"
+    },
+    {
+        "clave": "140230151",
+        "nombre": "Rancho el Maniadero"
+    },
+    {
+        "clave": "140230152",
+        "nombre": "Rancho el Mezquitillo"
+    },
+    {
+        "clave": "140230153",
+        "nombre": "Rancho el Nogal"
+    },
+    {
+        "clave": "140230154",
+        "nombre": "Rancho el Pedregal"
+    },
+    {
+        "clave": "140230155",
+        "nombre": "Rancho la Estrella"
+    },
+    {
+        "clave": "140230156",
+        "nombre": "Rancho las Primaveras"
+    },
+    {
+        "clave": "140230157",
+        "nombre": "Rancho Librado Aguilar"
+    },
+    {
+        "clave": "140230158",
+        "nombre": "Rancho San Martín"
+    },
+    {
+        "clave": "140230159",
+        "nombre": "Rancho San Rafael"
+    },
+    {
+        "clave": "140230160",
+        "nombre": "Jesús Barba"
+    },
+    {
+        "clave": "140230161",
+        "nombre": "Rancho Sin Nombre Dos"
+    },
+    {
+        "clave": "140230162",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "140230163",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "140230164",
+        "nombre": "Rancho Escondido"
+    },
+    {
+        "clave": "140230165",
+        "nombre": "Rancho Antonio Castro"
+    },
+    {
+        "clave": "140230166",
+        "nombre": "Rancho Antonio Figueroa"
+    },
+    {
+        "clave": "140230167",
+        "nombre": "Hacienda del Ángel"
+    },
+    {
+        "clave": "140230168",
+        "nombre": "Rancho Carlos Ochoa Uno"
+    },
+    {
+        "clave": "140230169",
+        "nombre": "Rancho Zeferino Frías"
+    },
+    {
+        "clave": "140230170",
+        "nombre": "Rancho Delfino Montes"
+    },
+    {
+        "clave": "140230171",
+        "nombre": "Rancho Elías Vázquez"
+    },
+    {
+        "clave": "140230172",
+        "nombre": "Rancho Eligio Durán"
+    },
+    {
+        "clave": "140230173",
+        "nombre": "Rancho Gonzalo Vargas"
+    },
+    {
+        "clave": "140230174",
+        "nombre": "Ninguno [Aserradero]"
+    },
+    {
+        "clave": "140230175",
+        "nombre": "Rancho Guillermo Zepeda"
+    },
+    {
+        "clave": "140230176",
+        "nombre": "Rancho Herminio Chávez"
+    },
+    {
+        "clave": "140230177",
+        "nombre": "Rancho Jesús Franco"
+    },
+    {
+        "clave": "140230178",
+        "nombre": "Rancho Jesús García"
+    },
+    {
+        "clave": "140230179",
+        "nombre": "Rancho Jesús Jiménez"
+    },
+    {
+        "clave": "140230180",
+        "nombre": "Rancho Jesús Preciado"
+    },
+    {
+        "clave": "140230181",
+        "nombre": "Rancho José Gudiño Negrete"
+    },
+    {
+        "clave": "140230182",
+        "nombre": "Rancho José Pinto"
+    },
+    {
+        "clave": "140230183",
+        "nombre": "Rancho José Luis Moreno"
+    },
+    {
+        "clave": "140230184",
+        "nombre": "Rancho Juan Manuel García"
+    },
+    {
+        "clave": "140230185",
+        "nombre": "Rancho los Arcos"
+    },
+    {
+        "clave": "140230186",
+        "nombre": "Rancho Luciano Cisneros"
+    },
+    {
+        "clave": "140230187",
+        "nombre": "Javier Fregoso Zaragoza"
+    },
+    {
+        "clave": "140230188",
+        "nombre": "Rancho Luis Ochoa"
+    },
+    {
+        "clave": "140230189",
+        "nombre": "Rancho Magdaleno López"
+    },
+    {
+        "clave": "140230190",
+        "nombre": "Rancho Martín Romero Díaz"
+    },
+    {
+        "clave": "140230191",
+        "nombre": "Rancho Miguel Aguilar"
+    },
+    {
+        "clave": "140230192",
+        "nombre": "Rancho Natividad López"
+    },
+    {
+        "clave": "140230193",
+        "nombre": "Rancho Macario del Monte"
+    },
+    {
+        "clave": "140230194",
+        "nombre": "Rancho Rogelio Parra"
+    },
+    {
+        "clave": "140230195",
+        "nombre": "Rancho Román Guzmán"
+    },
+    {
+        "clave": "140230196",
+        "nombre": "Rancho Salvador Cuevas Álvarez"
+    },
+    {
+        "clave": "140230197",
+        "nombre": "Rancho Salvador Martínez"
+    },
+    {
+        "clave": "140230198",
+        "nombre": "Rancho Salvador Solórzano"
+    },
+    {
+        "clave": "140230199",
+        "nombre": "Rancho Santiago Sánchez"
+    },
+    {
+        "clave": "140230200",
+        "nombre": "Rancho Santiago Sepúlveda"
+    },
+    {
+        "clave": "140230202",
+        "nombre": "Rincón del Zapote"
+    },
+    {
+        "clave": "140230203",
+        "nombre": "La Rivera"
+    },
+    {
+        "clave": "140230204",
+        "nombre": "El Caprichito (La Llave Dos)"
+    },
+    {
+        "clave": "140230205",
+        "nombre": "San José"
+    },
+    {
+        "clave": "140230206",
+        "nombre": "San Rafael"
+    },
+    {
+        "clave": "140230207",
+        "nombre": "Ninguno [SAPACG]"
+    },
+    {
+        "clave": "140230208",
+        "nombre": "Los Sauces"
+    },
+    {
+        "clave": "140230209",
+        "nombre": "El Silencio"
+    },
+    {
+        "clave": "140230210",
+        "nombre": "Los Solanes"
+    },
+    {
+        "clave": "140230211",
+        "nombre": "Tabla Larga"
+    },
+    {
+        "clave": "140230212",
+        "nombre": "José Trinidad Barbosa"
+    },
+    {
+        "clave": "140230213",
+        "nombre": "Las Tarjeas"
+    },
+    {
+        "clave": "140230214",
+        "nombre": "La Tepamera"
+    },
+    {
+        "clave": "140230215",
+        "nombre": "Rancho Consuelo"
+    },
+    {
+        "clave": "140230216",
+        "nombre": "La Yerbabuena"
+    },
+    {
+        "clave": "140230217",
+        "nombre": "Zacatón (Zacatoncillo)"
+    },
+    {
+        "clave": "140230218",
+        "nombre": "Rancho Nicol"
+    },
+    {
+        "clave": "140230219",
+        "nombre": "Rancho Manuel Ortiz (Rancho los Toros)"
+    },
+    {
+        "clave": "140230220",
+        "nombre": "El Patio"
+    },
+    {
+        "clave": "140230221",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "140230222",
+        "nombre": "Ninguno [Parque Industrial]"
+    },
+    {
+        "clave": "140230223",
+        "nombre": "José Cobarrubias"
+    },
+    {
+        "clave": "140230224",
+        "nombre": "Martín Gómez Cisneros"
+    },
+    {
+        "clave": "140230225",
+        "nombre": "Raymundo González"
+    },
+    {
+        "clave": "140230226",
+        "nombre": "La Estación [Motel]"
+    },
+    {
+        "clave": "140230227",
+        "nombre": "Rancho San Agustín"
+    },
+    {
+        "clave": "140230228",
+        "nombre": "La Tuna"
+    },
+    {
+        "clave": "140230229",
+        "nombre": "Rancho Tres Hermanos"
+    },
+    {
+        "clave": "140230230",
+        "nombre": "Tlascolomo"
+    },
+    {
+        "clave": "140230231",
+        "nombre": "Valle de Zapotlán"
+    },
+    {
+        "clave": "140230233",
+        "nombre": "Rancho el Crucero de Don Agus"
+    }
+]

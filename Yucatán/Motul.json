@@ -1,0 +1,758 @@
+[
+    {
+        "clave": "310520017",
+        "nombre": "San Pedro Chacabal"
+    },
+    {
+        "clave": "310520002",
+        "nombre": "Ucí"
+    },
+    {
+        "clave": "310520003",
+        "nombre": "Timul"
+    },
+    {
+        "clave": "310520005",
+        "nombre": "Sacapuc"
+    },
+    {
+        "clave": "310520007",
+        "nombre": "Sabacnáh"
+    },
+    {
+        "clave": "310520008",
+        "nombre": "Kopté"
+    },
+    {
+        "clave": "310520011",
+        "nombre": "Kancabchén"
+    },
+    {
+        "clave": "310520012",
+        "nombre": "Santa Cruz Pachón"
+    },
+    {
+        "clave": "310520013",
+        "nombre": "Kambul"
+    },
+    {
+        "clave": "310520014",
+        "nombre": "Mesatunich"
+    },
+    {
+        "clave": "310520015",
+        "nombre": "Kaxatah"
+    },
+    {
+        "clave": "310520016",
+        "nombre": "San Pedro Cámara"
+    },
+    {
+        "clave": "310520018",
+        "nombre": "Tanyá"
+    },
+    {
+        "clave": "310520019",
+        "nombre": "Santa Teresa"
+    },
+    {
+        "clave": "310520020",
+        "nombre": "Kancabchén Uci"
+    },
+    {
+        "clave": "310520021",
+        "nombre": "Komchén Martínez"
+    },
+    {
+        "clave": "310520022",
+        "nombre": "Miguel Hidalgo y Costilla"
+    },
+    {
+        "clave": "310520023",
+        "nombre": "Kiní"
+    },
+    {
+        "clave": "310520024",
+        "nombre": "San José Hili"
+    },
+    {
+        "clave": "310520029",
+        "nombre": "Kancabal"
+    },
+    {
+        "clave": "310520030",
+        "nombre": "Dzununcán"
+    },
+    {
+        "clave": "310520033",
+        "nombre": "Sakolá"
+    },
+    {
+        "clave": "310520197",
+        "nombre": "Irving Zuriel Uicab Pech"
+    },
+    {
+        "clave": "310520001",
+        "nombre": "Motul de Carrillo Puerto"
+    },
+    {
+        "clave": "310520009",
+        "nombre": "San Antonio Dzinah"
+    },
+    {
+        "clave": "310520010",
+        "nombre": "Uitzil"
+    },
+    {
+        "clave": "310520026",
+        "nombre": "Telal"
+    },
+    {
+        "clave": "310520031",
+        "nombre": "Ticopó Gutiérrez"
+    },
+    {
+        "clave": "310520032",
+        "nombre": "Canutillo"
+    },
+    {
+        "clave": "310520036",
+        "nombre": "Los Cocos"
+    },
+    {
+        "clave": "310520037",
+        "nombre": "Dzitox"
+    },
+    {
+        "clave": "310520038",
+        "nombre": "San Marcos"
+    },
+    {
+        "clave": "310520039",
+        "nombre": "San Sebastián de Aparicio"
+    },
+    {
+        "clave": "310520040",
+        "nombre": "Anicabil de la Guadalupana"
+    },
+    {
+        "clave": "310520041",
+        "nombre": "Anikabil"
+    },
+    {
+        "clave": "310520042",
+        "nombre": "Chumuc Xix"
+    },
+    {
+        "clave": "310520044",
+        "nombre": "Santa Rita de la Cruz"
+    },
+    {
+        "clave": "310520045",
+        "nombre": "San Ratón"
+    },
+    {
+        "clave": "310520046",
+        "nombre": "Rocío Uno"
+    },
+    {
+        "clave": "310520047",
+        "nombre": "El Establo"
+    },
+    {
+        "clave": "310520048",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "310520049",
+        "nombre": "San Antonio Chemal"
+    },
+    {
+        "clave": "310520050",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "310520051",
+        "nombre": "San Ignacio Petzbalam"
+    },
+    {
+        "clave": "310520052",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "310520054",
+        "nombre": "San Simón"
+    },
+    {
+        "clave": "310520056",
+        "nombre": "La Asunción"
+    },
+    {
+        "clave": "310520058",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "310520059",
+        "nombre": "Santa María Halal"
+    },
+    {
+        "clave": "310520061",
+        "nombre": "Texán Espejo"
+    },
+    {
+        "clave": "310520062",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "310520063",
+        "nombre": "Yaxché"
+    },
+    {
+        "clave": "310520065",
+        "nombre": "Quinta Adrián"
+    },
+    {
+        "clave": "310520070",
+        "nombre": "San Cristóbal"
+    },
+    {
+        "clave": "310520072",
+        "nombre": "Kilómetro Uno"
+    },
+    {
+        "clave": "310520075",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520076",
+        "nombre": "Sacapuc"
+    },
+    {
+        "clave": "310520081",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "310520082",
+        "nombre": "Dehenesur"
+    },
+    {
+        "clave": "310520083",
+        "nombre": "Tebón"
+    },
+    {
+        "clave": "310520084",
+        "nombre": "Ninguno [Granja]"
+    },
+    {
+        "clave": "310520085",
+        "nombre": "La Cueva"
+    },
+    {
+        "clave": "310520086",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "310520087",
+        "nombre": "Carmen"
+    },
+    {
+        "clave": "310520088",
+        "nombre": "Kopté"
+    },
+    {
+        "clave": "310520089",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "310520090",
+        "nombre": "San Carlos"
+    },
+    {
+        "clave": "310520091",
+        "nombre": "Sac-Nicté"
+    },
+    {
+        "clave": "310520092",
+        "nombre": "San José Chico"
+    },
+    {
+        "clave": "310520093",
+        "nombre": "San Juan Bautista"
+    },
+    {
+        "clave": "310520094",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "310520095",
+        "nombre": "Sansorito"
+    },
+    {
+        "clave": "310520096",
+        "nombre": "Santa Elena"
+    },
+    {
+        "clave": "310520097",
+        "nombre": "Santa Rosa"
+    },
+    {
+        "clave": "310520098",
+        "nombre": "San Blas"
+    },
+    {
+        "clave": "310520099",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520100",
+        "nombre": "San Mateo"
+    },
+    {
+        "clave": "310520101",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "310520102",
+        "nombre": "San Fernando"
+    },
+    {
+        "clave": "310520103",
+        "nombre": "Texas"
+    },
+    {
+        "clave": "310520105",
+        "nombre": "Xinté"
+    },
+    {
+        "clave": "310520106",
+        "nombre": "San Julián"
+    },
+    {
+        "clave": "310520107",
+        "nombre": "Las Codornices"
+    },
+    {
+        "clave": "310520108",
+        "nombre": "Comisión Federal de Electricidad"
+    },
+    {
+        "clave": "310520109",
+        "nombre": "Chen Tul"
+    },
+    {
+        "clave": "310520110",
+        "nombre": "Chunhuayum"
+    },
+    {
+        "clave": "310520111",
+        "nombre": "Las Dos Hermanas"
+    },
+    {
+        "clave": "310520112",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "310520113",
+        "nombre": "La Cruz de Piedra"
+    },
+    {
+        "clave": "310520114",
+        "nombre": "San Pedro Huano"
+    },
+    {
+        "clave": "310520115",
+        "nombre": "La Guadalupana"
+    },
+    {
+        "clave": "310520116",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520117",
+        "nombre": "Papayux [Quinta]"
+    },
+    {
+        "clave": "310520118",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520119",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520120",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520121",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "310520122",
+        "nombre": "La Lupita"
+    },
+    {
+        "clave": "310520123",
+        "nombre": "Ninguno [Rastro Municipal]"
+    },
+    {
+        "clave": "310520124",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "310520125",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "310520126",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "310520127",
+        "nombre": "San José"
+    },
+    {
+        "clave": "310520128",
+        "nombre": "San José"
+    },
+    {
+        "clave": "310520129",
+        "nombre": "San José Chunhuayum"
+    },
+    {
+        "clave": "310520130",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "310520131",
+        "nombre": "San Juan"
+    },
+    {
+        "clave": "310520132",
+        "nombre": "San Lázaro"
+    },
+    {
+        "clave": "310520133",
+        "nombre": "Sanatorio"
+    },
+    {
+        "clave": "310520134",
+        "nombre": "Tierra de Osos"
+    },
+    {
+        "clave": "310520135",
+        "nombre": "Salvador Díaz Mirón [Telesecundaria]"
+    },
+    {
+        "clave": "310520136",
+        "nombre": "Zapote"
+    },
+    {
+        "clave": "310520137",
+        "nombre": "La Bendición de Jesucristo"
+    },
+    {
+        "clave": "310520138",
+        "nombre": "El Cerro"
+    },
+    {
+        "clave": "310520139",
+        "nombre": "El Divino Niño"
+    },
+    {
+        "clave": "310520140",
+        "nombre": "San Isidro Labrador"
+    },
+    {
+        "clave": "310520141",
+        "nombre": "Sipchac"
+    },
+    {
+        "clave": "310520142",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "310520143",
+        "nombre": "Hubichén"
+    },
+    {
+        "clave": "310520144",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520145",
+        "nombre": "Don Beach"
+    },
+    {
+        "clave": "310520146",
+        "nombre": "Los Pilastrones"
+    },
+    {
+        "clave": "310520147",
+        "nombre": "Muas"
+    },
+    {
+        "clave": "310520148",
+        "nombre": "Medina"
+    },
+    {
+        "clave": "310520149",
+        "nombre": "San Bernardo"
+    },
+    {
+        "clave": "310520150",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "310520151",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "310520152",
+        "nombre": "Santa Cruz"
+    },
+    {
+        "clave": "310520153",
+        "nombre": "Santa María"
+    },
+    {
+        "clave": "310520154",
+        "nombre": "Tunben Che'en"
+    },
+    {
+        "clave": "310520155",
+        "nombre": "El Sitio"
+    },
+    {
+        "clave": "310520156",
+        "nombre": "San Martin 2"
+    },
+    {
+        "clave": "310520157",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520158",
+        "nombre": "Pedro Pech"
+    },
+    {
+        "clave": "310520159",
+        "nombre": "San Isidro [Rancho]"
+    },
+    {
+        "clave": "310520160",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "310520161",
+        "nombre": "San Carlos Dos [Rancho]"
+    },
+    {
+        "clave": "310520162",
+        "nombre": "Luis Uitz"
+    },
+    {
+        "clave": "310520163",
+        "nombre": "Xlacacalchen"
+    },
+    {
+        "clave": "310520164",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520165",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520166",
+        "nombre": "Isaías"
+    },
+    {
+        "clave": "310520167",
+        "nombre": "Chen López"
+    },
+    {
+        "clave": "310520168",
+        "nombre": "Tzeoc"
+    },
+    {
+        "clave": "310520169",
+        "nombre": "Las Moras"
+    },
+    {
+        "clave": "310520170",
+        "nombre": "Pap Ik"
+    },
+    {
+        "clave": "310520171",
+        "nombre": "Bechitas [Paraje]"
+    },
+    {
+        "clave": "310520172",
+        "nombre": "San Agustín"
+    },
+    {
+        "clave": "310520173",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "310520174",
+        "nombre": "San Benigno"
+    },
+    {
+        "clave": "310520175",
+        "nombre": "San Bernardo"
+    },
+    {
+        "clave": "310520176",
+        "nombre": "San Manuel"
+    },
+    {
+        "clave": "310520177",
+        "nombre": "San Francisco"
+    },
+    {
+        "clave": "310520178",
+        "nombre": "San Gabriel I y II"
+    },
+    {
+        "clave": "310520179",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "310520180",
+        "nombre": "Santa Cruz de los Chaltunes"
+    },
+    {
+        "clave": "310520181",
+        "nombre": "Santa Genoveva"
+    },
+    {
+        "clave": "310520182",
+        "nombre": "Modelo [Universidad]"
+    },
+    {
+        "clave": "310520183",
+        "nombre": "Los Aluxes"
+    },
+    {
+        "clave": "310520184",
+        "nombre": "Casa Pino Macías"
+    },
+    {
+        "clave": "310520185",
+        "nombre": "Casa Rosa"
+    },
+    {
+        "clave": "310520186",
+        "nombre": "San Miguel Arcangel"
+    },
+    {
+        "clave": "310520187",
+        "nombre": "Cocos"
+    },
+    {
+        "clave": "310520188",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "310520189",
+        "nombre": "Ex-Cordemex"
+    },
+    {
+        "clave": "310520190",
+        "nombre": "Margarita Rosado"
+    },
+    {
+        "clave": "310520191",
+        "nombre": "El Juguete"
+    },
+    {
+        "clave": "310520192",
+        "nombre": "Los Tulipanes"
+    },
+    {
+        "clave": "310520193",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520194",
+        "nombre": "Graciela Ku"
+    },
+    {
+        "clave": "310520195",
+        "nombre": "Ramonal"
+    },
+    {
+        "clave": "310520196",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520198",
+        "nombre": "Priscila Pech Ek"
+    },
+    {
+        "clave": "310520199",
+        "nombre": "Salazar"
+    },
+    {
+        "clave": "310520200",
+        "nombre": "Quitan"
+    },
+    {
+        "clave": "310520201",
+        "nombre": "Alejandro Chacón"
+    },
+    {
+        "clave": "310520202",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520203",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "310520204",
+        "nombre": "María Roberta Balam Canul"
+    },
+    {
+        "clave": "310520205",
+        "nombre": "Parcela Ciento Cuarenta y Tres"
+    },
+    {
+        "clave": "310520206",
+        "nombre": "San Camilo"
+    },
+    {
+        "clave": "310520207",
+        "nombre": "San Félix (La Palapa)"
+    },
+    {
+        "clave": "310520208",
+        "nombre": "San José"
+    },
+    {
+        "clave": "310520209",
+        "nombre": "San José Cercado"
+    },
+    {
+        "clave": "310520210",
+        "nombre": "Santa Cruz Pich"
+    },
+    {
+        "clave": "310520211",
+        "nombre": "Siniiga [UGRY]"
+    },
+    {
+        "clave": "310520212",
+        "nombre": "U'Chuun Che Yuum Cruz"
+    },
+    {
+        "clave": "310520213",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "310520214",
+        "nombre": "Rosa Marina (Sac Luk)"
+    }
+]

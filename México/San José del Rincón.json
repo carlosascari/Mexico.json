@@ -1,0 +1,598 @@
+[
+    {
+        "clave": "151240006",
+        "nombre": "Barrio de Santa Cruz Pueblo Nuevo"
+    },
+    {
+        "clave": "151240100",
+        "nombre": "San Jerónimo de los Dolores"
+    },
+    {
+        "clave": "151240112",
+        "nombre": "Sanacoche Centro"
+    },
+    {
+        "clave": "151240128",
+        "nombre": "Rancho el Guarda Ejido"
+    },
+    {
+        "clave": "151240129",
+        "nombre": "Fundereje Barrio el Remblazo"
+    },
+    {
+        "clave": "151240136",
+        "nombre": "El Llano San Miguel del Centro"
+    },
+    {
+        "clave": "151240141",
+        "nombre": "Barrio las Escobas del Agua San Jerónimo Dolores"
+    },
+    {
+        "clave": "151240145",
+        "nombre": "El Capulín San Miguel del Centro"
+    },
+    {
+        "clave": "151240002",
+        "nombre": "Agua Zarca Pueblo Nuevo"
+    },
+    {
+        "clave": "151240003",
+        "nombre": "Barrio Santa Juanita el Depósito"
+    },
+    {
+        "clave": "151240005",
+        "nombre": "Barrio de San Ramón las Rosas"
+    },
+    {
+        "clave": "151240007",
+        "nombre": "Barrio el Fresno el Depósito"
+    },
+    {
+        "clave": "151240008",
+        "nombre": "Barrio el Pintado Pueblo Nuevo"
+    },
+    {
+        "clave": "151240009",
+        "nombre": "Barrio el Pintal el Depósito"
+    },
+    {
+        "clave": "151240010",
+        "nombre": "Barrio el Quelite Pueblo Nuevo"
+    },
+    {
+        "clave": "151240011",
+        "nombre": "Barrio el Tepetate Guarda de San Antonio Buenavista"
+    },
+    {
+        "clave": "151240012",
+        "nombre": "Barrio Puentecillas el Depósito"
+    },
+    {
+        "clave": "151240013",
+        "nombre": "Barrio Pundereje el Depósito"
+    },
+    {
+        "clave": "151240014",
+        "nombre": "Barrio San Antonio el Depósito"
+    },
+    {
+        "clave": "151240015",
+        "nombre": "Barrio San Diego Pueblo Nuevo"
+    },
+    {
+        "clave": "151240016",
+        "nombre": "Barrio los Cedros San Juan Palo Seco"
+    },
+    {
+        "clave": "151240017",
+        "nombre": "Barrio Santa Ana Pueblo Nuevo"
+    },
+    {
+        "clave": "151240018",
+        "nombre": "Buenavista Casa Blanca"
+    },
+    {
+        "clave": "151240019",
+        "nombre": "Buenavista Casa Blanca"
+    },
+    {
+        "clave": "151240020",
+        "nombre": "El Cable Ejido el Depósito"
+    },
+    {
+        "clave": "151240022",
+        "nombre": "Las Canoas San Felipe de Jesús"
+    },
+    {
+        "clave": "151240023",
+        "nombre": "Garatachea"
+    },
+    {
+        "clave": "151240024",
+        "nombre": "La Cañada del Sauco"
+    },
+    {
+        "clave": "151240025",
+        "nombre": "Cedro de la Manzana"
+    },
+    {
+        "clave": "151240026",
+        "nombre": "El Cerrito Pueblo Nuevo"
+    },
+    {
+        "clave": "151240027",
+        "nombre": "Cevatí"
+    },
+    {
+        "clave": "151240028",
+        "nombre": "La Chispa"
+    },
+    {
+        "clave": "151240029",
+        "nombre": "Cieneguillas (Casa Blanca)"
+    },
+    {
+        "clave": "151240030",
+        "nombre": "Colonia Benito Juárez Santa Cruz del Tejocote"
+    },
+    {
+        "clave": "151240031",
+        "nombre": "Colonia Emiliano Zapata Ampliación la Mesa"
+    },
+    {
+        "clave": "151240032",
+        "nombre": "Concepción la Venta"
+    },
+    {
+        "clave": "151240033",
+        "nombre": "Concepción del Monte"
+    },
+    {
+        "clave": "151240034",
+        "nombre": "La Cuadrilla San Miguel del Centro"
+    },
+    {
+        "clave": "151240035",
+        "nombre": "El Cuarenta y Cuatro Pueblo Nuevo"
+    },
+    {
+        "clave": "151240036",
+        "nombre": "La Curva el Depósito"
+    },
+    {
+        "clave": "151240038",
+        "nombre": "San José del Rincón Ejido"
+    },
+    {
+        "clave": "151240039",
+        "nombre": "Sanacoche Ejido"
+    },
+    {
+        "clave": "151240040",
+        "nombre": "Ejido el Consuelo"
+    },
+    {
+        "clave": "151240041",
+        "nombre": "Ejido la Soledad"
+    },
+    {
+        "clave": "151240042",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "151240043",
+        "nombre": "Estación Trinidad"
+    },
+    {
+        "clave": "151240044",
+        "nombre": "Fábrica Concepción"
+    },
+    {
+        "clave": "151240045",
+        "nombre": "Fábrica Pueblo Nuevo"
+    },
+    {
+        "clave": "151240046",
+        "nombre": "Fábrica Pueblo Nuevo Monte Alto"
+    },
+    {
+        "clave": "151240047",
+        "nombre": "Falda Loma"
+    },
+    {
+        "clave": "151240048",
+        "nombre": "Guadalupe Buenavista"
+    },
+    {
+        "clave": "151240049",
+        "nombre": "Guadalupe Chico"
+    },
+    {
+        "clave": "151240050",
+        "nombre": "Guadalupe del Pedregal"
+    },
+    {
+        "clave": "151240051",
+        "nombre": "Guadalupe del Pedregal la Palma"
+    },
+    {
+        "clave": "151240052",
+        "nombre": "Guadalupe las Cabras"
+    },
+    {
+        "clave": "151240053",
+        "nombre": "Guarda de Guadalupe"
+    },
+    {
+        "clave": "151240054",
+        "nombre": "Barrio Canoas Guarda la Lagunita"
+    },
+    {
+        "clave": "151240055",
+        "nombre": "Guarda de San Antonio Buenavista"
+    },
+    {
+        "clave": "151240056",
+        "nombre": "Guarda la Lagunita el Potrero"
+    },
+    {
+        "clave": "151240057",
+        "nombre": "Guarda San Antonio Plaza de Gallos"
+    },
+    {
+        "clave": "151240058",
+        "nombre": "El Huizache"
+    },
+    {
+        "clave": "151240059",
+        "nombre": "Jaltepec Centro"
+    },
+    {
+        "clave": "151240060",
+        "nombre": "Jesús Carranza"
+    },
+    {
+        "clave": "151240061",
+        "nombre": "Barrio el Lindero Pueblo Nuevo"
+    },
+    {
+        "clave": "151240062",
+        "nombre": "Barrio el Llano de las Rosas"
+    },
+    {
+        "clave": "151240063",
+        "nombre": "El Llano San Juan Palo Seco"
+    },
+    {
+        "clave": "151240064",
+        "nombre": "Los Lobos"
+    },
+    {
+        "clave": "151240065",
+        "nombre": "Los Lobos Segunda Sección"
+    },
+    {
+        "clave": "151240066",
+        "nombre": "Loma del Rancho"
+    },
+    {
+        "clave": "151240067",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "151240068",
+        "nombre": "Minita del Cedro Dos"
+    },
+    {
+        "clave": "151240069",
+        "nombre": "Barrio Chivatí la Mesa"
+    },
+    {
+        "clave": "151240070",
+        "nombre": "La Palma Ejido del Depósito"
+    },
+    {
+        "clave": "151240071",
+        "nombre": "Palo Amarillo"
+    },
+    {
+        "clave": "151240072",
+        "nombre": "San Antonio Palo Seco Barrio la Mesa"
+    },
+    {
+        "clave": "151240073",
+        "nombre": "Pancho Maya"
+    },
+    {
+        "clave": "151240075",
+        "nombre": "Pathe Mula de los Cedros"
+    },
+    {
+        "clave": "151240076",
+        "nombre": "Ejido los Pintados"
+    },
+    {
+        "clave": "151240077",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "151240078",
+        "nombre": "Providencia Ejido el Depósito"
+    },
+    {
+        "clave": "151240079",
+        "nombre": "El Puente Barrio de las Rosas"
+    },
+    {
+        "clave": "151240081",
+        "nombre": "Purungueo"
+    },
+    {
+        "clave": "151240082",
+        "nombre": "Rameje el Depósito Ejido"
+    },
+    {
+        "clave": "151240083",
+        "nombre": "Barrio el Rancho Jaltepec"
+    },
+    {
+        "clave": "151240084",
+        "nombre": "Ranchería las Rosas"
+    },
+    {
+        "clave": "151240086",
+        "nombre": "Las Palomas"
+    },
+    {
+        "clave": "151240087",
+        "nombre": "Barrio el Lijadero la Mesa"
+    },
+    {
+        "clave": "151240088",
+        "nombre": "Barrio Rosa San Antonio Concepción del Monte"
+    },
+    {
+        "clave": "151240089",
+        "nombre": "Rosa de la Palma"
+    },
+    {
+        "clave": "151240090",
+        "nombre": "Rosa de Palo Amarillo"
+    },
+    {
+        "clave": "151240091",
+        "nombre": "Las Rosas"
+    },
+    {
+        "clave": "151240092",
+        "nombre": "Sabaneta Quintana"
+    },
+    {
+        "clave": "151240093",
+        "nombre": "El Salto la Venta (Barrio el Salto)"
+    },
+    {
+        "clave": "151240094",
+        "nombre": "San Antonio Pueblo Nuevo"
+    },
+    {
+        "clave": "151240095",
+        "nombre": "San Bartolo Guarda la Lagunita"
+    },
+    {
+        "clave": "151240096",
+        "nombre": "San Felipe de Jesús"
+    },
+    {
+        "clave": "151240097",
+        "nombre": "San Francisco de la Loma"
+    },
+    {
+        "clave": "151240098",
+        "nombre": "San Francisco Solo"
+    },
+    {
+        "clave": "151240099",
+        "nombre": "San Isidro la Trinidad"
+    },
+    {
+        "clave": "151240101",
+        "nombre": "San Jerónimo Pilitas"
+    },
+    {
+        "clave": "151240102",
+        "nombre": "San Joaquín del Monte"
+    },
+    {
+        "clave": "151240103",
+        "nombre": "Barrio San Joaquín Lamillas (San José Lamillas)"
+    },
+    {
+        "clave": "151240104",
+        "nombre": "San Joaquín Lamillas Centro"
+    },
+    {
+        "clave": "151240105",
+        "nombre": "San Juan Evangelista Fracción Diez (San Juan)"
+    },
+    {
+        "clave": "151240106",
+        "nombre": "San Juan Palo Seco"
+    },
+    {
+        "clave": "151240107",
+        "nombre": "San Miguel Agua Bendita"
+    },
+    {
+        "clave": "151240108",
+        "nombre": "San Miguel Chisda"
+    },
+    {
+        "clave": "151240109",
+        "nombre": "San Miguel del Centro"
+    },
+    {
+        "clave": "151240110",
+        "nombre": "San Onofre Centro (Carmona)"
+    },
+    {
+        "clave": "151240111",
+        "nombre": "San Onofre Ejido"
+    },
+    {
+        "clave": "151240113",
+        "nombre": "Santa Cruz del Rincón"
+    },
+    {
+        "clave": "151240114",
+        "nombre": "Santa Cruz del Tejocote"
+    },
+    {
+        "clave": "151240115",
+        "nombre": "Barrio Santa Rita Pueblo Nuevo"
+    },
+    {
+        "clave": "151240116",
+        "nombre": "Santiago Gigante Jaltepec"
+    },
+    {
+        "clave": "151240117",
+        "nombre": "La Soledad el Guarda"
+    },
+    {
+        "clave": "151240118",
+        "nombre": "La Trampa Chica"
+    },
+    {
+        "clave": "151240119",
+        "nombre": "La Trampa (La Trampa Grande)"
+    },
+    {
+        "clave": "151240120",
+        "nombre": "La Trinidad Concepción"
+    },
+    {
+        "clave": "151240121",
+        "nombre": "El Valerio"
+    },
+    {
+        "clave": "151240122",
+        "nombre": "Yondece del Cedro"
+    },
+    {
+        "clave": "151240123",
+        "nombre": "Yondece el Grande"
+    },
+    {
+        "clave": "151240124",
+        "nombre": "Barrio la Mesa la Lagunita"
+    },
+    {
+        "clave": "151240125",
+        "nombre": "Ranchería de Dolores"
+    },
+    {
+        "clave": "151240126",
+        "nombre": "Loma del Cedro el Depósito"
+    },
+    {
+        "clave": "151240127",
+        "nombre": "La Puerta San Miguel del Centro"
+    },
+    {
+        "clave": "151240130",
+        "nombre": "Barrio el Calvario Concepción de la Venta"
+    },
+    {
+        "clave": "151240131",
+        "nombre": "Barrio el Llano Grande Jaltepec"
+    },
+    {
+        "clave": "151240132",
+        "nombre": "Barrio el Ocho el Pintal"
+    },
+    {
+        "clave": "151240133",
+        "nombre": "Barrio el Toril Ejido la Soledad"
+    },
+    {
+        "clave": "151240134",
+        "nombre": "Colonia las Tinajas"
+    },
+    {
+        "clave": "151240137",
+        "nombre": "Guadalupe del Pedregal el Calvario"
+    },
+    {
+        "clave": "151240138",
+        "nombre": "Minita del Cedro Uno"
+    },
+    {
+        "clave": "151240139",
+        "nombre": "Ranchería los Pintados (El Pintado)"
+    },
+    {
+        "clave": "151240140",
+        "nombre": "Barrio la Magdalena San Juan Palo Seco"
+    },
+    {
+        "clave": "151240142",
+        "nombre": "Barrio las Rosas San Miguel del Centro"
+    },
+    {
+        "clave": "151240143",
+        "nombre": "Barrio Loma Bonita Guarda la Lagunita"
+    },
+    {
+        "clave": "151240144",
+        "nombre": "Barrio Loma Grande San Antonio Pueblo Nuevo"
+    },
+    {
+        "clave": "151240146",
+        "nombre": "San Francisco de la Loma Segunda Sección"
+    },
+    {
+        "clave": "151240001",
+        "nombre": "San José del Rincón Centro"
+    },
+    {
+        "clave": "151240004",
+        "nombre": "Barrio de la Lagunilla"
+    },
+    {
+        "clave": "151240021",
+        "nombre": "El Calvario"
+    },
+    {
+        "clave": "151240037",
+        "nombre": "La Desviación"
+    },
+    {
+        "clave": "151240074",
+        "nombre": "Parada a San José Lamillas"
+    },
+    {
+        "clave": "151240080",
+        "nombre": "La Purísima"
+    },
+    {
+        "clave": "151240085",
+        "nombre": "Rancho el Encinal"
+    },
+    {
+        "clave": "151240135",
+        "nombre": "Coronillas el Depósito"
+    },
+    {
+        "clave": "151240147",
+        "nombre": "Guarda la Lagunita el Pueblito"
+    },
+    {
+        "clave": "151240148",
+        "nombre": "Loma del Cedro Segunda Sección"
+    },
+    {
+        "clave": "151240149",
+        "nombre": "San Miguel Agua Bendita Uno"
+    }
+]

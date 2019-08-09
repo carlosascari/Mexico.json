@@ -1,0 +1,614 @@
+[
+    {
+        "clave": "71030026",
+        "nombre": "Santa Amalia"
+    },
+    {
+        "clave": "71030063",
+        "nombre": "San Cristóbal"
+    },
+    {
+        "clave": "71030087",
+        "nombre": "Retiro"
+    },
+    {
+        "clave": "71030111",
+        "nombre": "El Portillo"
+    },
+    {
+        "clave": "71030126",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "71030179",
+        "nombre": "Lomas de Chiapas"
+    },
+    {
+        "clave": "71030184",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "71030208",
+        "nombre": "La Perla"
+    },
+    {
+        "clave": "71030216",
+        "nombre": "Cantón el Progreso"
+    },
+    {
+        "clave": "71030217",
+        "nombre": "Nueva Esperanza"
+    },
+    {
+        "clave": "71030001",
+        "nombre": "Tuzantán"
+    },
+    {
+        "clave": "71030002",
+        "nombre": "El Chipilín"
+    },
+    {
+        "clave": "71030004",
+        "nombre": "Francisco Sarabia 1ra. Sección"
+    },
+    {
+        "clave": "71030005",
+        "nombre": "Germania"
+    },
+    {
+        "clave": "71030006",
+        "nombre": "Guadalupe Victoria"
+    },
+    {
+        "clave": "71030008",
+        "nombre": "Cantón el Hular"
+    },
+    {
+        "clave": "71030009",
+        "nombre": "Islamapa"
+    },
+    {
+        "clave": "71030011",
+        "nombre": "Islamapita (Los Cerritos)"
+    },
+    {
+        "clave": "71030012",
+        "nombre": "Manacal"
+    },
+    {
+        "clave": "71030013",
+        "nombre": "El Mango Buenavista"
+    },
+    {
+        "clave": "71030014",
+        "nombre": "Nueva Sonora"
+    },
+    {
+        "clave": "71030015",
+        "nombre": "Nueva Tenochtitlán"
+    },
+    {
+        "clave": "71030019",
+        "nombre": "Puente Regla"
+    },
+    {
+        "clave": "71030020",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "71030022",
+        "nombre": "San Cristóbal"
+    },
+    {
+        "clave": "71030024",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "71030027",
+        "nombre": "Santa Sofía"
+    },
+    {
+        "clave": "71030028",
+        "nombre": "El Tarral"
+    },
+    {
+        "clave": "71030030",
+        "nombre": "Primer Cantón"
+    },
+    {
+        "clave": "71030031",
+        "nombre": "Segundo Cantón"
+    },
+    {
+        "clave": "71030032",
+        "nombre": "Tercer Cantón"
+    },
+    {
+        "clave": "71030033",
+        "nombre": "Cuarto Cantón"
+    },
+    {
+        "clave": "71030035",
+        "nombre": "Villa Hidalgo"
+    },
+    {
+        "clave": "71030036",
+        "nombre": "Xochiltepec"
+    },
+    {
+        "clave": "71030038",
+        "nombre": "Santa Fe"
+    },
+    {
+        "clave": "71030039",
+        "nombre": "Cantón el Vado"
+    },
+    {
+        "clave": "71030040",
+        "nombre": "Chapingo"
+    },
+    {
+        "clave": "71030044",
+        "nombre": "Cantón los Sauces"
+    },
+    {
+        "clave": "71030045",
+        "nombre": "Francisco Sarabia 2da. Sección"
+    },
+    {
+        "clave": "71030047",
+        "nombre": "Cantón Vega de Tepuzapa"
+    },
+    {
+        "clave": "71030052",
+        "nombre": "Guardiania"
+    },
+    {
+        "clave": "71030056",
+        "nombre": "Islamapa Xochiltepec"
+    },
+    {
+        "clave": "71030057",
+        "nombre": "Benito Juárez"
+    },
+    {
+        "clave": "71030061",
+        "nombre": "Puente de Material"
+    },
+    {
+        "clave": "71030081",
+        "nombre": "La Primavera Uno"
+    },
+    {
+        "clave": "71030086",
+        "nombre": "Cantón Río Negro"
+    },
+    {
+        "clave": "71030092",
+        "nombre": "Oliveria"
+    },
+    {
+        "clave": "71030097",
+        "nombre": "San Mateo (Castillo Tielemans)"
+    },
+    {
+        "clave": "71030098",
+        "nombre": "Ninguno"
+    },
+    {
+        "clave": "71030101",
+        "nombre": "Las Rosas"
+    },
+    {
+        "clave": "71030102",
+        "nombre": "Emiliano Zapata"
+    },
+    {
+        "clave": "71030109",
+        "nombre": "La Flor"
+    },
+    {
+        "clave": "71030118",
+        "nombre": "La Sorpresa"
+    },
+    {
+        "clave": "71030119",
+        "nombre": "La Cruz de Oro"
+    },
+    {
+        "clave": "71030158",
+        "nombre": "Las Palmas"
+    },
+    {
+        "clave": "71030172",
+        "nombre": "Cantón los Ángeles"
+    },
+    {
+        "clave": "71030173",
+        "nombre": "Fracción Buenavista"
+    },
+    {
+        "clave": "71030191",
+        "nombre": "El Manzano"
+    },
+    {
+        "clave": "71030200",
+        "nombre": "Rubén Jaramillo"
+    },
+    {
+        "clave": "71030201",
+        "nombre": "La Patria"
+    },
+    {
+        "clave": "71030202",
+        "nombre": "Esquipulas"
+    },
+    {
+        "clave": "71030209",
+        "nombre": "La Soledad"
+    },
+    {
+        "clave": "71030210",
+        "nombre": "Los Rosales"
+    },
+    {
+        "clave": "71030211",
+        "nombre": "Placeres"
+    },
+    {
+        "clave": "71030212",
+        "nombre": "Ricardo Nauman"
+    },
+    {
+        "clave": "71030213",
+        "nombre": "San Lucas Manacal"
+    },
+    {
+        "clave": "71030214",
+        "nombre": "Tercer Cantón la Curva"
+    },
+    {
+        "clave": "71030215",
+        "nombre": "Villa Hidalgo"
+    },
+    {
+        "clave": "71030219",
+        "nombre": "La Floresta"
+    },
+    {
+        "clave": "71030220",
+        "nombre": "Monte los Olivos"
+    },
+    {
+        "clave": "71030221",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "71030223",
+        "nombre": "Los Laureles"
+    },
+    {
+        "clave": "71030225",
+        "nombre": "San Antonio"
+    },
+    {
+        "clave": "71030230",
+        "nombre": "El Mesías"
+    },
+    {
+        "clave": "71030034",
+        "nombre": "Estación Tuzantán"
+    },
+    {
+        "clave": "71030041",
+        "nombre": "Veintinueve de Diciembre"
+    },
+    {
+        "clave": "71030043",
+        "nombre": "Cantón Río Huixtla"
+    },
+    {
+        "clave": "71030046",
+        "nombre": "Medio Día"
+    },
+    {
+        "clave": "71030048",
+        "nombre": "La Ceiba"
+    },
+    {
+        "clave": "71030053",
+        "nombre": "Hannover"
+    },
+    {
+        "clave": "71030062",
+        "nombre": "Rosita"
+    },
+    {
+        "clave": "71030064",
+        "nombre": "San Lucas (Manacal)"
+    },
+    {
+        "clave": "71030082",
+        "nombre": "El Rosario"
+    },
+    {
+        "clave": "71030083",
+        "nombre": "La Cañada"
+    },
+    {
+        "clave": "71030089",
+        "nombre": "Las Vegas (Blanquita)"
+    },
+    {
+        "clave": "71030090",
+        "nombre": "La Primavera"
+    },
+    {
+        "clave": "71030091",
+        "nombre": "Vado Ancho"
+    },
+    {
+        "clave": "71030093",
+        "nombre": "Carmelita"
+    },
+    {
+        "clave": "71030094",
+        "nombre": "La Florentina"
+    },
+    {
+        "clave": "71030095",
+        "nombre": "Villa Hidalgo"
+    },
+    {
+        "clave": "71030096",
+        "nombre": "Las Nubes"
+    },
+    {
+        "clave": "71030100",
+        "nombre": "Los Cervantes"
+    },
+    {
+        "clave": "71030105",
+        "nombre": "San Alberto"
+    },
+    {
+        "clave": "71030106",
+        "nombre": "Islamapa"
+    },
+    {
+        "clave": "71030107",
+        "nombre": "El Vergel"
+    },
+    {
+        "clave": "71030115",
+        "nombre": "La Esmeralda"
+    },
+    {
+        "clave": "71030116",
+        "nombre": "Planta Vieja"
+    },
+    {
+        "clave": "71030117",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "71030121",
+        "nombre": "Indostán Manacal"
+    },
+    {
+        "clave": "71030124",
+        "nombre": "La Florentina"
+    },
+    {
+        "clave": "71030125",
+        "nombre": "El Retiro"
+    },
+    {
+        "clave": "71030130",
+        "nombre": "El Carmen"
+    },
+    {
+        "clave": "71030131",
+        "nombre": "Fortín"
+    },
+    {
+        "clave": "71030132",
+        "nombre": "Monte Moria"
+    },
+    {
+        "clave": "71030133",
+        "nombre": "Las Brisas"
+    },
+    {
+        "clave": "71030139",
+        "nombre": "Rancho Viejo"
+    },
+    {
+        "clave": "71030146",
+        "nombre": "La Paila"
+    },
+    {
+        "clave": "71030147",
+        "nombre": "El Capulín"
+    },
+    {
+        "clave": "71030149",
+        "nombre": "El Relicario"
+    },
+    {
+        "clave": "71030150",
+        "nombre": "El Amatillo"
+    },
+    {
+        "clave": "71030156",
+        "nombre": "Jardín del Edén"
+    },
+    {
+        "clave": "71030159",
+        "nombre": "Los Cinco Mangos"
+    },
+    {
+        "clave": "71030168",
+        "nombre": "Los Ángeles"
+    },
+    {
+        "clave": "71030171",
+        "nombre": "Rancho Alegre"
+    },
+    {
+        "clave": "71030174",
+        "nombre": "Las Bugambilias"
+    },
+    {
+        "clave": "71030176",
+        "nombre": "España Antigua"
+    },
+    {
+        "clave": "71030177",
+        "nombre": "Hermanos Camas"
+    },
+    {
+        "clave": "71030178",
+        "nombre": "Jubileo Dos Mil"
+    },
+    {
+        "clave": "71030180",
+        "nombre": "El Paraíso"
+    },
+    {
+        "clave": "71030181",
+        "nombre": "Peyapsa"
+    },
+    {
+        "clave": "71030182",
+        "nombre": "El Principito"
+    },
+    {
+        "clave": "71030183",
+        "nombre": "Residencia"
+    },
+    {
+        "clave": "71030185",
+        "nombre": "San Miguel"
+    },
+    {
+        "clave": "71030186",
+        "nombre": "El Brincadero"
+    },
+    {
+        "clave": "71030188",
+        "nombre": "Los Claveles"
+    },
+    {
+        "clave": "71030189",
+        "nombre": "David Colmenares"
+    },
+    {
+        "clave": "71030190",
+        "nombre": "David Colmenares"
+    },
+    {
+        "clave": "71030192",
+        "nombre": "Sin Nombre (Hernán Gómez)"
+    },
+    {
+        "clave": "71030193",
+        "nombre": "Jorge Cobos Morales"
+    },
+    {
+        "clave": "71030194",
+        "nombre": "Conrado Polen Esquinca"
+    },
+    {
+        "clave": "71030195",
+        "nombre": "La Unión"
+    },
+    {
+        "clave": "71030196",
+        "nombre": "El Vergelito"
+    },
+    {
+        "clave": "71030197",
+        "nombre": "El Esfuerzo"
+    },
+    {
+        "clave": "71030198",
+        "nombre": "Localidad sin Nombre"
+    },
+    {
+        "clave": "71030199",
+        "nombre": "El Porvenir"
+    },
+    {
+        "clave": "71030203",
+        "nombre": "6 de Abril"
+    },
+    {
+        "clave": "71030204",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "71030205",
+        "nombre": "Indostán Manacal"
+    },
+    {
+        "clave": "71030206",
+        "nombre": "Kalena"
+    },
+    {
+        "clave": "71030207",
+        "nombre": "Adrián"
+    },
+    {
+        "clave": "71030218",
+        "nombre": "San Luis"
+    },
+    {
+        "clave": "71030222",
+        "nombre": "Nueva Victoria"
+    },
+    {
+        "clave": "71030224",
+        "nombre": "Magisterial"
+    },
+    {
+        "clave": "71030226",
+        "nombre": "Lomas del Pedregal"
+    },
+    {
+        "clave": "71030227",
+        "nombre": "Germán"
+    },
+    {
+        "clave": "71030228",
+        "nombre": "Guadalupe"
+    },
+    {
+        "clave": "71030229",
+        "nombre": "Joshua"
+    },
+    {
+        "clave": "71030231",
+        "nombre": "Las Jacarandas"
+    },
+    {
+        "clave": "71030232",
+        "nombre": "Los 2 Hermanos"
+    },
+    {
+        "clave": "71030233",
+        "nombre": "Los Heraldos"
+    },
+    {
+        "clave": "71030234",
+        "nombre": "Buenos Aires"
+    },
+    {
+        "clave": "71030235",
+        "nombre": "Santa Martha"
+    },
+    {
+        "clave": "71030236",
+        "nombre": "Brasilia"
+    }
+]

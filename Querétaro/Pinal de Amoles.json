@@ -1,0 +1,910 @@
+[
+    {
+        "clave": "220020003",
+        "nombre": "Adjunta de Gatos"
+    },
+    {
+        "clave": "220020005",
+        "nombre": "Aguacate de Morelos"
+    },
+    {
+        "clave": "220020019",
+        "nombre": "Cerro del Carmen"
+    },
+    {
+        "clave": "220020020",
+        "nombre": "Carricillo Media Luna"
+    },
+    {
+        "clave": "220020021",
+        "nombre": "El Carrizalito"
+    },
+    {
+        "clave": "220020027",
+        "nombre": "Cuatro Palos"
+    },
+    {
+        "clave": "220020034",
+        "nombre": "Epazotes Grandes"
+    },
+    {
+        "clave": "220020041",
+        "nombre": "Joyas de Bucareli"
+    },
+    {
+        "clave": "220020043",
+        "nombre": "Loma de Guadalupe"
+    },
+    {
+        "clave": "220020046",
+        "nombre": "Llano de San Francisco"
+    },
+    {
+        "clave": "220020052",
+        "nombre": "Medias Coloradas"
+    },
+    {
+        "clave": "220020053",
+        "nombre": "Mesa de Ramírez"
+    },
+    {
+        "clave": "220020058",
+        "nombre": "Otomites"
+    },
+    {
+        "clave": "220020059",
+        "nombre": "Palo Grande"
+    },
+    {
+        "clave": "220020060",
+        "nombre": "Pie de la Cuesta"
+    },
+    {
+        "clave": "220020074",
+        "nombre": "El Rodezno"
+    },
+    {
+        "clave": "220020075",
+        "nombre": "Puerto del Sabino"
+    },
+    {
+        "clave": "220020076",
+        "nombre": "San Antonio del Pelón"
+    },
+    {
+        "clave": "220020078",
+        "nombre": "San José Cochinito"
+    },
+    {
+        "clave": "220020094",
+        "nombre": "La Muñeca"
+    },
+    {
+        "clave": "220020107",
+        "nombre": "El Mastranto"
+    },
+    {
+        "clave": "220020110",
+        "nombre": "El Mezquite"
+    },
+    {
+        "clave": "220020134",
+        "nombre": "La Charca"
+    },
+    {
+        "clave": "220020138",
+        "nombre": "Loma de las Minas"
+    },
+    {
+        "clave": "220020144",
+        "nombre": "El Pedregal"
+    },
+    {
+        "clave": "220020147",
+        "nombre": "La Gallina"
+    },
+    {
+        "clave": "220020165",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "220020167",
+        "nombre": "Hornitos"
+    },
+    {
+        "clave": "220020179",
+        "nombre": "Puerto Hondo"
+    },
+    {
+        "clave": "220020181",
+        "nombre": "Las Escaleras"
+    },
+    {
+        "clave": "220020186",
+        "nombre": "La Sierrita"
+    },
+    {
+        "clave": "220020187",
+        "nombre": "Agua Fría de la Barranca"
+    },
+    {
+        "clave": "220020196",
+        "nombre": "Cruz Verde"
+    },
+    {
+        "clave": "220020197",
+        "nombre": "La Escondida"
+    },
+    {
+        "clave": "220020211",
+        "nombre": "La Joya"
+    },
+    {
+        "clave": "220020227",
+        "nombre": "La Mojonera"
+    },
+    {
+        "clave": "220020239",
+        "nombre": "Mesa Chiquita (Mesa del Comalito)"
+    },
+    {
+        "clave": "220020242",
+        "nombre": "Casa Blanca"
+    },
+    {
+        "clave": "220020243",
+        "nombre": "Cerro del Magueyal"
+    },
+    {
+        "clave": "220020002",
+        "nombre": "Las Adjuntas"
+    },
+    {
+        "clave": "220020004",
+        "nombre": "Agua Amarga"
+    },
+    {
+        "clave": "220020006",
+        "nombre": "Agua del Maíz"
+    },
+    {
+        "clave": "220020007",
+        "nombre": "Agua Enterrada"
+    },
+    {
+        "clave": "220020009",
+        "nombre": "Agua Fría de Gudiño"
+    },
+    {
+        "clave": "220020010",
+        "nombre": "Agua Verde"
+    },
+    {
+        "clave": "220020012",
+        "nombre": "Alejandría de Morelos"
+    },
+    {
+        "clave": "220020013",
+        "nombre": "El Arpa"
+    },
+    {
+        "clave": "220020014",
+        "nombre": "Barranca del Plátano"
+    },
+    {
+        "clave": "220020015",
+        "nombre": "La Barranca"
+    },
+    {
+        "clave": "220020017",
+        "nombre": "Bucareli"
+    },
+    {
+        "clave": "220020018",
+        "nombre": "El Cantón"
+    },
+    {
+        "clave": "220020022",
+        "nombre": "La Cebolla"
+    },
+    {
+        "clave": "220020023",
+        "nombre": "Ciénega de San Juan"
+    },
+    {
+        "clave": "220020024",
+        "nombre": "La Ciénega"
+    },
+    {
+        "clave": "220020025",
+        "nombre": "Coatlán de los Ángeles"
+    },
+    {
+        "clave": "220020026",
+        "nombre": "La Colgada"
+    },
+    {
+        "clave": "220020028",
+        "nombre": "Cuesta Blanca"
+    },
+    {
+        "clave": "220020029",
+        "nombre": "El Chuveje"
+    },
+    {
+        "clave": "220020030",
+        "nombre": "Derramadero de Bucareli"
+    },
+    {
+        "clave": "220020031",
+        "nombre": "Derramadero de Juárez"
+    },
+    {
+        "clave": "220020032",
+        "nombre": "Durazno de San Francisco"
+    },
+    {
+        "clave": "220020033",
+        "nombre": "El Durazno Grande"
+    },
+    {
+        "clave": "220020035",
+        "nombre": "Epazotitos"
+    },
+    {
+        "clave": "220020036",
+        "nombre": "Escanelilla"
+    },
+    {
+        "clave": "220020037",
+        "nombre": "El Gallo"
+    },
+    {
+        "clave": "220020039",
+        "nombre": "Huazquilíco"
+    },
+    {
+        "clave": "220020040",
+        "nombre": "Huilotla"
+    },
+    {
+        "clave": "220020042",
+        "nombre": "Joyas del Real"
+    },
+    {
+        "clave": "220020044",
+        "nombre": "Loma Larga (Santa Cecilia)"
+    },
+    {
+        "clave": "220020047",
+        "nombre": "Maby"
+    },
+    {
+        "clave": "220020049",
+        "nombre": "Maguey Blanco"
+    },
+    {
+        "clave": "220020050",
+        "nombre": "Magueycitos"
+    },
+    {
+        "clave": "220020051",
+        "nombre": "La Meca"
+    },
+    {
+        "clave": "220020054",
+        "nombre": "La Mohonera"
+    },
+    {
+        "clave": "220020055",
+        "nombre": "La Morita"
+    },
+    {
+        "clave": "220020056",
+        "nombre": "El Murciélago"
+    },
+    {
+        "clave": "220020057",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "220020061",
+        "nombre": "El Pilón"
+    },
+    {
+        "clave": "220020062",
+        "nombre": "Los Pinos"
+    },
+    {
+        "clave": "220020063",
+        "nombre": "El Plátano"
+    },
+    {
+        "clave": "220020064",
+        "nombre": "Potrerillos"
+    },
+    {
+        "clave": "220020065",
+        "nombre": "Puerto Colorado"
+    },
+    {
+        "clave": "220020066",
+        "nombre": "Puerto del Derramadero"
+    },
+    {
+        "clave": "220020067",
+        "nombre": "Puerto de Amoles"
+    },
+    {
+        "clave": "220020068",
+        "nombre": "Puerto de Pujunguía"
+    },
+    {
+        "clave": "220020069",
+        "nombre": "Puerto de Escanelilla"
+    },
+    {
+        "clave": "220020070",
+        "nombre": "Quirambal"
+    },
+    {
+        "clave": "220020071",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "220020072",
+        "nombre": "Rancho Nuevo"
+    },
+    {
+        "clave": "220020073",
+        "nombre": "Río Escanela"
+    },
+    {
+        "clave": "220020077",
+        "nombre": "San Gaspar"
+    },
+    {
+        "clave": "220020079",
+        "nombre": "San Pedro Viejo"
+    },
+    {
+        "clave": "220020080",
+        "nombre": "San Pedro Escanela"
+    },
+    {
+        "clave": "220020081",
+        "nombre": "Santa Águeda"
+    },
+    {
+        "clave": "220020082",
+        "nombre": "Sauz de Guadalupe"
+    },
+    {
+        "clave": "220020083",
+        "nombre": "Puerto de Tejamaníl"
+    },
+    {
+        "clave": "220020084",
+        "nombre": "El Timbre de Guadalupe"
+    },
+    {
+        "clave": "220020086",
+        "nombre": "Tonatico"
+    },
+    {
+        "clave": "220020087",
+        "nombre": "Tres Cruces"
+    },
+    {
+        "clave": "220020088",
+        "nombre": "La Yerbabuena"
+    },
+    {
+        "clave": "220020089",
+        "nombre": "El Limón"
+    },
+    {
+        "clave": "220020090",
+        "nombre": "Puerto del Rodezno"
+    },
+    {
+        "clave": "220020091",
+        "nombre": "Puerto de Huilotla"
+    },
+    {
+        "clave": "220020092",
+        "nombre": "Puerto de Vigas"
+    },
+    {
+        "clave": "220020093",
+        "nombre": "El Encino"
+    },
+    {
+        "clave": "220020096",
+        "nombre": "El Tejocote"
+    },
+    {
+        "clave": "220020097",
+        "nombre": "Cuesta de Huazmazontla"
+    },
+    {
+        "clave": "220020098",
+        "nombre": "El Refugio"
+    },
+    {
+        "clave": "220020100",
+        "nombre": "Naranjo de Escanelilla"
+    },
+    {
+        "clave": "220020102",
+        "nombre": "Temazcales"
+    },
+    {
+        "clave": "220020103",
+        "nombre": "La Esperanza"
+    },
+    {
+        "clave": "220020104",
+        "nombre": "La Cañada"
+    },
+    {
+        "clave": "220020108",
+        "nombre": "San Isidro"
+    },
+    {
+        "clave": "220020109",
+        "nombre": "Casas Viejas (Agua Enterrada San Carlos)"
+    },
+    {
+        "clave": "220020114",
+        "nombre": "Agua Fría"
+    },
+    {
+        "clave": "220020115",
+        "nombre": "Aguacate de San Pedro"
+    },
+    {
+        "clave": "220020123",
+        "nombre": "Las Mesas de Santa Inés"
+    },
+    {
+        "clave": "220020125",
+        "nombre": "Las Cruces"
+    },
+    {
+        "clave": "220020126",
+        "nombre": "Puerto de los Velázquez"
+    },
+    {
+        "clave": "220020128",
+        "nombre": "Tierras Coloradas"
+    },
+    {
+        "clave": "220020132",
+        "nombre": "La Barrosa"
+    },
+    {
+        "clave": "220020136",
+        "nombre": "La Joya de Ahuacatlán"
+    },
+    {
+        "clave": "220020137",
+        "nombre": "Carrizal de Adjuntas"
+    },
+    {
+        "clave": "220020139",
+        "nombre": "Puerto de Alejandría"
+    },
+    {
+        "clave": "220020141",
+        "nombre": "Sauz de Arroyo Hondo"
+    },
+    {
+        "clave": "220020142",
+        "nombre": "Arquitos"
+    },
+    {
+        "clave": "220020145",
+        "nombre": "Piedra Grande"
+    },
+    {
+        "clave": "220020150",
+        "nombre": "La Quebradora"
+    },
+    {
+        "clave": "220020151",
+        "nombre": "Encino de Ahuacatlán"
+    },
+    {
+        "clave": "220020152",
+        "nombre": "El Llano de Huazquilíco"
+    },
+    {
+        "clave": "220020154",
+        "nombre": "Puerto del Perico"
+    },
+    {
+        "clave": "220020157",
+        "nombre": "El Cuervo de San Pedro"
+    },
+    {
+        "clave": "220020158",
+        "nombre": "El Salto"
+    },
+    {
+        "clave": "220020159",
+        "nombre": "Cuervo de San Rafael"
+    },
+    {
+        "clave": "220020160",
+        "nombre": "Barrio de la Loma de San Pedro"
+    },
+    {
+        "clave": "220020161",
+        "nombre": "Las Guayabas (El Limón)"
+    },
+    {
+        "clave": "220020162",
+        "nombre": "Las Majaditas"
+    },
+    {
+        "clave": "220020169",
+        "nombre": "El Madroño"
+    },
+    {
+        "clave": "220020171",
+        "nombre": "El Cuervo"
+    },
+    {
+        "clave": "220020172",
+        "nombre": "La Troja"
+    },
+    {
+        "clave": "220020177",
+        "nombre": "Adjuntas de Ahuacatlán"
+    },
+    {
+        "clave": "220020178",
+        "nombre": "Piedra Parada de Santa Rosa"
+    },
+    {
+        "clave": "220020182",
+        "nombre": "Puerto de Tenamaxtle"
+    },
+    {
+        "clave": "220020184",
+        "nombre": "La Mesa"
+    },
+    {
+        "clave": "220020188",
+        "nombre": "Puerto del Oro"
+    },
+    {
+        "clave": "220020191",
+        "nombre": "La Mesa de la Barranca"
+    },
+    {
+        "clave": "220020192",
+        "nombre": "La Loma de la Ciénega"
+    },
+    {
+        "clave": "220020194",
+        "nombre": "La Angostura"
+    },
+    {
+        "clave": "220020198",
+        "nombre": "Puerto Hacienda Vieja"
+    },
+    {
+        "clave": "220020201",
+        "nombre": "Las Mesitas"
+    },
+    {
+        "clave": "220020202",
+        "nombre": "Mesa del Soyatal"
+    },
+    {
+        "clave": "220020207",
+        "nombre": "Puerto Pinto"
+    },
+    {
+        "clave": "220020208",
+        "nombre": "Rancho Nuevo Dos"
+    },
+    {
+        "clave": "220020210",
+        "nombre": "San Martín"
+    },
+    {
+        "clave": "220020212",
+        "nombre": "Mesas de San José"
+    },
+    {
+        "clave": "220020214",
+        "nombre": "El Tambor de Huazquilíco"
+    },
+    {
+        "clave": "220020217",
+        "nombre": "La Cañada"
+    },
+    {
+        "clave": "220020219",
+        "nombre": "La Curva del Chuveje"
+    },
+    {
+        "clave": "220020222",
+        "nombre": "La Joya de Santa Águeda"
+    },
+    {
+        "clave": "220020223",
+        "nombre": "Joyas del Derramadero"
+    },
+    {
+        "clave": "220020224",
+        "nombre": "El Limón de la Cruz"
+    },
+    {
+        "clave": "220020228",
+        "nombre": "Buenavista"
+    },
+    {
+        "clave": "220020234",
+        "nombre": "Curva Colorada"
+    },
+    {
+        "clave": "220020240",
+        "nombre": "El Naranjo"
+    },
+    {
+        "clave": "220020246",
+        "nombre": "Laguna de Pitzquintla"
+    },
+    {
+        "clave": "220020248",
+        "nombre": "Lindero del Tejamanil"
+    },
+    {
+        "clave": "220020249",
+        "nombre": "Loma Alta de Puerto Hondo"
+    },
+    {
+        "clave": "220020250",
+        "nombre": "Manzanillos"
+    },
+    {
+        "clave": "220020252",
+        "nombre": "Puerto Hondo"
+    },
+    {
+        "clave": "220020253",
+        "nombre": "Rincón de Pitzquintla"
+    },
+    {
+        "clave": "220020001",
+        "nombre": "Pinal de Amoles"
+    },
+    {
+        "clave": "220020011",
+        "nombre": "Ahuacatlán de Guadalupe"
+    },
+    {
+        "clave": "220020038",
+        "nombre": "Huajáles"
+    },
+    {
+        "clave": "220020085",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "220020105",
+        "nombre": "Tepozán de Derramadero"
+    },
+    {
+        "clave": "220020112",
+        "nombre": "Cuesta de Santa Florentina"
+    },
+    {
+        "clave": "220020116",
+        "nombre": "El Apartadero"
+    },
+    {
+        "clave": "220020119",
+        "nombre": "La Fábrica"
+    },
+    {
+        "clave": "220020120",
+        "nombre": "La Joya del Leal"
+    },
+    {
+        "clave": "220020122",
+        "nombre": "Mazatiapán"
+    },
+    {
+        "clave": "220020124",
+        "nombre": "Ojo de Agua"
+    },
+    {
+        "clave": "220020131",
+        "nombre": "La Peña Colorada"
+    },
+    {
+        "clave": "220020135",
+        "nombre": "Peña Alta"
+    },
+    {
+        "clave": "220020140",
+        "nombre": "Arroyo Hondo"
+    },
+    {
+        "clave": "220020143",
+        "nombre": "Cuesta Colorada de Huazquilíco"
+    },
+    {
+        "clave": "220020146",
+        "nombre": "El Bernalito"
+    },
+    {
+        "clave": "220020148",
+        "nombre": "Puerto de Tepozán"
+    },
+    {
+        "clave": "220020149",
+        "nombre": "Puerto del Pino (Puerta del Cielo)"
+    },
+    {
+        "clave": "220020153",
+        "nombre": "Puerto del Molino"
+    },
+    {
+        "clave": "220020155",
+        "nombre": "La Dinamita"
+    },
+    {
+        "clave": "220020166",
+        "nombre": "La Cieneguilla"
+    },
+    {
+        "clave": "220020170",
+        "nombre": "Arroyo Hondo de Huilotla"
+    },
+    {
+        "clave": "220020173",
+        "nombre": "El Zarzal"
+    },
+    {
+        "clave": "220020174",
+        "nombre": "El Limón de Bucareli"
+    },
+    {
+        "clave": "220020176",
+        "nombre": "Barbechos"
+    },
+    {
+        "clave": "220020185",
+        "nombre": "Cerro Grande"
+    },
+    {
+        "clave": "220020189",
+        "nombre": "Santa Rita"
+    },
+    {
+        "clave": "220020190",
+        "nombre": "El Tigre"
+    },
+    {
+        "clave": "220020193",
+        "nombre": "Agua Cazuela"
+    },
+    {
+        "clave": "220020195",
+        "nombre": "Apartadero"
+    },
+    {
+        "clave": "220020199",
+        "nombre": "Loma de la Cañada"
+    },
+    {
+        "clave": "220020200",
+        "nombre": "Loma del Revolcadero (La Joya)"
+    },
+    {
+        "clave": "220020204",
+        "nombre": "Cerro de la Pingüica"
+    },
+    {
+        "clave": "220020205",
+        "nombre": "El Puertecito"
+    },
+    {
+        "clave": "220020206",
+        "nombre": "Puerto del Naranjo"
+    },
+    {
+        "clave": "220020209",
+        "nombre": "Las Vegas"
+    },
+    {
+        "clave": "220020213",
+        "nombre": "Huerta Don Manuel (Ojo de Agua)"
+    },
+    {
+        "clave": "220020215",
+        "nombre": "Agua Caliente Chiquita"
+    },
+    {
+        "clave": "220020216",
+        "nombre": "El Cantoncito"
+    },
+    {
+        "clave": "220020218",
+        "nombre": "Los Chotes"
+    },
+    {
+        "clave": "220020220",
+        "nombre": "La Gachupina"
+    },
+    {
+        "clave": "220020221",
+        "nombre": "El Galéme"
+    },
+    {
+        "clave": "220020225",
+        "nombre": "Los Lirios"
+    },
+    {
+        "clave": "220020229",
+        "nombre": "Pueblo Nuevo"
+    },
+    {
+        "clave": "220020230",
+        "nombre": "Puerto Canoas"
+    },
+    {
+        "clave": "220020231",
+        "nombre": "El Ranchito"
+    },
+    {
+        "clave": "220020232",
+        "nombre": "Familia Monroy Ángeles"
+    },
+    {
+        "clave": "220020233",
+        "nombre": "El Soyatal"
+    },
+    {
+        "clave": "220020235",
+        "nombre": "El Llano"
+    },
+    {
+        "clave": "220020236",
+        "nombre": "Familia Gerardo"
+    },
+    {
+        "clave": "220020237",
+        "nombre": "Las Cabañas Cinco Pinos"
+    },
+    {
+        "clave": "220020238",
+        "nombre": "Las Joyas"
+    },
+    {
+        "clave": "220020241",
+        "nombre": "Puerto de los Chinos"
+    },
+    {
+        "clave": "220020244",
+        "nombre": "La Nopalera"
+    },
+    {
+        "clave": "220020245",
+        "nombre": "La Tinaja"
+    },
+    {
+        "clave": "220020247",
+        "nombre": "Las Tinajitas"
+    },
+    {
+        "clave": "220020251",
+        "nombre": "Puerto de los Bueyes"
+    }
+]
