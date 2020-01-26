@@ -73,7 +73,7 @@ El codigo siguiente muestra como puedes iterar cada elemento del JSON.
 De esta forma puedes manipular los datos.
 
 ```
-const México = fs.readFileSync('./México.json');
+const México = JSON.parse(fs.readFileSync('./México.json'));
 
 for (let i = 0; i < México.length; i++) {
   const estado = México[i];
@@ -92,7 +92,7 @@ for (let i = 0; i < México.length; i++) {
 **Imprime todos los datos**
 
 ```
-const México = fs.readFileSync('./México.json');
+const México = JSON.parse(fs.readFileSync('./México.json'));
 
 for (let i = 0; i < México.length; i++) {
   const estado = México[i];
@@ -111,7 +111,7 @@ for (let i = 0; i < México.length; i++) {
 **Elimina las localidades sin nombre**
 
 ```
-const México = fs.readFileSync('./México.json');
+const México = JSON.parse(fs.readFileSync('./México.json'));
 
 for (let i = 0; i < México.length; i++) {
   const estado = México[i];
@@ -140,7 +140,7 @@ for (let i = 0; i < México.length; i++) {
 Yo no conozco alguien que se refiera a `Veracruz de Ignacio de la Llave`, generalmente lo conocemos como `Veracruz`.
 
 ```
-const México = fs.readFileSync('./México.json');
+const México = JSON.parse(fs.readFileSync('./México.json'));
 
 for (let i = 0; i < México.length; i++) {
   const estado = México[i];
