@@ -8,7 +8,7 @@ Con los datos siguientes, pueden evitar excribir el nombre de su localidad (colo
 
 **México.json** es un archivo con el siguiente formato:
 
-```
+```javascript
 [
   { clave, nombre, municipios: [...] }, // Estados
   { clave, nombre, municipios: [...] },
@@ -50,7 +50,7 @@ Cada elemento tiene 2 propiedades comunes:
 
 Pudes usar el siguiente codigo para detectar un parentesis o braquet, y usar el Regex para separarlos.
 
-```
+```javascript
 let nombre, nombre2, descripcion, tmp;
 
 if (localidad.nombre.indexOf('(') != -1) {
@@ -72,7 +72,7 @@ El codigo siguiente muestra como puedes iterar cada elemento del JSON.
 
 De esta forma puedes manipular los datos.
 
-```
+```javascript
 const México = JSON.parse(fs.readFileSync('./México.json'));
 
 for (let i = 0; i < México.length; i++) {
@@ -91,7 +91,7 @@ for (let i = 0; i < México.length; i++) {
 
 **Imprime todos los datos**
 
-```
+```javascript
 const México = JSON.parse(fs.readFileSync('./México.json'));
 
 for (let i = 0; i < México.length; i++) {
@@ -110,7 +110,7 @@ for (let i = 0; i < México.length; i++) {
 
 **Elimina las localidades sin nombre**
 
-```
+```javascript
 const México = JSON.parse(fs.readFileSync('./México.json'));
 
 for (let i = 0; i < México.length; i++) {
@@ -139,7 +139,7 @@ for (let i = 0; i < México.length; i++) {
 
 Yo no conozco alguien que se refiera a `Veracruz de Ignacio de la Llave`, generalmente lo conocemos como `Veracruz`.
 
-```
+```javascript
 const México = JSON.parse(fs.readFileSync('./México.json'));
 
 for (let i = 0; i < México.length; i++) {
